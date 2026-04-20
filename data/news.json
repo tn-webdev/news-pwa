@@ -1,11 +1,17 @@
 {
-  "updatedAt": "2026-04-20T08:26:50.179Z",
+  "updatedAt": "2026-04-20T14:12:33.529Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
+      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week, "
+    },
     {
       "source": "BBC World",
       "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
       "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\"."
+      "summary": "Three boys and five girls, aged between three to 11, were killed in the shooting on Sunday, officials say.   "
     },
     {
       "source": "BBC World",
@@ -14,10 +20,10 @@
       "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February."
     },
     {
-      "source": "BBC World",
-      "title": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
-      "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route."
+      "source": "BBC Technology",
+      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
+      "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The tech aims to identify people's irises and stop the rise of fake accounts and malicious scams."
     },
     {
-      "source": "BBC Technology",
-      "title": "What is Claude Mythos and what risks does it pose?",
-      "url": "https://www.bbc.com/news/articles/crk1py1jgzko?at_medium=RSS&at_campaign=rss",
-      "summary": "The company's claim the AI tool can outperform humans at some hacking and cyber-security tasks has sparked fears in the financial world."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Blue Origin successfully reused its New Glenn rocket",
+        "#text": "The Elden Ring movie hits theaters in March 2028",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "url": "https://www.theverge.com/entertainment/914818/elden-ring-movie-date-cast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Cloud development platform Vercel was hacked",
+        "#text": "Vampire Survivors’ new spinoff switches genres but keeps the good vibes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "url": "https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
+        "#text": "This pasta sauce wants to record your family",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
+      "url": "https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps",
       "summary": "(要約準備中)"
     }
   ]
