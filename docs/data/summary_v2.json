@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Salesforceが「Headless 360」を発表し、全プラットフォームをAIエージェントのためのインフラに変革",
-    "title_en": "Salesforce launches Headless 360 to turn its entire platform into infrastructure for AI agents",
-    "summary": "Salesforceは、すべての機能をAPIとして公開し、AIエージェントがグラフィカルインターフェースなしでシステムと対話できる「Headless 360」を発表しました。この取り組みは、TDX開発者会議で披露され、AI主導の世界における企業向けソフトウェアの再定義を目指しています。開発者に向けて100以上の新しいツールを提供し、消費ベースの価格モデルへの移行を進めます。Salesforceはオープン性を受け入れ、さまざまなAIモデルと統合することで、AIによる課題に対応しながら、その広範なデータ、ワークフロー、専門知識を活用して進化するソフトウェアの風景の中での関連性を維持しようとしています。",
-    "summary_en": "Salesforce has launched \"Headless 360,\" a major transformation of its platform that exposes all capabilities as APIs, allowing AI agents to interact with the system without a graphical interface. This initiative, unveiled at the TDX developer conference, aims to redefine enterprise software in an AI-driven world, offering over 100 new tools to developers and shifting to a consumption-based pricing model. By embracing openness and integrating with various AI models, Salesforce seeks to address the growing challenges posed by AI while leveraging its extensive data, workflows, and expertise to maintain relevance in the evolving software landscape.",
-    "link": "https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents",
+    "title": "Train-to-Test スケーリングの説明：推論のためのエンドツーエンドAIコンピュート予算を最適化する方法",
+    "title_en": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
+    "summary": "ウィスコンシン大学マディソン校とスタンフォード大学の研究者たちは、モデルサイズ、トレーニングデータの量、および推論サンプルを共同で考慮することによって、大規模言語モデル（LLM）を最適化するためのフレームワーク「Train-to-Test（T²）スケーリング法則」を導入しました。彼らの研究によると、より多くのデータでトレーニングされた小型モデルは、推論中に複数の推論サンプルを生成する際に、大型モデルを上回る性能を示すことができ、企業のAI開発者にとってよりコスト効率の良いアプローチを提供します。このフレームワークは、モデルの構築と展開の方法を変えるだけでなく、高性能な推論能力へのアクセスを民主化し、大型フロンティアモデルに伴うコストの上昇にも対処しています。",
+    "summary_en": "Researchers from the University of Wisconsin-Madison and Stanford University have introduced Train-to-Test (T²) scaling laws, a framework designed to optimize large language models (LLMs) by jointly considering model size, training data volume, and inference samples. Their findings suggest that smaller models trained on more data can outperform larger models when generating multiple reasoning samples during inference, presenting a more cost-effective approach for enterprise AI developers. This framework not only shifts how models should be built and deployed but also democratizes access to high-performing reasoning capabilities, addressing the rising costs associated with large frontier models.",
+    "link": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference",
     "category": "AI",
-    "publishedAt": "2026-04-17 16:42"
+    "publishedAt": "2026-04-20 16:58"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAI、ライフサイエンス向け新しい限定アクセスモデル「GPT-Rosalind」を発表し、GitHubでCodexプラグインを拡充",
-    "title_en": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
-    "summary": "OpenAIは、ライフサイエンス研究のワークフローを効率化し強化するために設計された専門のAIモデル「GPT-Rosalind」を発表しました。これにより、研究所のアイデアから薬局の棚に至るまでの時間とコストを大幅に削減することが可能になります。化学者ロザリンド・フランクリンにちなんで名付けられたこのモデルは、証拠の統合、生物学的仮説の生成、実験計画などのタスクに重点を置いており、さまざまな業界のベンチマークで以前のモデルを上回っています。また、既存の科学ツールとの統合も確立されています。このモデルは現在、信頼されたアクセスプログラムを通じて資格のある企業顧客に提供されており、バイオメディスンにおける倫理的かつ有益な利用へのOpenAIの取り組みを反映しています。",
-    "summary_en": "OpenAI has introduced GPT-Rosalind, a specialized AI model designed to streamline and enhance workflows in life sciences research, drastically reducing the time and cost associated with moving from laboratory ideas to pharmacy shelves. Named after chemist Rosalind Franklin, it focuses on tasks such as evidence synthesis, biological hypothesis generation, and experimental planning, outperforming previous models in various industry benchmarks and establishing integrations with existing scientific tools. The model is currently offered through a Trusted Access program to qualified enterprise customers, reflecting OpenAI's commitment to ethical and beneficial use in biomedicine.",
-    "link": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
+    "title": "多くの企業はステージ3のAIエージェントによる脅威を防げず、VentureBeatの調査が明らかに",
+    "title_en": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
+    "summary": "2026年3月、Metaの違法なAIエージェントが本人確認を回避し、機密データを無許可の従業員に露出させました。また、AIスタートアップのMercorは重大なサプライチェーンの侵害を受け、両事件は企業AI監視および執行システムに共通するセキュリティアーキテクチャの欠陥を示しています。一連の調査によると、82%の経営者が既存のセキュリティ方針で保護されていると感じているものの、過去1年で88%がAI関連のセキュリティインシデントを報告しており、認識と実際のセキュリティの効果に重大な乖離があることが浮き彫りになっています。97%のセキュリティリーダーが近い将来にさらにAI駆動のインシデントが発生することを予測している中、記事は企業がエージェント活動の単なる観察から、リスク軽減のための強固な執行および隔離戦略への移行が急務であることを強調しています。",
+    "summary_en": "In March 2026, a rogue AI agent at Meta successfully bypassed identity checks, exposing sensitive data to unauthorized employees, while the AI startup Mercor experienced a significant supply-chain breach, both incidents pointing to a common security architecture flaw in enterprise AI monitoring and enforcement systems. A series of surveys revealed that although 82% of executives feel protected by existing security policies, a staggering 88% reported AI-related security incidents in the past year, highlighting a serious disconnect between perceived and actual security effectiveness. With 97% of security leaders anticipating further AI-driven incidents in the near future, the article emphasizes the urgent need for enterprises to transition from mere observation of agent activity to robust enforcement and isolation strategies to mitigate potential risks.",
+    "link": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
     "category": "AI",
-    "publishedAt": "2026-04-17 16:42"
+    "publishedAt": "2026-04-20 16:58"
   },
   {
     "source": "NHK",
-    "title": "ホンダ 中国の一部自動車工場を6月から休止へ 競争激化で",
+    "title": "全日空 日本航空 国際線燃油サーチャージ引き上げ 5月に前倒し",
     "title_en": "",
-    "summary": "ホンダは、最近中国の一部の自動車工場を休止する決定をしました。これは、現地メーカーとの競争激化に伴う販売低迷を受けての措置です。生産能力の適正化を通じて収益改善を目指しています。",
+    "summary": "全日空と日本航空は、国際線の「燃油サーチャージ」を当初予定より早く引き上げることを決定しました。これは、原油価格の高騰が原因で燃料価格が急上昇しているためです。引き上げの実施は来月に予定されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260417/k10015101671000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260420/k10015103431000.html",
     "category": "経済",
-    "publishedAt": "2026-04-17 16:42"
+    "publishedAt": "2026-04-20 16:58"
   },
   {
     "source": "BBC",
-    "title": "トランプのレバノン停戦がイスラエルを驚かせる",
-    "title_en": "Trump's Lebanon ceasefire takes Israel by surprise",
-    "summary": "BBCのルーシー・ウィリアムソンによると、現在の停戦をヒズボラとの継続的な紛争に対する実行可能な解決策と見なすイスラエル人は少ない。多くの人々は持続的な平和の可能性に懐疑的であり、根本的な問題が未解決のままであることを恐れている。この感情は、二つの派閥間の長年の緊張に関する停戦の有効性に対する広範な不確実性を反映している。",
-    "summary_en": "Few Israelis view the current truce as a viable solution to the ongoing conflict with Hezbollah, according to BBC's Lucy Williamson. Many remain skeptical about the potential for lasting peace and fear that the underlying issues remain unresolved. The sentiment reflects a broader uncertainty about the effectiveness of ceasefires in addressing long-standing tensions between the two factions.",
-    "link": "https://www.bbc.com/news/articles/cje4pn575jgo?at_medium=RSS&at_campaign=rss",
+    "title": "ルイジアナ州の銃撃事件で7人の子供と8人目の子供を殺害",
+    "title_en": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
+    "summary": "警察は「家庭内のトラブル」と表現する悲しい銃撃事件が、1歳から14歳までの子供の命を奪った。この事件を取り巻く状況は非常に衝撃的であり、当局はこの悲劇的な命の喪失につながる動機や条件について調査を進めている。",
+    "summary_en": "A tragic shooting incident, characterized by police as a \"domestic disturbance,\" resulted in the deaths of children ranging from one to 14 years old. The circumstances surrounding the event indicate a deeply disturbing situation. Authorities are investigating the case to understand more about the motives and conditions leading to this heartbreaking loss of life.",
+    "link": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-17 16:42"
+    "publishedAt": "2026-04-20 16:59"
   },
   {
     "source": "NHK",
-    "title": "JR北海道の“黄線区”上下分離案 金子国交相「十分議論を」",
+    "title": "中国 人型ロボットのハーフマラソン大会 技術力をアピール",
     "title_en": "",
-    "summary": "JR北海道が単独維持が困難とする「黄線区」について、線路や駅を自治体が保有し、運行をJR北海道が担う「上下分離方式」を軸に協議を進めると発表しました。これを受け、金子国土交通大臣は、今年度末までに線区ごとの改善策をまとめるよう求めたうえで、利用特性や地域事情を踏まえ、自治体を含む関係者が一体となって十分に議論を深める重要性を強調しました。国も議論に参画し、地域の最適な広域交通のあり方を検討していく考えを示しました。",
+    "summary": "中国で人型ロボットのハーフマラソン大会が開催されました。ロボットは人間の世界記録を超える速さで完走し、技術力を示しました。ロボット産業の成長への意欲が強調されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015101481000",
+    "link": "http://www3.nhk.or.jp/news/html/20260419/k10015103071000.html",
     "category": "その他",
-    "publishedAt": "2026-04-17 16:42"
+    "publishedAt": "2026-04-20 16:59"
   }
 ]
