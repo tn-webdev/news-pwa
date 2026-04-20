@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-19T19:08:59.004Z",
+  "updatedAt": "2026-04-20T03:52:10.552Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US intercepts and seizes Iranian-flagged cargo ship, Trump says",
+      "url": "https://www.bbc.com/news/articles/c239500dx8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran vows retaliation soon for what it calls an \"act of armed piracy\", which comes as the US prepares for a second round of talks."
+    },
     {
       "source": "BBC World",
       "title": "Eight children killed in Louisiana shooting, police say ",
       "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The children, aged from one to 14 years old, were killed in a shooting in Shreveport, Louisiana, which police are describing as a \"domestic disturbance\"."
+      "summary": "The children, aged from one to 14 years old, were killed in a shooting that police are describing as a \"domestic disturbance\"."
     },
     {
       "source": "BBC World",
-      "title": "Ukraine police chief resigns after officers allegedly fled deadly shooting",
-      "url": "https://www.bbc.com/news/articles/c8ejn778j4do?at_medium=RSS&at_campaign=rss",
-      "summary": "Authorities say the officers have been suspended and an investigation into their actions is under way."
-    },
-    {
-      "source": "BBC World",
-      "title": "Rat poison found in HiPP baby food jar in Austria, police say",
-      "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The brand warned on Saturday that consuming the purées may be potentially \"life-threatening\"."
+      "title": "Oil prices rise after Trump says Iranian ship seized",
+      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
+      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Blue Origin successfully reused its New Glenn rocket",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/914729/blue-origin-successfully-reused-its-new-glenn-rocket",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Cloud development platform Vercel was hacked",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/914723/vercel-hacked",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Nothing’s modular CMF Headphone Pro are down to their lowest price to date",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/913989/nothing-cmf-noise-canceling-headphone-pro-spring-sale-deal",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The Stars My Destination is classic proto-cyberpunk",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/914680/the-stars-my-destination-alfred-bester-review-cyberpunk",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Marathon battery life makes Keychron’s Ultra 8K keyboards its best yet",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/914085/keychron-q1-v5-ultra-8k-zmk-mechanical-keyboards-review",
       "summary": "(要約準備中)"
     }
   ]
