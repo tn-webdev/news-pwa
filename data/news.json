@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-04-20T14:12:33.529Z",
+  "updatedAt": "2026-04-20T19:33:24.196Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences."
+    },
+    {
+      "source": "BBC World",
+      "title": "US singer D4vd charged with murder stemming from death of missing teenage girl",
+      "url": "https://www.bbc.com/news/articles/crr1v4gzkvlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say he could face life in prison due to special circumstances surrounding the girl's disappearance and death."
+    },
     {
       "source": "BBC World",
       "title": "Japan on high alert for 'huge' second quake after issuing tsunami warning",
@@ -8,22 +20,10 @@
       "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week, "
     },
     {
-      "source": "BBC World",
-      "title": "Man kills seven of his children, and an eighth child, in Louisiana mass shooting",
-      "url": "https://www.bbc.com/news/articles/c0q9v1p2dd2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Three boys and five girls, aged between three to 11, were killed in the shooting on Sunday, officials say.   "
-    },
-    {
-      "source": "BBC World",
-      "title": "Oil prices rise after Trump says Iranian ship seized",
-      "url": "https://www.bbc.com/news/articles/c5yjzy35825o?at_medium=RSS&at_campaign=rss",
-      "summary": "Energy markets have seen wild swings since the US and Israel attacked Iran on 28 February."
-    },
-    {
       "source": "BBC Technology",
-      "title": "Elon Musk summoned by French prosecutors amid ongoing X probe",
+      "title": "Elon Musk snubs interview summons by French prosecutors amid X probe",
       "url": "https://www.bbc.com/news/articles/crk151nn7j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Whether the tech billionaire will attend the interview requested by Paris prosecutors remains to be seen."
+      "summary": "The Paris prosecutor's office told the BBC it had \"taken note of the absence of the people summoned\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Elden Ring movie hits theaters in March 2028",
+        "#text": "Google Photos adds subtle touch-up tools for faces",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/914818/elden-ring-movie-date-cast",
+      "url": "https://www.theverge.com/tech/915129/google-photos-image-editor-touch-up-whiten-teeth-skin-blemishes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Vampire Survivors’ new spinoff switches genres but keeps the good vibes",
+        "#text": "Insta360 is putting screens on its next wireless mics to show logos or images",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/913410/vampire-survivors-new-spinoff-switches-genres-but-keeps-the-good-vibes",
+      "url": "https://www.theverge.com/tech/914814/insta360-wireless-mic-pro-e-ink-screen-nab-2026-teaser",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This pasta sauce wants to record your family",
+        "#text": "Mercedes’ first all-electric C-Class is its sportiest one yet",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/913874/prego-connection-keeper-bundle-voice-recorder-storycorps",
+      "url": "https://www.theverge.com/transportation/914951/mercedes-benz-c-class-ev-electric-range-specs",
       "summary": "(要約準備中)"
     }
   ]
