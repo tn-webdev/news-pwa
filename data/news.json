@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-04-21T14:08:08.543Z",
+  "updatedAt": "2026-04-21T19:37:17.653Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Iran sees mass redundancies from war with US and Israel",
+      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+      "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes."
+    },
+    {
+      "source": "BBC World",
+      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
+      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says."
+    },
     {
       "source": "BBC World",
       "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
@@ -8,16 +20,10 @@
       "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv."
     },
     {
-      "source": "BBC World",
-      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
-      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
-      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty."
-    },
-    {
-      "source": "BBC World",
-      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
-      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
-      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries."
+      "source": "BBC Technology",
+      "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
+      "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm, co-founded by Sam Altman, said it is \"not responsible\" for the attack at Florida State University"
     },
     {
       "source": "BBC Technology",
@@ -29,39 +35,33 @@
       "source": "BBC Technology",
       "title": "How will Apple change under 'product guy' John Ternus?",
       "url": "https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "As Tim Cook announces his departure from the top job at Apple, these are the key challenges for new boss John Ternus."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
-      "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman."
+      "summary": "How Ternus responds to challenges facing Apple will go a long way to deciding the tech giant's future, writes Zoe Kleinman."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple TV has another busy summer of sci-fi with Silo season 3 in July",
+        "#text": "Tim Cook was an innovator — just not the Jobs kind",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/915640/silo-season-2-apple-tv-date-trailer",
+      "url": "https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Vergecast Vergecast, 2026 edition",
+        "#text": "AI backlash is coming for elections",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast",
+      "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "John Ternus’s first big problem is AI",
+        "#text": "OpenAI’s updated image generator can now pull information from the web",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
       "summary": "(要約準備中)"
     }
   ]
