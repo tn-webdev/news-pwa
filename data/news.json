@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-21T03:45:37.479Z",
+  "updatedAt": "2026-04-21T08:08:19.433Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,27 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Apple names new chief executive to replace Tim Cook",
+      "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
       "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-      "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman."
+      "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman."
     },
     {
       "source": "BBC World",
-      "title": "Canadian killed in shooting at Mexico's ancient Teotihuacán pyramids",
-      "url": "https://www.bbc.com/news/articles/crm1rg3ydkvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several people were also injured in the incident on Monday at the popular tourist site, say Mexican officials, weeks before the country hosts the Fifa World Cup. "
+      "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
+      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
+      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
+      "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman."
     },
     {
       "source": "BBC Technology",
       "title": "The 'dumb machine' promising a clean energy breakthrough",
       "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
       "summary": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?"
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Apple names new chief executive to replace Tim Cook",
-      "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-      "summary": "John Ternus will take over running the technology giant as Cook steps up to become executive chairman."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "PlayStation&#8217;s age-gating restrictions are coming to UK consoles",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Dyson’s back with a travel-size Supersonic hairdryer",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Tim Cook will still be Apple’s Trump whisperer",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The Lenovo Legion Go S is RAMageddon’s latest victim",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/915278/lenovo-legion-go-s-price-hike-discontinued-ramageddon",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "John Ternus is taking over from Tim Cook as Apple&#8217;s CEO",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/915272/apple-john-ternus-tim-cook",
       "summary": "(要約準備中)"
     }
   ]
