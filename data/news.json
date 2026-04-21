@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-04-21T08:08:19.433Z",
+  "updatedAt": "2026-04-21T14:08:08.543Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week."
+      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
+      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
+      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv."
     },
     {
       "source": "BBC World",
+      "title": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty."
+    },
+    {
+      "source": "BBC World",
+      "title": "Japan loosens arms export rules in break from post-WW2 pacifism",
+      "url": "https://www.bbc.com/news/articles/clyx4vlqy4vo?at_medium=RSS&at_campaign=rss",
+      "summary": "This clears the way for Japan to sell weapons to more than a dozen countries."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
+      "url": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
+      "summary": "The popular messaging service told the BBC in a statement it \"categorically denies Ofcom's accusations\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "How will Apple change under 'product guy' John Ternus?",
+      "url": "https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "As Tim Cook announces his departure from the top job at Apple, these are the key challenges for new boss John Ternus."
+    },
+    {
+      "source": "BBC Technology",
       "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
       "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
       "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman."
     },
     {
-      "source": "BBC World",
-      "title": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
-      "url": "https://www.bbc.com/news/articles/czd7m7d699do?at_medium=RSS&at_campaign=rss",
-      "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "New era as Apple names new boss to replace Tim Cook after 15 years",
-      "url": "https://www.bbc.com/news/articles/c1kr19lry18o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ternus will take over running the technology giant in September as Cook steps up to become executive chairman."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "The 'dumb machine' promising a clean energy breakthrough",
-      "url": "https://www.bbc.com/news/articles/c5yvm11xrn6o?at_medium=RSS&at_campaign=rss",
-      "summary": "A stellarator is difficult to build, but could it be the best way to make fusion energy work?"
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Blue Origin rocket grounded after satellite 'mishap'",
-      "url": "https://www.bbc.com/news/articles/cjr9vwz48npo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm founded by Amazon billionaire Jeff Bezos is investigating the failed launch."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "PlayStation&#8217;s age-gating restrictions are coming to UK consoles",
+        "#text": "Apple TV has another busy summer of sci-fi with Silo season 3 in July",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/915448/sony-playstation-age-verification-uk-messaging-voice-chat",
+      "url": "https://www.theverge.com/entertainment/915640/silo-season-2-apple-tv-date-trailer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dyson’s back with a travel-size Supersonic hairdryer",
+        "#text": "The Vergecast Vergecast, 2026 edition",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/915165/dyson-supersonic-travel-hairdryer-gadgets-price",
+      "url": "https://www.theverge.com/podcast/915682/how-the-verge-works-vergecast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tim Cook will still be Apple’s Trump whisperer",
+        "#text": "John Ternus’s first big problem is AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/915422/tim-cook-apple-chairman-trump-policy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/915662/john-ternus-apple-ceo-tim-cook-ai-problem-siri",
       "summary": "(要約準備中)"
     }
   ]
