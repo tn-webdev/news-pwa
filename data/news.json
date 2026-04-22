@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-04-21T19:37:17.653Z",
+  "updatedAt": "2026-04-22T03:42:20.249Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump buys time for Iran deal after frantic day of diplomacy",
+      "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time "
+    },
+    {
+      "source": "BBC World",
+      "title": "Virginia approves redistricting, giving Democrats edge in midterms",
+      "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new maps in Virginia could make it easier for Democrats to take control of the US House of Representatives in November."
+    },
     {
       "source": "BBC World",
       "title": "Iran sees mass redundancies from war with US and Israel",
@@ -8,60 +20,48 @@
       "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes."
     },
     {
-      "source": "BBC World",
-      "title": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says."
-    },
-    {
-      "source": "BBC World",
-      "title": "Zelensky says failure of US envoys to visit Kyiv is 'disrespectful'",
-      "url": "https://www.bbc.com/news/articles/cd9v420y190o?at_medium=RSS&at_campaign=rss",
-      "summary": "US envoy Steve Witkoff and Donald Trump's son-in-law Jared Kushner have travelled to Moscow several times, but never to Kyiv."
+      "source": "BBC Technology",
+      "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
+      "url": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
+      "summary": "The creator of iconic series such as Fable says Masters of Albion will be the last game he makes."
     },
     {
       "source": "BBC Technology",
-      "title": "OpenAI faces criminal probe over role of ChatGPT in shooting",
-      "url": "https://www.bbc.com/news/articles/c62j4ldp2jqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm, co-founded by Sam Altman, said it is \"not responsible\" for the attack at Florida State University"
+      "title": "Meta to track workers' clicks and keystrokes to train AI",
+      "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm will take data from the way employees work for its artificial intelligence models."
     },
     {
       "source": "BBC Technology",
-      "title": "Ofcom investigating Telegram over child sexual abuse material concerns",
-      "url": "https://www.bbc.com/news/articles/c4gxj049wljo?at_medium=RSS&at_campaign=rss",
-      "summary": "The popular messaging service told the BBC in a statement it \"categorically denies Ofcom's accusations\"."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "How will Apple change under 'product guy' John Ternus?",
-      "url": "https://www.bbc.com/news/articles/cn4vkye71ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "How Ternus responds to challenges facing Apple will go a long way to deciding the tech giant's future, writes Zoe Kleinman."
+      "title": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
+      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tim Cook was an innovator — just not the Jobs kind",
+        "#text": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/916172/tim-cook-apple-legacy-supply-chain-ceo",
+      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI backlash is coming for elections",
+        "#text": "We translated the Palantir manifesto for actual human beings",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/916210/ai-midterm-elections-data-centers-jobs",
+      "url": "https://www.theverge.com/policy/915237/palantir-manifesto",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI’s updated image generator can now pull information from the web",
+        "#text": "ISS astronauts are getting new laptops",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/916166/openai-chatgpt-images-2",
+      "url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
       "summary": "(要約準備中)"
     }
   ]
