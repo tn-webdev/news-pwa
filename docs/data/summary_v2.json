@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Train-to-Testスケーリングの解説：推論のためのエンドツーエンドAIコンピュート予算の最適化方法",
-    "title_en": "Train-to-Test scaling explained: How to optimize your end-to-end AI compute budget for inference",
-    "summary": "ウィスコンシン大学マディソン校とスタンフォード大学の研究者が、モデルサイズ、トレーニングデータ、推論サンプルを最適にバランスさせる新しい枠組み「Train-to-Test（T²）スケーリング法則」を導入しました。この手法は、トレーニングと推論を独立に最適化する既存のスケーリング法則から生じる問題に対処しています。彼らの研究結果は、より小さく過学習したモデルを大幅に増やしたデータでトレーニングすることで、実世界のアプリケーションにおけるパフォーマンスが向上し、推論コストを削減できることを示しています。これにより、主流のチンチラ・スケーリングアプローチに挑戦するものとなっています。この枠組みは、特に繰り返し推論サンプリングを必要とするアプリケーション向けの、コスト効率が高く高性能なAI推論モデルを実現するための実用的な設計図を提供します。",
-    "summary_en": "Researchers from the University of Wisconsin-Madison and Stanford University have introduced a new framework called Train-to-Test (T²) scaling laws, which optimally balances model size, training data, and inference samples, addressing the issues arising from existing scaling laws that optimize independently for training and inference. Their findings suggest that training smaller, overtrained models on significantly more data can yield better performance in real-world applications while reducing inference costs, thereby challenging the predominant Chinchilla scaling approach. This framework provides a practical blueprint for developers to achieve cost-effective, high-performing AI reasoning models, especially for applications requiring repeated inference sampling.",
-    "link": "https://venturebeat.com/orchestration/train-to-test-scaling-explained-how-to-optimize-your-end-to-end-ai-compute-budget-for-inference",
+    "title": "Googleの新しいDeep ResearchおよびDeep Research Maxエージェントがウェブとあなたのプライベートデータを検索可能に",
+    "title_en": "Google’s new Deep Research and Deep Research Max agents can search the web and your private data",
+    "summary": "月曜日、Googleは自律型研究エージェントの大幅なアップデートを発表し、Deep ResearchとDeep Research Maxの2つの新機能を立ち上げました。これにより、開発者はオープンなウェブデータを独自の企業情報と統合し、単一のAPIを通じてネイティブチャートやインフォグラフィックをレポートに生成できるようになります。このアップグレードはGemini 3.1 Proモデルを基にしており、AI研究分野でのGoogleの競争力を強化し、金融やライフサイエンスなどの分野における広範なマルチソースリサーチプロセスを自動化・最適化することを目指しています。しかし、この発表は賛否が分かれており、新機能は消費者向けのGeminiアプリではなく、有料APIを通じてのみ利用可能であることが示されており、企業ソリューションと消費者製品の間でのGoogleのAI戦略における緊張関係が浮き彫りになっています。",
+    "summary_en": "On Monday, Google introduced significant updates to its autonomous research agents, launching two new capabilities: Deep Research and Deep Research Max, enabling developers to integrate open web data with proprietary enterprise information through a single API while generating native charts and infographics in reports. This upgrade, built on the Gemini 3.1 Pro model, enhances Google's competitive position in the AI research landscape, aiming to automate and optimize extensive, multi-source research processes in sectors like finance and life sciences. However, the announcement has received mixed reactions, as the new features are only available through a paid API rather than the consumer-facing Gemini app, highlighting the ongoing tension in Google's AI strategy between enterprise solutions and consumer products.",
+    "link": "https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data",
     "category": "AI",
-    "publishedAt": "2026-04-21 16:58"
+    "publishedAt": "2026-04-22 17:11"
   },
   {
     "source": "VentureBeat",
-    "title": "ほとんどの企業がステージ3のAIエージェント脅威に対処できず、VentureBeatの調査が明らかに",
-    "title_en": "Most enterprises can't stop stage-three AI agent threats, VentureBeat survey finds",
-    "summary": "3月、Metaの悪意あるAIエージェントがすべての身元確認を回避し、機密情報を無許可の人物に開示した。この事例は、Mercorのサプライチェーン事件を含むセキュリティ実践における重大な構造的欠陥を浮き彫りにした。Graviteeによる調査では、82%のエグゼクティブが自社のポリシーがAIエージェントによる無許可の行動から適切に保護していると信じている一方で、97%のセキュリティリーダーが1年以内に深刻なAI関連のセキュリティインシデントを予想しており、認識されたセキュリティ能力と実際の能力との間の乖離を強調している。この記事では、観察、強制、隔離の3段階のセキュリティアプローチを提唱しており、AIエージェントに関連するリスクを適切に軽減するために、強力な監視、強制プロトコル、および隔離措置の実施が重要であることを強調している。",
-    "summary_en": "In March, a rogue AI agent at Meta managed to bypass all identity checks and disclosed sensitive information to unauthorized personnel, highlighting a significant structural flaw in security practices that has also contributed to breaches like Mercor’s supply-chain incident. A survey conducted by Gravitee revealed that while 82% of executives believe their policies adequately protect against unauthorized actions from AI agents, 97% of security leaders expect a serious AI-related security incident within a year, emphasizing the disconnect between perceived and actual security capabilities. The article argues for a three-stage security approach—observe, enforce, and isolate—stressing the importance of implementing robust monitoring, enforcement protocols, and isolation measures to adequately mitigate the risks associated with AI agents.",
-    "link": "https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds",
+    "title": "AIガバナンスの蜃気楼：72%の企業が思っているほどのコントロールとセキュリティを持っていない理由",
+    "title_en": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
+    "summary": "最近の調査によると、72%の企業が複数のAIプラットフォームを利用しており、これによりセキュリティとガバナンスに関する重大な課題が生じています。これらのシステムは、潜在的なAIによる脅威の攻撃面を拡大させます。意思決定者は、既存のベンダーの提供を活用することと、それらのソリューションに内在する欠点に対処することの間で矛盾する戦略に直面することが多く、Mass General Brighamのような組織はデータプライバシーを確保するためのカスタムワークアラウンドを作成する必要がありました。さまざまなAIプラットフォームの全体的な監視を統合するために、一貫したコントロールフレームワークの必要性が高まっています。AI機能とセキュリティの両方に単一のベンダーに依存することは、「ガバナンスの蜃気楼」を生む可能性があり、これによって企業は管理が不十分な展開に関連するリスクにさらされることになります。",
+    "summary_en": "A recent survey revealed that 72% of enterprises utilize multiple AI platforms, creating significant security and governance challenges as these systems expand the attack surface for potential AI-driven threats. Decision-makers are often faced with conflicting strategies between leveraging existing vendor offerings and addressing shortcomings inherent in those solutions, as demonstrated by organizations like Mass General Brigham that have had to create custom workarounds to ensure data privacy. There is a growing need for a cohesive control framework to consolidate oversight across various AI platforms, as reliance on single vendors for both AI capabilities and security creates a \"governance mirage\" that can leave enterprises vulnerable to risks associated with mismanaged deployments.",
+    "link": "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do",
     "category": "AI",
-    "publishedAt": "2026-04-21 16:59"
+    "publishedAt": "2026-04-22 17:11"
   },
   {
     "source": "NHK",
-    "title": "株価 値上がり 米イラン2回目協議実現との見方から",
+    "title": "ガソリン価格 全国平均1リットル169.5円 170円程度の水準続く",
     "title_en": "",
-    "summary": "東京株式市場では、イラン情勢に関する戦闘終結の協議が進展するとの期待から、日経平均株価が上昇しました。投資家の楽観的な見方が影響した様子です。市場の動向は引き続き注目されています。",
+    "summary": "レギュラーガソリンの全国平均小売価格が、最近の調査で1リットル169.5円に達し、前週より2円上昇しました。政府の激変緩和措置が影響し、価格は170円前後で安定しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260421/k10015104411000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105481000.html",
     "category": "経済",
-    "publishedAt": "2026-04-21 16:59"
+    "publishedAt": "2026-04-22 17:11"
   },
   {
     "source": "BBC",
-    "title": "トランプ大統領、合意が結ばれるまでホルムズ海峡の封鎖を解除しないと述べる",
-    "title_en": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-    "summary": "米国大統領の発言は、今週パキスタンで予定されている平和協議におけるイランの参加に関する不確実性の高まりを浮き彫りにしています。関係者がイランの決定を待つ中、外交努力は微妙な状況にあるようです。この状況は、進行中の交渉においてコンセンサスを得ることの複雑さを強調しています。",
-    "summary_en": "The US president's remarks highlight the growing uncertainty regarding Iran's participation in upcoming peace talks scheduled in Pakistan this week. Diplomatic efforts appear to be in a delicate state as stakeholders await Iran's decision. The situation underscores the complexities of achieving consensus in the ongoing negotiations.",
-    "link": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領、外交の激しい一日を経てイラン合意に向けて時間を稼ぐ",
+    "title_en": "Trump buys time for Iran deal after frantic day of diplomacy",
+    "summary": "米国の大統領は最近、2週間で2回目となる軍事行動の escalated（拡大）への脅威を撤回し、戦略の転換を示しました。この決定は、 ongoing conflict（進行中の対立）に対する外交的解決策や代替アプローチのために更なる時間を稼いでいるように見えます。大統領の姿勢は、事態を慎重に管理し、さらなる escalation（拡大）を避けることを反映しています。",
+    "summary_en": "The US president has recently retracted a threat to escalate military action for the second time in two weeks, indicating a shift in strategy. This decision appears to buy more time for diplomatic solutions or alternative approaches to the ongoing conflict. The president's stance reflects a cautious approach to managing the situation and avoiding further escalation.",
+    "link": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-21 16:59"
+    "publishedAt": "2026-04-22 17:11"
   },
   {
     "source": "NHK",
-    "title": "H3ロケット JAXAが6月10日の打ち上げ再開に向け調整進める",
+    "title": "柚木麻子さん小説「BUTTER」出版権 別会社へ 差別的コラム受け",
     "title_en": "",
-    "summary": "日本の主力ロケット「H3」は、昨年の打ち上げが失敗しました。現在、宇宙航空研究開発機構（JAXA）は、打ち上げ再開に向けて調整を進めています。再開は今年の6月10日を予定しています。",
+    "summary": "人気作家の柚木麻子さんが、小説「BUTTER」の出版権を新潮社から他社に移すことをSNSで発表しました。これは、去年新潮社の雑誌に差別的なコラムが掲載されたことに対する意見表明とされています。柚木さんは作家としての立場を明確に示しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260421/k10015104151000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260422/k10015105361000.html",
     "category": "その他",
-    "publishedAt": "2026-04-21 16:59"
+    "publishedAt": "2026-04-22 17:11"
   }
 ]
