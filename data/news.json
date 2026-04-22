@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-04-22T08:05:25.930Z",
+  "updatedAt": "2026-04-22T14:09:25.186Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Trump buys time for Iran deal after frantic day of diplomacy",
       "url": "https://www.bbc.com/news/articles/cvg4yr90jr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time "
+      "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time."
     },
     {
       "source": "BBC World",
-      "title": "Phone tracking shows how Colombian mercenaries backed Sudan's RSF - report",
-      "url": "https://www.bbc.com/news/articles/cn4vk13wgwwo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Conflict Insights Group (CIG) says its research also shows the extent of UAE involvement."
+      "title": "EU approves €90bn loan for Ukraine as pipeline is turned on ending deadlock",
+      "url": "https://www.bbc.com/news/articles/cnv8l99r3yyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says it has reopened the Druzhba pipeline, after months of stalemate over stalled oil supplies to neighbouring Hungary."
     },
     {
       "source": "BBC World",
-      "title": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
-      "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats."
+      "title": "Lufthansa cuts 20,000 summer flights as fuel prices surge",
+      "url": "https://www.bbc.com/news/articles/cre1r4n5j5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "The airline is the latest to cut flights as the US-Israel war with Iran sends jet fuel prices soaring."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
+      "url": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&at_campaign=rss",
+      "summary": "New Call of Duty games will be added to the subscription service \"about a year\" after release, Microsoft said."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
+      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "The creator of iconic series such as Fable says Masters of Albion will be the last game he makes."
     },
     {
-      "source": "BBC Technology",
-      "title": "Meta to track workers' clicks and keystrokes to train AI",
-      "url": "https://www.bbc.com/news/articles/cvglyklz49jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm will take data from the way employees work for its artificial intelligence models."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "AI hacking tools like Mythos can be 'net positive' says top cyber official",
-      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of the National Cyber Security Centre says frontier AI tools can be a force for good - if kept out of the wrong hands."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "SpaceX cuts a deal to maybe buy Cursor for $60 billion",
+        "#text": "It’s amazing how good Alienware’s $350 OLED monitor is",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition",
+      "url": "https://www.theverge.com/tech/916277/alienware-aw2726dm-qdoled-gaming-monitor-specs-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "We translated the Palantir manifesto for actual human beings",
+        "#text": "Call of Duty never made much sense for Xbox Game Pass",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/915237/palantir-manifesto",
+      "url": "https://www.theverge.com/games/916627/call-of-duty-xbox-game-pass",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ISS astronauts are getting new laptops",
+        "#text": "BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/916300/nasa-iss-computer-upgrades-hp-zbook-fury-g9",
+      "url": "https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs",
       "summary": "(要約準備中)"
     }
   ]
