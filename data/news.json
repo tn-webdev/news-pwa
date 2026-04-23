@@ -1,29 +1,23 @@
 {
-  "updatedAt": "2026-04-23T03:47:12.296Z",
+  "updatedAt": "2026-04-23T08:10:55.041Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US and Iran in blockade standoff as Pakistan pushes for talks",
-      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension."
+      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
+      "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy."
     },
     {
       "source": "BBC World",
-      "title": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-      "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens."
+      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site."
     },
     {
       "source": "BBC World",
-      "title": "Pope Leo criticises Equatorial Guinea prisons as he winds up Africa tour",
-      "url": "https://www.bbc.com/news/articles/c80m4822m1no?at_medium=RSS&at_campaign=rss",
-      "summary": "The Pope gives a frank and passionate speech, the likes of which have characterised his tour of Africa."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "AI is flattening the jobs market for young people, says Sunak",
-      "url": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former prime minister said graduates' concerns about getting entry-level jobs are justified. "
+      "title": "US Navy chief leaving post 'effective immediately', Pentagon says ",
+      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
+      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months."
     },
     {
       "source": "BBC Technology",
@@ -36,6 +30,21 @@
       "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
       "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
       "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
+      "url": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
+      "summary": "The creator of iconic series such as Fable says Masters of Albion will be the last game he makes."
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Honor’s new phones look like iPhones for Android",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "X is going to let Grok curate your timeline",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/917113/x-ai-grok-timeline-curation",
       "summary": "(要約準備中)"
     }
   ]
