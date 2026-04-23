@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-23T08:10:55.041Z",
+  "updatedAt": "2026-04-23T14:11:27.864Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-      "url": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Middle East conflict is putting pressure on factory orders, costs and jobs in China's export-driven economy."
+      "title": "Trump administration reclassifies cannabis as less dangerous ",
+      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
+      "summary": "Medical marijuana was moved into a lower category of drugs in order to increase research and access."
     },
     {
       "source": "BBC World",
-      "title": "Lebanon accuses Israel of targeting journalist killed in air strike",
-      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site."
+      "title": "In Tehran, money is short and a return to war looms over daily life",
+      "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future. "
     },
     {
       "source": "BBC World",
       "title": "US Navy chief leaving post 'effective immediately', Pentagon says ",
       "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Navy Secretary John Phelan is the latest high-ranking military leader to leave the administration in recent months."
+      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK Biobank health data listed for sale in China, government confirms",
+      "url": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government said medical data of 500,000 people was affected but no personally identifiable information had been made available."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities."
     },
     {
-      "source": "BBC Technology",
-      "title": "UK gaming icon Peter Molyneux on AI, his final creation and a changing industry",
-      "url": "https://www.bbc.com/news/articles/c4glw5nyrggo?at_medium=RSS&at_campaign=rss",
-      "summary": "The creator of iconic series such as Fable says Masters of Albion will be the last game he makes."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Honor’s new phones look like iPhones for Android",
+        "#text": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/917301/honors-new-phones-look-like-iphones-for-android",
+      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Iranian women Trump &#8216;saved&#8217; from execution are simultaneously real and AI-manipulated",
+        "#text": "You’re about to feel the AI money squeeze",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/917180/trump-iran-ai-women-bita-hemmati",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Elon Musk admits that millions of Tesla vehicles won&#8217;t get unsupervised FSD",
+        "#text": "Tim Cook’s departure is the start of a new era at Apple",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/917167/elon-musk-tesla-hw3-fsd",
+      "url": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era",
       "summary": "(要約準備中)"
     }
   ]
