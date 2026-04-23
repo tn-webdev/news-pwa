@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-23T14:11:27.864Z",
+  "updatedAt": "2026-04-23T19:40:35.990Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump administration reclassifies cannabis as less dangerous ",
-      "url": "https://www.bbc.com/news/articles/cdxd0xxp0jko?at_medium=RSS&at_campaign=rss",
-      "summary": "Medical marijuana was moved into a lower category of drugs in order to increase research and access."
+      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM. "
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "US Navy chief leaving post 'effective immediately', Pentagon says ",
-      "url": "https://www.bbc.com/news/articles/ce9ml02g5k7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports say Phelan, whose role was largely administrative, left amid tension over US shipbuilding."
+      "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
+      "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
+      "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta says it will cut 8,000 jobs as AI spending grows",
+      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "New Call of Duty games will be added to the subscription service \"about a year\" after release, Microsoft said."
     },
     {
-      "source": "BBC Technology",
-      "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
-      "url": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI company has said the model is too dangerous to release publicly because of its hacking capabilities."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
+        "#text": "‘We Are Xbox’: read the memo defining Microsoft’s gaming future",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/917029/software-brain-ai-backlash-databases-automation",
+      "url": "https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You’re about to feel the AI money squeeze",
+        "#text": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917380/ai-monetization-anthropic-openai-token-economics-revenue",
+      "url": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tim Cook’s departure is the start of a new era at Apple",
+        "#text": "Democrats want to ban ICE from turning warehouses into detention centers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/916585/tim-cook-apple-new-era",
+      "url": "https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs",
       "summary": "(要約準備中)"
     }
   ]
