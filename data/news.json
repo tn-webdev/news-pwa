@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T14:07:00.509Z",
+  "updatedAt": "2026-04-24T19:13:00.172Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus."
+      "title": "Who is making decisions in Iran?",
+      "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
+      "url": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Passwords have long been the default way we secure accounts online but the NCSC has said passkeys are a better option."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023."
     },
     {
-      "source": "BBC Technology",
-      "title": "White House memo claims mass AI theft by Chinese firms",
-      "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Trump phone still isn’t real",
+        "#text": "BMW is one step closer to selling you a color-changing car",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date",
+      "url": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I don&#8217;t think Gwyneth Paltrow knows what a peptide is",
+        "#text": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides",
+      "url": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A new Republican privacy bill could be ‘worse than no standard at all’",
+        "#text": "The RAM shortage could get even worse if Samsung labor protests cut production",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws",
+      "url": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
       "summary": "(要約準備中)"
     }
   ]
