@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-23T19:40:35.990Z",
+  "updatedAt": "2026-04-24T03:50:56.652Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,59 +9,59 @@
     },
     {
       "source": "BBC World",
-      "title": "In Tehran, money is short and a return to war looms over daily life",
-      "url": "https://www.bbc.com/news/articles/cdrm8k7lzmko?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Lyse Doucet reports from Iran, where the buzz of busy shopping streets masks deep uncertainty over the country's future. "
+      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
+      "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran."
     },
     {
       "source": "BBC World",
-      "title": "Huge chunk of glacier blocks Everest route in peak climbing season",
-      "url": "https://www.bbc.com/news/articles/cy81lrnv5peo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sherpas cannot prepare the route to the world's highest peak because a huge block of ice is in the way. "
+      "title": "Masked Iranian forces appear to seize ships in staged video",
+      "url": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized."
     },
     {
       "source": "BBC Technology",
-      "title": "Meta says it will cut 8,000 jobs as AI spending grows",
+      "title": "White House memo claims mass AI theft by Chinese firms",
+      "url": "https://www.bbc.com/news/articles/cpqxgxx9nrqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "From scientist to silk farmer: India's silk industry renewal",
+      "url": "https://www.bbc.com/news/articles/c0e7le127v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Silk production is an increasingly high-tech business in India. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta says it will cut 8,000 jobs as AI spending soars",
       "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
       "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023."
     },
     {
-      "source": "BBC Technology",
-      "title": "UK Biobank health data listed for sale in China, government confirms",
-      "url": "https://www.bbc.com/news/articles/cpvxgl3n138o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government said medical data of 500,000 people was affected but no personally identifiable information had been made available."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Xbox cuts prices for Game Pass but ends day-one Call of Duty access",
-      "url": "https://www.bbc.com/news/articles/cgrlvvrn409o?at_medium=RSS&at_campaign=rss",
-      "summary": "New Call of Duty games will be added to the subscription service \"about a year\" after release, Microsoft said."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "‘We Are Xbox’: read the memo defining Microsoft’s gaming future",
+        "#text": "US arrests soldier who allegedly made $400K on Maduro Polymarket bets",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/917689/microsoft-xbox-gaming-future-memo-asha-sharma-matt-booty",
+      "url": "https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s new Xbox chief is ‘reevaluating’ exclusive games",
+        "#text": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/917657/microsoft-xbox-exclusive-games-windowing-comments-asha-sharma",
+      "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Democrats want to ban ICE from turning warehouses into detention centers",
+        "#text": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/917643/ban-warehouse-detention-act-ice-dhs",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
       "summary": "(要約準備中)"
     }
   ]
