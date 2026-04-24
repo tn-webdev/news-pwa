@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-24T03:50:56.652Z",
+  "updatedAt": "2026-04-24T08:22:49.943Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "US boards ship carrying Iran oil as Trump threatens mine-laying vessels",
-      "url": "https://www.bbc.com/news/articles/cgldw5ekrjpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Central Command said it has intercepted 33 vessels since imposing a blockade on ships coming to and from Iran."
+      "title": "Epstein housed abuse victims in London flats, BBC reveals",
+      "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims."
     },
     {
       "source": "BBC World",
-      "title": "Masked Iranian forces appear to seize ships in staged video",
-      "url": "https://www.bbc.com/news/videos/cp86g5m8vyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Analysis indicates that parts of the video appear to have been filmed hours after the ships were reportedly seized."
+      "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
+      "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
+      "summary": "William Ruto says Kenyans speak \"some of the best English in the world\" while it is hard to understand Nigerians."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta to cut one in 10 jobs after spending billions on AI",
+      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "Silk production is an increasingly high-tech business in India. "
     },
     {
-      "source": "BBC Technology",
-      "title": "Meta says it will cut 8,000 jobs as AI spending soars",
-      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023."
+      "source": "The Verge",
+      "title": {
+        "#text": "Saros is pure action nirvana",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
       "summary": "(要約準備中)"
     }
   ]
