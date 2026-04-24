@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAI、SlackやSalesforceなどに直接接続できる企業向けのカスタムGPTの後継「Workspace Agents」を発表",
-    "title_en": "OpenAI unveils Workspace Agents, a successor to custom GPTs for enterprises that can plug directly into Slack, Salesforce and more",
-    "summary": "OpenAIは「Workspace Agents」という新しい製品を発表しました。この製品は、企業がさまざまなサードパーティアプリケーションでタスクを実行するAIエージェントを作成・管理できるようにし、Slack、Google Drive、Salesforceなどのツールとシームレスに統合されます。これらのエージェントは、複雑なワークフローを自動化し、時間とともに記憶を保持し、独立して動作するよう設計されています。ユーザーが定義したプロセスに基づいてタスクを実行し、常に人間の監視を必要としない状況を実現します。この取り組みは、従来のカスタムGPTからよりインタラクティブで持続的なAIシステムへの戦略的シフトを示しており、組織の効率性や生産性を大幅に向上させる可能性があります。",
-    "summary_en": "OpenAI has launched a new product called \"Workspace Agents,\" which enables enterprises to create and manage AI agents that can perform tasks across various third-party applications, integrating seamlessly with tools like Slack, Google Drive, and Salesforce. These agents are designed to automate complex workflows, retain memory over time, and operate independently, allowing them to execute tasks based on user-defined processes, thereby alleviating the need for constant human oversight. The initiative represents a strategic shift from traditional custom GPTs to more interactive, persistent AI systems that can significantly enhance organizational efficiency and productivity.",
-    "link": "https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more",
+    "title": "OpenAIがGPT-5.5を発表、AnthropicのClaude Mythos PreviewをTerminal-Bench 2.0でわずかに上回る",
+    "title_en": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
+    "summary": "OpenAIが新たなAI大規模言語モデルGPT-5.5を正式に発表しました。このモデルは前モデルやAnthropic、Googleの競合を上回る性能を謳い、特にコーディングや複雑なタスクに優れています。自律性が向上しており、ユーザーの指示が少なくても複雑な問題に取り組むことができ、さまざまな専門的な状況でも確かなパフォーマンスを発揮します。GPT-5.5のAPIアクセスはまだ利用できませんが、当面は有料のサブスクライバーのみがアクセス可能で、以前のバージョンと比べてコストは大幅に増加していますが、効率も向上しています。",
+    "summary_en": "OpenAI has officially launched GPT-5.5, a powerful new AI large language model, which claims to surpass its predecessors and competitors like Anthropic and Google, particularly excelling in coding and complex tasks. This model features enhanced autonomy, allowing it to tackle intricate problems with less user guidance and perform rigorously in various professional settings. While the API access for GPT-5.5 isn't available yet, the model is initially accessible to paying subscribers, and it is noted for its increased efficiency, albeit at a significantly higher cost compared to earlier versions.",
+    "link": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0",
     "category": "AI",
-    "publishedAt": "2026-04-23 16:44"
+    "publishedAt": "2026-04-24 17:48"
   },
   {
     "source": "VentureBeat",
-    "title": "GoogleとAWS、AIエージェントのスタックを制御と実行に分割",
-    "title_en": "Google and AWS split the AI agent stack between control and execution",
-    "summary": "AIエージェントの管理方法が進化する中、GoogleとAmazon Web Services（AWS）のような企業がマルチエージェントシステムのオーケストレーションに対して対照的な手法を提示しています。GoogleのGemini Enterpriseは、中央集権的な制御システムを用いたガバナンス重視のアプローチを採用し、一方AWSは構成ベースのソリューションによる迅速な展開に焦点を当てています。両社や他の企業からの新しいアップデートを受けて、組織は迅速な実行と効果的な管理のバランスを取りながら、長期間稼働する自律エージェントの信頼性と一貫したパフォーマンスを確保しています。",
-    "summary_en": "The landscape of managing AI agents is evolving as companies like Google and Amazon Web Services (AWS) present contrasting methods for orchestrating multi-agent systems. Google’s Gemini Enterprise adopts a governance-focused approach using a centralized control system, while AWS focuses on rapid deployment through configuration-based solutions. With new updates from both companies and others in the field, organizations are navigating the balance between quicker execution and effective management to ensure reliable and consistent performance of long-running autonomous agents.",
-    "link": "https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution",
+    "title": "AIエージェント同士の対話も実現へ——新興企業BANDが『ユニバーサルオーケストレーター』を発表",
+    "title_en": "Talking to AI agents is one thing — what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
+    "summary": "新興企業BANDは、1700万ドルのシード資金を調達し、生成AI領域における断片化の問題に対処するため、異なるAIエージェント間のコミュニケーションを向上させる『インタラクションインフラストラクチャ』を提供することを目指しています。同社は『エージェンティックメッシュ』と呼ばれる二層アーキテクチャを導入しており、さまざまなフレームワークやクラウド間での信頼性の高い多エージェント通信とガバナンスを促進し、効率的なタスクの委任とコラボレーションを可能にします。特にテクノロジーの進んだ分野でのそのようなオーケストレーションの需要が高まる中、BANDは企業がベンダーロックインを避け、AI駆動のワークフローのスケーラビリティを向上させるための柔軟で独立したミドルウェアとしての位置付けをしています。",
+    "summary_en": "BAND, a new startup that recently raised $17 million in seed funding, aims to address the growing issue of fragmentation in the generative AI landscape by providing an \"interaction infrastructure\" that enables better communication among disparate AI agents. The company offers a two-layer architecture termed the \"agentic mesh,\" which facilitates reliable multi-agent communication and governance across various frameworks and clouds, allowing for efficient task delegation and collaboration. As the demand for such orchestration rises, particularly in tech-forward sectors, BAND positions itself as a flexible, independent middleware that helps enterprises avoid vendor lock-in and enhances the scalability of their AI-driven workflows.",
+    "link": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
     "category": "AI",
-    "publishedAt": "2026-04-23 16:44"
+    "publishedAt": "2026-04-24 17:48"
   },
   {
     "source": "NHK",
-    "title": "株価 6万円の大台初めて突破 その後は売り注文膨らみ値下がり",
+    "title": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
     "title_en": "",
-    "summary": "東京株式市場では、日経平均株価が取引中の最高値を更新し、初めて6万円を超えました。AI関連銘柄への買いが株価を押し上げたものの、イラン情勢への懸念から売りが増え、最終的には値下がりとなりました。市場の動向は高騰と下落が交錯する結果となりました。",
+    "summary": "オンライン会議システム「Zoom」のロゴが、音楽用電子機器メーカー「ズーム」と類似しているとして、商標権侵害を理由に訴えられました。東京地方裁判所は、オンライン会議システムの運営企業などに対し賠償を命じました。賠償金額は1億8000万円余りとなっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106061000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
     "category": "経済",
-    "publishedAt": "2026-04-23 16:44"
+    "publishedAt": "2026-04-24 17:48"
   },
   {
     "source": "BBC",
-    "title": "中国はトランプの関税に耐えたが、イラン戦争が影響を及ぼしている",
-    "title_en": "China weathered Trump's tariffs - but the Iran war is taking a toll",
-    "summary": "進行中の中東の紛争は、中国の輸出主導型経済に影響を与えており、工場の受注に課題を生み出し、コストが増加し、雇用の安定が脅かされています。世界市場からの需要が混乱により変動する中、中国の製造業者は不確実性に直面しています。この状況は、中国の経済成長を阻害し、労働市場に影響を与える可能性があり、世界の出来事が相互に関連していることを示しています。",
-    "summary_en": "The ongoing Middle East conflict is affecting China's export-driven economy by creating challenges around factory orders, increasing costs, and threatening job stability. As demand from global markets fluctuates due to the turmoil, Chinese manufacturers are facing uncertainty. This situation could potentially hinder China's economic growth and affect its labor market, demonstrating the interconnectedness of global events.",
-    "link": "https://www.bbc.com/news/articles/cn0ep28drllo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、BBCに対し国王の訪問が英国との関係修復に「絶対に」役立つ可能性があると語る",
+    "title_en": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
+    "summary": "トランプ大統領はBBCの北米編集者との電話インタビューで、英国への訪問について言及し、英国首相との強い関係を強調しました。旅行に対する期待感を伝え、二国間の結びつきの重要性について話しました。インタビューでは、訪問中に取り上げられると予想される重要なトピックが浮き彫りとなり、両国間の継続的な協力を強調しました。",
+    "summary_en": "In a phone interview with the BBC's North America editor, the president spoke about his upcoming visit to the UK and emphasized the strong relationship he shares with the UK Prime Minister. He conveyed excitement for the trip and discussed the importance of bilateral ties. The conversation highlighted key topics expected to be addressed during the visit, underscoring ongoing collaboration between the two nations.",
+    "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-23 16:44"
+    "publishedAt": "2026-04-24 17:50"
   },
   {
     "source": "NHK",
-    "title": "あのイルカが20年ぶりに復活 生成AIで質問に回答",
+    "title": "ネコの慢性腎臓病 新たな治療薬の製造販売 国に承認申請",
     "title_en": "",
-    "summary": "質問に回答するチャットボットとして知られるイルカのキャラクターが、生成AIを用いた日本語入力ソフトで再登場しました。イルカは以前、パソコンの文書作成ソフトのアシスタントとして人気がありました。今回の復活は、20年ぶりの出来事です。",
+    "summary": "高齢のネコに多い慢性腎臓病について、東京の製薬ベンチャーが新薬を開発しました。新薬は腎臓の機能を維持する効果が確認されています。近日中に国に承認を申請する予定です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260423/k10015106271000.html",
-    "category": "AI",
-    "publishedAt": "2026-04-23 16:44"
+    "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106751000.html",
+    "category": "その他",
+    "publishedAt": "2026-04-24 17:50"
   }
 ]
