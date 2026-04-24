@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-24T08:22:49.943Z",
+  "updatedAt": "2026-04-24T14:07:00.509Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-      "url": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a phone interview with the BBC's North America editor, the president discussed next week's visit and his relationship with the UK PM. "
+      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war."
     },
     {
       "source": "BBC World",
-      "title": "Epstein housed abuse victims in London flats, BBC reveals",
-      "url": "https://www.bbc.com/news/articles/cn08j2g9ze9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The revelations intensify concerns about repeated police decisions not to investigate 2015 trafficking claims."
+      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
+      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
+      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war. "
     },
     {
       "source": "BBC World",
-      "title": "Kenyan leader sparks uproar after  mocking Nigerians' spoken English",
-      "url": "https://www.bbc.com/news/articles/c0ledd82ed0o?at_medium=RSS&at_campaign=rss",
-      "summary": "William Ruto says Kenyans speak \"some of the best English in the world\" while it is hard to understand Nigerians."
+      "title": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
+      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Biobank data incident caused by 'a few bad apples', boss says",
+      "url": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "A memo from Michael Kratsios says firms, mainly in China, are wrongfully distilling US AI models."
     },
     {
-      "source": "BBC Technology",
-      "title": "From scientist to silk farmer: India's silk industry renewal",
-      "url": "https://www.bbc.com/news/articles/c0e7le127v5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Silk production is an increasingly high-tech business in India. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Saros is pure action nirvana",
+        "#text": "The Trump phone still isn’t real",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/917462/saros-review-ps5",
+      "url": "https://www.theverge.com/tech/918011/trump-mobile-t1-phone-real-redesign-release-date",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "US arrests soldier who allegedly made $400K on Maduro Polymarket bets",
+        "#text": "I don&#8217;t think Gwyneth Paltrow knows what a peptide is",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/917910/polymarket-maduro-bets-arrest-van-dyke",
+      "url": "https://www.theverge.com/column/918084/optimizer-gwyneth-paltrow-peptides",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Leak reveals new Xbox Game Pass ‘Starter Edition’ that’s part of Discord Nitro",
+        "#text": "A new Republican privacy bill could be ‘worse than no standard at all’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/917880/xbox-game-pass-starter-edition-discord-nitro-bundle",
+      "url": "https://www.theverge.com/policy/917828/data-privacy-bill-secure-act-house-state-laws",
       "summary": "(要約準備中)"
     }
   ]
