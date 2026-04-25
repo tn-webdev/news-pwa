@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-25T13:39:14.963Z",
+  "updatedAt": "2026-04-25T19:11:58.524Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
       "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years."
+      "summary": "Witnesses report clashes in the centre and north, in what has been described as the largest jihadist attack in years."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part."
+      "title": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+      "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Govee smart lamp brightened up my room, and then my life",
+        "#text": "An influx of used EVs could drive down prices",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
+      "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Xbox’s weirdest studio is on a roll",
+        "#text": "Researchers say we’re talking less than ever",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
+      "url": "https://www.theverge.com/science/918753/researchers-talking-less",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sho Miyake answers life’s greatest questions",
+        "#text": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
+      "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
