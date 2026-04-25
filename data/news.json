@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-25T07:45:32.276Z",
+  "updatedAt": "2026-04-25T13:39:14.963Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war."
+      "title": "Explosions and gunfire as armed groups launch coordinated attacks across Mali",
+      "url": "https://www.bbc.com/news/articles/clyx7nnrkqdo?at_medium=RSS&at_campaign=rss",
+      "summary": "Witnesses report clashes in the centre and north of the country in what has been described as the largest jihadist attack in years."
     },
     {
       "source": "BBC World",
-      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
-      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
-      "summary": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor. "
+      "title": "Seven dead in major Russian attack on Ukraine",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building."
     },
     {
       "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war. "
+      "title": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local elections are held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
+        "#text": "The Govee smart lamp brightened up my room, and then my life",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
+      "url": "https://www.theverge.com/gadgets/913854/govee-uplighter-floor-lamps-caregiving-parkinsons-disease",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Alex Jones has uncovered another massive conspiracy",
+        "#text": "Xbox’s weirdest studio is on a roll",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
+      "url": "https://www.theverge.com/games/918200/kiln-review-double-fine-xbox-ps5-steam",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
+        "#text": "Sho Miyake answers life’s greatest questions",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
+      "url": "https://www.theverge.com/entertainment/918313/director-sho-miyake-interview",
       "summary": "(要約準備中)"
     }
   ]
