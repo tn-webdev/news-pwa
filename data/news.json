@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-24T19:13:00.172Z",
+  "updatedAt": "2026-04-25T03:32:05.534Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump's envoys Witkoff and Kushner to fly to Pakistan for Iran talks",
+      "url": "https://www.bbc.com/news/articles/cy8103xklreo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran says its Foreign Minister Abbas Araghchi is already in Pakistan but that there is no meeting planned between Iran and the US."
+    },
     {
       "source": "BBC World",
       "title": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
@@ -9,15 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
-      "url": "https://www.bbc.com/news/articles/cde51y0zgjyo?at_medium=RSS&at_campaign=rss",
-      "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war. "
+      "title": "Katya Adler: Europe's Nato allies push back at reported US threat to Spain",
+      "url": "https://www.bbc.com/news/articles/cj40r2gw24wo?at_medium=RSS&at_campaign=rss",
+      "summary": "On Friday morning, souring relations between Europe and the United States  reared its Medusa-like head again, writes the BBC's Europe editor. "
     },
     {
-      "source": "BBC World",
-      "title": "Who is making decisions in Iran?",
-      "url": "https://www.bbc.com/news/articles/cm29m732vgno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's new supreme leader is supposed to have the final say, but in practice the picture is far murkier."
+      "source": "BBC Technology",
+      "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
+      "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
+      "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
+      "url": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.\n"
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Passwords have long been the default way we secure accounts online but the NCSC has said passkeys are a better option."
     },
     {
-      "source": "BBC Technology",
-      "title": "Biobank data incident caused by 'a few bad apples', boss says",
-      "url": "https://www.bbc.com/news/articles/clyedyn6pz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Professor Sir Rory Collins said he was \"angry\" and \"upset\" about the incident, as both the bank's boss and a participant."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Meta to cut one in 10 jobs after spending billions on AI",
-      "url": "https://www.bbc.com/news/articles/crm1y89vek8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The cuts, which employees had been expecting for weeks, will be Meta's largest layoff since 2023."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "BMW is one step closer to selling you a color-changing car",
+        "#text": "Microsoft will let you pause Windows Updates indefinitely, 35 days at a time",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918216/bmw-ix3-flow-edition-concept-car-2026-beijing-auto-show-e-ink-color-changing",
+      "url": "https://www.theverge.com/tech/918572/microsoft-windows-updates-pause-35-days",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google’s handsome Pixel Watch 4 is on sale for $40 off in both size configurations",
+        "#text": "Alex Jones has uncovered another massive conspiracy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/917924/google-pixel-watch-4-apple-airpods-deal-sale",
+      "url": "https://www.theverge.com/news/918527/alex-jones-infowars-takeover-the-onion-tim-heidecker",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The RAM shortage could get even worse if Samsung labor protests cut production",
+        "#text": "The person who allegedly leaked Paramount’s new Avatar movie has been arrested",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918301/samsung-south-korea-union-protests",
+      "url": "https://www.theverge.com/entertainment/918250/avatar-aang-the-last-airbender-leaks-arrest-paramount-plus",
       "summary": "(要約準備中)"
     }
   ]
