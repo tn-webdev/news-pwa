@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-04-26T07:54:17.238Z",
+  "updatedAt": "2026-04-26T13:41:00.344Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What it was like in the room as shots rang out at correspondents' dinner",
+      "title": "I was in the room with Trump and heard the low thudding sound of gunfire",
       "url": "https://www.bbc.com/news/articles/c62j23wzeqeo?at_medium=RSS&at_campaign=rss",
       "summary": "The BBC's Gary O'Donoghue describes the moment he and others dived for cover as shots rang out at the venue."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "After three months on Linux, I don’t miss Windows at all",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Trump fires the entire National Science Board",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "An influx of used EVs could drive down prices",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/918765/an-influx-of-used-evs-could-drive-down-prices",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Researchers say we’re talking less than ever",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/science/918753/researchers-talking-less",
       "summary": "(要約準備中)"
     }
   ]
