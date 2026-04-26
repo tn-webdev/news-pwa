@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-25T19:11:58.524Z",
+  "updatedAt": "2026-04-26T03:55:48.033Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump cancels US envoys' trip to Pakistan for talks on Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g6nyvl29po?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran had earlier said there were no plans for a direct meeting with a US delegation led by Steve Witkoff and Jared Kushner."
+    },
     {
       "source": "BBC World",
       "title": "Explosions and gunfire as armed groups launch co-ordinated attacks across Mali",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Seven dead in major Russian attack on Ukraine",
-      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building."
-    },
-    {
-      "source": "BBC World",
       "title": "Mexico says US agents killed in crash weren't permitted to operate there",
       "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
       "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "I brought my husband back for his funeral as a hologram",
+      "url": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
+      "summary": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.\n"
     },
     {
-      "source": "BBC Technology",
-      "title": "UK cyber chiefs say it's time to ditch passwords for passkeys - what are they?",
-      "url": "https://www.bbc.com/news/articles/cq8wnzly5j5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Passwords have long been the default way we secure accounts online but the NCSC has said passkeys are a better option."
+      "source": "The Verge",
+      "title": {
+        "#text": "Trump fires the entire National Science Board",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/science/918753/researchers-talking-less",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Sharge’s fast Qi2.2 MagSafe battery is down to $70 with a free USB-C cable",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/918410/sharge-icemag-3-qi2-usb-c-wireless-power-bank-battery-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
