@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-26T13:41:00.344Z",
+  "updatedAt": "2026-04-26T19:13:45.652Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "After three months on Linux, I don’t miss Windows at all",
+        "#text": "Google’s new gradient icon design is coming to more apps",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918797/switched-to-linux-dont-miss-windows",
+      "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The plan to quietly kill Coyote v. Acme blew up in David Zaslav&#8217;s face",
+        "#text": "Trump turns the WHCD shooting into a pitch for the White House ballroom",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/918079/david-zaslav-warner-bros-discovery-coyote-v-acme-batgirl-tax-writeoffs",
+      "url": "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump fires the entire National Science Board",
+        "#text": "Tomora’s Come Closer is an ecstatic love letter to 90s dance music",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/918769/trump-fires-the-entire-national-science-board",
+      "url": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
       "summary": "(要約準備中)"
     }
   ]
