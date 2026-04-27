@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAIがGPT-5.5を発表、AnthropicのClaude Mythos PreviewをTerminal-Bench 2.0でわずかに上回る",
-    "title_en": "OpenAI's GPT-5.5 is here, and it's no potato: narrowly beats Anthropic's Claude Mythos Preview on Terminal-Bench 2.0",
-    "summary": "OpenAIが新たなAI大規模言語モデルGPT-5.5を正式に発表しました。このモデルは前モデルやAnthropic、Googleの競合を上回る性能を謳い、特にコーディングや複雑なタスクに優れています。自律性が向上しており、ユーザーの指示が少なくても複雑な問題に取り組むことができ、さまざまな専門的な状況でも確かなパフォーマンスを発揮します。GPT-5.5のAPIアクセスはまだ利用できませんが、当面は有料のサブスクライバーのみがアクセス可能で、以前のバージョンと比べてコストは大幅に増加していますが、効率も向上しています。",
-    "summary_en": "OpenAI has officially launched GPT-5.5, a powerful new AI large language model, which claims to surpass its predecessors and competitors like Anthropic and Google, particularly excelling in coding and complex tasks. This model features enhanced autonomy, allowing it to tackle intricate problems with less user guidance and perform rigorously in various professional settings. While the API access for GPT-5.5 isn't available yet, the model is initially accessible to paying subscribers, and it is noted for its increased efficiency, albeit at a significantly higher cost compared to earlier versions.",
-    "link": "https://venturebeat.com/technology/openais-gpt-5-5-is-here-and-its-no-potato-narrowly-beats-anthropics-claude-mythos-preview-on-terminal-bench-2-0",
+    "title": "CVSSが評価した2件のPalo AltoのCVEは管理可能とされている。連鎖的に攻撃者は13,000台のデバイスにルートアクセスを得た。",
+    "title_en": "CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.",
+    "summary": "2024年11月、オペレーション・ルナー・ピーク中に、攻撃者は13,000以上の露出したPalo Alto Networksの管理インターフェースの脆弱性を悪用し、無許可のリモート管理アクセスおよびルートアクセスを取得した。2つの重大な脆弱性、CVE-2024-0012とCVE-2024-9474は、CVSSシステムにおいて異なるスコアが付けられ、脆弱性の優先順位付けにおける不一致が重大なセキュリティ上の見落としにつながる可能性があることが強調された。CVEの件数が劇的に増加する中、セキュリティ専門家は、連鎖的脆弱性の監査、パッチのタイムラインの短縮、脆弱性管理への身分管理の統合など、新しい戦略の導入を提唱し、新たな脅威に効果的に対抗し、リソースの制約に対処する必要性があるとしている。",
+    "summary_en": "In November 2024, during Operation Lunar Peek, attackers exploited vulnerabilities in over 13,000 exposed Palo Alto Networks management interfaces, gaining unauthorized remote admin access and root access. Two critical vulnerabilities, CVE-2024-0012 and CVE-2024-9474, both scored differently across CVSS systems, highlighting a disconnect in vulnerability prioritization that can lead to significant security oversights. As CVEs increase dramatically, security experts advocate for new strategies, such as auditing chained vulnerabilities, compressing patch timelines, and integrating identity controls into vulnerability management, to effectively combat emerging threats and address resource limitations.",
+    "link": "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors",
     "category": "AI",
-    "publishedAt": "2026-04-24 17:48"
+    "publishedAt": "2026-04-27 16:12"
   },
   {
     "source": "VentureBeat",
-    "title": "AIエージェント同士の対話も実現へ——新興企業BANDが『ユニバーサルオーケストレーター』を発表",
-    "title_en": "Talking to AI agents is one thing — what about when they talk to each other? New startup BAND debuts 'universal orchestrator'",
-    "summary": "新興企業BANDは、1700万ドルのシード資金を調達し、生成AI領域における断片化の問題に対処するため、異なるAIエージェント間のコミュニケーションを向上させる『インタラクションインフラストラクチャ』を提供することを目指しています。同社は『エージェンティックメッシュ』と呼ばれる二層アーキテクチャを導入しており、さまざまなフレームワークやクラウド間での信頼性の高い多エージェント通信とガバナンスを促進し、効率的なタスクの委任とコラボレーションを可能にします。特にテクノロジーの進んだ分野でのそのようなオーケストレーションの需要が高まる中、BANDは企業がベンダーロックインを避け、AI駆動のワークフローのスケーラビリティを向上させるための柔軟で独立したミドルウェアとしての位置付けをしています。",
-    "summary_en": "BAND, a new startup that recently raised $17 million in seed funding, aims to address the growing issue of fragmentation in the generative AI landscape by providing an \"interaction infrastructure\" that enables better communication among disparate AI agents. The company offers a two-layer architecture termed the \"agentic mesh,\" which facilitates reliable multi-agent communication and governance across various frameworks and clouds, allowing for efficient task delegation and collaboration. As the demand for such orchestration rises, particularly in tech-forward sectors, BAND positions itself as a flexible, independent middleware that helps enterprises avoid vendor lock-in and enhances the scalability of their AI-driven workflows.",
-    "link": "https://venturebeat.com/orchestration/talking-to-ai-agents-is-one-thing-what-about-when-they-talk-to-each-other-new-startup-band-debuts-universal-orchestrator",
+    "title": "DeepSeek-V4がOpus 4.7およびGPT-5.5の価格の1/6でほぼ最先端の知能を搭載して登場",
+    "title_en": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
+    "summary": "中国のAIスタートアップDeepSeekは、新モデルDeepSeek-V4を発表し、業界に大きな衝撃を与えました。このモデルは1.6兆パラメータを特徴としており、商業的に有利なオープンソースのMITライセンスの下で提供されています。このモデルは、最も先進的なクローズドソースシステムの性能と同等であり、一部のベンチマークではそれを上回る実績を示しています。価格は競合のGPT-5.5やClaude Opus 4.7の約1/6という大幅なコスト削減を実現しています。この発表はAIコミュニティでの興奮を呼び起こし、最前線のAI技術へのアクセスのしやすさを強調するとともに、クローズドソースの提供者に対してそのプレミアム価格戦略の正当性を問うものとなっています。",
+    "summary_en": "DeepSeek, a Chinese AI startup, has made waves in the industry with the release of its new model, DeepSeek-V4, which features 1.6 trillion parameters and is available under a commercially-friendly open-source MIT License. This model not only matches but, in some benchmarks, surpasses the performance of the most advanced closed-source systems at significantly lower costs—approximately one-sixth of the price of competitors like GPT-5.5 and Claude Opus 4.7. The launch has sparked excitement in the AI community, as it reinforces the accessibility of frontier AI technology while challenging closed-source providers to justify their premium pricing strategies.",
+    "link": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5",
     "category": "AI",
-    "publishedAt": "2026-04-24 17:48"
+    "publishedAt": "2026-04-27 16:12"
   },
   {
     "source": "NHK",
-    "title": "会議システム「Zoom」のロゴ使用めぐり運営企業側に賠償命令",
+    "title": "中東での新車販売台数が減少 自動車各社 イラン情勢影響",
     "title_en": "",
-    "summary": "オンライン会議システム「Zoom」のロゴが、音楽用電子機器メーカー「ズーム」と類似しているとして、商標権侵害を理由に訴えられました。東京地方裁判所は、オンライン会議システムの運営企業などに対し賠償を命じました。賠償金額は1億8000万円余りとなっています。",
+    "summary": "最近、主要な自動車メーカーが発表した中東での新車販売台数が大幅に減少しました。多くのメーカーは、イラン情勢の緊迫化が影響していると指摘しています。具体的には、ホルムズ海峡の事実上の封鎖が要因とされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260424/k10015107301000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109301000.html",
     "category": "経済",
-    "publishedAt": "2026-04-24 17:48"
+    "publishedAt": "2026-04-27 16:12"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、BBCに対し国王の訪問が英国との関係修復に「絶対に」役立つ可能性があると語る",
-    "title_en": "Trump tells BBC that King's visit could 'absolutely' help repair relations with UK",
-    "summary": "トランプ大統領はBBCの北米編集者との電話インタビューで、英国への訪問について言及し、英国首相との強い関係を強調しました。旅行に対する期待感を伝え、二国間の結びつきの重要性について話しました。インタビューでは、訪問中に取り上げられると予想される重要なトピックが浮き彫りとなり、両国間の継続的な協力を強調しました。",
-    "summary_en": "In a phone interview with the BBC's North America editor, the president spoke about his upcoming visit to the UK and emphasized the strong relationship he shares with the UK Prime Minister. He conveyed excitement for the trip and discussed the importance of bilateral ties. The conversation highlighted key topics expected to be addressed during the visit, underscoring ongoing collaboration between the two nations.",
-    "link": "https://www.bbc.com/news/articles/cx2wdegnzzjo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、ワシントンのプレスディナー銃撃中に「心配していなかった」と発言",
+    "title_en": "Trump says he 'wasn't worried' during Washington press dinner shooting",
+    "summary": "米国のトッド・ブランシュ副司法長官によると、容疑者はトランプ政権の高官を狙う意図を持っていたことが、当局によって発見された文書に示されています。この明らかになった事実は、政治的に敏感な時期における政府高官への潜在的な脅威に対する懸念を高めています。この調査は、アメリカにおける政治的暴力や過激主義に関連する問題が依然として続いていることを強調しています。",
+    "summary_en": "A suspect expressed intentions to target officials from the Trump administration in writings discovered by authorities, according to acting US Attorney General Todd Blanche. This revelation raises concerns over potential threats to government officials during a politically sensitive period. The investigation underscores ongoing issues related to political violence and extremism in the United States.",
+    "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-24 17:50"
+    "publishedAt": "2026-04-27 16:12"
   },
   {
     "source": "NHK",
-    "title": "ネコの慢性腎臓病 新たな治療薬の製造販売 国に承認申請",
+    "title": "富山 魚津 最高ランクの「しんきろう」 8年ぶりに観測",
     "title_en": "",
-    "summary": "高齢のネコに多い慢性腎臓病について、東京の製薬ベンチャーが新薬を開発しました。新薬は腎臓の機能を維持する効果が確認されています。近日中に国に承認を申請する予定です。",
+    "summary": "富山県魚津市で、長時間にわたり肉眼で確認できる最高ランクのしんきろうが観測されました。これは8年ぶりの出来事です。対岸の景色が変わって見える様子が楽しめる名所となっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260424/k10015106751000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260426/k10015108711000.html",
     "category": "その他",
-    "publishedAt": "2026-04-24 17:50"
+    "publishedAt": "2026-04-27 16:12"
   }
 ]
