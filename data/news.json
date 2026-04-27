@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-27T08:40:29.697Z",
+  "updatedAt": "2026-04-27T14:26:44.809Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Suspected gunman at Washington press dinner identified as 31-year-old Californian",
+      "title": "What we're learning about suspected Washington press dinner gunman",
       "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man arrested at the event attended by President Trump has been named in US media as Cole Tomas Allen from California. "
+      "summary": "The man arrested at the event attended by President Trump is due in court on Monday."
     },
     {
       "source": "BBC World",
-      "title": "Oil prices rise as US-Iran peace talks stall",
-      "url": "https://www.bbc.com/news/articles/c15d57pv925o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump said the US had cancelled plans to send a team to Pakistan for negotiations."
+      "title": "Trump says King will be 'very safe' during US visit after security talks",
+      "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president. "
     },
     {
       "source": "BBC World",
-      "title": "Ukraine's drone commander has Russian oil, troops and morale in his sights",
-      "url": "https://www.bbc.com/news/articles/c1d9wvd2e4ro?at_medium=RSS&at_campaign=rss",
-      "summary": "In a rare interview, Commander Robert Brovdi shared how his unit accounts for a third of all targets destroyed on the battlefield. "
+      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
+      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
+      "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.\n\n"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West."
     },
     {
-      "source": "BBC Technology",
-      "title": "OpenAI boss 'deeply sorry' for not telling police of mass shooting suspect's account",
-      "url": "https://www.bbc.com/news/articles/cq6je7e80r7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sam Altman on Thursday wrote a brief letter of apology to the people of Tumbler Ridge, Canada in the wake of a January mass shooting.\n"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Google’s new gradient icon design is coming to more apps",
+        "#text": "That UL safety logo is a lot more complicated than it looks",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918852/googles-new-gradient-icon-design-is-coming-to-more-apps",
+      "url": "https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump turns the WHCD shooting into a pitch for the White House ballroom",
+        "#text": "Amazon snaps up Oprah Winfrey’s podcast",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/918843/trump-whcd-attack-white-house-ballroom",
+      "url": "https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tomora’s Come Closer is an ecstatic love letter to 90s dance music",
+        "#text": "Govee’s multicolor ceiling light doubles as a low-res screen",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/918826/tomora-come-closer-review-90s-dance-music",
+      "url": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
       "summary": "(要約準備中)"
     }
   ]
