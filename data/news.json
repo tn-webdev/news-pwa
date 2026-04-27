@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-04-27T14:26:44.809Z",
+  "updatedAt": "2026-04-27T19:48:10.454Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "What we're learning about suspected Washington press dinner gunman",
-      "url": "https://www.bbc.com/news/articles/cr717nglye0o?at_medium=RSS&at_campaign=rss",
-      "summary": "The man arrested at the event attended by President Trump is due in court on Monday."
+      "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+      "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\". "
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-      "summary": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed."
+      "title": "Pakistan accused of attacking Afghan university",
+      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
+      "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "That UL safety logo is a lot more complicated than it looks",
+        "#text": "Trump demands ABC fire Jimmy Kimmel",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/918082/ul-testing-fire-safety-ai-standards-jennifer-scanlon",
+      "url": "https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon snaps up Oprah Winfrey’s podcast",
+        "#text": "Google employees ask Sundar Pichai to say no to classified military AI use",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918962/amazon-wondery-oprah-podcast-show",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Govee’s multicolor ceiling light doubles as a low-res screen",
+        "#text": "Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/918165/govee-ceiling-light-ultra-led-pricing-availability",
+      "url": "https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories",
       "summary": "(要約準備中)"
     }
   ]
