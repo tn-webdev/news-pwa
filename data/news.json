@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-27T19:48:10.454Z",
+  "updatedAt": "2026-04-28T04:05:50.476Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Why Spotify has no button to filter out AI music",
+      "url": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
+      "summary": "Music streamer Deezer allows users to filter out AI music, so why does Spotify not offer the same?"
+    },
+    {
+      "source": "BBC Technology",
       "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
       "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
       "summary": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.\n\n"
@@ -32,36 +38,30 @@
       "summary": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral."
     },
     {
-      "source": "BBC Technology",
-      "title": "The viral manifesto of 'anti-woke' tech boss with NHS and defence contracts",
-      "url": "https://www.bbc.com/news/articles/c4gjkj7975po?at_medium=RSS&at_campaign=rss",
-      "summary": "The boss of the controversial tech company with UK government contracts published a 22-point plan on the future of the West."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Trump demands ABC fire Jimmy Kimmel",
+        "#text": "Jury selection in Musk v. Altman: ‘People don’t like him’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/919337/president-trump-jimmy-kimmel-fire-abc",
+      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google employees ask Sundar Pichai to say no to classified military AI use",
+        "#text": "Google is testing AI chatbot search for YouTube",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter",
+      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Conspiracy theories are swirling about the White House Correspondents’ Dinner shooting",
+        "#text": "Canonical lays out a plan for AI in Ubuntu Linux",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/919244/whcd-shooting-trump-social-media-conspiracy-theories",
+      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
       "summary": "(要約準備中)"
     }
   ]
