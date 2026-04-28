@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-04-28T04:05:50.476Z",
+  "updatedAt": "2026-04-28T08:38:44.477Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Melania Trump urges ABC to 'take stand' on Jimmy Kimmel after widow joke",
+      "title": "Suspect charged with attempted assassination of Trump at Washington dinner ",
+      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible."
+    },
+    {
+      "source": "BBC World",
+      "title": "US political violence generates a familiar cycle - this time it's in overdrive",
+      "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
+      "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment."
+    },
+    {
+      "source": "BBC World",
+      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
       "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
       "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\". "
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says King will be 'very safe' during US visit after security talks",
-      "url": "https://www.bbc.com/news/articles/c4gjger58jzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The state visit will go ahead despite concerns raised after a gunman targeted an event attended by the president. "
-    },
-    {
-      "source": "BBC World",
-      "title": "Pakistan accused of attacking Afghan university",
-      "url": "https://www.bbc.com/news/articles/cvg0gxrgklro?at_medium=RSS&at_campaign=rss",
-      "summary": "Air attacks on the province of Kunar have killed at least seven people and injured 75, sources tell the BBC."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Jury selection in Musk v. Altman: ‘People don’t like him’",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Canonical lays out a plan for AI in Ubuntu Linux",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/919411/canonical-ubuntu-linux-ai-features",
       "summary": "(要約準備中)"
     }
   ]
