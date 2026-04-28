@@ -93,6 +93,27 @@ def fetch_rss_ai_multiple(url, max_items=2):
     combined = priority_items + normal_items
     return combined[:max_items]
 
+def deduplicate_articles(entries):
+    seen_links = set()
+    seen_titles = set()
+    unique_entries = []
+    duplicate_count = 0
+
+    for entry in entries:
+        link = (getattr(entry, "link", "") or "").strip()
+        title = (getattr(entry, "title", "") or "").strip()
+
+        if link in seen_links or title in seen_titles:
+            duplicate_count += 1
+            continue
+
+        seen_links.add(link)
+        seen_titles.add(title)
+        unique_entries.append(entry)
+
+    print(f"⚠️ 重複記事を{duplicate_count}件除外しました")
+    return unique_entries
+
 # ********** title・summary抽出 / 要約（約150文字、3文程度） **********
 # 日本語要約
 def summarize(text, title=""):
@@ -308,6 +329,8 @@ def main():
                 print(f"⚠️ {info['source']} のRSSが取得できませんでした。")
                 continue
             entries = [entry]  # ← 1件をリスト化して統一処理にする
+
+        entries = deduplicate_articles(entries)
 
         # --- entriesの共通処理 ---
         for entry in entries:
