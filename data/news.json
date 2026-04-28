@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-04-28T08:38:44.477Z",
+  "updatedAt": "2026-04-28T19:56:19.308Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Suspect charged with attempted assassination of Trump at Washington dinner ",
-      "url": "https://www.bbc.com/news/articles/cew7wez72vxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Investigators say the 31-year-old California man wanted to kill as many high-level officials as possible."
+      "title": "United Arab Emirates to quit oil cartel Opec",
+      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
+      "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel."
     },
     {
       "source": "BBC World",
-      "title": "US political violence generates a familiar cycle - this time it's in overdrive",
-      "url": "https://www.bbc.com/news/articles/cje4eeyq27lo?at_medium=RSS&at_campaign=rss",
-      "summary": "In modern America, it seems violence of this kind has become an ever-present storm that can strike anywhere and at any moment."
+      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+      "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
     },
     {
       "source": "BBC World",
-      "title": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
-      "url": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a parody aired days before the White House Correspondents' Dinner, Kimmel called Melania an \"expectant widow\". "
+      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
+      "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets."
     },
     {
       "source": "BBC Technology",
-      "title": "Why Spotify has no button to filter out AI music",
-      "url": "https://www.bbc.com/news/articles/cd7jpg4w181o?at_medium=RSS&at_campaign=rss",
-      "summary": "Music streamer Deezer allows users to filter out AI music, so why does Spotify not offer the same?"
+      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
+      "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom."
     },
     {
       "source": "BBC Technology",
-      "title": "China blocks Meta's $2bn acquisition of AI start-up Manus",
-      "url": "https://www.bbc.com/news/articles/cj0v0gr2yz7o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after months of scrutiny by Chinese regulators over deal struck with Facebook owner.\n\n"
+      "title": "Social media restrictions for under-16s even if no ban, minister says",
+      "url": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
+      "summary": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages."
     },
     {
       "source": "BBC Technology",
-      "title": "I brought my husband back for his funeral as a hologram",
-      "url": "https://www.bbc.com/news/articles/cm29qj3e294o?at_medium=RSS&at_campaign=rss",
-      "summary": "After nearly 60 years of marriage, Pam wanted to honour her husband Bill with a hologram at his funeral."
+      "title": "Valve's £85 Steam Controller divides gamers ahead of May launch",
+      "url": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The pad will be compatible with PCs, Valve's handheld console, the Steam Deck as well as its upcoming gaming PC.\n"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft Office can now be controlled with Logitech’s MX Creative Console",
+        "#text": "Now YouTube TV lets you multiview any channel you want",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/919165/logitech-mx-ecosystem-creative-console-productivity-plugins-microsoft-office-slack-notion",
+      "url": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Jury selection in Musk v. Altman: ‘People don’t like him’",
+        "#text": "The FCC is going after the broadcast licenses of Disney-owned ABC stations",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/919469/elon-musk-dont-like",
+      "url": "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google is testing AI chatbot search for YouTube",
+        "#text": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "summary": "(要約準備中)"
     }
   ]
