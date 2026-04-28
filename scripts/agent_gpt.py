@@ -101,17 +101,28 @@ def deduplicate_articles(entries):
 
     for entry in entries:
         link = (getattr(entry, "link", "") or "").strip()
-        title = (getattr(entry, "title", "") or "").strip()
+        title = (getattr(entry, "title", "") or "").strip().lower()
 
-        if link in seen_links or title in seen_titles:
+        # URLで重複判定（空は無視）
+        if link and link in seen_links:
             duplicate_count += 1
             continue
 
-        seen_links.add(link)
-        seen_titles.add(title)
+        # titleで重複判定（空は無視）
+        if title and title in seen_titles:
+            duplicate_count += 1
+            continue
+
+        if link:
+            seen_links.add(link)
+        if title:
+            seen_titles.add(title)
+        
         unique_entries.append(entry)
 
-    print(f"⚠️ 重複記事を{duplicate_count}件除外しました")
+    if duplicate_count > 0:
+        print(f"⚠️ 重複記事を{duplicate_count}件除外しました")
+    
     return unique_entries
 
 # ********** title・summary抽出 / 要約（約150文字、3文程度） **********

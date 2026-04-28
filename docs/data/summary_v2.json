@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "CVSSが評価した2件のPalo AltoのCVEは管理可能とされている。連鎖的に攻撃者は13,000台のデバイスにルートアクセスを得た。",
-    "title_en": "CVSS scored these two Palo Alto CVEs as manageable. Chained, they gave attackers root access to 13,000 devices.",
-    "summary": "2024年11月、オペレーション・ルナー・ピーク中に、攻撃者は13,000以上の露出したPalo Alto Networksの管理インターフェースの脆弱性を悪用し、無許可のリモート管理アクセスおよびルートアクセスを取得した。2つの重大な脆弱性、CVE-2024-0012とCVE-2024-9474は、CVSSシステムにおいて異なるスコアが付けられ、脆弱性の優先順位付けにおける不一致が重大なセキュリティ上の見落としにつながる可能性があることが強調された。CVEの件数が劇的に増加する中、セキュリティ専門家は、連鎖的脆弱性の監査、パッチのタイムラインの短縮、脆弱性管理への身分管理の統合など、新しい戦略の導入を提唱し、新たな脅威に効果的に対抗し、リソースの制約に対処する必要性があるとしている。",
-    "summary_en": "In November 2024, during Operation Lunar Peek, attackers exploited vulnerabilities in over 13,000 exposed Palo Alto Networks management interfaces, gaining unauthorized remote admin access and root access. Two critical vulnerabilities, CVE-2024-0012 and CVE-2024-9474, both scored differently across CVSS systems, highlighting a disconnect in vulnerability prioritization that can lead to significant security oversights. As CVEs increase dramatically, security experts advocate for new strategies, such as auditing chained vulnerabilities, compressing patch timelines, and integrating identity controls into vulnerability management, to effectively combat emerging threats and address resource limitations.",
-    "link": "https://venturebeat.com/security/cvss-triage-failure-chained-vulnerability-audit-security-directors",
+    "title": "マイクロソフトとオープンAI、独占契約を解除し、オープンAIがAWSやGoogle Cloudでの販売を自由に行えるように",
+    "title_en": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
+    "summary": "マイクロソフトとオープンAIは最近、パートナーシップの大規模な再構築を発表し、厳密な独占契約からより柔軟で期間限定の取り決めに移行しました。この新しい契約により、マイクロソフトのオープンAIへの収益分配支払いが排除され、オープンAIはアマゾンウェブサービスやGoogle Cloudといった競合他社を含むさまざまなクラウドプラットフォームで製品を配布できるようになります。この変化は、アマゾンからの大規模な投資によって以前の契約条件に挑戦があったことから生じたもので、AI業界のダイナミクスにおける変革とオープンAIの新たな独立性を示しています。",
+    "summary_en": "Microsoft and OpenAI recently announced a significant restructuring of their partnership, moving away from a tightly bound exclusive agreement to a more flexible, time-limited arrangement that allows both companies to explore competitive relationships. The new deal eliminates Microsoft’s revenue-sharing payments to OpenAI and permits OpenAI to distribute its products across various cloud platforms, including rivals like Amazon Web Services and Google Cloud, thus ending the exclusivity that defined their prior agreement. This shift comes after tensions arose, notably due to a massive investment from Amazon which challenged the previous contract terms, signaling a transformative change in the dynamics of the AI industry and a newfound independence for OpenAI.",
+    "link": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
     "category": "AI",
-    "publishedAt": "2026-04-27 16:12"
+    "publishedAt": "2026-04-28 16:42"
   },
   {
     "source": "VentureBeat",
-    "title": "DeepSeek-V4がOpus 4.7およびGPT-5.5の価格の1/6でほぼ最先端の知能を搭載して登場",
-    "title_en": "DeepSeek-V4 arrives with near state-of-the-art intelligence at 1/6th the cost of Opus 4.7, GPT-5.5",
-    "summary": "中国のAIスタートアップDeepSeekは、新モデルDeepSeek-V4を発表し、業界に大きな衝撃を与えました。このモデルは1.6兆パラメータを特徴としており、商業的に有利なオープンソースのMITライセンスの下で提供されています。このモデルは、最も先進的なクローズドソースシステムの性能と同等であり、一部のベンチマークではそれを上回る実績を示しています。価格は競合のGPT-5.5やClaude Opus 4.7の約1/6という大幅なコスト削減を実現しています。この発表はAIコミュニティでの興奮を呼び起こし、最前線のAI技術へのアクセスのしやすさを強調するとともに、クローズドソースの提供者に対してそのプレミアム価格戦略の正当性を問うものとなっています。",
-    "summary_en": "DeepSeek, a Chinese AI startup, has made waves in the industry with the release of its new model, DeepSeek-V4, which features 1.6 trillion parameters and is available under a commercially-friendly open-source MIT License. This model not only matches but, in some benchmarks, surpasses the performance of the most advanced closed-source systems at significantly lower costs—approximately one-sixth of the price of competitors like GPT-5.5 and Claude Opus 4.7. The launch has sparked excitement in the AI community, as it reinforces the accessibility of frontier AI technology while challenging closed-source providers to justify their premium pricing strategies.",
-    "link": "https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5",
+    "title": "オープンソースのXiaomi MiMo-V2.5およびV2.5-Proがエージェントタスクにおいて最も効率的（かつ手頃）な選択肢に",
+    "title_en": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
+    "summary": "Xiaomiは最近、オープンソースのAI大規模言語モデルであるMiMo-V2.5およびMiMo-V2.5-Proを発表しました。これらは共に許可されたMITライセンスの下でライセンスされており、商業アプリケーションでの利用が可能です。特にエージェントタスクにおいて効率的で、Proモデルは競合のOpenAIやGoogleよりもはるかに少ないトークンを消費しながら、 notableな成功率を誇ります。このため、コスト削減を目指す企業にとって魅力的な選択肢となります。Xiaomiのオープンソースソフトウェアと関連する金銭的インセンティブへの取り組みは、開発者コミュニティの革新と成長を促進し、AI分野における強力なプレイヤーとしての地位を確立しようとしています。",
+    "summary_en": "Xiaomi has recently released two powerful and affordable open-source AI large language models, MiMo-V2.5 and MiMo-V2.5-Pro, both licensed under the permissive MIT License, facilitating their use in commercial applications. These models are particularly efficient for agentic tasks, with the Pro model achieving a notable success rate while consuming significantly fewer tokens than competitors like OpenAI and Google, making them an attractive option for enterprises looking to reduce costs in a changing AI economic landscape. The company's commitment to open-source software and associated financial incentives aim to foster innovation and growth in the developer community, positioning Xiaomi as a formidable player in the AI space.",
+    "link": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
     "category": "AI",
-    "publishedAt": "2026-04-27 16:12"
+    "publishedAt": "2026-04-28 16:42"
   },
   {
     "source": "NHK",
-    "title": "中東での新車販売台数が減少 自動車各社 イラン情勢影響",
+    "title": "株価 終値6万円割れ 日銀の追加利上げ意識される",
     "title_en": "",
-    "summary": "最近、主要な自動車メーカーが発表した中東での新車販売台数が大幅に減少しました。多くのメーカーは、イラン情勢の緊迫化が影響していると指摘しています。具体的には、ホルムズ海峡の事実上の封鎖が要因とされています。",
+    "summary": "最近の東京株式市場では、半導体や電子部品関連の銘柄に売り注文が集中しました。これにより、日経平均株価は値下がりし、終値は6万円を下回りました。この動きは、先行きへの懸念を反映していると見られています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260427/k10015109301000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109931000.html",
     "category": "経済",
-    "publishedAt": "2026-04-27 16:12"
+    "publishedAt": "2026-04-28 16:42"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、ワシントンのプレスディナー銃撃中に「心配していなかった」と発言",
-    "title_en": "Trump says he 'wasn't worried' during Washington press dinner shooting",
-    "summary": "米国のトッド・ブランシュ副司法長官によると、容疑者はトランプ政権の高官を狙う意図を持っていたことが、当局によって発見された文書に示されています。この明らかになった事実は、政治的に敏感な時期における政府高官への潜在的な脅威に対する懸念を高めています。この調査は、アメリカにおける政治的暴力や過激主義に関連する問題が依然として続いていることを強調しています。",
-    "summary_en": "A suspect expressed intentions to target officials from the Trump administration in writings discovered by authorities, according to acting US Attorney General Todd Blanche. This revelation raises concerns over potential threats to government officials during a politically sensitive period. The investigation underscores ongoing issues related to political violence and extremism in the United States.",
-    "link": "https://www.bbc.com/news/articles/c2d8dg57rzdo?at_medium=RSS&at_campaign=rss",
+    "title": "ジミー・キンメル、メラニア・トランプ未亡人ジョークに対するホワイトハウスの批判を拒否",
+    "title_en": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
+    "summary": "ホワイトハウス記者団ディナーの直前に放送されたパロディーで、コメディアンのジミー・キンメルはメラニア・トランプを「妊娠中の未亡人」と冗談交じりに言及しました。このジョークはトランプ政権を巡る緊張と論争を浮き彫りにしています。キンメルのコメントは、メディアにおける政治家の風刺や批判の流れに寄与しています。",
+    "summary_en": "In a parody aired shortly before the White House Correspondents' Dinner, comedian Jimmy Kimmel humorously referred to Melania Trump as an \"expectant widow.\" This joke highlights the tensions and controversies surrounding the Trump administration. Kimmel's comments contribute to the ongoing satire and critique of political figures in the media.",
+    "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-27 16:12"
+    "publishedAt": "2026-04-28 16:43"
   },
   {
     "source": "NHK",
-    "title": "“ナフサ供給不安”企業の44％「すでに影響」 生団連調べ",
+    "title": "出光興産 ベトナムに原油供給へ 供給網の維持につながるか",
     "title_en": "",
-    "summary": "食品・小売りなどの企業が加盟する生団連は、イラン情勢の影響でプラスチック原料「ナフサ」の供給不安が広がっているとして緊急調査を実施しました。658社中102社が回答し、44.1％が「すでに影響が出ている」と回答しました。今後3か月以内に影響が出るとする企業は31.4％、1年以内は14.7％でした。一方、影響は不明・なしは16.7％でした。対応策では「値上げ」が72.5％と最多で、「供給制限」や「仕様見直し」も多く挙げられました。生団連は政府に対し、安定供給と需給情報の発信強化を求めました。",
+    "summary": "ホルムズ海峡の事実上の封鎖を受け、アジア各国で原油供給への懸念が高まっています。出光興産は、同海峡を通らないルートで調達した中東産原油約400万バレルを、出資先であるベトナム北部の製油所へ供給する方針です。これは同国の約10日分の消費量に相当し、燃料や樹脂原料などに精製されます。これらは自動車部品や家電製品の生産に使われ、日本にも輸出されています。中東依存度の高いベトナムでは供給不安の影響が出ており、今回の対応がサプライチェーン維持につながるかが注目されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015109291000",
+    "link": "https://news.web.nhk/newsweb/na/na-k10015110261000",
     "category": "その他",
-    "publishedAt": "2026-04-27 16:12"
+    "publishedAt": "2026-04-28 16:43"
   }
 ]
