@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-29T04:02:49.329Z",
+  "updatedAt": "2026-04-29T08:33:26.579Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Five takeaways from the King's historic address to Congress",
+      "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
+      "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House."
+    },
     {
       "source": "BBC World",
       "title": "Comey charged with threatening Trump's life in Instagram post",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "United Arab Emirates to quit oil cartel Opec",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel."
-    },
-    {
-      "source": "BBC World",
-      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
-      "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
+      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
+      "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "It will have little effect on the current oil blockades, but it could change everything afterwards."
     },
     {
       "source": "BBC Technology",
