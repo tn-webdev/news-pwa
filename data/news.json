@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-28T19:56:19.308Z",
+  "updatedAt": "2026-04-29T04:02:49.329Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Comey charged with threatening Trump's life in Instagram post",
+      "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.\n"
+    },
     {
       "source": "BBC World",
       "title": "United Arab Emirates to quit oil cartel Opec",
@@ -14,10 +20,10 @@
       "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
     },
     {
-      "source": "BBC World",
-      "title": "Third Ukrainian strike hits Russian oil refinery and prompts evacuations",
-      "url": "https://www.bbc.com/news/articles/cvgzd4qk7qgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents near a burning refinery in Tuapse are told to leave, and the Kremlin accuses Kyiv of destabilising global energy markets."
+      "source": "BBC Technology",
+      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+      "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages."
     },
     {
-      "source": "BBC Technology",
-      "title": "Valve's £85 Steam Controller divides gamers ahead of May launch",
-      "url": "https://www.bbc.com/news/articles/cp8486w7de8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The pad will be compatible with PCs, Valve's handheld console, the Steam Deck as well as its upcoming gaming PC.\n"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Now YouTube TV lets you multiview any channel you want",
+        "#text": "It’s primetime for conspiracy theorist video creators",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/919958/youtube-tv-custom-multiview-channel",
+      "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The FCC is going after the broadcast licenses of Disney-owned ABC stations",
+        "#text": "Elon Musk appeared more petty than prepared",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/919739/fcc-disney-abc-broadcast-licenses-threat",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+        "#text": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "url": "https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump",
       "summary": "(要約準備中)"
     }
   ]
