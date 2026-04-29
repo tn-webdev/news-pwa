@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-29T08:33:26.579Z",
+  "updatedAt": "2026-04-29T14:30:38.718Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
+      "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation."
+    },
     {
       "source": "BBC World",
       "title": "Five takeaways from the King's historic address to Congress",
@@ -14,14 +20,8 @@
       "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.\n"
     },
     {
-      "source": "BBC World",
-      "title": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
-      "url": "https://www.bbc.com/news/articles/cj4pxyklw1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "It will have little effect on the current oil blockades, but it could change everything afterwards."
-    },
-    {
       "source": "BBC Technology",
-      "title": "Musk says basis of charitable giving at stake in OpenAI lawsuit",
+      "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
       "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
       "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "It’s primetime for conspiracy theorist video creators",
+        "#text": "The keyboard used to score Dune 2 is getting more affordable",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/919291/white-house-correspondents-dinner-conspiracy-videos-false-flag",
+      "url": "https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Elon Musk appeared more petty than prepared",
+        "#text": "Larry’s risky business",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920191/elon-musk-sam-altman-trial-day-one",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "James Comey indicted over Instagram seashell photo that allegedly threatened Trump",
+        "#text": "Taylor Swift deepfakes are pushing scams on TikTok",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/920131/james-comey-indicted-over-instagram-seashell-photo-that-allegedly-threatened-trump",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
       "summary": "(要約準備中)"
     }
   ]
