@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-04-29T14:30:38.718Z",
+  "updatedAt": "2026-04-29T19:53:47.710Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Former US officials criticise Pentagon silence on deadly Iran school attack",
-      "url": "https://www.bbc.com/news/articles/cwy2482pn0lo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the two months since the deadly strike, the US defence department has said only that the incident is under investigation."
+      "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
+      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
+      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues."
     },
     {
       "source": "BBC World",
-      "title": "Five takeaways from the King's historic address to Congress",
-      "url": "https://www.bbc.com/news/articles/c8jvl3x19v9o?at_medium=RSS&at_campaign=rss",
-      "summary": "There were some lines in the speech that may have buoyed Democrats – and raised eyebrows in the White House."
+      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
+      "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump."
     },
     {
       "source": "BBC World",
-      "title": "Comey charged with threatening Trump's life in Instagram post",
-      "url": "https://www.bbc.com/news/articles/cvgz4rvlem5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The new case stems from a 2025 seashell photo posted by the former FBI director that the justice department says calls for violence against Trump.\n"
+      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
+      "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
+      "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Why friendly AI chatbots might be less trustworthy",
+      "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom."
     },
     {
-      "source": "BBC Technology",
-      "title": "Social media restrictions for under-16s even if no ban, minister says",
-      "url": "https://www.bbc.com/news/articles/c5y7d2zx63jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The government is consulting on changes as a new social media law goes through its final Parliamentary stages."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The keyboard used to score Dune 2 is getting more affordable",
+        "#text": "All the evidence unveiled so far in Musk v. Altman",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/920432/osmose-ce-mpe-midi-controller",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Larry’s risky business",
+        "#text": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920378/oracle-openai-datacenter-buildout",
+      "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Taylor Swift deepfakes are pushing scams on TikTok",
+        "#text": "Motorola just revealed the Razr Fold’s price and hoo boy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920351/ai-celebrity-deepfake-ads-tiktok-copyleaks",
+      "url": "https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability",
       "summary": "(要約準備中)"
     }
   ]
