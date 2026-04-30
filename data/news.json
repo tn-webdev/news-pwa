@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-04-30T08:35:41.571Z",
+  "updatedAt": "2026-04-30T14:23:53.560Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
-      "url": "https://www.bbc.com/news/articles/c70vzj1nrddo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prosecutors say a 2025 seashell photo posted by the former FBI director was a call for violence against Trump."
+      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran."
     },
     {
       "source": "BBC World",
-      "title": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds ",
-      "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says."
+      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
+      "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "OpenAI tells ChatGPT models to stop talking about goblins",
+      "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "The AI firm said that unlike previous model bugs, this issue \"crept in subtly\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
+      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI."
     },
     {
-      "source": "BBC Technology",
-      "title": "Why friendly AI chatbots might be less trustworthy",
-      "url": "https://www.bbc.com/news/articles/cd9pdjgvxj8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\"."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
-      "url": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Elon Musk’s worst enemy in court is Elon Musk",
+        "#text": "How to win — and lose — Decoder",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
+      "url": "https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Grindr — yes, Grindr — won the WHCD party circuit",
+        "#text": "Samsung says the RAM shortage could get even worse next year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
+      "url": "https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+        "#text": "The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
+      "url": "https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds",
       "summary": "(要約準備中)"
     }
   ]
