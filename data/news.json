@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-04-30T14:23:53.560Z",
+  "updatedAt": "2026-04-30T19:49:57.550Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
+      "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021."
+    },
     {
       "source": "BBC World",
       "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
       "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
       "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says US studying troop cuts in Germany, after Merz criticises war",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran."
     },
     {
       "source": "BBC World",
@@ -21,9 +21,15 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
+      "url": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
+      "summary": "Isaiah Thomas, known as hmblzayy, was walking a 3,000-mile challenge when he was hit"
+    },
+    {
+      "source": "BBC Technology",
       "title": "OpenAI tells ChatGPT models to stop talking about goblins",
       "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI firm said that unlike previous model bugs, this issue \"crept in subtly\"."
+      "summary": "The AI firm said that unlike previous model bugs, the issue \"crept in subtly\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant."
     },
     {
-      "source": "BBC Technology",
-      "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
-      "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
-      "summary": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "How to win — and lose — Decoder",
+        "#text": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/920768/decoder-mailbag-how-to-win-lose-ai-nilay-interview",
+      "url": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung says the RAM shortage could get even worse next year",
+        "#text": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/921190/samsung-ram-shortage-getting-worse-2027",
+      "url": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Commodore 64 and ZX Spectrum have been turned into retrofuturistic handhelds",
+        "#text": "With Saros, Housemarque makes a case for doing next-gen games differently",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/921178/blaze-entertainment-retro-games-commodore-64-zx-spectrum-handhelds",
+      "url": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
       "summary": "(要約準備中)"
     }
   ]
