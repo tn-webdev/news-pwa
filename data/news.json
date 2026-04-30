@@ -1,12 +1,6 @@
 {
-  "updatedAt": "2026-04-29T19:53:47.710Z",
+  "updatedAt": "2026-04-30T04:04:39.501Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Oil price soars above $118 after reports of 'extended' Iran blockade",
-      "url": "https://www.bbc.com/news/articles/cj4pxr0gr02o?at_medium=RSS&at_campaign=rss",
-      "summary": "The price of crude oil has swung sharply as uncertainty over the war in the Middle East continues."
-    },
     {
       "source": "BBC World",
       "title": "Comey surrenders over charge of threatening Trump's life in Instagram post",
@@ -15,9 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Hungary's next PM says frozen EU funds will be paid out soon",
-      "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
-      "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election."
+      "title": "Bondi shooting inquiry calls for gun reform and more security at Jewish festivals",
+      "url": "https://www.bbc.com/news/articles/cdjpw0n889yo?at_medium=RSS&at_campaign=rss",
+      "summary": "An interim report says country should prioritise 'nationally consistent' firearms reforms."
+    },
+    {
+      "source": "BBC World",
+      "title": "Hegseth clashes with lawmakers over Iran war in nearly six-hour-long hearing ",
+      "url": "https://www.bbc.com/news/articles/c78qd6ll8xlo?at_medium=RSS&at_campaign=rss",
+      "summary": "US Defence Secretary Pete Hegseth sparred with Democratic lawmakers during a nearly six-hour-long hearing, in his first time facing questions under oath since the start of the Iran war."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+      "url": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
+      "summary": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The case over OpenAI's history and public commitments could have major implications for the future of AI."
     },
     {
-      "source": "BBC Technology",
-      "title": "Why Sam Altman and his former hero Elon Musk are taking their toxic feud to court",
-      "url": "https://www.bbc.com/news/articles/cn8dedv8w8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The battle between the AI big hitters has largely played out on social media. Now it is coming to the courtroom."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "All the evidence unveiled so far in Musk v. Altman",
+        "#text": "Elon Musk’s worst enemy in court is Elon Musk",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "url": "https://www.theverge.com/tech/921022/elon-musk-cross-openai-altman",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ubuntu’s AI plans have Linux users looking for a &#8216;kill switch&#8217;",
+        "#text": "Grindr — yes, Grindr — won the WHCD party circuit",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/920723/linux-ubuntu-ai-features-ai-kill-switch",
+      "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Motorola just revealed the Razr Fold’s price and hoo boy",
+        "#text": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/919460/motorola-razr-2026-price-availability",
+      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
