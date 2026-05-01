@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-01T13:54:28.100Z",
+  "updatedAt": "2026-05-01T19:38:17.747Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation."
+    },
     {
       "source": "BBC World",
       "title": "Billions of meals at risk due to Iran war, says fertiliser boss ",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
-      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire."
+      "title": "French PM fuels row with trip to buy baguettes",
+      "url": "https://www.bbc.com/news/articles/czx2rnk9y9go?at_medium=RSS&at_campaign=rss",
+      "summary": "Sébastien Lecornu visited a boulangerie on Labour Day, defying unions who say 1 May must remain a mandatory rest day."
     },
     {
-      "source": "BBC World",
-      "title": "Violence in Australian town after arrest of man over girl's murder",
-      "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
-      "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated."
+      "source": "BBC Technology",
+      "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
+      "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk must meet a range of ambitious milestones at Tesla to justify the monster pay packet - so far he has not."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The record results come as boss Tim Cook is preparing to bow out after 15 years at the helm."
     },
     {
-      "source": "BBC Technology",
-      "title": "Will AI lead to more accurate opinion polls?",
-      "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
-      "summary": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Elon Musk had a bad week in court",
+        "#text": "All the evidence revealed so far in Musk v. Altman",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Your guide to sci-fi streaming season",
+        "#text": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026",
+      "url": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
+        "#text": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
+      "url": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
       "summary": "(要約準備中)"
     }
   ]
