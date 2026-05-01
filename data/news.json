@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-04-30T19:49:57.550Z",
+  "updatedAt": "2026-05-01T04:17:35.064Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Violence in Australian town after arrest of man over girl's murder",
+      "url": "https://www.bbc.com/news/articles/cddp4j7p8pzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated."
+    },
     {
       "source": "BBC World",
       "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
@@ -9,15 +15,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran."
+      "title": "Venice Biennale jury resigns days before start of exhibition",
+      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine."
     },
     {
-      "source": "BBC World",
-      "title": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-      "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks."
+      "source": "BBC Technology",
+      "title": "Will AI lead to more accurate opinion polls?",
+      "url": "https://www.bbc.com/news/articles/cwyw6rylzepo?at_medium=RSS&at_campaign=rss",
+      "summary": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
+      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Isaiah Thomas, known as hmblzayy, was walking a 3,000-mile challenge when he was hit"
     },
     {
-      "source": "BBC Technology",
-      "title": "OpenAI tells ChatGPT models to stop talking about goblins",
-      "url": "https://www.bbc.com/news/articles/c5y9wen5z8ro?at_medium=RSS&at_campaign=rss",
-      "summary": "The AI firm said that unlike previous model bugs, the issue \"crept in subtly\"."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Meta in row after workers who say they saw smart glasses users having sex lose jobs",
-      "url": "https://www.bbc.com/news/articles/c5y7yvgy0w6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta and its subcontractor disagree over why over 1000 Kenya-based workers were made redundant."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft’s Xbox mode is now available for all Windows 11 PCs",
+        "#text": "The craziest part of Musk v. Altman happened while the jury was out of the room",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/921582/microsoft-xbox-mode-windows-11",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta threatens to pull its apps from New Mexico if forced to make ‘technologically impractical’ changes",
+        "#text": "Roblox’s daily users continue to drop as age checks slow growth",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/921557/meta-threatens-leaving-new-mexico",
+      "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "With Saros, Housemarque makes a case for doing next-gen games differently",
+        "#text": "Congress keeps kicking surveillance reform down the road",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/921391/housemarque-interview-saros-ps5",
+      "url": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
       "summary": "(要約準備中)"
     }
   ]
