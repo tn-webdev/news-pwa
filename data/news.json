@@ -1,6 +1,18 @@
 {
-  "updatedAt": "2026-05-01T08:24:20.672Z",
+  "updatedAt": "2026-05-01T13:54:28.100Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss ",
+      "url": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara."
+    },
+    {
+      "source": "BBC World",
+      "title": "Hegseth says clock paused on deadline to seek approval for Iran war",
+      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "summary": "The US defence secretary says the timer for the president to report to Congress \"pauses or stops\" in a ceasefire."
+    },
     {
       "source": "BBC World",
       "title": "Violence in Australian town after arrest of man over girl's murder",
@@ -8,16 +20,16 @@
       "summary": "Unrest took place outside hospital where man suspected of murdering a five-year-old girl was being treated."
     },
     {
-      "source": "BBC World",
-      "title": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
-      "url": "https://www.bbc.com/news/articles/cz72j8eex4eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021."
+      "source": "BBC Technology",
+      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
+      "summary": "The music streaming platform will review criteria such as artists' live dates and social media presence."
     },
     {
-      "source": "BBC World",
-      "title": "Venice Biennale jury resigns days before start of top art exhibition",
-      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine."
+      "source": "BBC Technology",
+      "title": "Apple says iPhone 17 'most popular ever' as sales soar",
+      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The record results come as boss Tim Cook is preparing to bow out after 15 years at the helm."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "It's cheaper and faster to collect people's opinions using AI, but will it make polls more accurate?"
     },
     {
-      "source": "BBC Technology",
-      "title": "Apple hails 'extraordinary' iPhone demand as boss Tim Cook heads out",
-      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Cook is preparing to bow out after 15 years at the helm and hand over to John Ternus."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Twitch streamer hit by car live on camera - 'It felt like slow motion'",
-      "url": "https://www.bbc.com/news/articles/cn8pjz2qwego?at_medium=RSS&at_campaign=rss",
-      "summary": "Isaiah Thomas, known as hmblzayy, was walking a 3,000-mile challenge when he was hit"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The craziest part of Musk v. Altman happened while the jury was out of the room",
+        "#text": "Elon Musk had a bad week in court",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/921713/musk-v-altman-jared-birchall-screw-up-xai",
+      "url": "https://www.theverge.com/podcast/922009/musk-openai-trial-testimony-vergecast",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Roblox’s daily users continue to drop as age checks slow growth",
+        "#text": "Your guide to sci-fi streaming season",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/921694/roblox-q1-2026-132-million-dau",
+      "url": "https://www.theverge.com/tech/921610/sci-fi-streaming-shows-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Congress keeps kicking surveillance reform down the road",
+        "#text": "Christian content creators are outsourcing AI slop to gig workers on Fiverr",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/921652/congress-fisa-section-702-45-day-extension",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/920881/ai-generated-bible-videos-christian-creators-fiverr-slop",
       "summary": "(要約準備中)"
     }
   ]
