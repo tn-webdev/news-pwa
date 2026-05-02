@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-02T07:59:30.260Z",
+  "updatedAt": "2026-05-02T13:48:42.688Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "'If we sleep they bite': Rats and weasels infest camps for displaced Gazans",
-      "url": "https://www.bbc.com/news/articles/c202m54xp0mo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the Gaza Strip, the daily battles are now with rats, weasels, and other pests spreading diseases."
+      "title": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says ",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Playing Esoteric Ebb is like rolling the dice with a great DM",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The things we’re building",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Apple raises the Mac Mini&#8217;s starting price",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
       "summary": "(要約準備中)"
     }
   ]
