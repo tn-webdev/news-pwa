@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-01T19:38:17.747Z",
+  "updatedAt": "2026-05-02T03:51:08.535Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran."
+    },
     {
       "source": "BBC World",
       "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
@@ -14,54 +20,48 @@
       "summary": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara."
     },
     {
-      "source": "BBC World",
-      "title": "French PM fuels row with trip to buy baguettes",
-      "url": "https://www.bbc.com/news/articles/czx2rnk9y9go?at_medium=RSS&at_campaign=rss",
-      "summary": "Sébastien Lecornu visited a boulangerie on Labour Day, defying unions who say 1 May must remain a mandatory rest day."
+      "source": "BBC Technology",
+      "title": "Oscars says AI actors, writing cannot win awards",
+      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film. "
     },
     {
       "source": "BBC Technology",
-      "title": "Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it",
-      "url": "https://www.bbc.com/news/articles/c302pd565pqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk must meet a range of ambitious milestones at Tesla to justify the monster pay packet - so far he has not."
+      "title": "Bright idea? UK firm pioneers data centres using lampposts",
+      "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability. "
     },
     {
       "source": "BBC Technology",
-      "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-      "url": "https://www.bbc.com/news/articles/c5yerr4m1yno?at_medium=RSS&at_campaign=rss",
-      "summary": "The music streaming platform will review criteria such as artists' live dates and social media presence."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Apple says iPhone 17 'most popular ever' as sales soar",
-      "url": "https://www.bbc.com/news/articles/ce8pdk3l4d2o?at_medium=RSS&at_campaign=rss",
-      "summary": "The record results come as boss Tim Cook is preparing to bow out after 15 years at the helm."
+      "title": "Pentagon says US military to be an 'AI-first' fighting force",
+      "url": "https://www.bbc.com/news/articles/cy02gjq2987o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "All the evidence revealed so far in Musk v. Altman",
+        "#text": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/920775/evidence-exhibits-elon-musk-sam-altman-openai-trial",
+      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Birdfy’s smart bird feeder is down to its best-ever price for Mother’s Day",
+        "#text": "Microsoft tests redesigned Windows 11 Run menu with dark mode and more",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/922165/netvue-birdfy-smart-bird-feeder-bath-mothers-day-deal-sale",
+      "url": "https://www.theverge.com/tech/922531/microsoft-windows-11-run-menu-redesign-test",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon&#8217;s built-in AI price history expands to show the entire last year",
+        "#text": "Apple raises the Mac Mini&#8217;s starting price",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/922302/amazon-price-tracker-year",
+      "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
       "summary": "(要約準備中)"
     }
   ]
