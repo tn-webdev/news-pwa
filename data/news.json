@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-05-02T13:48:42.688Z",
+  "updatedAt": "2026-05-02T19:17:30.953Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran."
+      "title": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
+      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
+      "summary": "German Defence Minister Boris Pistorius said the US decision to withdraw 5,000 troops was to be expected."
     },
     {
       "source": "BBC World",
-      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation."
+      "title": "US threatens shipping firms with sanctions if they pay Iran tolls",
+      "url": "https://www.bbc.com/news/articles/c3v2l2qq9qlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The warning comes as President Donald Trump said he was \"not excited\" by Iran's latest proposal for a peace deal."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Playing Esoteric Ebb is like rolling the dice with a great DM",
+        "#text": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/903575/esoteric-ebb-review-pc-steam",
+      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The things we’re building",
+        "#text": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/922505/vibe-code-projects-claude-installer",
+      "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Splatoon Raiders preorders for the Switch 2 are nearly 20 percent off",
+        "#text": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/920848/splatoon-raiders-physical-edition-preorder-switch-2-walmart-deal-sale",
+      "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
