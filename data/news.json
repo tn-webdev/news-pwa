@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-03T08:15:05.707Z",
+  "updatedAt": "2026-05-03T13:49:28.750Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops."
+      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence."
     },
     {
       "source": "BBC World",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous."
+      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones."
     },
     {
       "source": "BBC World",
-      "title": "The clandestine network smuggling Starlink tech into Iran to beat internet blackout",
-      "url": "https://www.bbc.com/news/articles/cvgzk91leweo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sahand tells the BBC World Service he sends satellite internet terminals into Iran to help show \"the real picture\"."
+      "title": "Nigeria summons South African envoy over attacks on its nationals",
+      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
+      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta&#8217;s historic loss in court could cost a lot more than $375 million",
+        "#text": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/922380/new-mexico-meta-public-nuisance-trial-kids-safety",
+      "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spirit Airlines shuts down after Trump’s war on Iran doubled jet fuel prices",
+        "#text": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/business/922788/spirit-airlines-shutdown",
+      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Aura’s delightful Aspen photo frame is on sale for $30 off this weekend",
+        "#text": "AI music is flooding streaming services — but who wants it?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/922513/aura-aspen-carver-walden-digital-photo-frame-mothers-day-deal-sale",
+      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
       "summary": "(要約準備中)"
     }
   ]
