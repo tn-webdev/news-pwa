@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-03T13:49:28.750Z",
+  "updatedAt": "2026-05-03T19:18:27.408Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence."
+      "title": "Iran says US has responded to its latest peace proposal",
+      "url": "https://www.bbc.com/news/articles/cn0px2x53k2o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US is yet to formally confirm it has responded. However, Trump reportedly told Israel's Kan News it was unacceptable."
     },
     {
       "source": "BBC World",
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones."
+      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
+      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous."
     },
     {
       "source": "BBC World",
-      "title": "Nigeria summons South African envoy over attacks on its nationals",
-      "url": "https://www.bbc.com/news/articles/c78q6e98878o?at_medium=RSS&at_campaign=rss",
-      "summary": "There has been a wave of anti-migrant protests in South Africa, some of which have turned violent."
+      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Health Organization said one case of hantavirus infection has been confirmed, with five more suspected cases under investigation. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "AI music is flooding streaming services — but who wants it?",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
       "summary": "(要約準備中)"
     }
   ]
