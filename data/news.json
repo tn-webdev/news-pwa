@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-04T08:41:53.593Z",
+  "updatedAt": "2026-05-04T14:30:40.616Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
-      "url": "https://www.bbc.com/news/articles/cgjp7vpee03o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous."
+      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
+      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday."
     },
     {
       "source": "BBC World",
       "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
       "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The World Health Organization said one case of hantavirus infection had been confirmed, with five more suspected cases under investigation."
+      "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established."
     },
     {
       "source": "BBC World",
-      "title": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
-      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
-      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones."
+      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
+      "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Reggie Fils-Aimé says Amazon once asked Nintendo to break the law",
+        "#text": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/922840/reggie-fils-aime-amazon-nintendo-illegal",
+      "url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Shokz’s bassy OpenRun Pro 2 are $40 off thanks to a new Mother’s Day promo",
+        "#text": "GameStop makes $56 billion offer to acquire eBay",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/922616/shokz-openrun-pro-2-bone-conduction-headphones-mothers-day-deal-sale",
+      "url": "https://www.theverge.com/games/922935/gamestop-ebay-bid",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "These reusable digital Polaroids are a clever way to cover a fridge in memories",
+        "#text": "Hisense aggressively cuts the price of its RGB LED TV on release day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/917067/vidabay-snap-nfc-e-ink-paper-fridge-magnet-photo-hands-on",
+      "url": "https://www.theverge.com/tech/922571/hisense-cuts-price-ur9",
       "summary": "(要約準備中)"
     }
   ]
