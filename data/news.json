@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-04T14:30:40.616Z",
+  "updatedAt": "2026-05-04T19:55:19.556Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukrainian drone hits upmarket Moscow high-rise ahead of Victory Day celebrations",
-      "url": "https://www.bbc.com/news/articles/cwy234llx3vo?at_medium=RSS&at_campaign=rss",
-      "summary": "The attack comes as the Kremlin prepares to hold a scaled-back military parade on Saturday."
+      "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
+      "url": "https://www.bbc.com/news/articles/ckgpzgxgz58o?at_medium=RSS&at_campaign=rss",
+      "summary": "A 33-year-old German citizen was detained following the incident, the authorities say."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Former New York City mayor Rudy Giuliani in critical condition in hospital",
-      "url": "https://www.bbc.com/news/articles/c7941rgy4lyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The long-time champion of Trump and former New York mayor is in hospital, according to his spokesman."
+      "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
+      "url": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
+      "summary": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tesla hits Musk’s threshold for ‘safe unsupervised’ driving",
+        "#text": "SwitchBot’s rechargeable button pusher is on sale for over 20 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/922900/tesla-10-billion-miles-unsupervised-fsd-robotaxi-elon-musk",
+      "url": "https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "GameStop makes $56 billion offer to acquire eBay",
+        "#text": "The creator of Roomba is back with a furry robot companion",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/922935/gamestop-ebay-bid",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Hisense aggressively cuts the price of its RGB LED TV on release day",
+        "#text": "The Pixel 11 could be the next victim of the RAM shortage",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/922571/hisense-cuts-price-ur9",
+      "url": "https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram",
       "summary": "(要約準備中)"
     }
   ]
