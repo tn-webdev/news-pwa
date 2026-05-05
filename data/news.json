@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-04T19:55:19.556Z",
+  "updatedAt": "2026-05-05T03:50:34.667Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US strikes Iranian fast boats as Iran attacks UAE oil facility ",
+      "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection."
+    },
     {
       "source": "BBC World",
       "title": "Two killed and many injured after car driven into crowd in German city of Leipzig",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Three dead in suspected virus outbreak on Atlantic cruise ship",
+      "title": "Second hantavirus case confirmed after three die in suspected cruise ship outbreak",
       "url": "https://www.bbc.com/news/articles/cy0294829ndo?at_medium=RSS&at_campaign=rss",
-      "summary": "The operator of the MV Hondius ship says a Dutch husband and wife, as well as a German national, have died but the cause has not yet been established."
-    },
-    {
-      "source": "BBC World",
-      "title": "Former New York City mayor Rudy Giuliani recovering from pneumonia and 'now breathing on his own'",
-      "url": "https://www.bbc.com/news/articles/cpvpnve1r24o?at_medium=RSS&at_campaign=rss",
-      "summary": "The ex-New York mayor 'remains in critical but stable condition', according to his spokesman."
+      "summary": "The operator of the MV Hondius ship says a Dutch couple and a German national have died."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "SwitchBot’s rechargeable button pusher is on sale for over 20 percent off",
+        "#text": "The 40 best Mother’s Day gift ideas for 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/923162/switchbot-bot-rechargeable-button-presser-mothers-day-sale-deal",
+      "url": "https://www.theverge.com/gadgets/907032/best-mothers-day-gift-ideas-2026-mom-tech-gadgets",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The creator of Roomba is back with a furry robot companion",
+        "#text": "Valve just imported 50 tons of game consoles in two days",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/922947/roomba-creator-new-robot-familiar-machines-magic-ai-launch",
+      "url": "https://www.theverge.com/news/923461/valve-steam-machine-frame-deck-import-records-may-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Pixel 11 could be the next victim of the RAM shortage",
+        "#text": "OpenAI’s president does ‘all the things,’ except answer a question",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/923252/google-pixel-11-spec-leak-lower-ram",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/923684/musk-brockman-altman-openai-trial",
       "summary": "(要約準備中)"
     }
   ]
