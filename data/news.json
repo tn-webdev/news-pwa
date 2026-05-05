@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-05T14:24:31.678Z",
+  "updatedAt": "2026-05-05T19:51:48.319Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,9 +9,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Zelensky condemns Russian 'utter cynicism' as it strikes ahead of truce",
+      "title": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
       "url": "https://www.bbc.com/news/articles/c1e2zjz22p9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia demanded a ceasefire on 8 and 9 May but Ukraine said it would pause the fighting sooner, meaning any violations would be pinned on Moscow."
+      "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade."
     },
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
+      "title": "'I thought he was going to hit me' OpenAI co-founder says of Musk",
+      "url": "https://www.bbc.com/news/articles/cn7pg8ymgezo?at_medium=RSS&at_campaign=rss",
+      "summary": "Brockman spoke during the second week of a month-long trial between Musk and OpenAI's Sam Altman."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "US to safety test new AI models from Google, Microsoft, xAI",
+      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
+      "summary": "New agreements between the companies and the Commerce department build on Biden-era pacts."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Pornhub to become accessible again for some UK users",
       "url": "https://www.bbc.com/news/articles/cwy27q05gj2o?at_medium=RSS&at_campaign=rss",
       "summary": "UK iPhone users who have completed Apple's device-based age checks will no longer be blocked from the site's adult content."
     },
     {
-      "source": "BBC Technology",
-      "title": "Oscars says AI actors and writing cannot win awards",
-      "url": "https://www.bbc.com/news/articles/cx21dl3v7d3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The academy that controls the Oscars on Friday issued new award eligibility requirements around the use of artificial intelligence in film. "
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Bright idea? UK firm pioneers data centres using lampposts",
-      "url": "https://www.bbc.com/news/articles/c98r4e594p7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The solar-powered iLamps will have a built-in Nvidia chip but there are questions over their security and scalability. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "New Mexico has a plan to overhaul Facebook and Instagram",
+        "#text": "Apple could let you pick a favorite AI model in iOS 27",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/923653/meta-new-mexico-public-nuisance-injunctive-relief",
+      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Zombies, Run! is officially back from the dead",
+        "#text": "Threads is finally getting DMs on the web",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/923408/zombies-run-fitness-app-games",
+      "url": "https://www.theverge.com/tech/924436/meta-threads-web-dms-direct-messages",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What an AI-designed car looks like",
+        "#text": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
+      "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "summary": "(要約準備中)"
     }
   ]
