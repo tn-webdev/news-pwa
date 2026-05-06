@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-06T14:46:08.965Z",
+  "updatedAt": "2026-05-06T20:01:17.092Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,7 +9,7 @@
     },
     {
       "source": "BBC World",
-      "title": "CNN founder Ted Turner dies at 87",
+      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
       "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
       "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Blink bumps its budget buzzer to 2K",
+        "#text": "The latest Tile Pro is down to $25 — its best price of the year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date",
+      "url": "https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google&#8217;s AI search summaries will now quote Reddit",
+        "#text": "What we’re hearing about the new homepage",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "url": "https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "It’s time to let my iPhone Mini go",
+        "#text": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
       "summary": "(要約準備中)"
     }
   ]
