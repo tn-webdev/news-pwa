@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-06T08:40:07.290Z",
+  "updatedAt": "2026-05-06T14:46:08.965Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "To stay or risk the 'Road of Death' - Ukrainian civilians trapped in frontline city",
-      "url": "https://www.bbc.com/news/articles/c893xj41zwdo?at_medium=RSS&at_campaign=rss",
-      "summary": "People in the Ukrainian city of Oleshky say they have been cut off from fresh supplies of food or medicine for months."
+      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
+      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation."
     },
     {
       "source": "BBC World",
-      "title": "BBC traces how 10 minutes of Israeli bombing brought devastation to Lebanon",
-      "url": "https://www.bbc.com/news/articles/c202652vvnjo?at_medium=RSS&at_campaign=rss",
-      "summary": "The bombs started falling at 14:15 in the afternoon - bringing chaos and destruction across the country. "
+      "title": "CNN founder Ted Turner dies at 87",
+      "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
+      "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980."
     },
     {
       "source": "BBC World",
-      "title": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
-      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
-      "summary": " The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy. "
+      "title": "Massive Alaska megatsunami was second largest ever recorded",
+      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
+      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Robot wars - what an operation in Ukraine tells us about the battlefield of the near future",
+      "url": "https://www.bbc.com/news/articles/c9d35v126vyo?at_medium=RSS&at_campaign=rss",
+      "summary": "After Ukraine's President Zelensky said territory had been captured using just robots and drones, what is the future of unmanned warfare?"
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers."
     },
     {
-      "source": "BBC Technology",
-      "title": "US to safety test new AI models from Google, Microsoft, xAI",
-      "url": "https://www.bbc.com/news/articles/cgjp2we2j8go?at_medium=RSS&at_campaign=rss",
-      "summary": "New agreements between the companies and the Commerce department build on Biden-era pacts."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+        "#text": "Blink bumps its budget buzzer to 2K",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
+      "url": "https://www.theverge.com/tech/924976/blink-video-doorbell-2k-wired-battery-price-specs-release-date",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+        "#text": "Google&#8217;s AI search summaries will now quote Reddit",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft gives up on Xbox Copilot AI",
+        "#text": "It’s time to let my iPhone Mini go",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
+      "url": "https://www.theverge.com/tech/924488/apple-iphone-13-mini-battery-liquid-glass",
       "summary": "(要約準備中)"
     }
   ]
