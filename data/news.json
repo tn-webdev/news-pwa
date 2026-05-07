@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-05-07T08:47:30.946Z",
+  "updatedAt": "2026-05-07T14:50:03.672Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Hantavirus-hit cruise ship on way to Canary Islands after three evacuated",
-      "url": "https://www.bbc.com/news/articles/c5y093d5n9ko?at_medium=RSS&at_campaign=rss",
-      "summary": "A British man is among three evacuees sent to the Netherlands after displaying symptoms while aboard the MV Hondius."
+      "title": "Race to trace passengers who left hantavirus cruise ship at island",
+      "url": "https://www.bbc.com/news/articles/cnvpzgn26edo?at_medium=RSS&at_campaign=rss",
+      "summary": "A 69-year-old woman who later died in South Africa is among those who left MV Hondius at St Helena."
     },
     {
       "source": "BBC World",
-      "title": "Iran considering US proposal as Trump says war will be 'over quickly'",
-      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
-      "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\". "
+      "title": "Three women linked to Islamic State arrested in Australia on return from Syria",
+      "url": "https://www.bbc.com/news/articles/czj2emlv2kjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Three women who allegedly supported IS were arrested after they flew home to Australia for the first time in years."
     },
     {
       "source": "BBC World",
-      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
-      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April."
+      "title": "Fears of renewed Gaza war as Hamas disarmament talks stall",
+      "url": "https://www.bbc.com/news/articles/cd6p5l3n2q3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas."
     },
     {
       "source": "BBC Technology",
-      "title": "In 'Musk v Altman', this judge will make the final call",
+      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
       "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
       "summary": "The feud has fuelled a costly showdown between two tech titans."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Musk’s biggest loyalist became his biggest liability",
+        "#text": "OpenClaw and Claude can put your AI-generated podcasts in Spotify",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "url": "https://www.theverge.com/entertainment/925916/save-to-spotify-ai-podcasts",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nintendo announces a new Star Fox for the Switch 2",
+        "#text": "Google’s taking a big swing at AI health with the Fitbit Air",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
+      "url": "https://www.theverge.com/gadgets/925458/google-health-fitbit-air-ai-coaching-wearables-fitness-trackers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google shuts down Project Mariner",
+        "#text": "Ploopy&#8217;s new mouse makes the ThinkPad&#8217;s iconic TrackPoint portable",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
+      "url": "https://www.theverge.com/tech/925923/ploopy-bean-open-source-mouse-pointing-stick-qmk",
       "summary": "(要約準備中)"
     }
   ]
