@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-06T20:01:17.092Z",
+  "updatedAt": "2026-05-07T04:05:22.829Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Oil prices drop and stock markets rise after reports of deal to end Iran war",
-      "url": "https://www.bbc.com/news/articles/c4g8zejyyr3o?at_medium=RSS&at_campaign=rss",
-      "summary": "Reports have raised hopes of an agreement between the US and Iran after days of escalation."
+      "title": "Iran considering US proposal to end war, official says",
+      "url": "https://www.bbc.com/news/articles/cj0pq2q8221o?at_medium=RSS&at_campaign=rss",
+      "summary": "The White House reportedly believes it could be closing in on a 14-point memorandum of understanding with Iran."
     },
     {
       "source": "BBC World",
-      "title": "Ted Turner, media mogul who revolutionised TV news by launching CNN, dies at 87",
-      "url": "https://www.bbc.com/news/articles/c1k2jnx8gmlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The media mogul pioneered the modern 24-hour news culture when he launched the Cable News Network in 1980."
+      "title": "Trump's hopes for an Iran peace deal come with caveats",
+      "url": "https://www.bbc.com/news/articles/cvgzp74rvj5o?at_medium=RSS&at_campaign=rss",
+      "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution. "
     },
     {
       "source": "BBC World",
-      "title": "Massive Alaska megatsunami was second largest ever recorded",
-      "url": "https://www.bbc.com/news/articles/c1m253033m4o?at_medium=RSS&at_campaign=rss",
-      "summary": "New research suggests glacier melt driven by climate change is increasing the risk of giant waves."
+      "title": "Israel strikes Beirut for first time since Hezbollah ceasefire",
+      "url": "https://www.bbc.com/news/articles/crmpjjl02l2o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it targeted a senior Hezbollah figure in the capital, the first strike of its kind since mid-April."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+      "url": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Shivon Zilis is the mother of four of Musk's children. That relationship began as she advised OpenAI."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "OpenAI president Greg Brockman spoke during the second week of a month-long trial between Elon Musk and OpenAI's Sam Altman."
     },
     {
-      "source": "BBC Technology",
-      "title": "Apple to pay up to $95 to some US iPhone buyers over AI lawsuit",
-      "url": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The latest Tile Pro is down to $25 — its best price of the year",
+        "#text": "Musk’s biggest loyalist became his biggest liability",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/925294/tile-pro-mothers-day-gift-bluetooth-tracker-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What we’re hearing about the new homepage",
+        "#text": "Nintendo announces a new Star Fox for the Switch 2",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/verge-product-updates/923754/what-we-are-hearing-about-the-new-homepage",
+      "url": "https://www.theverge.com/entertainment/925601/star-fox-nintendo-switch-2",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+        "#text": "Google shuts down Project Mariner",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
       "summary": "(要約準備中)"
     }
   ]
