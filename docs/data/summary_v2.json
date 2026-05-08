@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "マイクロソフトとオープンAI、独占契約を解除し、オープンAIがAWSやGoogle Cloudでの販売を自由に行えるように",
-    "title_en": "Microsoft and OpenAI gut their exclusive deal, freeing OpenAI to sell on AWS and Google Cloud",
-    "summary": "マイクロソフトとオープンAIは最近、パートナーシップの大規模な再構築を発表し、厳密な独占契約からより柔軟で期間限定の取り決めに移行しました。この新しい契約により、マイクロソフトのオープンAIへの収益分配支払いが排除され、オープンAIはアマゾンウェブサービスやGoogle Cloudといった競合他社を含むさまざまなクラウドプラットフォームで製品を配布できるようになります。この変化は、アマゾンからの大規模な投資によって以前の契約条件に挑戦があったことから生じたもので、AI業界のダイナミクスにおける変革とオープンAIの新たな独立性を示しています。",
-    "summary_en": "Microsoft and OpenAI recently announced a significant restructuring of their partnership, moving away from a tightly bound exclusive agreement to a more flexible, time-limited arrangement that allows both companies to explore competitive relationships. The new deal eliminates Microsoft’s revenue-sharing payments to OpenAI and permits OpenAI to distribute its products across various cloud platforms, including rivals like Amazon Web Services and Google Cloud, thus ending the exclusivity that defined their prior agreement. This shift comes after tensions arose, notably due to a massive investment from Amazon which challenged the previous contract terms, signaling a transformative change in the dynamics of the AI industry and a newfound independence for OpenAI.",
-    "link": "https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud",
+    "title": "Anthropic、AIエージェントが自己のミスから学ぶ「夢見る」システムを導入",
+    "title_en": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
+    "summary": "Anthropicは最近、Code with Claude開発者カンファレンスでClaude Managed Agentsプラットフォームの主要なアップデートを発表し、AIエージェントが過去のセッションから学習し、時間をかけて改善する新しい「夢見る」機能を導入しました。また、同社は有効な結果を出すための実験的機能である成果とマルチエージェントオーケストレーションを公開ベータ版に移行し、開発者が複雑なタスクに対して正確かつ効果的なAIシステムを構築する能力を向上させました。初期の利用者からは効率とタスク完了率の大幅な改善が報告されており、企業向けAIアプリケーションに対するこれらの進歩への強い需要を示しています。",
+    "summary_en": "Anthropic recently introduced major updates to its Claude Managed Agents platform at the Code with Claude developer conference, including a new \"dreaming\" feature that allows AI agents to learn from past sessions and improve over time. Additionally, the company moved two experimental features—outcomes and multi-agent orchestration—into public beta, enhancing the ability of developers to create accurate and effective AI systems for complex tasks. Early adopters have reported significant improvements in efficiency and task completion, indicating strong demand for these advancements in enterprise-level AI applications.",
+    "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
     "category": "AI",
-    "publishedAt": "2026-04-28 16:42"
+    "publishedAt": "2026-05-08 19:18"
   },
   {
     "source": "VentureBeat",
-    "title": "オープンソースのXiaomi MiMo-V2.5およびV2.5-Proがエージェントタスクにおいて最も効率的（かつ手頃）な選択肢に",
-    "title_en": "Open source Xiaomi MiMo-V2.5 and V2.5-Pro are among the most efficient (and affordable) at agentic 'claw' tasks",
-    "summary": "Xiaomiは最近、オープンソースのAI大規模言語モデルであるMiMo-V2.5およびMiMo-V2.5-Proを発表しました。これらは共に許可されたMITライセンスの下でライセンスされており、商業アプリケーションでの利用が可能です。特にエージェントタスクにおいて効率的で、Proモデルは競合のOpenAIやGoogleよりもはるかに少ないトークンを消費しながら、 notableな成功率を誇ります。このため、コスト削減を目指す企業にとって魅力的な選択肢となります。Xiaomiのオープンソースソフトウェアと関連する金銭的インセンティブへの取り組みは、開発者コミュニティの革新と成長を促進し、AI分野における強力なプレイヤーとしての地位を確立しようとしています。",
-    "summary_en": "Xiaomi has recently released two powerful and affordable open-source AI large language models, MiMo-V2.5 and MiMo-V2.5-Pro, both licensed under the permissive MIT License, facilitating their use in commercial applications. These models are particularly efficient for agentic tasks, with the Pro model achieving a notable success rate while consuming significantly fewer tokens than competitors like OpenAI and Google, making them an attractive option for enterprises looking to reduce costs in a changing AI economic landscape. The company's commitment to open-source software and associated financial incentives aim to foster innovation and growth in the developer community, positioning Xiaomi as a formidable player in the AI space.",
-    "link": "https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks",
+    "title": "Sakanaが7Bモデルを用いてGPT、Claude、Gemini LLMを調整する方法",
+    "title_en": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs",
+    "summary": "Sakana AIは、複数のワーカーLLMの調整を自動化する強化学習に基づいた言語モデル「RL Conductor」を開発しました。このシステムは、変動するクエリ分布に苦しむ固定的でハードコードされたAIフレームワークの限界を克服しています。RL Conductorは、複雑な推論やコーディングタスクで優れたパフォーマンスを発揮し、GPT-5やClaude Sonnet 4などの先進モデルを上回る一方で、より効率的でコスト効果に優れています。Sakana AIは、このConductorを商業製品「Fugu」に統合し、従来のAIシステムが不十分であった産業における生産性の向上を目指しています。",
+    "summary_en": "Sakana AI has developed the RL Conductor, a reinforcement learning-based language model that automates the orchestration of multiple worker LLMs, overcoming the limitations of rigid, hard-coded AI frameworks that struggle with shifting query distributions. This system excels in complex reasoning and coding tasks, outperforming leading models like GPT-5 and Claude Sonnet 4 while being more efficient and cost-effective. Sakana AI is integrating the Conductor into its commercial product, Fugu, which aims to enhance productivity in industries where traditional AI systems have fallen short.",
+    "link": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
     "category": "AI",
-    "publishedAt": "2026-04-28 16:42"
+    "publishedAt": "2026-05-08 19:19"
   },
   {
     "source": "NHK",
-    "title": "株価 終値6万円割れ 日銀の追加利上げ意識される",
+    "title": "「ニンテンドースイッチ2」1万円値上げへ 半導体価格の上昇で",
     "title_en": "",
-    "summary": "最近の東京株式市場では、半導体や電子部品関連の銘柄に売り注文が集中しました。これにより、日経平均株価は値下がりし、終値は6万円を下回りました。この動きは、先行きへの懸念を反映していると見られています。",
+    "summary": "任天堂は、昨年発売した新型ゲーム機「ニンテンドースイッチ2」の国内専用モデルを1万円値上げすることを発表しました。半導体の価格上昇がその理由とされています。これにより、消費者への影響が懸念されます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260428/k10015109931000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116961000.html",
     "category": "経済",
-    "publishedAt": "2026-04-28 16:42"
+    "publishedAt": "2026-05-08 19:19"
   },
   {
     "source": "BBC",
-    "title": "ジミー・キンメル、メラニア・トランプ未亡人ジョークに対するホワイトハウスの批判を拒否",
-    "title_en": "Jimmy Kimmel rejects White House criticism over Melania widow joke",
-    "summary": "ホワイトハウス記者団ディナーの直前に放送されたパロディーで、コメディアンのジミー・キンメルはメラニア・トランプを「妊娠中の未亡人」と冗談交じりに言及しました。このジョークはトランプ政権を巡る緊張と論争を浮き彫りにしています。キンメルのコメントは、メディアにおける政治家の風刺や批判の流れに寄与しています。",
-    "summary_en": "In a parody aired shortly before the White House Correspondents' Dinner, comedian Jimmy Kimmel humorously referred to Melania Trump as an \"expectant widow.\" This joke highlights the tensions and controversies surrounding the Trump administration. Kimmel's comments contribute to the ongoing satire and critique of political figures in the media.",
-    "link": "https://www.bbc.com/news/articles/c04x40d4424o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、ホルムズ海峡での交戦の後も米イランの停戦が維持されていると発言",
+    "title_en": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+    "summary": "イランは、米国が石油タンカーを標的にし、沿岸地域への攻撃を行ったとして、停戦合意を違反したと非難しています。この非難は、両国の間の緊張が高まっていることを示すもので、イランの主張は地域における米国の軍事行動への不満を反映しています。",
+    "summary_en": "Iran has accused the United States of breaching a ceasefire agreement by allegedly targeting an oil tanker and launching attacks on coastal regions. This accusation marks an escalation in tensions between the two nations amid ongoing conflicts. Iran's claims reflect its ongoing frustrations with US military actions in the region.",
+    "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-04-28 16:43"
+    "publishedAt": "2026-05-08 19:19"
   },
   {
     "source": "NHK",
-    "title": "出光興産 ベトナムに原油供給へ 供給網の維持につながるか",
+    "title": "ハンタウイルス 感染した乗客と接触の客室乗務員 陰性確認",
     "title_en": "",
-    "summary": "ホルムズ海峡の事実上の封鎖を受け、アジア各国で原油供給への懸念が高まっています。出光興産は、同海峡を通らないルートで調達した中東産原油約400万バレルを、出資先であるベトナム北部の製油所へ供給する方針です。これは同国の約10日分の消費量に相当し、燃料や樹脂原料などに精製されます。これらは自動車部品や家電製品の生産に使われ、日本にも輸出されています。中東依存度の高いベトナムでは供給不安の影響が出ており、今回の対応がサプライチェーン維持につながるかが注目されています。",
+    "summary": "オランダの航空会社の客室乗務員が、ハンタウイルスに感染した女性と接触したため、感染の疑いで検査を受けていました。世界保健機関は、この客室乗務員がウイルスに感染していないことを確認したと発表しました。これにより、感染拡大の懸念は解消されました。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015110261000",
+    "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116921000.html",
     "category": "その他",
-    "publishedAt": "2026-04-28 16:43"
+    "publishedAt": "2026-05-08 19:19"
   }
 ]

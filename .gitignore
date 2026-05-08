@@ -17,3 +17,6 @@ Thumbs.db
 # Logs / Temp
 *.log
 .cache/
+
+# VSCode
+.vscode/
