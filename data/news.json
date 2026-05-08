@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-05-08T14:17:01.229Z",
+  "updatedAt": "2026-05-08T19:45:27.765Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas."
+      "title": "Iran accuses US of 'reckless military adventure'",
+      "url": "https://www.bbc.com/news/articles/c99lpn9ze8ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Abbas Araghchi says the US attacks each time there is a diplomatic solution on the table."
     },
     {
       "source": "BBC World",
-      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
       "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany."
+      "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Boox’s new page-turning e-reader remote is a tiny two-button keyboard",
+        "#text": "Here is Yarbo’s promise to fix the robot mower that ran me over",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote",
+      "url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What’s the role of a simple fitness band in the AI health era?",
+        "#text": "All the latest updates on AI data centers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
+        "#text": "DOGE used ChatGPT in a way that was both dumb and illegal, judge rules",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
+      "url": "https://www.theverge.com/policy/927071/doge-chatgpt-grants-canceled",
       "summary": "(要約準備中)"
     }
   ]
