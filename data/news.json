@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-07T19:54:37.240Z",
+  "updatedAt": "2026-05-08T03:53:28.790Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran accuses the US of violating the truce, alleging it targeted an oil tanker and carried out attacks on coastal areas."
+    },
     {
       "source": "BBC World",
       "title": "Hantavirus outbreak on cruise ship not start of pandemic, UN health agency says",
@@ -14,10 +20,16 @@
       "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy."
     },
     {
-      "source": "BBC World",
-      "title": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow. "
+      "source": "BBC Technology",
+      "title": "Instagram privacy tech is turned off today- what does this mean for your DMs?",
+      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "How sunburn inspired a new way to store energy",
+      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating. "
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,22 @@
       "summary": "Meta said Ofcom's calculations were \"disproportionate\"; the regulator said it would defend its position."
     },
     {
-      "source": "BBC Technology",
-      "title": "The no-nonsense judge calling the shots in Musk v Altman trial",
-      "url": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The feud has fuelled a costly showdown between two tech titans."
+      "source": "The Verge",
+      "title": {
+        "#text": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "summary": "(要約準備中)"
     },
     {
-      "source": "BBC Technology",
-      "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
-      "url": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
-      "summary": "Shivon Zilis is the mother of four of Musk's children. That relationship began as she advised OpenAI."
+      "source": "The Verge",
+      "title": {
+        "#text": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "SpaceX has a $55 billion plan to build AI chips in Texas",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926356/spacex-terafab-plant-cost-ai-chips",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Peak Design is taking up to 50 percent off some of our favorite bags right now",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/925427/peak-design-peter-dering-birthday-sale-2026-camera-backpack-sling-deal",
       "summary": "(要約準備中)"
     }
   ]
