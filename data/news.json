@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-08T07:57:41.456Z",
+  "updatedAt": "2026-05-08T14:17:01.229Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
-      "url": "https://www.bbc.com/news/articles/c86dp85g59xo?at_medium=RSS&at_campaign=rss",
-      "summary": "US President Donald Trump says the ceasefire between Washington and Tehran is still in place."
+      "title": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany."
     },
     {
       "source": "BBC World",
-      "title": "Third British national has suspected hantavirus infection, UK government says",
-      "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
-      "summary": "The patient is on the remote Atlantic island of Tristan da Cunha, which was visited by the cruise ship in April."
+      "title": "Worldwide race to trace passengers from hantavirus-hit cruise ship",
+      "url": "https://www.bbc.com/news/articles/clyp1505p84o?at_medium=RSS&at_campaign=rss",
+      "summary": "About 12 countries have so far been linked to the hantavirus outbreak on the MV Hondius, as the UN health agency confirms at least five cases."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "TikTok scales back AI-generated video descriptions after absurd errors",
+      "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
+      "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating. "
     },
     {
-      "source": "BBC Technology",
-      "title": "Meta brings High Court challenge over Ofcom fees",
-      "url": "https://www.bbc.com/news/articles/cj0pqpgvvn2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta said Ofcom's calculations were \"disproportionate\"; the regulator said it would defend its position."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+        "#text": "Boox’s new page-turning e-reader remote is a tiny two-button keyboard",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+      "url": "https://www.theverge.com/tech/926240/boox-tappy-page-turn-scroll-button-bluetooth-remote",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mira Murati’s deposition pulled back the curtain on Sam Altman’s ouster",
+        "#text": "What’s the role of a simple fitness band in the AI health era?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/926383/mira-murati-sam-altman-musk-trial-ouster",
+      "url": "https://www.theverge.com/column/926700/optimizer-fitbit-fitness-bands-ai-health",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple&#8217;s AirPods with cameras for AI are apparently close to production",
+        "#text": "Tesla is recalling its cheaper Cybertruck because the wheels might fall off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/926376/apple-airpods-cameras-ai-production",
+      "url": "https://www.theverge.com/transportation/926741/tesla-cybertruck-cheaper-recall",
       "summary": "(要約準備中)"
     }
   ]
