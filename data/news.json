@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-09T08:11:14.650Z",
+  "updatedAt": "2026-05-09T13:52:35.313Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says Russia and Ukraine to observe three-day ceasefire",
-      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany."
+      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine."
     },
     {
       "source": "BBC World",
@@ -17,7 +17,13 @@
       "source": "BBC World",
       "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
       "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some on the Spanish island worry that the imminent arrival of the MV Hondius could pose a health risk."
+      "summary": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "How sunburn inspired a new way to store energy",
+      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
+      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating. "
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta."
     },
     {
-      "source": "BBC Technology",
-      "title": "How sunburn inspired a new way to store energy",
-      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
-      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Asus chases Elgato with its own secondary touchscreen display",
+        "#text": "Let it snow",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/927333/asus-rog-strix-xg129c-secondary-display",
+      "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon is adding a vertical video feed to Prime Video",
+        "#text": "The game that makes me actually want to exercise",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/927327/amazon-prime-video-vertical-video-feed",
+      "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here is Yarbo’s promise to fix the robot mower that ran me over",
+        "#text": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/926989/yarbo-robot-lawn-mower-hack-company-update-security-promise",
+      "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
       "summary": "(要約準備中)"
     }
   ]
