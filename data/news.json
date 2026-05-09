@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-09T13:52:35.313Z",
+  "updatedAt": "2026-05-09T19:33:15.823Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Putin denounces Nato at scaled back Victory Day parade",
+      "title": "Putin denounces Nato at scaled-back Victory Day parade",
       "url": "https://www.bbc.com/news/articles/c626xjq0q0vo?at_medium=RSS&at_campaign=rss",
       "summary": "The Russian leader used his annual speech to justify his so-called special military operation in Ukraine."
     },
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
-      "url": "https://www.bbc.com/news/articles/c5y0gkg038yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some on the Spanish island worry the imminent arrival of the MV Hondius could pose a health risk."
+      "title": "I will serve - not rule over Hungary, says new PM",
+      "url": "https://www.bbc.com/news/articles/ce3pqvvzgnko?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly a month ago Péter Magyar steered his Tisza party to a landslide victory, sweeping away 16 years of rule by Viktor Orbán."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "These great digital gifts will arrive just in time for Mother’s Day",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/927310/best-digital-gift-ideas-mothers-day-online-cards-subscriptions-2026",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Let it snow",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/926911/snow-video-games-moomins-froggy",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The game that makes me actually want to exercise",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/927177/zombies-run-boox-billie-eilish-installer",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Quantum dot TVs beat RGB LED TVs, says the company that makes QDs for TVs",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/927442/nanosys-sqd-vs-rgb-led",
       "summary": "(要約準備中)"
     }
   ]
