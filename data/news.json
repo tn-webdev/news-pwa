@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-05-10T13:55:59.547Z",
+  "updatedAt": "2026-05-10T19:33:10.980Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "First passengers fly home from virus-hit cruise ship",
+      "title": "Countries airlift nationals evacuated from virus-hit cruise ship",
       "url": "https://www.bbc.com/news/articles/cn7pzmg8zeno?at_medium=RSS&at_campaign=rss",
       "summary": "Spanish passengers are the first to leave the MV Hondius, after an outbreak saw three people die and several infected."
     },
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran warns against complying with US sanctions as Gulf attacks reported",
+      "title": "Iran sends response to US proposals to end war",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "summary": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks."
+      "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix may have finally figured out games",
+        "#text": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/926250/netflix-tv-games-strategy",
+      "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Vivo’s X300 Ultra has the best cameras in any phone",
+        "#text": "Cricut’s $99 craft cutting machine helped me feel creative again",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/926067/vivos-x300-ultra-has-the-best-cameras-in-any-phone",
+      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dyson’s powerful 360 Vis Nav robovac is down to $279.99 for a limited time",
+        "#text": "Writers are fleeing the Substack Tax",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/926942/dyson-360-vis-nav-robot-vacuum-woot-dust-busting-deals-sale",
+      "url": "https://www.theverge.com/tech/927294/substack-tax-ghost-beehiiv",
       "summary": "(要約準備中)"
     }
   ]
