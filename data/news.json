@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T09:59:21.602Z",
+  "updatedAt": "2026-05-11T15:35:06.366Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,21 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable' ",
-      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage."
+      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
+      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
+      "summary": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two."
     },
     {
       "source": "BBC World",
-      "title": "Philippine VP Sara Duterte impeached for a second time",
-      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
-      "summary": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president."
+      "title": "Washington dinner shooting suspect pleads not guilty",
+      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "TikTok launches £3.99 subscription for no ads in UK ",
+      "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
+      "summary": "Those who don't subscribe will be able to use the platform for free - but be shown personalised ads by default."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +33,35 @@
     },
     {
       "source": "BBC Technology",
-      "title": "TikTok scales back AI-generated video descriptions after absurd errors",
-      "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
-      "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
-      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta."
+      "title": "International cyber attack disrupts swathe of universities and schools ",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
+      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Logitech’s tiny folding mouse improves upon the laptop trackpad",
+        "#text": "GM settles California lawsuit claiming it sold driving habit data to insurance companies",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images",
+      "url": "https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Bastl Kalimba is a wild synth that thinks it’s a thumb piano",
+        "#text": "Matter and OpenADR team up to connect smart homes to the grid",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/927638/the-bastl-kalimba-is-a-wild-synth-that-thinks-its-a-thumb-piano",
+      "url": "https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Ashnymph’s Childhood EP is exhilarating dance goth rock",
+        "#text": "Joanna Stern is not a robot, but she lived with them",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
+      "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
       "summary": "(要約準備中)"
     }
   ]
