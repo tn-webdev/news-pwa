@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、AIエージェントが自己のミスから学ぶ「夢見る」システムを導入",
-    "title_en": "Anthropic introduces \"dreaming,\" a system that lets AI agents learn from their own mistakes",
-    "summary": "Anthropicは最近、Code with Claude開発者カンファレンスでClaude Managed Agentsプラットフォームの主要なアップデートを発表し、AIエージェントが過去のセッションから学習し、時間をかけて改善する新しい「夢見る」機能を導入しました。また、同社は有効な結果を出すための実験的機能である成果とマルチエージェントオーケストレーションを公開ベータ版に移行し、開発者が複雑なタスクに対して正確かつ効果的なAIシステムを構築する能力を向上させました。初期の利用者からは効率とタスク完了率の大幅な改善が報告されており、企業向けAIアプリケーションに対するこれらの進歩への強い需要を示しています。",
-    "summary_en": "Anthropic recently introduced major updates to its Claude Managed Agents platform at the Code with Claude developer conference, including a new \"dreaming\" feature that allows AI agents to learn from past sessions and improve over time. Additionally, the company moved two experimental features—outcomes and multi-agent orchestration—into public beta, enhancing the ability of developers to create accurate and effective AI systems for complex tasks. Early adopters have reported significant improvements in efficiency and task completion, indicating strong demand for these advancements in enterprise-level AI applications.",
-    "link": "https://venturebeat.com/technology/anthropic-introduces-dreaming-a-system-that-lets-ai-agents-learn-from-their-own-mistakes",
+    "title": "意図に基づく混沌テストは、AIが自信を持って — しかし誤った行動をする時に設計されています",
+    "title_en": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
+    "summary": "この記事では、自律型AIシステムの導入におけるテスト手法の改善がいかに重要であるかを論じています。特に、予測できないシナリオに直面した際にAIエージェントが壊滅的な決定を下す事例が増えていることを踏まえています。具体的な例として、誤った異常に反応してシステムを自律的にロールバックし、4時間の停止を引き起こした可観測性エージェントが取り上げられています。これは、決定論的な成果に焦点を当て、AIの予測不可能な行動を考慮しない従来のテスト方法の不十分さを示しています。著者は、意図に基づく混沌テストを提唱し、故障条件下でのAIの行動を評価するための構造化されたフレームワークを通じて、エージェントが本番環境で展開される前にその意図された運用範囲内に留まることを確保する必要性を訴えています。",
+    "summary_en": "The article discusses the critical need for improved testing methodologies in the deployment of autonomous AI systems, particularly in light of incidents where AI agents make catastrophic decisions due to encountering unpredicted scenarios. It highlights a specific example of an observability agent that caused a four-hour outage by autonomously rolling back a system in response to a false anomaly, illustrating the inadequacy of traditional testing methods which focus on deterministic outcomes and do not account for the unpredictable nature of AI behavior. The author advocates for intent-based chaos testing, suggesting a structured framework to assess AI behavior under failure conditions, ensuring that agents remain within their intended operational boundaries before being deployed in production environments.",
+    "link": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
     "category": "AI",
-    "publishedAt": "2026-05-08 19:18"
+    "publishedAt": "2026-05-11 17:24"
   },
   {
     "source": "VentureBeat",
-    "title": "Sakanaが7Bモデルを用いてGPT、Claude、Gemini LLMを調整する方法",
-    "title_en": "How Sakana trained a 7B model to orchestrate GPT, Claude and Gemini LLMs",
-    "summary": "Sakana AIは、複数のワーカーLLMの調整を自動化する強化学習に基づいた言語モデル「RL Conductor」を開発しました。このシステムは、変動するクエリ分布に苦しむ固定的でハードコードされたAIフレームワークの限界を克服しています。RL Conductorは、複雑な推論やコーディングタスクで優れたパフォーマンスを発揮し、GPT-5やClaude Sonnet 4などの先進モデルを上回る一方で、より効率的でコスト効果に優れています。Sakana AIは、このConductorを商業製品「Fugu」に統合し、従来のAIシステムが不十分であった産業における生産性の向上を目指しています。",
-    "summary_en": "Sakana AI has developed the RL Conductor, a reinforcement learning-based language model that automates the orchestration of multiple worker LLMs, overcoming the limitations of rigid, hard-coded AI frameworks that struggle with shifting query distributions. This system excels in complex reasoning and coding tasks, outperforming leading models like GPT-5 and Claude Sonnet 4 while being more efficient and cost-effective. Sakana AI is integrating the Conductor into its commercial product, Fugu, which aims to enhance productivity in industries where traditional AI systems have fallen short.",
-    "link": "https://venturebeat.com/orchestration/how-sakana-trained-a-7b-model-to-orchestrate-gpt-5-claude-sonnet-4-and-gemini-2-5-pro",
+    "title": "Anthropic、80倍の成長を遂げた後に300億ドルの収益ランレートに達したと発表",
+    "title_en": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
+    "summary": "AnthropicのCEO、ダリオ・アモデイ氏は、同社の成長が年間80倍に急増し、当初予定していた10倍の成長を大幅に上回ったため、コンピュータリソースの管理に課題が生じていると最近明らかにしました。AIコーディングツールのClaude Codeはこの急速な成功の主要な要因となっており、ローンチから間もなく10億ドルの収益に達し、1,000を超える企業顧客を引き付ける驚異的な成長軌道を描いています。Anthropicは潜在的なIPOに向けて9000億ドルを超える評価を目指して準備を進める中、アモデイ氏は急増する需要に応えるためにインフラを強化する必要性を強調し、AIが知識労働を変革する可能性についての大きなビジョンを強調しました。",
+    "summary_en": "Dario Amodei, the CEO of Anthropic, recently revealed that the company's growth has surged to 80-fold annually, significantly exceeding their planned 10-fold growth, leading to challenges in managing compute resources. The company's AI coding tool, Claude Code, has become a key driver of this rapid success, achieving a $1 billion revenue milestone shortly after launch and reaching a remarkable growth trajectory that has attracted over 1,000 enterprise customers. As Anthropic prepares for a potential IPO and aims for a valuation exceeding $900 billion, Amodei acknowledges the urgent need to strengthen their infrastructure to meet soaring demand, emphasizing a larger vision for AI's potential transformation of knowledge work.",
+    "link": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
     "category": "AI",
-    "publishedAt": "2026-05-08 19:19"
+    "publishedAt": "2026-05-11 17:24"
   },
   {
     "source": "NHK",
-    "title": "「ニンテンドースイッチ2」1万円値上げへ 半導体価格の上昇で",
+    "title": "中国国内の新車販売 前年同月比21％余減 輸出強化の動き加速へ",
     "title_en": "",
-    "summary": "任天堂は、昨年発売した新型ゲーム機「ニンテンドースイッチ2」の国内専用モデルを1万円値上げすることを発表しました。半導体の価格上昇がその理由とされています。これにより、消費者への影響が懸念されます。",
+    "summary": "最近、中国国内の新車販売台数が前年同月比で21％以上減少しました。これは、電気自動車への税制優遇の縮小が影響しています。一方で、輸出は大幅に増加しており、国内市場の先行きが不透明な中で、自動車メーカーは輸出強化を進める見通しです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116961000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118561000.html",
     "category": "経済",
-    "publishedAt": "2026-05-08 19:19"
+    "publishedAt": "2026-05-11 17:24"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、ホルムズ海峡での交戦の後も米イランの停戦が維持されていると発言",
-    "title_en": "Trump says US-Iran ceasefire still in place after exchange of fire in Strait of Hormuz",
-    "summary": "イランは、米国が石油タンカーを標的にし、沿岸地域への攻撃を行ったとして、停戦合意を違反したと非難しています。この非難は、両国の間の緊張が高まっていることを示すもので、イランの主張は地域における米国の軍事行動への不満を反映しています。",
-    "summary_en": "Iran has accused the United States of breaching a ceasefire agreement by allegedly targeting an oil tanker and launching attacks on coastal regions. This accusation marks an escalation in tensions between the two nations amid ongoing conflicts. Iran's claims reflect its ongoing frustrations with US military actions in the region.",
-    "link": "https://www.bbc.com/news/articles/c626zyywxjno?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、米国の戦争終結提案に対するイランの反応を「全く受け入れられない」と表明",
+    "title_en": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
+    "summary": "イランは、ホルムズ海峡に対する主権を主張し、米国の海上封鎖の解除を求め、地域における紛争による損害に対する補償を要求しています。これらの要求は、テヘランの地域安全保障に対する立場や、国際舞台でのさらなる認知を求める姿勢を反映しています。この状況は、特に海洋支配と制裁の経済的影響に関して、イランと米国の間に続く緊張を浮き彫りにしています。",
+    "summary_en": "Iran is seeking the removal of the US naval blockade, asserting its sovereignty over the Strait of Hormuz, and demanding compensation for damages caused by conflicts in the region. These requests reflect Tehran's stance on regional security and its desire for greater recognition on the global stage. The situation underscores ongoing tensions between Iran and the US, particularly regarding maritime control and economic impacts of sanctions.",
+    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-08 19:19"
+    "publishedAt": "2026-05-11 17:25"
   },
   {
     "source": "NHK",
-    "title": "ハンタウイルス 感染した乗客と接触の客室乗務員 陰性確認",
+    "title": "ハンタウイルス集団感染疑いのクルーズ船 乗客が下船始める",
     "title_en": "",
-    "summary": "オランダの航空会社の客室乗務員が、ハンタウイルスに感染した女性と接触したため、感染の疑いで検査を受けていました。世界保健機関は、この客室乗務員がウイルスに感染していないことを確認したと発表しました。これにより、感染拡大の懸念は解消されました。",
+    "summary": "ハンタウイルスの集団感染が疑われるクルーズ船が、テネリフェ島の港に到着しました。乗客の下船が始まる中、感染拡大の懸念が高まっています。衛生当局は状況を注視しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260508/k10015116921000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117801000.html",
     "category": "その他",
-    "publishedAt": "2026-05-08 19:19"
+    "publishedAt": "2026-05-11 17:25"
   }
 ]
