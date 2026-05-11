@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-11T15:35:06.366Z",
+  "updatedAt": "2026-05-11T20:03:25.661Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Portrait looted by Nazis found in home of Dutch SS leader's descendants",
-      "url": "https://www.bbc.com/news/articles/cgmpj0p9k08o?at_medium=RSS&at_campaign=rss",
-      "summary": "The painting is believed to have been plundered by high-ranking Nazi Hermann Goering during World War Two."
+      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
+      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two people are being monitored in Atlanta, while 16 others are in Nebraska at the nation's only national quarantine unit."
     },
     {
       "source": "BBC World",
-      "title": "Washington dinner shooting suspect pleads not guilty",
-      "url": "https://www.bbc.com/news/articles/c4g48ewgz8mo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cole Tomas Allen, 31, was charged with attempting to assassinate US President Donald Trump."
+      "title": "Trump says Iran ceasefire is on 'massive life support'",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\"."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "GM settles California lawsuit claiming it sold driving habit data to insurance companies",
+        "#text": "Govee’s new portable smart lamp is on sale for the first time ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/927863/gm-settles-california-lawsuit-claiming-it-sold-driving-habit-data-to-insurance-companies",
+      "url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Matter and OpenADR team up to connect smart homes to the grid",
+        "#text": "Palantir&#8217;s true believers are wearing this jacket",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/927756/matter-openadr-demand-response-smart-home-energy-management",
+      "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Joanna Stern is not a robot, but she lived with them",
+        "#text": "Apple brings encrypted RCS chats to iPhone",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
       "summary": "(要約準備中)"
     }
   ]
