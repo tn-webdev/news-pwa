@@ -1,29 +1,23 @@
 {
-  "updatedAt": "2026-05-11T04:36:36.162Z",
+  "updatedAt": "2026-05-11T09:59:21.602Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US and French nationals test positive for hantavirus after leaving ship",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris."
+    },
     {
       "source": "BBC World",
       "title": "Trump calls Iran response to US proposal to end war 'totally unacceptable' ",
       "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
-      "summary": "No details have been released of Iran's response - or the US proposals - designed to bring the war to an end."
+      "summary": "Iran is reported to want lifting of the US naval blockade, recognition of Iranian sovereignty over the Strait of Hormuz and compensation for war damage."
     },
     {
       "source": "BBC World",
-      "title": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
-      "url": "https://www.bbc.com/news/articles/cjrpnjpl39po?at_medium=RSS&at_campaign=rss",
-      "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank."
-    },
-    {
-      "source": "BBC World",
-      "title": "French national shows symptoms on return from hantavirus-hit ship",
-      "url": "https://www.bbc.com/news/articles/c3r2p70jdy7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Five passengers of the MV Hondius will be quarantined in Paris \"until further notice\", France's prime minister says."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Cyber-crime increasingly coming with threats of physical violence",
-      "url": "https://www.bbc.com/news/articles/cr71d8vyjv0o?at_medium=RSS&at_campaign=rss",
-      "summary": "While hackers used to sneak into computer systems, intimidation of staff is now more common."
+      "title": "Philippine VP Sara Duterte impeached for a second time",
+      "url": "https://www.bbc.com/news/articles/cqlp21q4yq4o?at_medium=RSS&at_campaign=rss",
+      "summary": "If convicted in a Senate trial, which is uncertain, she will be disqualified from running for president."
     },
     {
       "source": "BBC Technology",
@@ -36,6 +30,21 @@
       "title": "TikTok scales back AI-generated video descriptions after absurd errors",
       "url": "https://www.bbc.com/news/articles/c5yerd05n01o?at_medium=RSS&at_campaign=rss",
       "summary": "While only rolled out to some users, the feature's bizarre AI-generated descriptions were shared widely."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Instagram privacy tech is turned off today - what does this mean for your DMs?",
+      "url": "https://www.bbc.com/news/articles/clypzxl3lvqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The platform said it would remove end-to-end encrypted messages, a major U‑turn by parent company Meta."
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Logitech’s tiny folding mouse improves upon the laptop trackpad",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/927695/logitech-folding-mouse-leaked-images",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/927620/ashnymph-childhood-ep-music-review",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Cricut’s $99 craft cutting machine helped me feel creative again",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/924281/cricut-joy-2-smart-cutting-machine-printer-hands-on",
       "summary": "(要約準備中)"
     }
   ]
