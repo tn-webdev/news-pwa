@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T09:12:06.826Z",
+  "updatedAt": "2026-05-12T14:50:14.858Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
-      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking."
+      "title": "US inflation jumps to 3.8% as energy costs surge from Iran war",
+      "url": "https://www.bbc.com/news/articles/c202pgxx89lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The key measure of US inflation rises its highest level since May 2023 as consumers feel the impact of the Iran war."
     },
     {
       "source": "BBC World",
-      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?"
+      "title": "Uganda's president sworn in for record seventh term",
+      "url": "https://www.bbc.com/news/articles/cqxp23272j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Yoweri Museveni, 81, won disputed elections in January to extend his 40-year rule."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Canvas hack: Company pays criminals to delete students' stolen data",
+      "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Texas accuses Netflix of spying on users, including children",
+      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
+      "summary": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Woodworking shops have been transformed by tech to make tools safer and more precise."
     },
     {
-      "source": "BBC Technology",
-      "title": "TikTok launches £3.99 subscription for no ads in UK ",
-      "url": "https://www.bbc.com/news/articles/cn0pgl0vk0qo?at_medium=RSS&at_campaign=rss",
-      "summary": "Those who don't subscribe will be able to use the platform for free - but be shown personalised ads by default."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "How sunburn inspired a new way to store energy",
-      "url": "https://www.bbc.com/news/articles/c62l9gnx775o?at_medium=RSS&at_campaign=rss",
-      "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "These new Roombas are smaller and cheaper",
+        "#text": "There’s an internet choke point in the Middle East — is the solution in the North Pole?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "url": "https://www.theverge.com/report/928512/arctic-internet-cable-chokepoint-polar-connect",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
+        "#text": "Amazon’s ultrafast 30-minute deliveries are now available in more cities",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+      "url": "https://www.theverge.com/tech/928473/amazons-ultrafast-30-minute-deliveries-are-now-available-in-more-cities",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI just released its answer to Claude Mythos",
+        "#text": "Waymo recalls robotaxis for driving on flooded roads",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
+      "url": "https://www.theverge.com/transportation/928480/waymo-recall-flooded-roads-robotaxi",
       "summary": "(要約準備中)"
     }
   ]
