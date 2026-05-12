@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-12T04:05:42.533Z",
+  "updatedAt": "2026-05-12T09:12:06.826Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?"
+      "title": "France seeks to move beyond colonial ties by meeting African leaders in Kenya",
+      "url": "https://www.bbc.com/news/articles/cpqpernnx8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a first since these meetings started in the 1970s, this move reflects a change in France's thinking."
     },
     {
       "source": "BBC World",
-      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "summary": "An American and a French national who have returned home have tested positive for hantavirus."
+      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?"
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "These new Roombas are smaller and cheaper",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/928373/irobot-roomba-robot-vacuums-price-specs-release-date",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Sony upgraded its wearable AC so it’s cooler and better at hugging your neck",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/928220/sony-reon-pocket-pro-plus-personal-wearable-air-conditioner",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "OpenAI just released its answer to Claude Mythos",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
       "summary": "(要約準備中)"
     }
   ]
