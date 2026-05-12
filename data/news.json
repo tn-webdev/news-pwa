@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-11T20:03:25.661Z",
+  "updatedAt": "2026-05-12T04:05:42.533Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "US and French nationals test positive for hantavirus after leaving ship",
-      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
-      "summary": "The American national has arrived in Nebraska, while a French woman is isolating in Paris."
-    },
-    {
-      "source": "BBC World",
-      "title": "US passengers quarantining in Nebraska as officials say public hantavirus risk 'very low'",
-      "url": "https://www.bbc.com/news/articles/cwy2e9e1g0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two people are being monitored in Atlanta, while 16 others are in Nebraska at the nation's only national quarantine unit."
-    },
     {
       "source": "BBC World",
       "title": "Trump says Iran ceasefire is on 'massive life support'",
       "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
       "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\"."
+    },
+    {
+      "source": "BBC World",
+      "title": "How the Trump-Xi summit could set superpower relations for many years to come",
+      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?"
+    },
+    {
+      "source": "BBC World",
+      "title": "Last passengers leave virus-hit cruise ship as three more test positive",
+      "url": "https://www.bbc.com/news/articles/cjep78l5835o?at_medium=RSS&at_campaign=rss",
+      "summary": "An American and a French national who have returned home have tested positive for hantavirus."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Not so dusty: How tech is changing woodworking",
+      "url": "https://www.bbc.com/news/articles/c747n11933eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Woodworking shops have been transformed by tech to make tools safer and more precise."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Molecules that can capture heat could be a useful technology to decarbonise heating. "
     },
     {
-      "source": "BBC Technology",
-      "title": "International cyber attack disrupts swathe of universities and schools ",
-      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
-      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Govee’s new portable smart lamp is on sale for the first time ",
+        "#text": "OpenAI just released its answer to Claude Mythos",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/928249/govee-table-lamp-classic-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928342/openai-daybreak-security-ai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Palantir&#8217;s true believers are wearing this jacket",
+        "#text": "Yarbo says it will remove the intentional backdoor from its robot lawn mower",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/928026/palantir-chore-coat",
+      "url": "https://www.theverge.com/tech/928289/yarbo-remove-robot-lawn-mower-backdoor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple brings encrypted RCS chats to iPhone",
+        "#text": "Here&#8217;s what Mira Murati&#8217;s AI company is up to",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/928141/apple-ios-26-5-rcs-messages-iphone-google-android",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928309/mira-murati-thinking-machines-ai-interaction-model",
       "summary": "(要約準備中)"
     }
   ]
