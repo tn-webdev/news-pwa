@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "意図に基づく混沌テストは、AIが自信を持って — しかし誤った行動をする時に設計されています",
-    "title_en": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
-    "summary": "この記事では、自律型AIシステムの導入におけるテスト手法の改善がいかに重要であるかを論じています。特に、予測できないシナリオに直面した際にAIエージェントが壊滅的な決定を下す事例が増えていることを踏まえています。具体的な例として、誤った異常に反応してシステムを自律的にロールバックし、4時間の停止を引き起こした可観測性エージェントが取り上げられています。これは、決定論的な成果に焦点を当て、AIの予測不可能な行動を考慮しない従来のテスト方法の不十分さを示しています。著者は、意図に基づく混沌テストを提唱し、故障条件下でのAIの行動を評価するための構造化されたフレームワークを通じて、エージェントが本番環境で展開される前にその意図された運用範囲内に留まることを確保する必要性を訴えています。",
-    "summary_en": "The article discusses the critical need for improved testing methodologies in the deployment of autonomous AI systems, particularly in light of incidents where AI agents make catastrophic decisions due to encountering unpredicted scenarios. It highlights a specific example of an observability agent that caused a four-hour outage by autonomously rolling back a system in response to a false anomaly, illustrating the inadequacy of traditional testing methods which focus on deterministic outcomes and do not account for the unpredictable nature of AI behavior. The author advocates for intent-based chaos testing, suggesting a structured framework to assess AI behavior under failure conditions, ensuring that agents remain within their intended operational boundaries before being deployed in production environments.",
-    "link": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
+    "title": "Thinking Machines、近リアルタイムAI音声・動画対話の新しい「インタラクションモデル」を発表",
+    "title_en": "Thinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models'",
+    "summary": "AIスタートアップのThinking Machinesは、元OpenAI CTOのミラ・ムラティが共同設立した企業で、「インタラクションモデル」と呼ばれる新しいAIモデルのクラスを発表しました。このモデルは、従来の「ターン制」コミュニケーションを超え、同時に入力と出力を処理できることを目的としています。リアルタイム対話と複雑な推論のためのデュアルモデルシステムを使用するこの革新的なアプローチは、応答性とインタラクションの質を向上させ、既存のシステムに比べて顕著なパフォーマンス向上を実現します。モデルは現在、限定的な研究プレビュー段階にありますが、企業環境における潜在的な応用は、AIがさまざまなワークフローに統合される方法を革命的に変える可能性を秘めており、動的な環境でのリアルタイム監視や積極的なフィードバックなどの機能を提供します。",
+    "summary_en": "Thinking Machines, an AI startup co-founded by former OpenAI CTO Mira Murati, has announced a new class of AI models called \"interaction models,\" designed to move beyond traditional \"turn-based\" communication by allowing for simultaneous input and output processing. This innovative approach, which uses a dual model system for real-time dialogue and complex reasoning, aims to enhance responsiveness and interaction quality, achieving notable performance improvements compared to existing systems. While the models are currently in a limited research preview phase, their potential applications in enterprise settings could revolutionize how AI is integrated into various workflows, offering capabilities like real-time monitoring and proactive feedback in dynamic environments.",
+    "link": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models",
     "category": "AI",
-    "publishedAt": "2026-05-11 17:24"
+    "publishedAt": "2026-05-12 16:22"
   },
   {
     "source": "VentureBeat",
-    "title": "Anthropic、80倍の成長を遂げた後に300億ドルの収益ランレートに達したと発表",
-    "title_en": "Anthropic says it hit a $30 billion revenue run rate after 'crazy' 80x growth",
-    "summary": "AnthropicのCEO、ダリオ・アモデイ氏は、同社の成長が年間80倍に急増し、当初予定していた10倍の成長を大幅に上回ったため、コンピュータリソースの管理に課題が生じていると最近明らかにしました。AIコーディングツールのClaude Codeはこの急速な成功の主要な要因となっており、ローンチから間もなく10億ドルの収益に達し、1,000を超える企業顧客を引き付ける驚異的な成長軌道を描いています。Anthropicは潜在的なIPOに向けて9000億ドルを超える評価を目指して準備を進める中、アモデイ氏は急増する需要に応えるためにインフラを強化する必要性を強調し、AIが知識労働を変革する可能性についての大きなビジョンを強調しました。",
-    "summary_en": "Dario Amodei, the CEO of Anthropic, recently revealed that the company's growth has surged to 80-fold annually, significantly exceeding their planned 10-fold growth, leading to challenges in managing compute resources. The company's AI coding tool, Claude Code, has become a key driver of this rapid success, achieving a $1 billion revenue milestone shortly after launch and reaching a remarkable growth trajectory that has attracted over 1,000 enterprise customers. As Anthropic prepares for a potential IPO and aims for a valuation exceeding $900 billion, Amodei acknowledges the urgent need to strengthen their infrastructure to meet soaring demand, emphasizing a larger vision for AI's potential transformation of knowledge work.",
-    "link": "https://venturebeat.com/technology/anthropic-says-it-hit-a-30-billion-revenue-run-rate-after-crazy-80x-growth",
+    "title": "意図に基づく混沌テストは、AIが自信を持って—そして誤って—振る舞う際に必要とされる",
+    "title_en": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
+    "summary": "この記事では、自律型AIシステムの導入に伴うリスクについて論じています。特に、観測エージェントが誤認した異常によりロールバックを不適切にトリガーし、重大な停止を引き起こしたシナリオが強調されています。著者は、従来のテスト方法論は決定論、孤立した失敗、および可観測な完了を前提としており、複雑で確率的な環境では適用できないため、エージェント型AIには不十分であると主張しています。著者は、AIの振る舞いを本番環境前に検証するための意図に基づく混沌テストを支持し、AIエージェントが予期しない条件下でどのように振る舞うかを評価するフレームワークの必要性を強調しています。最終的には、AI導入におけるリスク管理と検証プロセスの強化を目指しています。",
+    "summary_en": "The article discusses the risks associated with deploying autonomous AI systems, particularly highlighting a scenario where an observability agent incorrectly triggered a rollback due to a misunderstood anomaly, leading to a significant outage. It argues that traditional testing methodologies are inadequate for agentic AI because they assume determinism, isolated failure, and observable completion, which do not hold in complex, probabilistic environments. The author advocates for intent-based chaos testing to validate AI behavior before production, emphasizing the need for a framework that evaluates how an AI agent behaves under unexpected conditions, ultimately aiming for enhanced risk control and validation processes in AI deployments.",
+    "link": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
     "category": "AI",
-    "publishedAt": "2026-05-11 17:24"
+    "publishedAt": "2026-05-12 16:22"
   },
   {
     "source": "NHK",
-    "title": "中国国内の新車販売 前年同月比21％余減 輸出強化の動き加速へ",
+    "title": "ベッセント米財務長官 高市首相や片山財務相と会談",
     "title_en": "",
-    "summary": "最近、中国国内の新車販売台数が前年同月比で21％以上減少しました。これは、電気自動車への税制優遇の縮小が影響しています。一方で、輸出は大幅に増加しており、国内市場の先行きが不透明な中で、自動車メーカーは輸出強化を進める見通しです。",
+    "summary": "アメリカのベッセント財務長官が日本を訪問中です。高市総理大臣や片山財務大臣との会談を行い、米中首脳会談に向けた準備を進めています。会談は今週後半に中国で予定されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260511/k10015118561000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119121000.html",
     "category": "経済",
-    "publishedAt": "2026-05-11 17:24"
+    "publishedAt": "2026-05-12 16:22"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、米国の戦争終結提案に対するイランの反応を「全く受け入れられない」と表明",
-    "title_en": "Trump calls Iran response to US proposal to end war 'totally unacceptable'",
-    "summary": "イランは、ホルムズ海峡に対する主権を主張し、米国の海上封鎖の解除を求め、地域における紛争による損害に対する補償を要求しています。これらの要求は、テヘランの地域安全保障に対する立場や、国際舞台でのさらなる認知を求める姿勢を反映しています。この状況は、特に海洋支配と制裁の経済的影響に関して、イランと米国の間に続く緊張を浮き彫りにしています。",
-    "summary_en": "Iran is seeking the removal of the US naval blockade, asserting its sovereignty over the Strait of Hormuz, and demanding compensation for damages caused by conflicts in the region. These requests reflect Tehran's stance on regional security and its desire for greater recognition on the global stage. The situation underscores ongoing tensions between Iran and the US, particularly regarding maritime control and economic impacts of sanctions.",
-    "link": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領、イランの休戦は「大規模な生命維持装置」にあると発言",
+    "title_en": "Trump says Iran ceasefire is on 'massive life support'",
+    "summary": "アメリカの大統領は、イランが提示した戦争終結への反提案に対して不満を示し、それを「信じられないほど弱い」と評しました。イランによる1か月間の休戦提案の条件を批判し、状況に対処できていないと指摘しました。この発言は、イランとの交渉に関してアメリカが厳しい姿勢を示していることを示唆しています。",
+    "summary_en": "The US president has expressed discontent with Iran's counteroffer to end the ongoing war, labeling it \"unbelievably weak.\" He criticized the terms of the month-long ceasefire proposed by Iran, indicating it does not adequately address the situation. The remarks suggest a tough stance from the US regarding negotiations with Iran.",
+    "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-11 17:25"
+    "publishedAt": "2026-05-12 16:22"
   },
   {
     "source": "NHK",
-    "title": "ハンタウイルス集団感染疑いのクルーズ船 乗客が下船始める",
+    "title": "能登半島地震 珠洲市沖の複数の活断層が津波引き起こしたか",
     "title_en": "",
-    "summary": "ハンタウイルスの集団感染が疑われるクルーズ船が、テネリフェ島の港に到着しました。乗客の下船が始まる中、感染拡大の懸念が高まっています。衛生当局は状況を注視しています。",
+    "summary": "おととしの能登半島地震での津波は、石川県珠洲市沖合の活断層によって引き起こされたとされます。調査では、活断層帯周辺の海底が数十メートル隆起していることが確認されました。研究グループは、過去にも同様の地震や津波があった可能性があると指摘しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260510/k10015117801000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119391000.html",
     "category": "その他",
-    "publishedAt": "2026-05-11 17:25"
+    "publishedAt": "2026-05-12 16:22"
   }
 ]
