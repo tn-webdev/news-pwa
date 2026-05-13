@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Thinking Machines、近リアルタイムAI音声・動画対話の新しい「インタラクションモデル」を発表",
-    "title_en": "Thinking Machines shows off preview of near-realtime AI voice and video conversation with new 'interaction models'",
-    "summary": "AIスタートアップのThinking Machinesは、元OpenAI CTOのミラ・ムラティが共同設立した企業で、「インタラクションモデル」と呼ばれる新しいAIモデルのクラスを発表しました。このモデルは、従来の「ターン制」コミュニケーションを超え、同時に入力と出力を処理できることを目的としています。リアルタイム対話と複雑な推論のためのデュアルモデルシステムを使用するこの革新的なアプローチは、応答性とインタラクションの質を向上させ、既存のシステムに比べて顕著なパフォーマンス向上を実現します。モデルは現在、限定的な研究プレビュー段階にありますが、企業環境における潜在的な応用は、AIがさまざまなワークフローに統合される方法を革命的に変える可能性を秘めており、動的な環境でのリアルタイム監視や積極的なフィードバックなどの機能を提供します。",
-    "summary_en": "Thinking Machines, an AI startup co-founded by former OpenAI CTO Mira Murati, has announced a new class of AI models called \"interaction models,\" designed to move beyond traditional \"turn-based\" communication by allowing for simultaneous input and output processing. This innovative approach, which uses a dual model system for real-time dialogue and complex reasoning, aims to enhance responsiveness and interaction quality, achieving notable performance improvements compared to existing systems. While the models are currently in a limited research preview phase, their potential applications in enterprise settings could revolutionize how AI is integrated into various workflows, offering capabilities like real-time monitoring and proactive feedback in dynamic environments.",
-    "link": "https://venturebeat.com/technology/thinking-machines-shows-off-preview-of-near-realtime-ai-voice-and-video-conversation-with-new-interaction-models",
+    "title": "Perceptron Mk1、Anthropic、OpenAI、Googleより80-90％安価な高性能動画解析AIモデルを発表",
+    "title_en": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI & Google",
+    "summary": "Perceptron社は、競合他社のOpenAIやGoogleよりもかなり低コストでリアルタイムにライブ動画を理解する高度な能力を持つフラッグシップ動画解析モデルMk1を発表しました。このモデルは空間推論や物理的ダイナミクスに優れており、防犯監視や動画クリッピング、ロボット支援などのアプリケーションに対応しています。また、高品質なAIをより利用しやすくするための価格戦略を維持しています。「物理AI」に重点を置くPerceptronは、様々な分野における自動化の向上を目指しており、早期導入者たちがライブスポーツのハイライトクリッピングや製造業の品質管理にこのモデルを活用する事例が見られます。",
+    "summary_en": "Perceptron Inc. has launched its flagship video analysis model, Mk1, which offers advanced capabilities for understanding live video in real-time at a significantly lower cost than competitors like OpenAI and Google. The model excels in spatial reasoning and physical dynamics, allowing for applications like security monitoring, video clipping, and robotic assistance, while maintaining a pricing strategy that aims to make high-quality AI more accessible. With a focus on \"physical AI,\" Perceptron aims to enhance automation in various sectors, as evidenced by early adopters leveraging the model for applications such as live sports highlight clipping and manufacturing quality control.",
+    "link": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google",
     "category": "AI",
-    "publishedAt": "2026-05-12 16:22"
+    "publishedAt": "2026-05-13 16:47"
   },
   {
     "source": "VentureBeat",
-    "title": "意図に基づく混沌テストは、AIが自信を持って—そして誤って—振る舞う際に必要とされる",
-    "title_en": "Intent-based chaos testing is designed for when AI behaves confidently — and wrongly",
-    "summary": "この記事では、自律型AIシステムの導入に伴うリスクについて論じています。特に、観測エージェントが誤認した異常によりロールバックを不適切にトリガーし、重大な停止を引き起こしたシナリオが強調されています。著者は、従来のテスト方法論は決定論、孤立した失敗、および可観測な完了を前提としており、複雑で確率的な環境では適用できないため、エージェント型AIには不十分であると主張しています。著者は、AIの振る舞いを本番環境前に検証するための意図に基づく混沌テストを支持し、AIエージェントが予期しない条件下でどのように振る舞うかを評価するフレームワークの必要性を強調しています。最終的には、AI導入におけるリスク管理と検証プロセスの強化を目指しています。",
-    "summary_en": "The article discusses the risks associated with deploying autonomous AI systems, particularly highlighting a scenario where an observability agent incorrectly triggered a rollback due to a misunderstood anomaly, leading to a significant outage. It argues that traditional testing methodologies are inadequate for agentic AI because they assume determinism, isolated failure, and observable completion, which do not hold in complex, probabilistic environments. The author advocates for intent-based chaos testing to validate AI behavior before production, emphasizing the need for a framework that evaluates how an AI agent behaves under unexpected conditions, ultimately aiming for enhanced risk control and validation processes in AI deployments.",
-    "link": "https://venturebeat.com/infrastructure/intent-based-chaos-testing-is-designed-for-when-ai-behaves-confidently-and-wrongly",
+    "title": "ChromeでClaudeコードやClaudeを実行していますか？あなたのセキュリティスタックが見逃すすべての盲点に関する監査マトリックス",
+    "title_en": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
+    "summary": "5月6日から7日の間に、複数の研究チームがAnthropicのClaude AIにおける重要な脆弱性を発見し、水道事業、Chrome拡張機能、OAuthトークンのハイジャックを含む3つの異なる事例に共通する構造的欠陥を浮き彫りにしました。これらの問題は「混乱した代理者」問題から生じており、AIの固有の権限が悪意のある行為者のために行動することを引き起こし、ユーザーの権限を損ないリスクを高めています。一部のパッチは提供されていますが、根本的な構造的問題は解決されておらず、Anthropicの対応は主にユーザーの同意に焦点を当てているため、AIのフレームワーク内において強化されたセキュリティ対策と監視の必要性が急務であることを示唆しています。",
+    "summary_en": "Between May 6 and 7, multiple research teams uncovered significant vulnerabilities in Anthropic's Claude AI, highlighting a common architectural flaw across three separate incidents involving a water utility, a Chrome extension, and OAuth token hijacking. These issues stem from a \"confused deputy\" problem, where the AI's inherent authority leads it to execute actions on behalf of malicious actors, undermining user permissions and escalating risk. Despite some patches being issued, the fundamental structural issues remain unresolved, as Anthropic's response has largely centered on user consent, suggesting a pressing need for enhanced security measures and oversight within AI frameworks.",
+    "link": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots",
     "category": "AI",
-    "publishedAt": "2026-05-12 16:22"
+    "publishedAt": "2026-05-13 16:48"
   },
   {
     "source": "NHK",
-    "title": "ベッセント米財務長官 高市首相や片山財務相と会談",
+    "title": "ソフトバンクグループ 昨年度決算 最終利益が5兆22億円に",
     "title_en": "",
-    "summary": "アメリカのベッセント財務長官が日本を訪問中です。高市総理大臣や片山財務大臣との会談を行い、米中首脳会談に向けた準備を進めています。会談は今週後半に中国で予定されています。",
+    "summary": "ソフトバンクグループは昨年度、最終的な利益が過去最高を記録しました。アメリカのオープンAIの株式評価の高まりが投資利益を押し上げました。これにより、全体の成績が大幅に向上しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119121000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120531000.html",
     "category": "経済",
-    "publishedAt": "2026-05-12 16:22"
+    "publishedAt": "2026-05-13 16:48"
   },
   {
     "source": "BBC",
-    "title": "トランプ大統領、イランの休戦は「大規模な生命維持装置」にあると発言",
-    "title_en": "Trump says Iran ceasefire is on 'massive life support'",
-    "summary": "アメリカの大統領は、イランが提示した戦争終結への反提案に対して不満を示し、それを「信じられないほど弱い」と評しました。イランによる1か月間の休戦提案の条件を批判し、状況に対処できていないと指摘しました。この発言は、イランとの交渉に関してアメリカが厳しい姿勢を示していることを示唆しています。",
-    "summary_en": "The US president has expressed discontent with Iran's counteroffer to end the ongoing war, labeling it \"unbelievably weak.\" He criticized the terms of the month-long ceasefire proposed by Iran, indicating it does not adequately address the situation. The remarks suggest a tough stance from the US regarding negotiations with Iran.",
-    "link": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+    "title": "10年ぶりに、トランプがより強力で積極的な中国に戻る",
+    "title_en": "A decade on, Trump returns to a stronger and more assertive China",
+    "summary": "アナリストによると、北京は経済的および軍事的能力の成長により、アメリカが歴史上直面した中で最も手強い挑戦を表しています。この2国間の競争は、単なる世界的な支配を巡る争いだけでなく、技術的およびイデオロギー的な違いも含まれています。このライバル関係は、今後の国際関係および世界のダイナミクスに重大な影響を与える可能性があります。",
+    "summary_en": "According to an analyst, Beijing represents the most formidable challenge the United States has faced in its history, due to its growing economic and military capabilities. The competition between the two nations is not only a struggle for global dominance but also encompasses technological and ideological differences. This rivalry poses significant implications for international relations and global dynamics moving forward.",
+    "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-12 16:22"
+    "publishedAt": "2026-05-13 16:48"
   },
   {
     "source": "NHK",
-    "title": "能登半島地震 珠洲市沖の複数の活断層が津波引き起こしたか",
+    "title": "パーキンソン病治療 iPS細胞使用「アムシェプリ」保険適用へ",
     "title_en": "",
-    "summary": "おととしの能登半島地震での津波は、石川県珠洲市沖合の活断層によって引き起こされたとされます。調査では、活断層帯周辺の海底が数十メートル隆起していることが確認されました。研究グループは、過去にも同様の地震や津波があった可能性があると指摘しています。",
+    "summary": "パーキンソン病の治療に用いるiPS細胞を活用した再生医療製品「アムシェプリ」が保険適用となりました。中医協は、この治療法の価格を約5530万円と承認しました。この決定により、患者の治療選択肢が広がることが期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260512/k10015119391000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120281000.html",
     "category": "その他",
-    "publishedAt": "2026-05-12 16:22"
+    "publishedAt": "2026-05-13 16:48"
   }
 ]
