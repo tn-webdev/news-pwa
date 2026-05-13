@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-05-13T09:18:55.916Z",
+  "updatedAt": "2026-05-13T15:13:40.927Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "A decade on, Trump returns to a stronger and more assertive China",
-      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
-      "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says."
+      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit."
     },
     {
       "source": "BBC World",
-      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
-      "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply."
+      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
+      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh."
     },
     {
       "source": "BBC World",
-      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
-      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated."
+      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
+      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
+      "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says. "
     },
     {
       "source": "BBC Technology",
-      "title": "More than 70 million warnings sent to people seeking child abuse material",
-      "url": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
-      "summary": "The messages highlight the illegality of what people are searching for online and direct them towards help."
+      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
+      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas."
     },
     {
       "source": "BBC Technology",
-      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
-      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns."
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong."
     },
     {
       "source": "BBC Technology",
-      "title": "Elon Musk said control of OpenAI should go to his children, Sam Altman tells jury",
-      "url": "https://www.bbc.com/news/articles/czj2k2exdzlo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing."
+      "title": "Suicide forum fined £950,000 for not blocking UK users",
+      "url": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The regulator said the forum had not done enough to protect UK users - but critics accuse Ofcom of acting too slowly."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Data centers are coming for rural America",
+        "#text": "Garmin’s mini satellite communicators are on sale for up to 40 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
+      "url": "https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon&#8217;s Panos Panay addresses new Fire phone rumors",
+        "#text": "Audemars Piguet and Swatch made a $400 &#8216;pop&#8217; pocket watch",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer",
+      "url": "https://www.theverge.com/tech/929625/swatch-audemars-piguet-x-swatch-royal-pop-pocket-watch",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony’s new Xperia phone gets an overdue redesign",
+        "#text": "Why does the Googlebook exist?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
+      "url": "https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini",
       "summary": "(要約準備中)"
     }
   ]
