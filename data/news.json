@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-12T20:08:29.701Z",
+  "updatedAt": "2026-05-13T04:12:38.079Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "A decade on, Trump returns to a stronger and more assertive China",
+      "url": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+      "summary": "Beijing is arguably the most powerful competitor the US has confronted in its history, one analyst says."
+    },
     {
       "source": "BBC World",
       "title": "No sign of larger hantavirus outbreak, says UN health agency ",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump says Iran ceasefire is on 'massive life support'",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person."
+      "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
+      "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta will tell parents when their teens add new interests to their Instagram algorithm",
+        "#text": "Sony’s new Xperia phone gets an overdue redesign",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/929009/meta-teen-accounts-algorithm-parental-controls",
+      "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sam Altman says Elon Musk’s mind games were damaging OpenAI",
+        "#text": "Sam Altman was winning on the stand, but it might not be enough",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/928861/openai-sam-altman-elon-musk-damage",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Android Auto is now one (screen) size fits all",
+        "#text": "iOS 27 might add a lot more customization to the Camera app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/927759/android-auto-is-now-one-screen-size-fits-all",
+      "url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
       "summary": "(要約準備中)"
     }
   ]
