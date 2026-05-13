@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T04:12:38.079Z",
+  "updatedAt": "2026-05-13T09:18:55.916Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,27 @@
     },
     {
       "source": "BBC World",
-      "title": "No sign of larger hantavirus outbreak, says UN health agency ",
-      "url": "https://www.bbc.com/news/articles/cqjpqynj1nlo?at_medium=RSS&at_campaign=rss",
-      "summary": "The situation could still change and there might be more confirmed cases, warns the head of the World Health Organization."
-    },
-    {
-      "source": "BBC World",
       "title": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
       "url": "https://www.bbc.com/news/articles/cd7p88j84j3o?at_medium=RSS&at_campaign=rss",
       "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply."
+    },
+    {
+      "source": "BBC World",
+      "title": "Ghana to evacuate 300 from South Africa over anti-immigrant protests",
+      "url": "https://www.bbc.com/news/articles/cedpv17gqqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The foreign minister says the \"distressed\" Ghanaians registered with the embassy in Pretoria to be evacuated."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "More than 70 million warnings sent to people seeking child abuse material",
+      "url": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
+      "summary": "The messages highlight the illegality of what people are searching for online and direct them towards help."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+      "url": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns."
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,22 @@
       "summary": "Sam Altman said Elon Musk tried many times for total control of OpenAI, which he's now suing."
     },
     {
-      "source": "BBC Technology",
-      "title": "Canvas hack: Company pays criminals to delete students' stolen data",
-      "url": "https://www.bbc.com/news/articles/cdepzg83x87o?at_medium=RSS&at_campaign=rss",
-      "summary": "The company behind Canvas says it has \"reached an agreement\" with the hackers who disrupted thousands of colleges and universities."
+      "source": "The Verge",
+      "title": {
+        "#text": "Data centers are coming for rural America",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/928963/data-center-rural-america-jobs-jay-maine",
+      "summary": "(要約準備中)"
     },
     {
-      "source": "BBC Technology",
-      "title": "Texas accuses Netflix of spying on users, including children",
-      "url": "https://www.bbc.com/news/articles/c072dvv1rmro?at_medium=RSS&at_campaign=rss",
-      "summary": "The lawsuit comes amid increased scrutiny over platform features like auto-play that deliver endless content to users."
+      "source": "The Verge",
+      "title": {
+        "#text": "Amazon&#8217;s Panos Panay addresses new Fire phone rumors",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/929412/amazon-panos-panay-interview-phone-transformer",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/927928/sony-xperia-viii-release-date-price-specs",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Sam Altman was winning on the stand, but it might not be enough",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/929129/sam-altman-testimony-elon-musk-openai-trial",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "iOS 27 might add a lot more customization to the Camera app",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/929152/apple-ios-27-camera-app-customization",
       "summary": "(要約準備中)"
     }
   ]
