@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-13T15:13:40.927Z",
+  "updatedAt": "2026-05-13T20:10:12.170Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump arrives in China for high-stakes meeting with Xi Jinping",
+      "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi ",
       "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaders of the global superpowers are expected to discuss the war in Iran, tariffs, AI and Taiwan during the two-day visit."
+      "summary": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Woman isolating on British island in South Pacific after hantavirus contact",
-      "url": "https://www.bbc.com/news/articles/cx21p7k70reo?at_medium=RSS&at_campaign=rss",
-      "summary": "The woman who was on a virus-hit ship shows \"no signs of illness\", the government of Pitcairn Islands, a British Overseas Territory, says. "
+      "title": "Dozens of dogs rescued and suspect arrested in Uganda after BBC investigation",
+      "url": "https://www.bbc.com/news/articles/c1j2n008k5lo?at_medium=RSS&at_campaign=rss",
+      "summary": "A BBC investigation exposed how scammers posted social content of dogs in distress to dupe donors into giving money."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Garmin’s mini satellite communicators are on sale for up to 40 percent off",
+        "#text": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale",
+      "url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Audemars Piguet and Swatch made a $400 &#8216;pop&#8217; pocket watch",
+        "#text": "Fighting Trump will make or break Disney’s new CEO",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/929625/swatch-audemars-piguet-x-swatch-royal-pop-pocket-watch",
+      "url": "https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Why does the Googlebook exist?",
+        "#text": "Netflix’s ad ambitions just keep growing",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/929374/google-googlebook-laptops-aluminium-os-questions-concerns-ai-gemini",
+      "url": "https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026",
       "summary": "(要約準備中)"
     }
   ]
