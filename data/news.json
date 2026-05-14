@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-14T08:49:49.006Z",
+  "updatedAt": "2026-05-14T14:40:40.693Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi ",
-      "url": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says his first request to Xi would be to  \"open up\" China, while Beijing is expected to press Trump on the status of Taiwan."
+      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing."
     },
     {
       "source": "BBC World",
-      "title": "Pomp and pageantry: Key moments from day one of Trump's visit to China",
-      "url": "https://www.bbc.com/news/videos/c707xn4ew3po?at_medium=RSS&at_campaign=rss",
-      "summary": "China welcomed US President Donald Trump with cheering children and a troop parade on Thursday, before a nearly two-hour long meeting with Xi-Jinping."
+      "title": "'Floating armoury' ship reportedly seized by Iran",
+      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
+      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
     },
     {
       "source": "BBC World",
-      "title": "Court overturns Alex Murdaugh's murder convictions and orders new trial",
-      "url": "https://www.bbc.com/news/articles/cedpvnq7wn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The court has ordered a new trial over the June 2021 killings of Paul and Maggie Murdaugh."
+      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
+      "summary": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains."
     },
     {
       "source": "BBC Technology",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
-      "title": "Why big tech is betting on cute mascots",
-      "url": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The likes of Apple, Microsoft and Google are all putting cartoon characters centre stage."
-    },
-    {
-      "source": "BBC Technology",
       "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
       "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
       "summary": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas."
     },
     {
+      "source": "BBC Technology",
+      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
+      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
+      "summary": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong."
+    },
+    {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
+        "#text": "How companies weaponize the terms of service against you",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
+      "url": "https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump administration defends right to ban content moderation experts from US",
+        "#text": "AMD’s FSR 4.1 upscaling tech is coming to older graphics cards",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
+      "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube is courting creators — and sponsors — with streaming shows",
+        "#text": "Dyson put a camera on its purifier so fresh air can follow you around the room",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
+      "url": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
       "summary": "(要約準備中)"
     }
   ]
