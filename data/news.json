@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-13T20:10:12.170Z",
+  "updatedAt": "2026-05-14T04:12:19.793Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Why big tech is betting on cute mascots",
+      "url": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The likes of Apple, Microsoft and Google are all putting cartoon characters centre stage."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
       "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
       "summary": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas."
@@ -32,36 +38,30 @@
       "summary": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong."
     },
     {
-      "source": "BBC Technology",
-      "title": "Suicide forum fined £950,000 for not blocking UK users",
-      "url": "https://www.bbc.com/news/articles/cdxpyvvdyn7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The regulator said the forum had not done enough to protect UK users - but critics accuse Ofcom of acting too slowly."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The crypto Clarity Act returns to the Senate this week. The banks are already trying to kill it.",
+        "#text": "Microsoft&#8217;s Edge Copilot update uses AI to pull information from across your tabs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/929752/the-crypto-clarity-act-returns-to-the-senate-this-week-the-banks-are-already-trying-to-kill-it",
+      "url": "https://www.theverge.com/tech/930188/microsoft-edge-copilot-ai-tabs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fighting Trump will make or break Disney’s new CEO",
+        "#text": "Trump administration defends right to ban content moderation experts from US",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/930009/johh-damaro-disney-trump-fcc-the-view-equal-time-doctrine",
+      "url": "https://www.theverge.com/policy/930178/citr-rubio-visa-deportation-misinformation-research",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Netflix’s ad ambitions just keep growing",
+        "#text": "YouTube is courting creators — and sponsors — with streaming shows",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026",
+      "url": "https://www.theverge.com/news/930092/youtube-creators-shows-sponsors-netflix-upfront",
       "summary": "(要約準備中)"
     }
   ]
