@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T14:40:40.693Z",
+  "updatedAt": "2026-05-14T20:01:43.330Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Warning of record global temperatures as chance of very strong El Niño grows",
-      "url": "https://www.bbc.com/weather/articles/cvgzn11v421o?at_medium=RSS&at_campaign=rss",
-      "summary": "As El Niño develops this year, scientists are increasingly confident it could be one of the strongest on record with global consequences, as Simon King explains."
+      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
+      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two children are among at least 12 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "How companies weaponize the terms of service against you",
+        "#text": "OpenAI’s Codex is now in the ChatGPT mobile app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/930342/brendan-ballou-companies-courts-forced-arbitration-lawsuits-scalia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AMD’s FSR 4.1 upscaling tech is coming to older graphics cards",
+        "#text": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/930376/amd-fsr-4-expansion",
+      "url": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dyson put a camera on its purifier so fresh air can follow you around the room",
+        "#text": "Microsoft starts canceling Claude Code licenses",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/930348/dyson-find-follow-air-purifier-cool-ai-tracking-camera-privacy",
+      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
       "summary": "(要約準備中)"
     }
   ]
