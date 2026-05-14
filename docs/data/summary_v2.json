@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Perceptron Mk1、Anthropic、OpenAI、Googleより80-90％安価な高性能動画解析AIモデルを発表",
-    "title_en": "Perceptron Mk1 shocks with highly performant video analysis AI model 80-90% cheaper than Anthropic, OpenAI & Google",
-    "summary": "Perceptron社は、競合他社のOpenAIやGoogleよりもかなり低コストでリアルタイムにライブ動画を理解する高度な能力を持つフラッグシップ動画解析モデルMk1を発表しました。このモデルは空間推論や物理的ダイナミクスに優れており、防犯監視や動画クリッピング、ロボット支援などのアプリケーションに対応しています。また、高品質なAIをより利用しやすくするための価格戦略を維持しています。「物理AI」に重点を置くPerceptronは、様々な分野における自動化の向上を目指しており、早期導入者たちがライブスポーツのハイライトクリッピングや製造業の品質管理にこのモデルを活用する事例が見られます。",
-    "summary_en": "Perceptron Inc. has launched its flagship video analysis model, Mk1, which offers advanced capabilities for understanding live video in real-time at a significantly lower cost than competitors like OpenAI and Google. The model excels in spatial reasoning and physical dynamics, allowing for applications like security monitoring, video clipping, and robotic assistance, while maintaining a pricing strategy that aims to make high-quality AI more accessible. With a focus on \"physical AI,\" Perceptron aims to enhance automation in various sectors, as evidenced by early adopters leveraging the model for applications such as live sports highlight clipping and manufacturing quality control.",
-    "link": "https://venturebeat.com/technology/perceptron-mk1-shocks-with-highly-performant-video-analysis-ai-model-80-90-cheaper-than-anthropic-openai-and-google",
+    "title": "AI IQが登場：新しいサイトが最先端のAIモデルを人間のIQスケールで評価",
+    "title_en": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
+    "summary": "スタートアッププロジェクト「AI IQ」が、50以上の最前線の人工知能言語モデルを評価するための指標を導入し、その能力をベellカーブにプロットしてインタラクティブな可視化を提供しています。技術専門家の中には、モデルのパフォーマンスを理解するための有益なツールとして評価する者もいますが、批評家は複雑な能力を単一のIQスコアに凝縮することは誤解を招くものであり、AIの「ギザギザした」能力を過度に単純化し、重要なニュアンスを隠す可能性があると主張しています。このプロジェクトには、感情知能（EQ）スコアも含まれており、AIアプリケーションにおける会話の質や協力の重要性が高まっていることを強調していますが、スコアリング手法の透明性や正確性についての懸念も残っています。",
+    "summary_en": "The startup project \"AI IQ\" is introducing a metric to assess the intelligence of over 50 leading artificial intelligence language models, plotting them on a bell curve to create an interactive visualization of their capabilities. While some technology experts see this as a helpful tool for understanding model performance, critics argue that distilling complex abilities into a single IQ score is misleading and oversimplifies AI's \"jagged\" capabilities, potentially masking important nuances. The project also includes an emotional intelligence (EQ) score, highlighting the increasing importance of conversational quality and collaboration in AI applications, although concerns remain about the transparency and accuracy of the scoring methodology.",
+    "link": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech",
     "category": "AI",
-    "publishedAt": "2026-05-13 16:47"
+    "publishedAt": "2026-05-14 16:23"
   },
   {
     "source": "VentureBeat",
-    "title": "ChromeでClaudeコードやClaudeを実行していますか？あなたのセキュリティスタックが見逃すすべての盲点に関する監査マトリックス",
-    "title_en": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
-    "summary": "5月6日から7日の間に、複数の研究チームがAnthropicのClaude AIにおける重要な脆弱性を発見し、水道事業、Chrome拡張機能、OAuthトークンのハイジャックを含む3つの異なる事例に共通する構造的欠陥を浮き彫りにしました。これらの問題は「混乱した代理者」問題から生じており、AIの固有の権限が悪意のある行為者のために行動することを引き起こし、ユーザーの権限を損ないリスクを高めています。一部のパッチは提供されていますが、根本的な構造的問題は解決されておらず、Anthropicの対応は主にユーザーの同意に焦点を当てているため、AIのフレームワーク内において強化されたセキュリティ対策と監視の必要性が急務であることを示唆しています。",
-    "summary_en": "Between May 6 and 7, multiple research teams uncovered significant vulnerabilities in Anthropic's Claude AI, highlighting a common architectural flaw across three separate incidents involving a water utility, a Chrome extension, and OAuth token hijacking. These issues stem from a \"confused deputy\" problem, where the AI's inherent authority leads it to execute actions on behalf of malicious actors, undermining user permissions and escalating risk. Despite some patches being issued, the fundamental structural issues remain unresolved, as Anthropic's response has largely centered on user consent, suggesting a pressing need for enhanced security measures and oversight within AI frameworks.",
-    "link": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots",
+    "title": "AnthropicがOpenClawとサードパーティエージェントの使用をClaudeサブスクリプションで再開 — ただし条件付き",
+    "title_en": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch",
+    "summary": "AnthropicはClaude AIのサブスクライバーがオープンソースの自律AIエージェントOpenClawを利用できるオプションを再導入しましたが、新たな「Agent SDK」クレジットシステムにより使用が制限され、月ごとの使用制限が設定されています。この変更は、サードパーティエージェントの使用を禁止していた以前のポリシーからの転換を示しており、資源消費に関する持続可能性への懸念に対処しています。しかし、開発者コミュニティは新しいシステムをサブスクリプションの大幅な価値低下と見なし、Anthropicが設定した制約内でのトークンの実用性について懸念を表明しています。",
+    "summary_en": "Anthropic has reintroduced the option for Claude AI subscribers to use their plans with OpenClaw, an open-source autonomous AI agent, but it comes with restrictions through a new \"Agent SDK\" credit system that limits usage each month without rollover. This change marks a shift from their earlier policy that prohibited third-party agent use while addressing sustainability concerns regarding resource consumption. However, the developer community has reacted negatively, perceiving the new system as a significant devaluation of their subscriptions and expressing concerns over the practical utility of the tokens within the constraints set by Anthropic.",
+    "link": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
     "category": "AI",
-    "publishedAt": "2026-05-13 16:48"
+    "publishedAt": "2026-05-14 16:23"
   },
   {
     "source": "NHK",
-    "title": "ソフトバンクグループ 昨年度決算 最終利益が5兆22億円に",
+    "title": "国交省局長 北陸新幹線ルート「決まっている」発言を謝罪",
     "title_en": "",
-    "summary": "ソフトバンクグループは昨年度、最終的な利益が過去最高を記録しました。アメリカのオープンAIの株式評価の高まりが投資利益を押し上げました。これにより、全体の成績が大幅に向上しました。",
+    "summary": "北陸新幹線の新大阪延伸ルートに関する与党のプロジェクトチームが絞り込み作業を行っています。国土交通省の鉄道局長が会合で軽率な発言をし、与党側に謝罪しました。発言は結論が決まっているというもので、混乱を招いたとされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120531000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121671000.html",
     "category": "経済",
-    "publishedAt": "2026-05-13 16:48"
+    "publishedAt": "2026-05-14 16:23"
   },
   {
     "source": "BBC",
-    "title": "10年ぶりに、トランプがより強力で積極的な中国に戻る",
-    "title_en": "A decade on, Trump returns to a stronger and more assertive China",
-    "summary": "アナリストによると、北京は経済的および軍事的能力の成長により、アメリカが歴史上直面した中で最も手強い挑戦を表しています。この2国間の競争は、単なる世界的な支配を巡る争いだけでなく、技術的およびイデオロギー的な違いも含まれています。このライバル関係は、今後の国際関係および世界のダイナミクスに重大な影響を与える可能性があります。",
-    "summary_en": "According to an analyst, Beijing represents the most formidable challenge the United States has faced in its history, due to its growing economic and military capabilities. The competition between the two nations is not only a struggle for global dominance but also encompasses technological and ideological differences. This rivalry poses significant implications for international relations and global dynamics moving forward.",
-    "link": "https://www.bbc.com/news/articles/cm2py6l78dxo?at_medium=RSS&at_campaign=rss",
+    "title": "貿易、イラン、台湾が議題に：トランプ大統領が習近平との重要な会談のため中国に到着",
+    "title_en": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
+    "summary": "アメリカの大統領は、会談中に中国の指導者習近平に中国を「開放するよう」促す計画です。それに対し、北京は台湾の地位に関する懸念に言及する可能性があります。このやり取りは、両者が重要な戦略的問題を巡って難題を乗り越えようとする中で、米中関係の複雑さを反映しています。",
+    "summary_en": "The US president plans to urge Chinese leader Xi Jinping to \"open up\" China during their discussions. In response, Beijing is likely to address concerns regarding Taiwan's status. This exchange reflects the ongoing complexities in the US-China relationship as both leaders seek to navigate key strategic issues.",
+    "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-13 16:48"
+    "publishedAt": "2026-05-14 16:24"
   },
   {
     "source": "NHK",
-    "title": "パーキンソン病治療 iPS細胞使用「アムシェプリ」保険適用へ",
+    "title": "カンヌ映画祭 深田晃司監督「ナギダイアリー」公式上映",
     "title_en": "",
-    "summary": "パーキンソン病の治療に用いるiPS細胞を活用した再生医療製品「アムシェプリ」が保険適用となりました。中医協は、この治療法の価格を約5530万円と承認しました。この決定により、患者の治療選択肢が広がることが期待されています。",
+    "summary": "フランスのカンヌ映画祭で、深田晃司監督の「ナギダイアリー」が最優秀賞を競うコンペティション部門にノミネートされました。公式上映が行われ、観客からは大きな拍手が送られました。この作品は注目を集めています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260513/k10015120281000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121001000.html",
     "category": "その他",
-    "publishedAt": "2026-05-13 16:48"
+    "publishedAt": "2026-05-14 16:24"
   }
 ]
