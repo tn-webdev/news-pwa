@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AI IQが登場：新しいサイトが最先端のAIモデルを人間のIQスケールで評価",
-    "title_en": "AI IQ is here: a new site scores frontier AI models on the human IQ scale. The results are already dividing tech.",
-    "summary": "スタートアッププロジェクト「AI IQ」が、50以上の最前線の人工知能言語モデルを評価するための指標を導入し、その能力をベellカーブにプロットしてインタラクティブな可視化を提供しています。技術専門家の中には、モデルのパフォーマンスを理解するための有益なツールとして評価する者もいますが、批評家は複雑な能力を単一のIQスコアに凝縮することは誤解を招くものであり、AIの「ギザギザした」能力を過度に単純化し、重要なニュアンスを隠す可能性があると主張しています。このプロジェクトには、感情知能（EQ）スコアも含まれており、AIアプリケーションにおける会話の質や協力の重要性が高まっていることを強調していますが、スコアリング手法の透明性や正確性についての懸念も残っています。",
-    "summary_en": "The startup project \"AI IQ\" is introducing a metric to assess the intelligence of over 50 leading artificial intelligence language models, plotting them on a bell curve to create an interactive visualization of their capabilities. While some technology experts see this as a helpful tool for understanding model performance, critics argue that distilling complex abilities into a single IQ score is misleading and oversimplifies AI's \"jagged\" capabilities, potentially masking important nuances. The project also includes an emotional intelligence (EQ) score, highlighting the increasing importance of conversational quality and collaboration in AI applications, although concerns remain about the transparency and accuracy of the scoring methodology.",
-    "link": "https://venturebeat.com/technology/ai-iq-is-here-a-new-site-scores-frontier-ai-models-on-the-human-iq-scale-the-results-are-already-dividing-tech",
+    "title": "Raindropのオープンソースツール『Workshop』で開発者がローカルでAIエージェントをデバッグおよび評価可能に",
+    "title_en": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
+    "summary": "Raindrop AIは、開発者が軽量なローカルSQLデータベースを介してAIエージェントをデバッグおよび評価できるオープンソースツール『Workshop』を発表しました。このツールはリアルタイムのテレメトリーをキャプチャし、開発者がエージェントの動作を追跡したり、エラーを特定したり、壊れたコードを自動的に修正する「セルフヒーリング評価ループ」を利用したりすることが可能です。複数のプログラミング言語やさまざまなコーディングエージェントに対応し、MITライセンスのもとで公開され、コミュニティの協力を促進しつつ、企業ユーザーのデータ主権を確保しています。",
+    "summary_en": "Raindrop AI has launched an open-source tool called \"Workshop,\" designed for developers to debug and evaluate AI agents through a lightweight local SQL database. This tool captures real-time telemetry, allowing developers to track their agents' actions, identify errors, and even utilize a \"self-healing eval loop\" that autonomously fixes broken code. Compatible with multiple programming languages and various coding agents, Workshop is released under the MIT License to promote community collaboration while ensuring data sovereignty for enterprise users.",
+    "link": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
     "category": "AI",
-    "publishedAt": "2026-05-14 16:23"
+    "publishedAt": "2026-05-15 16:03"
   },
   {
     "source": "VentureBeat",
-    "title": "AnthropicがOpenClawとサードパーティエージェントの使用をClaudeサブスクリプションで再開 — ただし条件付き",
-    "title_en": "Anthropic reinstates OpenClaw and third-party agent usage on Claude subscriptions — with a catch",
-    "summary": "AnthropicはClaude AIのサブスクライバーがオープンソースの自律AIエージェントOpenClawを利用できるオプションを再導入しましたが、新たな「Agent SDK」クレジットシステムにより使用が制限され、月ごとの使用制限が設定されています。この変更は、サードパーティエージェントの使用を禁止していた以前のポリシーからの転換を示しており、資源消費に関する持続可能性への懸念に対処しています。しかし、開発者コミュニティは新しいシステムをサブスクリプションの大幅な価値低下と見なし、Anthropicが設定した制約内でのトークンの実用性について懸念を表明しています。",
-    "summary_en": "Anthropic has reintroduced the option for Claude AI subscribers to use their plans with OpenClaw, an open-source autonomous AI agent, but it comes with restrictions through a new \"Agent SDK\" credit system that limits usage each month without rollover. This change marks a shift from their earlier policy that prohibited third-party agent use while addressing sustainability concerns regarding resource consumption. However, the developer community has reacted negatively, perceiving the new system as a significant devaluation of their subscriptions and expressing concerns over the practical utility of the tokens within the constraints set by Anthropic.",
-    "link": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+    "title": "Cerebras株、AIチップメーカーとして1000億ドル達成で初日に株価がほぼ倍増 – AIインフラへの影響とは",
+    "title_en": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
+    "summary": "シリコンバレーのチップメーカーであるCerebras Systemsは、ウェーハスケールのAIプロセッサで知られ、NASDAQに成功裏に上場を果たしました。株式は350ドルでスタートし、IPO価格185ドルのほぼ倍に達し、取引開始から数時間で時価総額は1000億ドルを超えました。Cerebrasは、2019年のUber以来の米国テクノロジーIPOとして55.5億ドルを調達し、OpenAIやAmazon Web Servicesといった業界大手との新たなパートナーシップによって、クラウドベースのAI推論サービスへの戦略的なシフトを進めています。しかし、急成長と期待される未来の一方で、Cerebrasは顧客集中および支配的プレイヤーであるNvidiaとの競争といった重大な運営リスクにも直面しており、その前途は複雑であるものの、潜在的な可能性に満ちています。",
+    "summary_en": "Cerebras Systems, a Silicon Valley chipmaker renowned for its wafer-scale AI processors, successfully debuted on the Nasdaq with shares opening at $350, nearly doubling its IPO price of $185 and achieving a market capitalization exceeding $100 billion within hours of trading. The company raised $5.55 billion in the largest U.S. tech IPO since Uber in 2019, driven by new partnerships with industry leaders like OpenAI and Amazon Web Services, which are central to its strategic pivot towards cloud-based AI inference services. Despite its rapid growth and a promising future, Cerebras still faces significant operational risks, including customer concentration and competition from dominant player Nvidia, making its path forward complex yet filled with potential.",
+    "link": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
     "category": "AI",
-    "publishedAt": "2026-05-14 16:23"
+    "publishedAt": "2026-05-15 16:03"
   },
   {
     "source": "NHK",
-    "title": "国交省局長 北陸新幹線ルート「決まっている」発言を謝罪",
+    "title": "株価 一時1600円以上値下がり 利益確定売りや長期金利上昇で",
     "title_en": "",
-    "summary": "北陸新幹線の新大阪延伸ルートに関する与党のプロジェクトチームが絞り込み作業を行っています。国土交通省の鉄道局長が会合で軽率な発言をし、与党側に謝罪しました。発言は結論が決まっているというもので、混乱を招いたとされています。",
+    "summary": "東京株式市場で日経平均株価が一時1600円以上下落しています。これは主にAIや半導体関連銘柄の利益確定の動きと、長期金利上昇による企業業績への懸念が影響しています。結果として売り注文が増加している状況です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121671000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122481000.html",
     "category": "経済",
-    "publishedAt": "2026-05-14 16:23"
+    "publishedAt": "2026-05-15 16:03"
   },
   {
     "source": "BBC",
-    "title": "貿易、イラン、台湾が議題に：トランプ大統領が習近平との重要な会談のため中国に到着",
-    "title_en": "Trade, Iran and Taiwan on the agenda as Trump arrives in China for high-stakes talks with Xi",
-    "summary": "アメリカの大統領は、会談中に中国の指導者習近平に中国を「開放するよう」促す計画です。それに対し、北京は台湾の地位に関する懸念に言及する可能性があります。このやり取りは、両者が重要な戦略的問題を巡って難題を乗り越えようとする中で、米中関係の複雑さを反映しています。",
-    "summary_en": "The US president plans to urge Chinese leader Xi Jinping to \"open up\" China during their discussions. In response, Beijing is likely to address concerns regarding Taiwan's status. This exchange reflects the ongoing complexities in the US-China relationship as both leaders seek to navigate key strategic issues.",
-    "link": "https://www.bbc.com/news/articles/c1w28qw1e0xo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、中国訪問を歓迎されるも厄介な問題が残る",
+    "title_en": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
+    "summary": "最近の北京訪問中、アメリカと中国の指導者は、世界的な観客の前でカメラに向かって微笑み合い、友好的な関係を示しました。この訪問は、進行中の緊張や複雑な地政学的問題の中で、両超大国間の外交的関与の重要性を強調しています。両指導者は、緊急の世界的課題に対処するために前向きな対話と協力を目指しているようです。",
+    "summary_en": "During a recent visit to Beijing, the leaders of the United States and China showcased a cordial and friendly relationship, smiling for the cameras in front of a global audience. This visit underscores the importance of diplomatic engagement between the two superpowers amid ongoing tensions and complex geopolitical issues. Both leaders appear to be aiming for a positive dialogue and cooperation to address pressing global challenges.",
+    "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-14 16:24"
+    "publishedAt": "2026-05-15 16:03"
   },
   {
     "source": "NHK",
-    "title": "カンヌ映画祭 深田晃司監督「ナギダイアリー」公式上映",
+    "title": "作家 佐藤愛子さん死去 102歳 「血脈」などの小説で知られる",
     "title_en": "",
-    "summary": "フランスのカンヌ映画祭で、深田晃司監督の「ナギダイアリー」が最優秀賞を競うコンペティション部門にノミネートされました。公式上映が行われ、観客からは大きな拍手が送られました。この作品は注目を集めています。",
+    "summary": "作家の佐藤愛子さんが老衰により亡くなりました。彼女は「血脈」や「戦いすんで日が暮れて」などの小説で知られ、90歳の時にエッセーがベストセラーになりました。享年は102歳でした。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260514/k10015121001000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122271000.html",
     "category": "その他",
-    "publishedAt": "2026-05-14 16:24"
+    "publishedAt": "2026-05-15 16:03"
   }
 ]
