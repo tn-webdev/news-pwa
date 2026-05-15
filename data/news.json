@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-14T20:01:43.330Z",
+  "updatedAt": "2026-05-15T04:18:10.232Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,53 +15,53 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukraine rescuers pull dead from rubble of Kyiv flats after massive Russian strikes",
-      "url": "https://www.bbc.com/news/articles/cq5p8yygq94o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two children are among at least 12 killed in Ukraine's capital in massive Russian drone and missile attacks, officials say."
+      "title": "CIA chief visits Cuba as energy crisis worsens",
+      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade."
     },
     {
       "source": "BBC Technology",
-      "title": "HMRC to use AI from British tech firm to spot fraud and tax return errors",
-      "url": "https://www.bbc.com/news/articles/c7v9ld262n4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Quantexa, a financial data platform, won the £175m contract to spot fraud and tax return errors."
+      "title": "Inside the secretive and lucrative world of orchid breeding",
+      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It can take a decade to bring a new orchid to market, so breeders keep their hi-tech processes secret."
     },
     {
       "source": "BBC Technology",
-      "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-      "url": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas."
+      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
+      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years."
     },
     {
       "source": "BBC Technology",
-      "title": "WhatsApp launches totally private 'incognito' conversations with its AI chatbot",
-      "url": "https://www.bbc.com/news/articles/c99lmyr1dnxo?at_medium=RSS&at_campaign=rss",
-      "summary": "A cyber security expert says deleting chat history could lead to a lack of accountability if things go wrong."
+      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
+      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The government said its in-house IT system was \"more flexible\" while meeting \"high standards\" of security."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI’s Codex is now in the ChatGPT mobile app",
+        "#text": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/930763/openai-codex-chatgpt-ios-android-app-preview",
+      "url": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta’s summer sale drops Ray-Ban’s new smart glasses to record-low prices",
+        "#text": "Closing time",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/930785/meta-smart-glasses-gen-1-2-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft starts canceling Claude Code licenses",
+        "#text": "Metroid Prime 4: Beyond got its first big discount",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
+      "url": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
