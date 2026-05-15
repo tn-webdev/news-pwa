@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-15T09:24:03.020Z",
+  "updatedAt": "2026-05-15T14:35:40.750Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit."
+    },
     {
       "source": "BBC World",
       "title": "CIA chief visits Cuba as energy crisis worsens",
@@ -14,10 +20,10 @@
       "summary": "Africa's top health agency says around 246 cases have been reported."
     },
     {
-      "source": "BBC World",
-      "title": "Five Italians die during cave scuba dive in Maldives",
-      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Four of the Italians were part of a team from the University of Genoa."
+      "source": "BBC Technology",
+      "title": "X pledges quicker action on hate and terror content in the UK",
+      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "It can take a decade to bring a new orchid to market, so breeders keep their hi-tech processes secret."
     },
     {
-      "source": "BBC Technology",
-      "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
-      "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Honda&#8217;s hybrid future starts with new Accord and RDX prototypes",
+        "#text": "The funniest thing about the Trump arcade game is how good it is",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/931044/honda-hybrid-prototypes-accord-acura-rdx",
+      "url": "https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Closing time",
+        "#text": "The promises and pitfalls of personalized health",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931006/musk-v-altman-closing-arguments-analysis",
+      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Metroid Prime 4: Beyond got its first big discount",
+        "#text": "X is fighting Andrew Tate’s attempt to unmask his critics",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/930875/metroid-prime-4-beyond-nintendo-switch-deal-sale",
+      "url": "https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation",
       "summary": "(要約準備中)"
     }
   ]
