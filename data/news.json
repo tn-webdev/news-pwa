@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-15T04:18:10.232Z",
+  "updatedAt": "2026-05-15T09:24:03.020Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
-      "url": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
-      "summary": "The leaders of the world's two superpowers were all smiles for the cameras during the US president's visit to Beijing."
-    },
-    {
-      "source": "BBC World",
-      "title": "'Floating armoury' ship reportedly seized by Iran",
-      "url": "https://www.bbc.com/news/articles/cx219xwxg9no?at_medium=RSS&at_campaign=rss",
-      "summary": "A vessel said to be a “floating armoury” in the Gulf of Oman has been seized by Iranian military personnel, according to reports."
-    },
     {
       "source": "BBC World",
       "title": "CIA chief visits Cuba as energy crisis worsens",
       "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
       "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade."
+    },
+    {
+      "source": "BBC World",
+      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
+      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
+      "summary": "Africa's top health agency says around 246 cases have been reported."
+    },
+    {
+      "source": "BBC World",
+      "title": "Five Italians die during cave scuba dive in Maldives",
+      "url": "https://www.bbc.com/news/articles/c62e0p7rd2ro?at_medium=RSS&at_campaign=rss",
+      "summary": "Four of the Italians were part of a team from the University of Genoa."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
+      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
+      "summary": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart."
     },
     {
       "source": "BBC Technology",
@@ -30,12 +36,6 @@
       "title": "AI could put people off tech jobs and hurt the economy, warns Raspberry Pi boss",
       "url": "https://www.bbc.com/news/articles/clypr8p2lewo?at_medium=RSS&at_campaign=rss",
       "summary": "Eben Upton warns against claims that Artificial Intelligence will destroy vast numbers of computing roles over the coming years."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "'Millions' of pounds saved by replacing Palantir tech in refugee system",
-      "url": "https://www.bbc.com/news/articles/c2l2j1lxdk5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The government said its in-house IT system was \"more flexible\" while meeting \"high standards\" of security."
     },
     {
       "source": "The Verge",
