@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-15T14:35:40.750Z",
+  "updatedAt": "2026-05-15T19:54:30.057Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island."
+    },
     {
       "source": "BBC World",
       "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "CIA chief visits Cuba as energy crisis worsens",
-      "url": "https://www.bbc.com/news/articles/cd7pyrj0vx7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The reported visit to Havana came after the US renewed an offer of aid to ease the effects of its oil blockade."
-    },
-    {
-      "source": "BBC World",
-      "title": "New outbreak of Ebola kills 65 in eastern DR Congo",
-      "url": "https://www.bbc.com/news/articles/cze2wpk7y76o?at_medium=RSS&at_campaign=rss",
-      "summary": "Africa's top health agency says around 246 cases have been reported."
+      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The funniest thing about the Trump arcade game is how good it is",
+        "#text": "The Analogue 3D is finally getting save states",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/930605/operation-epic-fury-strait-to-hell-the-secret-handshake-trump",
+      "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The promises and pitfalls of personalized health",
+        "#text": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/931148/optimizer-pmos-pcos-personalized-health",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "X is fighting Andrew Tate’s attempt to unmask his critics",
+        "#text": "One of Intel’s fastest desktop CPUs is $50 off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/931084/andrew-tate-x-anonymous-elon-musk-defamation",
+      "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
