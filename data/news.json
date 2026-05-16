@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-16T08:19:10.049Z",
+  "updatedAt": "2026-05-16T14:00:02.867Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki."
+    },
     {
       "source": "BBC World",
       "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
@@ -12,12 +18,6 @@
       "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
       "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
       "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit."
-    },
-    {
-      "source": "BBC World",
-      "title": "Trump says senior IS leader killed by US and Nigerian forces",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Xbox is now XBOX",
+        "#text": "Here are 40 of our favorite deals from REI’s massive Anniversary Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
+      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube is expanding its AI deepfake detection tool to all adult users",
+        "#text": "Mixtape is a musical portrait of teenage life",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
+      "url": "https://www.theverge.com/games/925580/mixtape-review-ps5-xbox-series-x-s-nintendo-switch-2-pc",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Windows 11 tests an adjustable taskbar and resizable Start menu",
+        "#text": "The app you need to clean up your computer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
+      "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
       "summary": "(要約準備中)"
     }
   ]
