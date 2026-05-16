@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-15T19:54:30.057Z",
+  "updatedAt": "2026-05-16T04:02:19.261Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Trump and Xi conclude 'very successful' talks but no deals confirmed",
+      "title": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
       "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
       "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit."
     },
     {
       "source": "BBC World",
-      "title": "Israel and Lebanon agree to extend ceasefire, US state department says",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then."
+      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Analogue 3D is finally getting save states",
+        "#text": "Xbox is now XBOX",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/931615/analogue-3d-nintendo-64-console-memories-save-state",
+      "url": "https://www.theverge.com/news/931918/microsoft-xbox-rebrand-caps",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "OpenAI keeps shuffling its executives in bid to win AI agent battle",
+        "#text": "YouTube is expanding its AI deepfake detection tool to all adult users",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/931544/openai-keeps-shuffling-its-executives-in-bid-to-win-ai-agent-battle",
+      "url": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "One of Intel’s fastest desktop CPUs is $50 off",
+        "#text": "Windows 11 tests an adjustable taskbar and resizable Start menu",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/931495/intel-ultra-7-270k-plus-cpu-deal-sale",
+      "url": "https://www.theverge.com/tech/931817/windows-11-movable-taskbar-start-button",
       "summary": "(要約準備中)"
     }
   ]
