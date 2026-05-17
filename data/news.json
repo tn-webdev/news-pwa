@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-17T04:31:57.694Z",
+  "updatedAt": "2026-05-17T08:32:40.727Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
+      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+    },
     {
       "source": "BBC World",
       "title": "Hezbollah drone strike videos show evolving tactics against Israel",
@@ -12,12 +18,6 @@
       "title": "Taiwan insists it is independent after Trump warning",
       "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
       "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island."
-    },
-    {
-      "source": "BBC World",
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man."
     },
     {
       "source": "BBC Technology",
