@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-17T13:57:01.796Z",
+  "updatedAt": "2026-05-17T19:36:24.829Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
       "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
       "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+    },
+    {
+      "source": "BBC World",
+      "title": "How worrying is the Ebola outbreak in DR Congo?",
+      "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
+      "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported."
     },
     {
       "source": "BBC World",
       "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
       "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities."
-    },
-    {
-      "source": "BBC World",
-      "title": "Man drives car into pedestrians in Italy, injuring eight",
-      "url": "https://www.bbc.com/news/articles/cyv28pd4n22o?at_medium=RSS&at_campaign=rss",
-      "summary": "Eight people were injured, four seriously, before passers-by gave chase and stopped the man."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fujifilm’s X Half is even more whimsical with a $300 price cut",
+        "#text": "Revamped Siri will reportedly offer auto-deleting chats",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/928204/fujifilm-x-half-digital-camera-deal-sale",
+      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "ElliQ is a surprisingly helpful companion robot for older adults",
+        "#text": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/928806/elliq-intuition-robotics-hands-on",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Chatbots at the drive-thru are just the beginning",
+        "#text": "Oddity is masterfully tense horror from the director of Hokum",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
       "summary": "(要約準備中)"
     }
   ]
