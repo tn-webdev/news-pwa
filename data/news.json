@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-05-18T15:56:10.810Z",
+  "updatedAt": "2026-05-18T20:00:39.226Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Judge rules gun, writings are admissible in Luigi Mangione's New York murder trial",
-      "url": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Other items found with Mangione at a Pennsylvania McDonald's will not be allowed to be presented in court, the judge ruled."
+      "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency. "
     },
     {
       "source": "BBC World",
-      "title": "Two men arrested over stunt at enclosure of famed monkey Punch",
-      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say."
+      "title": "American contracted Ebola in Democratic Republic of Congo, CDC says",
+      "url": "https://www.bbc.com/news/articles/cjwpy2qww5do?at_medium=RSS&at_campaign=rss",
+      "summary": "A medical group says an American doctor tested positive after being exposed while treating patients. "
     },
     {
       "source": "BBC World",
-      "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
-      "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
-      "summary": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers."
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\""
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.\n\n"
     },
     {
-      "source": "BBC Technology",
-      "title": "X pledges quicker action on hate and terror content in the UK",
-      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon Alexa Plus can now create AI-generated podcasts",
+        "#text": "PlayStation exclusives aren&#8217;t coming to PC anymore",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
+      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Philips Hue smart lights and a whole lot more are over 20 percent off",
+        "#text": "Musk v. Altman proved that AI is led by the wrong people",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s 2026 college graduation gift guide",
+        "#text": "Walmart launches new budget-friendly Android tablets starting at $97",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
+      "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
       "summary": "(要約準備中)"
     }
   ]
