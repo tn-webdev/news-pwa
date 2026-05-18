@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-18T04:41:33.439Z",
+  "updatedAt": "2026-05-18T10:40:50.012Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
       "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals. "
+      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing."
     },
     {
       "source": "BBC World",
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+      "title": "At least six Americans exposed to Ebola during DR Congo outbreak",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "summary": "One of the six Americans believed to have been exposed is experiencing symptoms, according to media reports."
     },
     {
       "source": "BBC World",
-      "title": "How worrying is the Ebola outbreak in DR Congo?",
-      "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported."
+      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
+      "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
+      "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
+      "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.\n\n"
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart."
     },
     {
-      "source": "BBC Technology",
-      "title": "Inside the secretive and lucrative world of orchid breeding",
-      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It can take a decade to bring a new orchid to market, so breeders keep their hi-tech processes secret."
+      "source": "The Verge",
+      "title": {
+        "#text": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -49,19 +58,10 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Revamped Siri will reportedly offer auto-deleting chats",
+        "#text": "Revamped Siri will reportedly offer autodeleting chats",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
       "summary": "(要約準備中)"
     }
   ]
