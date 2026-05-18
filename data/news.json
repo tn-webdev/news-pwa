@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-18T10:40:50.012Z",
+  "updatedAt": "2026-05-18T15:56:10.810Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing."
+      "title": "Judge rules gun, writings are admissible in Luigi Mangione's New York murder trial",
+      "url": "https://www.bbc.com/news/articles/cx21g6qz45xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Other items found with Mangione at a Pennsylvania McDonald's will not be allowed to be presented in court, the judge ruled."
     },
     {
       "source": "BBC World",
-      "title": "At least six Americans exposed to Ebola during DR Congo outbreak",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "summary": "One of the six Americans believed to have been exposed is experiencing symptoms, according to media reports."
+      "title": "Two men arrested over stunt at enclosure of famed monkey Punch",
+      "url": "https://www.bbc.com/news/articles/cr5pz4jvlp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two US nationals have been arrested after one jumped the fence of the monkey, who went viral online, police say."
     },
     {
       "source": "BBC World",
-      "title": "Israeli forces boarding Gaza-bound flotilla near Cyprus, activists say",
-      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
-      "summary": "Live broadcasts from the Global Sumud flotilla show commandos boarding several boats trying to breach the Gaza maritime blockade."
+      "title": "Former Google CEO Eric Schmidt booed by graduates at mention of AI",
+      "url": "https://www.bbc.com/news/articles/ce8pqd54qneo?at_medium=RSS&at_campaign=rss",
+      "summary": "The reaction underscores a growing anxiety among students over AI's impact on jobs and their future careers."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Disco Elysium’s spiritual successor can&#8217;t escape its phantoms",
+        "#text": "Amazon Alexa Plus can now create AI-generated podcasts",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/931629/zero-parades-for-dead-spies-review-disco-elysium",
+      "url": "https://www.theverge.com/tech/932375/amazon-alexa-plus-ai-podcasts",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft is retiring Teams’ Together Mode",
+        "#text": "Philips Hue smart lights and a whole lot more are over 20 percent off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "url": "https://www.theverge.com/gadgets/932276/philips-hue-amazon-scribe-super-mario-rpg-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Revamped Siri will reportedly offer autodeleting chats",
+        "#text": "The Verge’s 2026 college graduation gift guide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "url": "https://www.theverge.com/gadgets/927121/best-college-graduation-gift-ideas",
       "summary": "(要約準備中)"
     }
   ]
