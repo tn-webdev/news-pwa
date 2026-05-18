@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Raindropのオープンソースツール『Workshop』で開発者がローカルでAIエージェントをデバッグおよび評価可能に",
-    "title_en": "Developers can now debug and evaluate AI agents locally with Raindrop's open source tool Workshop",
-    "summary": "Raindrop AIは、開発者が軽量なローカルSQLデータベースを介してAIエージェントをデバッグおよび評価できるオープンソースツール『Workshop』を発表しました。このツールはリアルタイムのテレメトリーをキャプチャし、開発者がエージェントの動作を追跡したり、エラーを特定したり、壊れたコードを自動的に修正する「セルフヒーリング評価ループ」を利用したりすることが可能です。複数のプログラミング言語やさまざまなコーディングエージェントに対応し、MITライセンスのもとで公開され、コミュニティの協力を促進しつつ、企業ユーザーのデータ主権を確保しています。",
-    "summary_en": "Raindrop AI has launched an open-source tool called \"Workshop,\" designed for developers to debug and evaluate AI agents through a lightweight local SQL database. This tool captures real-time telemetry, allowing developers to track their agents' actions, identify errors, and even utilize a \"self-healing eval loop\" that autonomously fixes broken code. Compatible with multiple programming languages and various coding agents, Workshop is released under the MIT License to promote community collaboration while ensuring data sovereignty for enterprise users.",
-    "link": "https://venturebeat.com/technology/developers-can-now-debug-and-evaluate-ai-agents-locally-with-raindrops-open-source-tool-workshop",
+    "title": "グラフ拡張RAGのための建築パターン：製品でのベクトル検索を超えて",
+    "title_en": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
+    "summary": "リトリーバル強化生成（RAG）は通常、プライベートデータに基づいて大規模言語モデルを支えるためにベクトルインデックスを利用しますが、このアプローチは、構造よりも類似性に重点を置いているため、相互接続されたデータを持つ企業においては苦労します。この問題に対処するため、この記事では、意味ベクトル検索とグラフデータベースを組み合わせたハイブリッドな「グラフRAG」アーキテクチャを提案しています。この方法により、複数のホップを通じた推論が可能になり、文脈の取得が向上します。構造化された洞察を非構造データから提供することで、LLMのパフォーマンスを向上させ、複雑なビジネス質問に対するより正確な応答を実現します。",
+    "summary_en": "Retrieval-augmented generation (RAG) typically relies on vector indexing for grounding large language models in private data, but this approach struggles in enterprises with interconnected data due to its focus on similarity over structure. To address this issue, the article proposes a hybrid \"Graph RAG\" architecture that combines semantic vector search with graph databases, allowing for effective multi-hop reasoning and improved context retrieval. This method enhances LLM performance by providing structured insights from unstructured data, ultimately enabling more accurate responses to complex business questions.",
+    "link": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
     "category": "AI",
-    "publishedAt": "2026-05-15 16:03"
+    "publishedAt": "2026-05-18 18:22"
   },
   {
     "source": "VentureBeat",
-    "title": "Cerebras株、AIチップメーカーとして1000億ドル達成で初日に株価がほぼ倍増 – AIインフラへの影響とは",
-    "title_en": "Cerebras stock nearly doubles on day one as AI chipmaker hits $100 billion — what it means for AI infrastructure",
-    "summary": "シリコンバレーのチップメーカーであるCerebras Systemsは、ウェーハスケールのAIプロセッサで知られ、NASDAQに成功裏に上場を果たしました。株式は350ドルでスタートし、IPO価格185ドルのほぼ倍に達し、取引開始から数時間で時価総額は1000億ドルを超えました。Cerebrasは、2019年のUber以来の米国テクノロジーIPOとして55.5億ドルを調達し、OpenAIやAmazon Web Servicesといった業界大手との新たなパートナーシップによって、クラウドベースのAI推論サービスへの戦略的なシフトを進めています。しかし、急成長と期待される未来の一方で、Cerebrasは顧客集中および支配的プレイヤーであるNvidiaとの競争といった重大な運営リスクにも直面しており、その前途は複雑であるものの、潜在的な可能性に満ちています。",
-    "summary_en": "Cerebras Systems, a Silicon Valley chipmaker renowned for its wafer-scale AI processors, successfully debuted on the Nasdaq with shares opening at $350, nearly doubling its IPO price of $185 and achieving a market capitalization exceeding $100 billion within hours of trading. The company raised $5.55 billion in the largest U.S. tech IPO since Uber in 2019, driven by new partnerships with industry leaders like OpenAI and Amazon Web Services, which are central to its strategic pivot towards cloud-based AI inference services. Despite its rapid growth and a promising future, Cerebras still faces significant operational risks, including customer concentration and competition from dominant player Nvidia, making its path forward complex yet filled with potential.",
-    "link": "https://venturebeat.com/technology/cerebras-stock-nearly-doubles-on-day-one-as-ai-chipmaker-hits-100-billion-what-it-means-for-ai-infrastructure",
+    "title": "インターコム（現在のフィン）、AIエージェント「フィン」を管理するAIエージェントを発表",
+    "title_en": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
+    "summary": "フィン（旧インターコム）は、顧客向けのAIエージェント「フィン」を管理するためのサポートオペレーションチームを支援する革新的なAIシステム「フィンオペレーター」を導入しました。フィンオペレーターは、人間のエージェントを置き換えるのではなく、データアナリスト、知識管理者、デバッガーとして機能し、AI管理の複雑さを簡素化することで、サポートオペレーションに必要な時間と労力を大幅に削減します。フィンがAIに特化した企業への移行を進める中で、このオペレーターツールは、AIがタスクを支援するだけでなく、他のAIシステムを管理するより自律的な役割を担う企業ソフトウェアの変革の可能性を示しています。",
+    "summary_en": "The company Fin, previously known as Intercom, has introduced an innovative AI system called Fin Operator, designed to assist support operations teams by managing the customer-facing AI agent, Fin. Rather than replacing human agents, Fin Operator streamlines the complexities of AI management by functioning as a data analyst, knowledge manager, and debugger, significantly reducing the time and effort required for support operations. As Fin transitions to being a major AI-focused business, the Operator tool represents a potential shift in enterprise software, where AI not only assists in tasks but takes on a more autonomous role in managing other AI systems.",
+    "link": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
     "category": "AI",
-    "publishedAt": "2026-05-15 16:03"
+    "publishedAt": "2026-05-18 18:22"
   },
   {
     "source": "NHK",
-    "title": "株価 一時1600円以上値下がり 利益確定売りや長期金利上昇で",
+    "title": "「ミュトス」影響でセキュリティー会社に問い合わせ相次ぐ",
     "title_en": "",
-    "summary": "東京株式市場で日経平均株価が一時1600円以上下落しています。これは主にAIや半導体関連銘柄の利益確定の動きと、長期金利上昇による企業業績への懸念が影響しています。結果として売り注文が増加している状況です。",
+    "summary": "最新のAIモデル「クロード・ミュトス」が高性能である一方、サイバー攻撃への悪用リスクが懸念されています。このため、企業からは影響や対応方法についての問い合わせが相次いでいます。セキュリティー会社は、これらのリスクに対応する必要性が高まっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260515/k10015122481000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124801000.html",
     "category": "経済",
-    "publishedAt": "2026-05-15 16:03"
+    "publishedAt": "2026-05-18 18:22"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、中国訪問を歓迎されるも厄介な問題が残る",
-    "title_en": "Flattery and fanfare as Trump welcomed to China - but thorny issues remain",
-    "summary": "最近の北京訪問中、アメリカと中国の指導者は、世界的な観客の前でカメラに向かって微笑み合い、友好的な関係を示しました。この訪問は、進行中の緊張や複雑な地政学的問題の中で、両超大国間の外交的関与の重要性を強調しています。両指導者は、緊急の世界的課題に対処するために前向きな対話と協力を目指しているようです。",
-    "summary_en": "During a recent visit to Beijing, the leaders of the United States and China showcased a cordial and friendly relationship, smiling for the cameras in front of a global audience. This visit underscores the importance of diplomatic engagement between the two superpowers amid ongoing tensions and complex geopolitical issues. Both leaders appear to be aiming for a positive dialogue and cooperation to address pressing global challenges.",
-    "link": "https://www.bbc.com/news/articles/cdxpypg9dgeo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、イランへの和平進展が停滞する中「時間が迫っている」と警告",
+    "title_en": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+    "summary": "イランのメディアによると、アメリカはテヘランの最近の提案に対して重要な譲歩を示していないという。進展が見られないことから、両国間の交渉における緊張と課題が続いていることが示唆されている。この状況は合意に達するための複雑さを浮き彫りにしている。",
+    "summary_en": "Iranian media reports indicate that the United States has not provided significant concessions in response to Tehran's recent proposals. This lack of progress suggests ongoing tensions and challenges in negotiations between the two nations. The situation underscores the complexities involved in reaching an agreement.",
+    "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-15 16:03"
+    "publishedAt": "2026-05-18 18:22"
   },
   {
     "source": "NHK",
-    "title": "防衛省 地対艦ミサイルのフィリピンへの輸出を検討",
+    "title": "「ミュトス」影響でセキュリティー会社に問い合わせ相次ぐ",
     "title_en": "",
-    "summary": "陸上自衛隊が保有する射程百数十キロの「88式地対艦ミサイル」について、フィリピン側が日本への装備移転に関心を示し、防衛省が輸出に向けた検討を始めたことが分かりました。88式は今後、新型ミサイルへ順次更新される予定で、現在保有する装備の活用策として輸出が検討されています。日本は先月、防衛装備移転三原則を改正し、殺傷能力を持つ武器の輸出を原則可能としました。日比間では護衛艦移転も協議されており、防衛協力が拡大しています。小泉防衛大臣は「現時点で決定事項はない」としつつ、両国の協力強化に向け積極的に議論したいと述べました。",
+    "summary": "最新のAIモデル「クロード・ミュトス」が高い性能を持つ一方で、サイバー攻撃への悪用リスクが懸念されています。これを受けて、都内のセキュリティー会社には企業からの問い合わせが相次いでいます。影響や対応方法についての関心が高まっています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015122171000",
+    "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124801000.html",
     "category": "その他",
-    "publishedAt": "2026-05-15 16:03"
+    "publishedAt": "2026-05-18 18:22"
   }
 ]
