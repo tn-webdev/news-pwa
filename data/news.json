@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-17T19:36:24.829Z",
+  "updatedAt": "2026-05-18T04:41:33.439Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals. "
+    },
     {
       "source": "BBC World",
       "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
@@ -12,12 +18,6 @@
       "title": "How worrying is the Ebola outbreak in DR Congo?",
       "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
       "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported."
-    },
-    {
-      "source": "BBC World",
-      "title": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Microsoft is retiring Teams’ Together Mode",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Revamped Siri will reportedly offer auto-deleting chats",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Oddity is masterfully tense horror from the director of Hokum",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/932179/oddity-damian-mccarthy-horror-movie-hokum",
       "summary": "(要約準備中)"
     }
   ]
