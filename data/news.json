@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-05-18T04:41:33.439Z",
+  "updatedAt": "2026-05-19T04:33:19.965Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iranian media reports the US has not made concrete concessions in response to Tehran's latest proposals. "
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\"."
     },
     {
       "source": "BBC World",
-      "title": "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "url": "https://www.bbc.com/news/articles/c2l2p0wwzzdo?at_medium=RSS&at_campaign=rss",
-      "summary": "The agency added that the outbreak, with around 246 cases and 80 deaths, does not meet the criteria of pandemic emergency."
+      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque  ",
+      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+      "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say."
     },
     {
       "source": "BBC World",
-      "title": "How worrying is the Ebola outbreak in DR Congo?",
-      "url": "https://www.bbc.com/news/articles/c9q311nj5r3o?at_medium=RSS&at_campaign=rss",
-      "summary": "An outbreak in DR Congo has been declared a health emergency, with almost 250 suspected cases reported."
+      "title": "At least 118 dead in Ebola outbreak in DR Congo, official says",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency. "
     },
     {
       "source": "BBC Technology",
-      "title": "X pledges quicker action on hate and terror content in the UK",
-      "url": "https://www.bbc.com/news/articles/clyp9652v18o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ofcom said the commitments were of particular importance after recent crimes targeting Jewish communities in the UK."
+      "title": "Robo-top: The machines that could make your next t-shirt",
+      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+      "summary": "Most clothes are made in Asia, but new machines could bring some of that work back to the West."
     },
     {
       "source": "BBC Technology",
-      "title": "Claim, counter-claim and tech's seedy side exposed: Five things we learned in the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/cg7pj8p5mv4o?at_medium=RSS&at_campaign=rss",
-      "summary": "As the jury deliberates, this is what we found out during the weeks-long trial with two tech titans at its heart."
+      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\n"
     },
     {
       "source": "BBC Technology",
-      "title": "Inside the secretive and lucrative world of orchid breeding",
-      "url": "https://www.bbc.com/news/articles/cly039rr2mgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It can take a decade to bring a new orchid to market, so breeders keep their hi-tech processes secret."
+      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
+      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\""
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft is retiring Teams’ Together Mode",
+        "#text": "LG will release the first 1000Hz, 1080p gaming monitor this year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/932215/microsoft-teams-together-mode",
+      "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Revamped Siri will reportedly offer auto-deleting chats",
+        "#text": "Volvo teases a new affordable EV to replace discontinued EX30",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+        "#text": "PlayStation exclusives aren&#8217;t coming to PC anymore",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
       "summary": "(要約準備中)"
     }
   ]
