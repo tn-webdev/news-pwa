@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-19T15:49:32.061Z",
+  "updatedAt": "2026-05-19T20:03:32.816Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+      "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
+      "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it. "
+    },
     {
       "source": "BBC World",
       "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
-      "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\"."
-    },
-    {
-      "source": "BBC World",
-      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
-      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.\n"
+      "title": "Key people smuggler arrested after BBC uncovered identity",
+      "url": "https://www.bbc.com/news/articles/c5yejzmvy56o?at_medium=RSS&at_campaign=rss",
+      "summary": "The 28-year-old's network is thought to have transported thousands of illegal migrants into the UK."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "America’s dangerous, messy deepfakes crackdown is here",
+        "#text": "Ugreen’s new soccer ball-shaped tracker has up to 7 years of battery life",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
+      "url": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s accessibility features add more AI-powered processing",
+        "#text": "Kickstarter just killed its new mature content rules",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence",
+      "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker fixes the two worst things about power stations",
+        "#text": "Gemini will use Volvo’s external cameras to interpret parking signs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
+      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
       "summary": "(要約準備中)"
     }
   ]
