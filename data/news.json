@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-19T10:07:03.865Z",
+  "updatedAt": "2026-05-19T15:49:32.061Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+      "title": "Ebola outbreak may be spreading faster than first thought, WHO doctor warns",
       "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
       "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher."
     },
     {
       "source": "BBC World",
-      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque  ",
-      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
-      "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say."
+      "title": "Father-of-eight killed in San Diego mosque shooting hailed as hero",
+      "url": "https://www.bbc.com/news/articles/clyp3gkrwg9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Security guard Amin Abdullah, one of three killed in the attack, was described as \"a shining light\"."
     },
     {
       "source": "BBC World",
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\"."
+      "title": "Victim or enabler? Epstein girlfriend who could face questions despite plea deal",
+      "url": "https://www.bbc.com/news/articles/cz92j3n3jvvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nadia Marcinko is relatively unknown but may soon be called before US legislators.\n"
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
+      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
+      "summary": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Most clothes are made in Asia, but new machines could bring some of that work back to the West."
     },
     {
-      "source": "BBC Technology",
-      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
-      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\n"
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+        "#text": "America’s dangerous, messy deepfakes crackdown is here",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+      "url": "https://www.theverge.com/policy/933518/take-it-down-act-notice-removal-social-media-deepfake",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Volvo teases a new affordable EV to replace discontinued EX30",
+        "#text": "Apple’s accessibility features add more AI-powered processing",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
+      "url": "https://www.theverge.com/tech/933420/apple-iphone-mac-vision-pro-accessibility-2026-apple-intelligence",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "PlayStation exclusives aren&#8217;t coming to PC anymore",
+        "#text": "Anker fixes the two worst things about power stations",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
+      "url": "https://www.theverge.com/tech/928420/anker-solix-s2000-power-station",
       "summary": "(要約準備中)"
     }
   ]
