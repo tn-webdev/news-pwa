@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "グラフ拡張RAGのための建築パターン：製品でのベクトル検索を超えて",
-    "title_en": "Architectural patterns for graph-enhanced RAG: Moving beyond vector search in production",
-    "summary": "リトリーバル強化生成（RAG）は通常、プライベートデータに基づいて大規模言語モデルを支えるためにベクトルインデックスを利用しますが、このアプローチは、構造よりも類似性に重点を置いているため、相互接続されたデータを持つ企業においては苦労します。この問題に対処するため、この記事では、意味ベクトル検索とグラフデータベースを組み合わせたハイブリッドな「グラフRAG」アーキテクチャを提案しています。この方法により、複数のホップを通じた推論が可能になり、文脈の取得が向上します。構造化された洞察を非構造データから提供することで、LLMのパフォーマンスを向上させ、複雑なビジネス質問に対するより正確な応答を実現します。",
-    "summary_en": "Retrieval-augmented generation (RAG) typically relies on vector indexing for grounding large language models in private data, but this approach struggles in enterprises with interconnected data due to its focus on similarity over structure. To address this issue, the article proposes a hybrid \"Graph RAG\" architecture that combines semantic vector search with graph databases, allowing for effective multi-hop reasoning and improved context retrieval. This method enhances LLM performance by providing structured insights from unstructured data, ultimately enabling more accurate responses to complex business questions.",
-    "link": "https://venturebeat.com/orchestration/architectural-patterns-for-graph-enhanced-rag-moving-beyond-vector-search-in-production",
+    "title": "50日間に発生した4件のAIサプライチェーン攻撃が明らかにしたレッドチームがカバーしていないリリースパイプラインの脆弱性",
+    "title_en": "Four AI supply-chain attacks in 50 days exposed the release pipeline red teams aren't covering",
+    "summary": "50日間の間に、OpenAI、Anthropic、Metaの3社が3件の敵対的攻撃と1件のパッケージミスを含む4つの重大なサプライチェーンインシデントを経験し、モデル自体ではなくリリースパイプラインの脆弱性が露呈しました。これらのインシデントは、既存のセキュリティ慣行における重要なギャップを浮き彫りにしました。具体的には、人間によるレビューの不足やCI/CDワークフローにおける不十分な隔離が挙げられます。また、特に注目すべき攻撃は自己増殖型ワームによるもので、リリース側の設定を悪用して悪意あるパッケージを公開しました。セキュリティプロトコルの強化に向けた取り組みにもかかわらず、これらの事象は将来の侵入を防ぐために、ビルドパイプラインに焦点を当てたより良い監視とレッドチーミングの必要性を強調しています。",
+    "summary_en": "In a span of 50 days, OpenAI, Anthropic, and Meta experienced four significant supply-chain incidents, including three adversarial attacks and a packaging mishap, all exposing vulnerabilities in their release pipelines rather than the models themselves. The incidents highlighted critical gaps in existing security practices, such as a lack of human review and inadequate isolation in CI/CD workflows, with one notable attack involving a self-propagating worm that exploited release-side configurations to publish malicious packages. Despite efforts to enhance security protocols, these events underscore the need for better oversight and red-teaming focused on build pipelines to prevent similar future breaches.",
+    "link": "https://venturebeat.com/security/supply-chain-incidents-openai-anthropic-meta-release-surface-vendor-questionnaire-matrix",
     "category": "AI",
-    "publishedAt": "2026-05-18 18:22"
+    "publishedAt": "2026-05-19 17:23"
   },
   {
     "source": "VentureBeat",
-    "title": "インターコム（現在のフィン）、AIエージェント「フィン」を管理するAIエージェントを発表",
-    "title_en": "Intercom, now called Fin, launches an AI agent whose only job is managing another AI agent",
-    "summary": "フィン（旧インターコム）は、顧客向けのAIエージェント「フィン」を管理するためのサポートオペレーションチームを支援する革新的なAIシステム「フィンオペレーター」を導入しました。フィンオペレーターは、人間のエージェントを置き換えるのではなく、データアナリスト、知識管理者、デバッガーとして機能し、AI管理の複雑さを簡素化することで、サポートオペレーションに必要な時間と労力を大幅に削減します。フィンがAIに特化した企業への移行を進める中で、このオペレーターツールは、AIがタスクを支援するだけでなく、他のAIシステムを管理するより自律的な役割を担う企業ソフトウェアの変革の可能性を示しています。",
-    "summary_en": "The company Fin, previously known as Intercom, has introduced an innovative AI system called Fin Operator, designed to assist support operations teams by managing the customer-facing AI agent, Fin. Rather than replacing human agents, Fin Operator streamlines the complexities of AI management by functioning as a data analyst, knowledge manager, and debugger, significantly reducing the time and effort required for support operations. As Fin transitions to being a major AI-focused business, the Operator tool represents a potential shift in enterprise software, where AI not only assists in tasks but takes on a more autonomous role in managing other AI systems.",
-    "link": "https://venturebeat.com/technology/intercom-now-called-fin-launches-an-ai-agent-whose-only-job-is-managing-another-ai-agent",
+    "title": "LangSmithエンジンがエージェントのデバッグループを自動的に完結 — しかしマルチモデル企業には中立的なレイヤーが依然必要",
+    "title_en": "LangSmith Engine closes the agent debugging loop automatically — but multi-model enterprises still need a neutral layer",
+    "summary": "LangSmithは、AIエージェントのトラブルシューティングプロセスを効率化するために、自動的に故障を検出し、根本原因を診断し、修正案を作成するモニタリングおよび評価ツール「LangSmithエンジン」を導入しました。この新しい機能は、エンジニアがエージェントのミスを特定するのにかかる時間を短縮することを目的としており、人間の介入は提案された変更の承認のみで済むようになっています。しかし、エンジンは、Anthropic、OpenAI、Googleなどの主要企業が観測ツールを開発している競争の激しい市場に参入し、企業が独立したソリューションを好むのか、統合プラットフォームを選ぶのかについての疑問を生じさせています。",
+    "summary_en": "LangSmith has introduced the LangSmith Engine, a monitoring and evaluation tool designed to streamline the troubleshooting process for AI agents by automatically detecting failures, diagnosing root causes, and drafting fixes. This new capability aims to address the prolonged time engineers spend identifying agent mistakes, with human intervention required only for approval of suggested changes. However, the Engine enters a competitive landscape where major players like Anthropic, OpenAI, and Google are also developing observability tools, raising questions about the preference of enterprises for standalone solutions versus integrated platforms.",
+    "link": "https://venturebeat.com/orchestration/langsmith-engine-closes-the-agent-debugging-loop-automatically-but-multi-model-enterprises-still-need-a-neutral-layer",
     "category": "AI",
-    "publishedAt": "2026-05-18 18:22"
+    "publishedAt": "2026-05-19 17:23"
   },
   {
     "source": "NHK",
-    "title": "「ミュトス」影響でセキュリティー会社に問い合わせ相次ぐ",
+    "title": "北海道新幹線の線路敷設で談合疑い 公取委が立ち入り検査",
     "title_en": "",
-    "summary": "最新のAIモデル「クロード・ミュトス」が高性能である一方、サイバー攻撃への悪用リスクが懸念されています。このため、企業からは影響や対応方法についての問い合わせが相次いでいます。セキュリティー会社は、これらのリスクに対応する必要性が高まっています。",
+    "summary": "北海道新幹線の線路敷設工事に関して、鉄道関連の建設会社9社が談合を行っていた疑いが浮上しました。公正取引委員会は立ち入り検査を実施し、発注元の機構にも同様の調査を行っています。今後、入札の経緯について詳しく調査する方針です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124801000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125501000.html",
     "category": "経済",
-    "publishedAt": "2026-05-18 18:22"
+    "publishedAt": "2026-05-19 17:23"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、イランへの和平進展が停滞する中「時間が迫っている」と警告",
-    "title_en": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-    "summary": "イランのメディアによると、アメリカはテヘランの最近の提案に対して重要な譲歩を示していないという。進展が見られないことから、両国間の交渉における緊張と課題が続いていることが示唆されている。この状況は合意に達するための複雑さを浮き彫りにしている。",
-    "summary_en": "Iranian media reports indicate that the United States has not provided significant concessions in response to Tehran's recent proposals. This lack of progress suggests ongoing tensions and challenges in negotiations between the two nations. The situation underscores the complexities involved in reaching an agreement.",
-    "link": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領、湾岸諸国の要請で新たなイラン攻撃を中止したと発表",
+    "title_en": "Trump says he called off new Iran attack at request of Gulf states",
+    "summary": "米国の大統領は、火曜日に予定されていた軍事攻撃を延期することを決定し、現在進行中の重要な交渉を理由に挙げた。この動きは、軍事行動ではなく外交努力へのシフトの可能性を示唆している。状況は、交渉が現在の紛争解決において重要な役割を果たす可能性があることを示している。",
+    "summary_en": "The US president has decided to delay a planned military attack initially set for Tuesday, citing ongoing serious negotiations. This move indicates a potential shift towards diplomatic efforts instead of military action. The situation suggests that negotiations could play a crucial role in resolving the conflict at hand.",
+    "link": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-18 18:22"
+    "publishedAt": "2026-05-19 17:23"
   },
   {
     "source": "NHK",
-    "title": "「ミュトス」影響でセキュリティー会社に問い合わせ相次ぐ",
+    "title": "米 バレエ 若手登竜門のコンクールで最優秀賞に佐居勇星さん",
     "title_en": "",
-    "summary": "最新のAIモデル「クロード・ミュトス」が高い性能を持つ一方で、サイバー攻撃への悪用リスクが懸念されています。これを受けて、都内のセキュリティー会社には企業からの問い合わせが相次いでいます。影響や対応方法についての関心が高まっています。",
+    "summary": "「ユース・アメリカ・グランプリ」がテキサス州で開催され、若手バレエダンサーの登竜門として注目されています。12歳から14歳の部門で、カリフォルニア州在住の佐居勇星さんが最優秀賞を受賞しました。彼は現在15歳で、この栄誉を獲得しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260518/k10015124801000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260519/k10015125211000.html",
     "category": "その他",
-    "publishedAt": "2026-05-18 18:22"
+    "publishedAt": "2026-05-19 17:23"
   }
 ]

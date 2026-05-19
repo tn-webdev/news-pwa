@@ -125,6 +125,39 @@ def deduplicate_articles(entries):
     
     return unique_entries
 
+def deduplicate_collected_articles(items):
+    seen_links = set()
+    seen_titles = set()
+    unique_items = []
+    duplicate_count = 0
+
+    for item in items:
+        entry = item["entry"]
+        link = (getattr(entry, "link", "") or "").strip()
+        title = (getattr(entry, "title", "") or "").strip().lower()
+
+        # URLで重複判定（空は無視）
+        if link and link in seen_links:
+            duplicate_count += 1
+            continue
+
+        # titleで重複判定（空は無視）
+        if title and title in seen_titles:
+            duplicate_count += 1
+            continue
+
+        if link:
+            seen_links.add(link)
+        if title:
+            seen_titles.add(title)
+
+        unique_items.append(item)
+
+    if duplicate_count > 0:
+        print(f"⚠️ 重複記事を{duplicate_count}件除外しました")
+
+    return unique_items
+
 # ********** title・summary抽出 / 要約（約150文字、3文程度） **********
 # 日本語要約
 def summarize(text, title=""):
@@ -325,7 +358,9 @@ def format_timestamp(entry):
     return jst.strftime("%Y-%m-%d %H:%M")
 
 def main():
+
     output_items = []
+    collected_items = []
 
     for category, info in RSS_SOURCES.items():
         print(f"\n🔁 [{info['source']}] RSS取得中...")
@@ -339,68 +374,80 @@ def main():
             if not entry:
                 print(f"⚠️ {info['source']} のRSSが取得できませんでした。")
                 continue
+ 
             entries = [entry]  # ← 1件をリスト化して統一処理にする
 
-        entries = deduplicate_articles(entries)
-
-        # --- entriesの共通処理 ---
         for entry in entries:
-            title = entry.title
-            link = entry.link
-            description = entry.summary if hasattr(entry, "summary") else ""
-
-            print(f"🧠 [{info['source']}] 要約中...")
-            summary = summarize(description, title)
-
-            title_ja = title
-            summary_ja = ""
-            title_en = ""
-            summary_en = ""
-
-            if info["source"] in ["VentureBeat", "BBC"]:
-                title_en = title
-                summary_en = summary
-            
-            # 英語記事（VentureBeat / BBC）のみ日本語翻訳をかける
-            if info["source"] in ["VentureBeat", "BBC"]:
-                print(f"🧠 [{info['source']}] 英語要約中...")
-                summary_en = summarize_en(description, title)
-                title_en = title
-
-                print(f"🌐 [{info['source']}] 日本語翻訳中...")
-                translation = translate_to_japanese(title_en, summary_en)
-
-                if translation["error"] == "":
-                    title_ja = translation["translated_title_ja"] or title
-                    summary_ja = translation["translated_summary_ja"] or summary_en
-                else:
-                    title_ja = "翻訳に失敗しました"
-                    summary_ja = "翻訳に失敗しました。原文は英語フィールドを参照してください。"
-
-            # 日本語記事
-            else:
-                print(f"🧠 [{info['source']}] 日本語要約中...")
-                summary_ja = summarize(description, title)
-           
-            # カテゴリ判定（title + description + summary で判定）
-            category_final = classify_category(title, summary, category, description)
-            
-            # VentureBeatはすべて「AI」に固定
-            if info.get("source") == "VentureBeat":
-                category_final = "AI"
-
-            timestamp = format_timestamp(entry)
-
-            output_items.append({
-                "source": info['source'],
-                "title": title_ja,        # 日本語タイトル
-                "title_en": title_en,     # 英語タイトル（英語記事のみ、それ以外は空文字）
-                "summary": summary_ja,    # 日本語要約
-                "summary_en": summary_en, # 英語要約（英語記事のみ、それ以外は空文字）
-                "link": link,
-                "category": category_final,
-                "publishedAt": timestamp
+            collected_items.append({
+                "entry": entry,
+                "info": info,
+                "category": category
             })
+
+    collected_items = deduplicate_collected_articles(collected_items)
+
+    # --- collected_itemsの共通処理 ---
+    for item in collected_items:
+        entry = item["entry"]
+        info = item["info"]
+        category = item["category"]
+
+        title = entry.title
+        link = entry.link
+        description = entry.summary if hasattr(entry, "summary") else ""
+
+        print(f"🧠 [{info['source']}] 要約中...")
+        summary = summarize(description, title)
+
+        title_ja = title
+        summary_ja = ""
+        title_en = ""
+        summary_en = ""
+
+        if info["source"] in ["VentureBeat", "BBC"]:
+            title_en = title
+            summary_en = summary
+
+        # 英語記事（VentureBeat / BBC）のみ日本語翻訳をかける
+        if info["source"] in ["VentureBeat", "BBC"]:
+            print(f"🧠 [{info['source']}] 英語要約中...")
+            summary_en = summarize_en(description, title)
+            title_en = title
+
+            print(f"🌐 [{info['source']}] 日本語翻訳中...")
+            translation = translate_to_japanese(title_en, summary_en)
+
+            if translation["error"] == "":
+                title_ja = translation["translated_title_ja"] or title
+                summary_ja = translation["translated_summary_ja"] or summary_en
+            else:
+                title_ja = "翻訳に失敗しました"
+                summary_ja = "翻訳に失敗しました。原文は英語フィールドを参照してください。"
+
+        # 日本語記事
+        else:
+            print(f"🧠 [{info['source']}] 日本語要約中...")
+            summary_ja = summarize(description, title)
+
+        # カテゴリ判定（title + description + summary で判定）
+        category_final = classify_category(title, summary, category, description)
+
+        # VentureBeatはすべて「AI」に固定
+        if info.get("source") == "VentureBeat":
+            category_final = "AI"
+
+        timestamp = format_timestamp(entry)
+
+        output_items.append({
+            "source": info['source'],
+            "title": title_ja,        # 日本語タイトル
+            "title_en": title_en,     # 英語タイトル（英語記事のみ、それ以外は空文字）
+            "summary": summary_ja,    # 日本語要約
+            "summary_en": summary_en, # 英語要約（英語記事のみ、それ以外は空文字）
+            "link": link,
+            "category": category_final,
+            "publishedAt": timestamp
+        })
 
     with open(DATA_PATH, "w", encoding="utf-8") as f:
         json.dump(output_items, f, ensure_ascii=False, indent=2)
