@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-19T04:33:19.965Z",
+  "updatedAt": "2026-05-19T10:07:03.865Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says he called off new Iran attack at request of Gulf states",
-      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\"."
+      "title": "Ebola may be spreading faster than first thought, WHO doctor warns",
+      "url": "https://www.bbc.com/news/articles/ceqp11gn1l8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hundreds of cases are suspected in central Africa but experts fear the actual number may be much higher."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "At least 118 dead in Ebola outbreak in DR Congo, official says",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency. "
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\"."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
+      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style."
     },
     {
       "source": "BBC Technology",
@@ -30,12 +36,6 @@
       "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
       "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
       "summary": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\n"
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Musk loses OpenAI court battle after jury finds he waited too long to sue",
-      "url": "https://www.bbc.com/news/articles/cewpyv79pw1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\""
     },
     {
       "source": "The Verge",
