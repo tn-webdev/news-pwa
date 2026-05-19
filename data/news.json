@@ -1,18 +1,6 @@
 {
-  "updatedAt": "2026-05-18T20:00:39.226Z",
+  "updatedAt": "2026-05-19T04:33:19.965Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "At least 100 dead in Ebola outbreak in DR Congo, official says",
-      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
-      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency. "
-    },
-    {
-      "source": "BBC World",
-      "title": "American contracted Ebola in Democratic Republic of Congo, CDC says",
-      "url": "https://www.bbc.com/news/articles/cjwpy2qww5do?at_medium=RSS&at_campaign=rss",
-      "summary": "A medical group says an American doctor tested positive after being exposed while treating patients. "
-    },
     {
       "source": "BBC World",
       "title": "Trump says he called off new Iran attack at request of Gulf states",
@@ -20,10 +8,28 @@
       "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\"."
     },
     {
+      "source": "BBC World",
+      "title": "Teen suspects fatally shoot three in suspected hate crime at San Diego mosque  ",
+      "url": "https://www.bbc.com/news/articles/c5y7q66gq56o?at_medium=RSS&at_campaign=rss",
+      "summary": "The alleged attackers were aged 17 and 18 and one left a note containing \"generalised hate rhetoric\", investigators say."
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 118 dead in Ebola outbreak in DR Congo, official says",
+      "url": "https://www.bbc.com/news/articles/cq6pz60p996o?at_medium=RSS&at_campaign=rss",
+      "summary": "The World Health Organization (WHO) has declared the outbreak an international emergency. "
+    },
+    {
       "source": "BBC Technology",
-      "title": "Elon Musk just lost another lawsuit. Will he keep fighting?",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk's loss against OpenAI is the latest in a string of courtroom defeats."
+      "title": "Robo-top: The machines that could make your next t-shirt",
+      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
+      "summary": "Most clothes are made in Asia, but new machines could bring some of that work back to the West."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Satellites and AI used to track UK hedgehogs in bid to slow decline",
+      "url": "https://www.bbc.com/news/articles/c202g60qrlpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Researchers hope the project will also help to identify barriers preventing hedgehogs from finding food and mates in the wild.\n"
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "Jurors spent weeks hearing about Musk's claim that Altman had \"stolen a charity.\""
     },
     {
-      "source": "BBC Technology",
-      "title": "Instant AI answers can trivialise human intelligence, warns Royal Observatory",
-      "url": "https://www.bbc.com/news/articles/c2023l60370o?at_medium=RSS&at_campaign=rss",
-      "summary": "Paddy Rodgers said the Observatory's rich history showed the power of human knowledge and the need to avoid \"dependence\" on AI.\n\n"
+      "source": "The Verge",
+      "title": {
+        "#text": "LG will release the first 1000Hz, 1080p gaming monitor this year",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/933204/lg-1000hz-1080p-ultragear-25g590b",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Volvo teases a new affordable EV to replace discontinued EX30",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/932857/volvo-ex30-ev-replacement-affordable-ex60",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/932817/playstation-exclusive-games-pc",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Musk v. Altman proved that AI is led by the wrong people",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/932464/musk-v-altman-proved-that-ai-is-led-by-the-wrong-people",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Walmart launches new budget-friendly Android tablets starting at $97",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/932642/walmart-onn-new-core-pro-kids-tablets",
       "summary": "(要約準備中)"
     }
   ]
