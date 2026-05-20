@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-20T09:53:48.185Z",
+  "updatedAt": "2026-05-20T15:56:11.475Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-      "url": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
-      "summary": "Jeff Landry's visit to the territory, a semi-autonomous part of Denmark, has touched a nerve among some Greenlanders. "
+      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
+      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one."
     },
     {
       "source": "BBC World",
-      "title": "Man who murdered teen TikTok star in Pakistan gets death sentence",
-      "url": "https://www.bbc.com/news/articles/cvgzrgm0rgvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Sana Yousaf's murder highlights a pattern of violence against women in Pakistan, activists say."
+      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port."
     },
     {
       "source": "BBC World",
-      "title": "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
-      "url": "https://www.bbc.com/news/articles/cvgzj0pqpyyo?at_medium=RSS&at_campaign=rss",
-      "summary": "The health minister has acknowledged that medics are playing catch-up with the virus after being slow to detect it. "
+      "title": "Ebola vaccine could take nine months as death toll rise further, WHO warns",
+      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
+      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it."
     },
     {
-      "source": "BBC Technology",
-      "title": "Elon Musk has lost yet another legal battle. Why he'll still keep fighting",
-      "url": "https://www.bbc.com/news/articles/cqlpz4w6v13o?at_medium=RSS&at_campaign=rss",
-      "summary": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Samsung workers set to strike at worst possible time",
+        "#text": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/934432/samsung-electronics-strike-memory-chip-supply",
+      "url": "https://www.theverge.com/gadgets/934288/anker-laptop-power-bank-soundcore-sleep-a20-earbuds-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
+        "#text": "The Verge’s 2026 high school graduation gift guide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
+      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
+        "#text": "A feature-packed MagSafe power bank is 20 percent off for Memorial Day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
+      "url": "https://www.theverge.com/gadgets/934553/anker-magsafe-power-bank-usbc-deal-sale-memorial-day",
       "summary": "(要約準備中)"
     }
   ]
