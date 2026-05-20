@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-20T15:56:11.475Z",
+  "updatedAt": "2026-05-20T20:30:01.594Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Xi basks in spotlight as he hosts Putin days after Trump",
-      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one."
+      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft"
+    },
+    {
+      "source": "BBC World",
+      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
+      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor."
     },
     {
       "source": "BBC World",
       "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
       "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
       "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port."
-    },
-    {
-      "source": "BBC World",
-      "title": "Ebola vaccine could take nine months as death toll rise further, WHO warns",
-      "url": "https://www.bbc.com/news/articles/cwy2g197dp8o?at_medium=RSS&at_campaign=rss",
-      "summary": "In its latest update, the World Health Organization says there have now been 139 suspected deaths and 600 cases."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s travel-friendly Laptop Power Bank has returned to its best price of the year",
+        "#text": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/934288/anker-laptop-power-bank-soundcore-sleep-a20-earbuds-deal-sale",
+      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s 2026 high school graduation gift guide",
+        "#text": "I’ve tested the latest Switch 2 controllers, and this one is the best",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
+      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A feature-packed MagSafe power bank is 20 percent off for Memorial Day",
+        "#text": "Anthropic and OpenAI take their beef to the midterm elections",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/934553/anker-magsafe-power-bank-usbc-deal-sale-memorial-day",
+      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
       "summary": "(要約準備中)"
     }
   ]
