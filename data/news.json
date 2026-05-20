@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-19T20:03:32.816Z",
+  "updatedAt": "2026-05-20T04:36:18.787Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Google to release first smart glasses since Google Glass flop",
+      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
+      "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
       "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
       "summary": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it."
@@ -32,36 +38,30 @@
       "summary": "Musk has lost his high-profile lawsuit against OpenAI, but is not likely to change his aggressive style."
     },
     {
-      "source": "BBC Technology",
-      "title": "Robo-top: The machines that could make your next t-shirt",
-      "url": "https://www.bbc.com/news/articles/c0q2gkj97eko?at_medium=RSS&at_campaign=rss",
-      "summary": "Most clothes are made in Asia, but new machines could bring some of that work back to the West."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Ugreen’s new soccer ball-shaped tracker has up to 7 years of battery life",
+        "#text": "Mercedes’ electric AMG GT 4-door coupe can go 0-60 in 2 seconds",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/934101/ugreen-finetrack-2-mini-tracker-apple-find-my-soccer-ball",
+      "url": "https://www.theverge.com/news/934037/mercedes-amg-gt-four-door-coupe-ev-specs",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Kickstarter just killed its new mature content rules",
+        "#text": "Wear OS 7 will keep track of deliveries and sports scores on your wrist",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/933844/kickstarter-just-killed-its-new-mature-content-rules",
+      "url": "https://www.theverge.com/tech/934323/google-wear-os-7-smartwatch-battery-life-wear-widgets-io-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Gemini will use Volvo’s external cameras to interpret parking signs",
+        "#text": "Plex is tripling the price of a lifetime pass to $750 after doubling it last year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/933556/google-io-gemini-volvo-ex60-camera-ai-parking",
+      "url": "https://www.theverge.com/tech/934269/plex-pass-lifetime-subscription-triple-750-price-hike",
       "summary": "(要約準備中)"
     }
   ]
