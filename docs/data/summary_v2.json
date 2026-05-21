@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AWS、急成長中の生成AIメディア作成スタートアップFalを獲得し、優先クラウドプロバイダーに",
-    "title_en": "AWS nabs white hot gen AI media creation startup fal, becoming its preferred cloud provider",
-    "summary": "評価額45億ドルの生成メディア作成プラットフォームFalは、250万人の開発者にとって不可欠な存在となっており、メディア制作のための数百のAIモデルに単一の統一APIを通じてアクセスを提供し、生成AIにおけるインフラの課題に対応しています。同社はAmazon Web Services（AWS）と提携し、ユーザーからGPU管理の負担を軽減し、クリエイティビティに集中できる信頼性の高いスケーラブルで効率的なサービスの提供能力を強化しています。この協力により、高度なインフラへのアクセスが民主化され、独立系開発者から大手スタジオまで、メディア制作への参加が促進される一方で、企業レベルのセキュリティとコンプライアンスも確保されます。",
-    "summary_en": "Fal, a generative media creation platform valued at $4.5 billion, has become essential for 2.5 million developers by providing access to hundreds of AI models for media creation through a single unified API, addressing the challenges of infrastructure in generative AI. The company has partnered with Amazon Web Services (AWS), enhancing its ability to deliver reliable, scalable, and efficient services that offload the burden of GPU management from users, allowing them to focus on creativity. This collaboration is set to democratize access to high-end infrastructure, enabling broader participation in media creation, from independent developers to large studios, while ensuring enterprise-grade security and compliance.",
-    "link": "https://venturebeat.com/infrastructure/aws-nabs-white-hot-gen-ai-media-creation-startup-fal-becoming-its-preferred-cloud-provider",
+    "title": "Cohere、ロスレス量子化とネイティブ引用を実現したApache 2.0ライセンスのオープンモデル Command A+ を発表",
+    "title_en": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
+    "summary": "カナダのAIラボCohereは、ドイツのAIスタートアップAleph Alphaと合併し、高度な推論およびマルチモーダル文書処理に特化した2180億パラメータの効率的な言語モデルCommand A+を発表しました。このモデルは、Apache 2.0の完全なオープンソースライセンスのもとでHugging Faceで公開されており、企業が制限なく利用および適応することが可能です。ハードウェアの効率性とネイティブな引用生成機能の向上により、Command A+は企業向けAIアプリケーションの強力な競争者として位置づけられ、データ主権と運用コストの効果的な管理の重要性を強調しています。",
+    "summary_en": "Cohere, a Canadian AI lab, has recently merged with German AI startup Aleph Alpha and introduced Command A+, a highly efficient 218-billion-parameter language model focused on complex reasoning and multimodal document processing. The model is notably accessible as it is released under a fully permissive Apache 2.0 open-source license on Hugging Face, enabling enterprises to use and adapt it without restrictions. With advances in hardware efficiency and native citation generation capabilities, Command A+ positions itself as a strong contender for enterprise AI applications, emphasizing the importance of data sovereignty and operational cost-effectiveness.",
+    "link": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
     "category": "AI",
-    "publishedAt": "2026-05-20 16:33"
+    "publishedAt": "2026-05-21 18:45"
   },
   {
     "source": "VentureBeat",
-    "title": "Claudeエージェントが、資格情報を漏らさずに企業のAPIに接続できるように",
-    "title_en": "Claude agents can finally connect to enterprise APIs without leaking credentials",
-    "summary": "企業は、認証トークンがエージェントによって持ち運ばれることに関連するセキュリティ上の懸念から、AIエージェントを内部APIやデータベースに接続することに慎重でした。Anthropicは、Claude Managed Agentsによってこの問題に対処し、自己ホスト型のサンドボックスを導入することで、企業のインフラ内でツールの実行を可能にし、MCPトンネルを通じてエージェントをプライベートサーバーに安全に接続できるようにします。この革新は、セキュリティを強化するだけでなく、エージェントのワークフローをより良く制御することも可能にし、AnthropicのアプローチをOpenAIなどの他のモデルプロバイダーと差別化します。",
-    "summary_en": "Enterprises have been hesitant to connect AI agents to internal APIs and databases primarily due to security concerns related to authentication tokens being carried by agents, which pose risks if compromised. Anthropic is addressing this issue with Claude Managed Agents by introducing self-hosted sandboxes, allowing tool execution within the enterprise's infrastructure, and MCP tunnels, which securely link agents to private servers without passing credentials. These innovations not only enhance security but also enable better control over agent workflows, differentiating Anthropic's approach from other model providers like OpenAI.",
-    "link": "https://venturebeat.com/orchestration/claude-agents-can-finally-connect-to-enterprise-apis-without-leaking-credentials",
+    "title": "セレブラス、チップがトリリオンパラメーターのAIモデルをGPUクラウドの約7倍の速さで動作すると発表",
+    "title_en": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
+    "summary": "セレブラスシステムズは、AI推論市場において重要な一歩を踏み出し、トリリオンパラメーターのKimi K2.6モデルを前例のない速度で実行することに成功しました。毎秒約1,000トークンの処理が可能で、GPUベースの競合を大きく上回っています。この発展は、2026年の記録的なIPOの後に発表され、同社を大規模なAIモデルを扱う強力なプレーヤーとして位置付けています。このエンタープライズファーストのソリューションを提供することで、セレブラスは、特にGroqを買収して推論能力を強化したNvidiaからの圧力が続く中、より早く効率的なAI推論への高まる需要に応えようとしています。",
+    "summary_en": "Cerebras Systems has made a significant move in the AI inference market by successfully running the trillion-parameter Kimi K2.6 model at unprecedented speeds, nearly 1,000 tokens per second—far exceeding GPU-based competitors. This development comes shortly after the company's record-breaking IPO in 2026, positioning it as a strong player in handling large-scale AI models with its unique wafer-scale architecture. By offering this enterprise-first solution, Cerebras aims to address the increasing demand for faster and more efficient AI inference, despite looming competition from Nvidia, especially following its acquisition of Groq for enhanced inference capabilities.",
+    "link": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
     "category": "AI",
-    "publishedAt": "2026-05-20 16:33"
+    "publishedAt": "2026-05-21 18:45"
   },
   {
     "source": "NHK",
-    "title": "株価 約3週間ぶり6万円割れ 長期金利上昇傾向で",
+    "title": "円相場 ドルに対して小幅な値動き",
     "title_en": "",
-    "summary": "20日の東京株式市場では、長期金利の上昇による企業の利払い負担増への懸念から、幅広い銘柄に売り注文が広がりました。この影響で日経平均株価は前日比746円安の5万9804円となり、約3週間ぶりに6万円を下回りました。トピックスも下落しました。市場では、金利上昇による企業業績への悪影響を警戒する見方に加え、翌日に発表されるアメリカの半導体大手NVIDIAの決算を前に、積極的な取引を控える投資家が多いとみられています。",
+    "summary": "東京外国為替市場で、円相場はドルに対してわずかに変動しました。相場は安定した動きが続いています。全体的な市場の動向を反映しています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015126231000",
+    "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127991000.html",
     "category": "経済",
-    "publishedAt": "2026-05-20 16:33"
+    "publishedAt": "2026-05-21 18:45"
   },
   {
     "source": "BBC",
-    "title": "トランプのグリーンランド特使、友情を築くための厳しい道のりに直面",
-    "title_en": "Trump's Greenland envoy faces uphill battle on mission to make 'friends'",
-    "summary": "デンマークの準自治地域であるグリーンランドを訪れたジェフ・ランドリー氏の滞在は、現地住民の間で賛否を呼んでいます。彼の訪問は、グリーンランドの一部の住民の間で懸念や感情を引き起こし、自治や外部との関係に関する深刻な問題を反映しています。この訪問は、グリーンランドの独自の政治的・文化的アイデンティティに対する継続的な緊張と、その重要性を浮き彫りにしています。",
-    "summary_en": "Jeff Landry's visit to Greenland, a semi-autonomous territory of Denmark, has sparked mixed reactions among its residents. His presence raised concerns and emotions among some Greenlanders, reflecting deeper issues related to their autonomy and relationships with external entities. The visit highlights ongoing tensions and the importance of addressing Greenland's unique political and cultural identity.",
-    "link": "https://www.bbc.com/news/articles/cze28ex3lexo?at_medium=RSS&at_campaign=rss",
+    "title": "米国、1996年の2機の航空機撃墜に関してキューバのラウル・カストロを殺人で起訴",
+    "title_en": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
+    "summary": "キューバの大統領は、アメリカ国民を殺害する陰謀や航空機の破壊を含むフィデル・カストロに対する起訴を「政治的な策謀」として退けた。彼は、これらの告発は真に法的な懸念に基づいているのではなく、政治的動機に基づくものであると主張している。この声明は、キューバとアメリカとの緊張関係やカストロ指導者の遺産を反映している。",
+    "summary_en": "Cuba's president has dismissed the charges against Fidel Castro, which include conspiracy to kill U.S. nationals and destruction of aircraft, labeling them as a \"political maneuver.\" He argues that the accusations are not based on genuine legal concerns but are instead politically motivated efforts. This statement reflects Cuba's ongoing tension with the United States and the legacy of Castro's leadership.",
+    "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-20 16:33"
+    "publishedAt": "2026-05-21 18:46"
   },
   {
     "source": "NHK",
-    "title": "将棋のプロ編入 “受験資格3回獲得でプロ棋士”総会で検討へ",
+    "title": "高市首相 宇宙飛行士の油井さん 大西さんと面会 支援続ける",
     "title_en": "",
-    "summary": "日本将棋連盟が、女流棋士やアマチュア向けの新制度導入を検討しています。新制度では、編入試験を通算3回受験することでプロ棋士の権利を得ることができます。承認は、総会での過半数の賛成が必要です。",
+    "summary": "高市総理大臣は国際宇宙ステーションに滞在した宇宙飛行士2人と面会しました。彼は、日本も参加する月探査プロジェクトで日本人宇宙飛行士の月面着陸を支援する意向を示しました。日本の宇宙探査への貢献が強調されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260520/k10015126621000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128051000.html",
     "category": "その他",
-    "publishedAt": "2026-05-20 16:33"
+    "publishedAt": "2026-05-21 18:46"
   }
 ]
