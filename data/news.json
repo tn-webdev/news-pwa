@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T04:44:38.511Z",
+  "updatedAt": "2026-05-21T10:02:52.127Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port."
+      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
+      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
+      "summary": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Nvidia's record result fails to impress investors",
+      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
+      "summary": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition."
     },
     {
       "source": "BBC Technology",
@@ -27,15 +33,27 @@
     },
     {
       "source": "BBC Technology",
-      "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+      "title": "SpaceX files for stock market debut that could make Elon Musk a trillionaire",
       "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
       "summary": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX"
     },
     {
-      "source": "BBC Technology",
-      "title": "US groups urge investigation into child safety and spending on Roblox",
-      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items."
+      "source": "The Verge",
+      "title": {
+        "#text": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Meta lays off thousands of employees to offset AI investments",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "SpaceX just filed for what could be the biggest IPO ever",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "‘Solve all diseases,’ you say?",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
       "summary": "(要約準備中)"
     }
   ]
