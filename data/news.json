@@ -1,29 +1,23 @@
 {
-  "updatedAt": "2026-05-21T10:02:52.127Z",
+  "updatedAt": "2026-05-21T15:51:03.746Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-      "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\"."
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway."
     },
     {
       "source": "BBC World",
-      "title": "Rosenberg: Putin enjoys Xi's Chinese welcome but heads home without pipeline deal",
-      "url": "https://www.bbc.com/news/articles/c8r8me3nlllo?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia and China showed they were shoulder-to-shoulder on the world stage, but it became clear there are limits, says the BBC's Russia Editor."
+      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
+      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime."
     },
     {
       "source": "BBC World",
-      "title": "DR Congo cancels World Cup training camp over Ebola outbreak",
-      "url": "https://www.bbc.com/news/articles/c8d80856q2go?at_medium=RSS&at_campaign=rss",
-      "summary": "The outbreak, caused by a rare Ebola species, is thought to have caused 139 deaths so far."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Nvidia's record result fails to impress investors",
-      "url": "https://www.bbc.com/news/articles/c759x9pq3dpo?at_medium=RSS&at_campaign=rss",
-      "summary": "The chip giant reported more stellar results but its shares fell after-hours as investors wonder if it can keep up its pace of growth amid greater competition."
+      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people. "
     },
     {
       "source": "BBC Technology",
@@ -38,30 +32,36 @@
       "summary": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX"
     },
     {
+      "source": "BBC Technology",
+      "title": "US groups urge investigation into child safety and spending on Roblox",
+      "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items."
+    },
+    {
       "source": "The Verge",
       "title": {
-        "#text": "‘Fuck you, Bambu’: How one private message could change the face of 3D printing",
+        "#text": "Spotify is going to reserve concert tickets for ‘real fans’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/931532/bambu-agpl-pawel-jarczak-open-source-threat-dmca-github",
+      "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta lays off thousands of employees to offset AI investments",
+        "#text": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/935163/meta-layoffs-ai-investment-offset-memo",
+      "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "In SpaceX’s IPO, Elon Musk is a risk factor",
+        "#text": "AI video is moving beyond clip slop",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
+      "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
       "summary": "(要約準備中)"
     }
   ]
