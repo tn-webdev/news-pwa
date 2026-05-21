@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-20T20:30:01.594Z",
+  "updatedAt": "2026-05-21T04:44:38.511Z",
   "top": [
     {
       "source": "BBC World",
       "title": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
       "url": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Castro and five others are charged with conspiracy to kill US nationals, murder, and destruction of aircraft"
+      "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\"."
     },
     {
       "source": "BBC World",
@@ -21,47 +21,47 @@
     },
     {
       "source": "BBC Technology",
+      "title": "TikTok and YouTube 'not safe enough' for kids, says Ofcom",
+      "url": "https://www.bbc.com/news/articles/cn0pky4zpxxo?at_medium=RSS&at_campaign=rss",
+      "summary": "YouTube said it worked with experts to provide appropriate experiences. TikTok said it was disappointed Ofcom had not acknowledged its safety features."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "SpaceX files for IPO that could make Elon Musk a trillionaire",
+      "url": "https://www.bbc.com/news/articles/cg4pe2953q1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Musk's rocket-maker and satellite internet provider will trade under the ticker SPCX"
+    },
+    {
+      "source": "BBC Technology",
       "title": "US groups urge investigation into child safety and spending on Roblox",
       "url": "https://www.bbc.com/news/articles/cgqpz809e7lo?at_medium=RSS&at_campaign=rss",
       "summary": "Roblox said it had \"clear policies\" banning actual and simulated gambling, as well as rules governing paid random items."
     },
     {
-      "source": "BBC Technology",
-      "title": "Google to release first smart glasses since Google Glass flop",
-      "url": "https://www.bbc.com/news/articles/cvgz1ynq1nqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The glasses will go on sale sometime in autumn and allow Google's artificial intelligence product to interact with a user."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Zoe Kleinman: Why the AI industry is the real winner of the Musk-Altman trial",
-      "url": "https://www.bbc.com/news/articles/crlp991nw41o?at_medium=RSS&at_campaign=rss",
-      "summary": "The trial in Oakland, California has helped lift the veil on the AI sector - and the huge egos of the men at the heart of it."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Here are 42 of our favorite deals from REI’s massive Anniversary Sale",
+        "#text": "In SpaceX’s IPO, Elon Musk is a risk factor",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/931274/rei-anniversary-sale-2026",
+      "url": "https://www.theverge.com/science/935102/spacex-ipo-elon-musk-tesla-cybertruck-xai-risk-factor",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "I’ve tested the latest Switch 2 controllers, and this one is the best",
+        "#text": "SpaceX just filed for what could be the biggest IPO ever",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/791574/best-switch-2-controllers",
+      "url": "https://www.theverge.com/business/902219/spacex-ipo-details",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic and OpenAI take their beef to the midterm elections",
+        "#text": "‘Solve all diseases,’ you say?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/934684/anthropic-openai-super-pac-beef-alex-bores",
+      "url": "https://www.theverge.com/column/935021/google-io-gemini-for-science-alphafold-alphagenome-ai-health",
       "summary": "(要約準備中)"
     }
   ]
