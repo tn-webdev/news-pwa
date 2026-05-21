@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-21T15:51:03.746Z",
+  "updatedAt": "2026-05-21T20:10:12.995Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "China says US should stop 'threats' against Cuba after ex-leader charged",
-      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the US charged Cuba's ex-leader with murder, the latest move putting pressure on the regime."
+      "title": "Gaza flotilla activists deported from Israel as backlash over treatment grows ",
+      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned."
     },
     {
       "source": "BBC World",
-      "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-      "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The companies were found guilty by a French court over an air disaster which killed 228 people. "
+      "title": "Russia and China condemn US over indictment of former Cuban leader",
+      "url": "https://www.bbc.com/news/articles/clype0x7pkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the US charged Raúl Castro with murder, the latest move putting pressure on the regime."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify is going to reserve concert tickets for ‘real fans’",
+        "#text": "Firefox is working on a rounded redesign with easy-to-find controls for privacy and AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/935394/spotify-reserved-concert-ticket-presales",
+      "url": "https://www.theverge.com/tech/935631/firefox-project-nova-redesign",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Spotify Studio&#8217;s AI agent creates a daily podcast just for you",
+        "#text": "In desperate times, graduates find hope in humiliating tech CEOs",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/935390/spotify-studio-ai-app-personal-podcasts",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/935602/graduates-boo-ai-ceos",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI video is moving beyond clip slop",
+        "#text": "Who gets to own the Luigi Mangione story?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/935310/ai-video-luma-hollywood",
+      "url": "https://www.theverge.com/news/935598/luigi-mangione-new-york-case-press-credentials-supporters",
       "summary": "(要約準備中)"
     }
   ]
