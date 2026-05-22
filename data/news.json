@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-22T09:49:19.273Z",
+  "updatedAt": "2026-05-22T15:22:53.869Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
-      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
-      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war."
+      "title": "Ebola risk raised to 'very high' in DR Congo",
+      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level."
     },
     {
       "source": "BBC World",
-      "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
-      "url": "https://www.bbc.com/news/articles/ckgpzwkn5jko?at_medium=RSS&at_campaign=rss",
-      "summary": "Cuba's foreign minister accused Rubio of trying to \"instigate a military aggression\"."
+      "title": "Rubio tries to reassure Nato allies over US troop deployments",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment."
     },
     {
       "source": "BBC World",
-      "title": "Will US invade? Three ways Cuba crisis could play out now",
-      "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government. "
+      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
+      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "'At a loss for words' - Destiny 2 fans react to news support is ending",
+      "url": "https://www.bbc.com/news/articles/c1728w58dyqo?at_medium=RSS&at_campaign=rss",
+      "summary": "Bungie said the online shooter will get its final update on 9 June but will still be playable."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches."
     },
     {
-      "source": "BBC Technology",
-      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
-      "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
-      "summary": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s new earbuds are the first with its AI chip that boosts noise reduction",
+        "#text": "The Trump phone is not here",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/934621/anker-liberty-5-pro-max-wireless-headphones-earbuds-ai-thus-chip",
+      "url": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Anker’s new earbuds have the best call quality I’ve ever heard",
+        "#text": "The literary world isn’t prepared for AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/935766/soundcore-liberty-5-pro-series-earbuds-review",
+      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "States ask judge to break up Live Nation-Ticketmaster",
+        "#text": "Why would you disrespect your favorite artist with an AI remix?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/935735/live-nation-ticketmaster-states-remedies-request-break-up",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
       "summary": "(要約準備中)"
     }
   ]
