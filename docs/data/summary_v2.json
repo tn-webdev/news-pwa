@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Cohere、ロスレス量子化とネイティブ引用を実現したApache 2.0ライセンスのオープンモデル Command A+ を発表",
-    "title_en": "Cohere cracks lossless quantization and native citations with first full Apache 2.0 licensed open model Command A+",
-    "summary": "カナダのAIラボCohereは、ドイツのAIスタートアップAleph Alphaと合併し、高度な推論およびマルチモーダル文書処理に特化した2180億パラメータの効率的な言語モデルCommand A+を発表しました。このモデルは、Apache 2.0の完全なオープンソースライセンスのもとでHugging Faceで公開されており、企業が制限なく利用および適応することが可能です。ハードウェアの効率性とネイティブな引用生成機能の向上により、Command A+は企業向けAIアプリケーションの強力な競争者として位置づけられ、データ主権と運用コストの効果的な管理の重要性を強調しています。",
-    "summary_en": "Cohere, a Canadian AI lab, has recently merged with German AI startup Aleph Alpha and introduced Command A+, a highly efficient 218-billion-parameter language model focused on complex reasoning and multimodal document processing. The model is notably accessible as it is released under a fully permissive Apache 2.0 open-source license on Hugging Face, enabling enterprises to use and adapt it without restrictions. With advances in hardware efficiency and native citation generation capabilities, Command A+ positions itself as a strong contender for enterprise AI applications, emphasizing the importance of data sovereignty and operational cost-effectiveness.",
-    "link": "https://venturebeat.com/technology/cohere-cracks-lossless-quantization-and-native-citations-with-first-full-apache-2-0-licensed-open-model-command-a",
+    "title": "アリババの独自モデルQwen3.7-Maxは35時間の自律稼働を実現し、AnthropicのClaude Codeなどの外部ハーネスに対応",
+    "title_en": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
+    "summary": "AI業界は、アリババのQwen3.7-Maxによって新たなマイルストーンに達しました。このモデルは、数日間にわたる自律タスクの実行を目的に設計されており、35時間の連続稼働を通じてその能力を示しています。この独自モデルは、アリババの戦略の変化を示しており、アメリカのAI企業と同様に、オープンソース形式ではなく、有料APIを通じてAIモデルの高度なバージョンを提供する方向に進んでいます。Qwen3.7-Maxの性能向上は企業に新たな機会を提供しますが、そのアクセス制限は、オープンソースAIの未来に関して開発者コミュニティに懸念を与え、地域のAIムーブメントに支障をきたす可能性があります。",
+    "summary_en": "The AI industry has reached a new milestone with Alibaba's Qwen3.7-Max, a model designed for prolonged autonomous task execution over multiple days, showcasing its capabilities through 35 hours of continuous operation. This proprietary model signifies a shift in Alibaba's strategy, aligning with American AI companies by offering advanced versions of AI models via paid APIs, rather than open-source formats. While the enhanced performance of Qwen3.7-Max presents new opportunities for enterprises, its restricted access raises concerns among the developer community about the future of open-source AI, which could hinder the local AI movement.",
+    "link": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
     "category": "AI",
-    "publishedAt": "2026-05-21 18:45"
+    "publishedAt": "2026-05-22 17:36"
   },
   {
     "source": "VentureBeat",
-    "title": "セレブラス、チップがトリリオンパラメーターのAIモデルをGPUクラウドの約7倍の速さで動作すると発表",
-    "title_en": "Cerebras says its chips run a trillion-parameter AI model nearly 7 times faster than GPU clouds",
-    "summary": "セレブラスシステムズは、AI推論市場において重要な一歩を踏み出し、トリリオンパラメーターのKimi K2.6モデルを前例のない速度で実行することに成功しました。毎秒約1,000トークンの処理が可能で、GPUベースの競合を大きく上回っています。この発展は、2026年の記録的なIPOの後に発表され、同社を大規模なAIモデルを扱う強力なプレーヤーとして位置付けています。このエンタープライズファーストのソリューションを提供することで、セレブラスは、特にGroqを買収して推論能力を強化したNvidiaからの圧力が続く中、より早く効率的なAI推論への高まる需要に応えようとしています。",
-    "summary_en": "Cerebras Systems has made a significant move in the AI inference market by successfully running the trillion-parameter Kimi K2.6 model at unprecedented speeds, nearly 1,000 tokens per second—far exceeding GPU-based competitors. This development comes shortly after the company's record-breaking IPO in 2026, positioning it as a strong player in handling large-scale AI models with its unique wafer-scale architecture. By offering this enterprise-first solution, Cerebras aims to address the increasing demand for faster and more efficient AI inference, despite looming competition from Nvidia, especially following its acquisition of Groq for enhanced inference capabilities.",
-    "link": "https://venturebeat.com/technology/cerebras-says-its-chips-run-a-trillion-parameter-ai-model-nearly-7-times-faster-than-gpu-clouds",
+    "title": "Kore.aiがArtemis AIエージェントプラットフォームを発表、SalesforceとServiceNowに挑む",
+    "title_en": "Kore.ai launches Artemis AI agent platform, takes on Salesforce and ServiceNow",
+    "summary": "Kore.aiは、企業がAIを活用してAIエージェントの構築、管理、最適化を迅速に行える革新的なシステムであるエージェントプラットフォームのArtemisエディションを発表しました。このプラットフォームは、従来のエンジニアリング時間を数ヶ月から数日へと短縮します。プラットフォームには、さまざまなインフラストラクチャ全体でAIエージェントの作成と管理を効率化するための標準化されたYAMLベースの言語「Agent Blueprint Language（ABL）」が導入されており、ビジネス要件を機能するエージェントシステムに変換し、そのパフォーマンスを常に最適化するAI駆動のツール「Arch」も搭載されています。中立性に重点を置き、規制のある業界で安全な意思決定を確保するユニークなデュアルブレインアーキテクチャを持つKore.aiは、大手テクノロジー企業が支配する混雑した市場の中で自らを差別化し、企業AIの導入におけるガバナンスと信頼の重要性を強調しています。",
+    "summary_en": "Kore.ai has launched the Artemis edition of its Agent Platform, a revolutionary system that allows enterprises to leverage AI for building, governing, and optimizing AI agents rapidly, reducing traditional engineering times from months to days. The platform introduces the Agent Blueprint Language (ABL), a standardized YAML-based language to streamline the creation and management of AI agents across various infrastructures, coupled with an AI-driven tool named Arch that translates business requirements into functioning agent systems while continuously optimizing their performance. With a focus on neutrality and a unique Dual-Brain Architecture that ensures safe decision-making in regulated industries, Kore.ai aims to differentiate itself in a crowded market dominated by larger tech companies, emphasizing the importance of governance and trust in enterprise AI deployment.",
+    "link": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
     "category": "AI",
-    "publishedAt": "2026-05-21 18:45"
+    "publishedAt": "2026-05-22 17:37"
   },
   {
     "source": "NHK",
-    "title": "円相場 ドルに対して小幅な値動き",
+    "title": "スーパーのコメ価格 5キロ税込み3768円 4週ぶり値上がり",
     "title_en": "",
-    "summary": "東京外国為替市場で、円相場はドルに対してわずかに変動しました。相場は安定した動きが続いています。全体的な市場の動向を反映しています。",
+    "summary": "農林水産省の発表によると、全国のスーパーでのコメの平均価格が最近の1週間で5キロあたり3768円に達し、前の週より26円の値上がりとなりました。これは4週ぶりの上昇です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260521/k10015127991000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260522/k10015129041000.html",
     "category": "経済",
-    "publishedAt": "2026-05-21 18:45"
+    "publishedAt": "2026-05-22 17:37"
   },
   {
     "source": "BBC",
-    "title": "米国、1996年の2機の航空機撃墜に関してキューバのラウル・カストロを殺人で起訴",
-    "title_en": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
-    "summary": "キューバの大統領は、アメリカ国民を殺害する陰謀や航空機の破壊を含むフィデル・カストロに対する起訴を「政治的な策謀」として退けた。彼は、これらの告発は真に法的な懸念に基づいているのではなく、政治的動機に基づくものであると主張している。この声明は、キューバとアメリカとの緊張関係やカストロ指導者の遺産を反映している。",
-    "summary_en": "Cuba's president has dismissed the charges against Fidel Castro, which include conspiracy to kill U.S. nationals and destruction of aircraft, labeling them as a \"political maneuver.\" He argues that the accusations are not based on genuine legal concerns but are instead politically motivated efforts. This statement reflects Cuba's ongoing tension with the United States and the legacy of Castro's leadership.",
-    "link": "https://www.bbc.com/news/articles/c3r219yxl5eo?at_medium=RSS&at_campaign=rss",
+    "title": "米海軍の最高責任者、イラン戦争のため台湾への140億ドルの武器販売が一時停止と発表",
+    "title_en": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+    "summary": "上院公聴会で、ハン・カオはイランでの進行中の紛争に対する適切な物資の確保を目的とした弾薬販売の一時停止を発表した。この決定は、戦争に対応するために資源を優先する必要があることを反映している。一時停止の目的は、軍の準備態勢を強化し、地域での作戦を支援することにある。",
+    "summary_en": "During a Senate hearing, Hung Cao announced a temporary halt on the sale of munitions to ensure adequate supplies for the ongoing conflict in Iran. This decision reflects the need to prioritize resources in response to the war. The pause aims to bolster military readiness and support operations in the region.",
+    "link": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-21 18:46"
+    "publishedAt": "2026-05-22 17:37"
   },
   {
     "source": "NHK",
-    "title": "高市首相 宇宙飛行士の油井さん 大西さんと面会 支援続ける",
+    "title": "兵庫の中世豪族の民家2棟 新たに国宝指定へ 文化庁の審議会",
     "title_en": "",
-    "summary": "高市総理大臣は国際宇宙ステーションに滞在した宇宙飛行士2人と面会しました。彼は、日本も参加する月探査プロジェクトで日本人宇宙飛行士の月面着陸を支援する意向を示しました。日本の宇宙探査への貢献が強調されています。",
+    "summary": "兵庫県にある中世の豪族が建てた2棟の民家、「箱木家住宅主屋」と「旧古井家住宅」が国宝に指定されました。これにより、地域の歴史的価値が再評価されることになります。両家の住宅は文化財としての重要性を持っています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260521/k10015128051000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128691000.html",
     "category": "その他",
-    "publishedAt": "2026-05-21 18:46"
+    "publishedAt": "2026-05-22 17:37"
   }
 ]
