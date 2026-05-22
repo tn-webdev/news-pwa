@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-22T04:35:23.014Z",
+  "updatedAt": "2026-05-22T09:49:19.273Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
+      "url": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+      "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war."
+    },
     {
       "source": "BBC World",
       "title": "Rubio says Cuba is threat to US as Havana accuses him of 'lies'",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Three ways Cuba crisis could play out  after US indictment of Raúl Castro",
+      "title": "Will US invade? Three ways Cuba crisis could play out now",
       "url": "https://www.bbc.com/news/articles/ckgplwg3xk3o?at_medium=RSS&at_campaign=rss",
       "summary": "The Trump administration has been putting tremendous economic pressure on the island's Communist government. "
-    },
-    {
-      "source": "BBC World",
-      "title": "'No means no': Greenlanders protest against Trump outside new US consulate",
-      "url": "https://www.bbc.com/news/articles/cwy2gxvnq1zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The inauguration of the new consulate comes amid a push by the US president for greater control over the island."
     },
     {
       "source": "BBC Technology",
@@ -33,7 +33,7 @@
     },
     {
       "source": "BBC Technology",
-      "title": "UK police bosses urge unsafe platforms to be blocked for under-16s",
+      "title": "UK police bosses say unsafe social media platforms should be blocked for under-16s",
       "url": "https://www.bbc.com/news/articles/c4gv0qg2levo?at_medium=RSS&at_campaign=rss",
       "summary": "The NCA and NPCC say children should be blocked from accessing sites which do not stop them seeing nudes or being contacted by strangers."
     },
