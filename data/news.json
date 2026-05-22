@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-22T15:22:53.869Z",
+  "updatedAt": "2026-05-22T20:10:43.742Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ebola risk raised to 'very high' in DR Congo",
-      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
-      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level."
+      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine. "
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Cubans grapple with fuel shortages and blackouts as US steps up pressure",
-      "url": "https://www.bbc.com/news/articles/c3e2w43lkvzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC speaks to Havana residents after the US charges the country's former leader, Raúl Castro, with murder."
+      "title": "Ebola risk raised to 'very high' in DR Congo",
+      "url": "https://www.bbc.com/news/articles/cr7p30m1dn1o?at_medium=RSS&at_campaign=rss",
+      "summary": "The head of the UN health agency says the risk in the wider region is \"high\", but it remains \"low\" at the global level."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Waymo pauses robotaxis in five US cities after cars drive into flooded roads",
+      "url": "https://www.bbc.com/news/articles/ckgplyxxl75o?at_medium=RSS&at_campaign=rss",
+      "summary": "A Waymo spokesperson said it had expanded the temporary pause \"out of an abundance of caution\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "It comes just a day after the firm revealed plans for a record-breaking stock market debut."
     },
     {
-      "source": "BBC Technology",
-      "title": "Love factually: Dating start-ups promise to cut the cheats",
-      "url": "https://www.bbc.com/news/articles/cnvpme6811do?at_medium=RSS&at_campaign=rss",
-      "summary": "Frustration with fake dating profiles has spurred new dating services with different approaches."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Trump phone is not here",
+        "#text": "Twelve South’s AirFly Pro 2 has hit one of its best prices ahead of summer travel",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/936018/trump-mobile-t1-phone-still-hasnt-shipped",
+      "url": "https://www.theverge.com/gadgets/936200/twelve-south-airfly-pro-2-memorial-day-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The literary world isn’t prepared for AI",
+        "#text": "Meta’s Forum is part Reddit, part Facebook, and part Google AI Overview",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/936073/ai-writing-granta-commonwealth-prize",
+      "url": "https://www.theverge.com/tech/936290/meta-forum-facebook-groups-app-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Why would you disrespect your favorite artist with an AI remix?",
+        "#text": "Elon, stop trying to make Grok happen",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/936072/spotify-umg-ai-music-remix-cover-superfan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/936219/elon-stop-trying-to-make-grok-happen",
       "summary": "(要約準備中)"
     }
   ]
