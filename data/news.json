@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-23T14:02:12.434Z",
+  "updatedAt": "2026-05-23T19:37:28.117Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "At least 90 killed in Chinese coal mine explosion, state media reports",
+      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+      "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
+      "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on."
+    },
+    {
+      "source": "BBC World",
+      "title": "At least 82 killed in Chinese coal mine explosion",
       "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
       "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years."
     },
     {
       "source": "BBC World",
-      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region."
-    },
-    {
-      "source": "BBC World",
-      "title": "SpaceX launches massive Starship V3 rocket on test flight",
-      "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed."
+      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
+      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
+      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Here are 38 Memorial Day deals we recommend for $50 or less",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "I have a new go-to browser",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/936395/vivaldi-8-review-mandalorian-installer",
       "summary": "(要約準備中)"
     }
   ]
