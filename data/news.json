@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-05-23T04:07:29.410Z",
+  "updatedAt": "2026-05-23T08:30:53.448Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Russia's Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "title": "At least 90 dead in Chinese coal mine explosion, state media reports",
+      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
+      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China."
+    },
+    {
+      "source": "BBC World",
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
       "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine said it hit Russia's elite Rubicon drone military unit in a Moscow-occupied part of eastern Ukraine. "
+      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region. "
     },
     {
       "source": "BBC World",
       "title": "SpaceX launches massive Starship V3 rocket on test flight",
       "url": "https://www.bbc.com/news/articles/c62d65y16nno?at_medium=RSS&at_campaign=rss",
-      "summary": "The launch of the largest and most powerful in history has happened, after a first attempted launch on Thursday was postponed."
-    },
-    {
-      "source": "BBC World",
-      "title": "Rubio tries to reassure Nato allies over US troop deployments",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment."
+      "summary": "The largest and most powerful rocket in history blasted off after its first attempted launch was postponed."
     },
     {
       "source": "BBC Technology",
-      "title": "From decades to years - AI could speed search for brain drugs hiding in plain sight",
+      "title": "AI may speed up search for drugs to treat brain conditions",
       "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
       "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND."
     },
