@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-24T08:44:17.598Z",
+  "updatedAt": "2026-05-24T13:59:29.693Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,15 +9,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine. "
+      "title": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed."
     },
     {
       "source": "BBC World",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years."
+      "title": "BBC at the site of China's worst mining disaster in more than a decade",
+      "url": "https://www.bbc.com/news/videos/c809m33yjz7o?at_medium=RSS&at_campaign=rss",
+      "summary": "At least 82 people have been killed after a gas explosion at the Liushenyu mine in China."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Hackers are learning to exploit chatbot &#8216;personalities&#8217;",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Why Nuro thinks being a robotaxi ‘second mover’ gives it an advantage",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/936126/nuro-robotaxi-dave-ferguson-interview-uber-lucid-waymo",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Record Club is trying to be Letterboxd for music nerds",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Here are 38 Memorial Day deals we recommend for $50 or less",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
       "summary": "(要約準備中)"
     }
   ]
