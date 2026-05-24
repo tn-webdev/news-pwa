@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-23T19:37:28.117Z",
+  "updatedAt": "2026-05-24T04:38:59.463Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran 'getting a lot closer' to agreement with US, Trump says",
+      "title": "Suspect killed after opening fire on Secret Service near White House",
+      "url": "https://www.bbc.com/news/articles/cjwp82ye4y3o?at_medium=RSS&at_campaign=rss",
+      "summary": "Officials say a suspect approached a checkpoint near the building and opened fire, and that a bystander was wounded."
+    },
+    {
+      "source": "BBC World",
+      "title": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
       "url": "https://www.bbc.com/news/articles/crmp121z3z8o?at_medium=RSS&at_campaign=rss",
       "summary": "Tehran also signals progress on talks but says the key issue of nuclear weapons is not part of an initial framework it is working on."
     },
     {
       "source": "BBC World",
-      "title": "At least 82 killed in Chinese coal mine explosion",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "summary": "The blast in Shanxi province constitutes the country's worst mining disaster in 16 years."
-    },
-    {
-      "source": "BBC World",
-      "title": "Red Cross volunteers die from suspected Ebola in DR Congo",
-      "url": "https://www.bbc.com/news/articles/c759knxln0wo?at_medium=RSS&at_campaign=rss",
-      "summary": "They are thought to have caught the virus before the outbreak was identified, the Red Cross says."
+      "title": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine. "
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Record Club is trying to be Letterboxd for music nerds",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/935751/memorial-day-2026-best-cheap-tech-deals-under-50",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Hanging out in my favorite virtual coffee shop in Tokyo",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/936278/coffee-talk-tokyo-review-switch-xbox-ps5-steam",
       "summary": "(要約準備中)"
     }
   ]
