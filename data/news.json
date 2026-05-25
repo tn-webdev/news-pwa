@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-25T15:28:26.043Z",
+  "updatedAt": "2026-05-25T19:58:47.962Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "She was told to marry in a country which bans girls' education. So she got in a taxi and fled",
-      "url": "https://www.bbc.com/news/articles/ce3pgn48wnqo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly five years on from Afghanistan's school ban, young women say they have waved goodbye to their dreams."
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
     },
     {
       "source": "BBC Technology",
@@ -40,10 +40,10 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+        "#text": "Cox Media fined after bragging it spied on users through their phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
       "summary": "(要約準備中)"
     },
     {
@@ -58,10 +58,10 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "On Trails is a wandering tale that blends hiking, science, and history",
+        "#text": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
       "summary": "(要約準備中)"
     }
   ]
