@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-25T10:48:30.660Z",
+  "updatedAt": "2026-05-25T15:28:26.043Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Deal with US not imminent, Iran says",
       "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iranian foreign minister's comments come after the US secretary of state said an agreement could be announced on Monday."
+      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday."
     },
     {
       "source": "BBC World",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The best Memorial Day sales you can shop this weekend",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/936860/robert-moor-on-trails-book-review",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Apple’s latest MacBook Air is $200 off in both sizes for Memorial Day",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/936610/apple-macbook-air-m5-memorial-day-2026-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
