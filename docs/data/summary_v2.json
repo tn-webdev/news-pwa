@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "アリババの独自モデルQwen3.7-Maxは35時間の自律稼働を実現し、AnthropicのClaude Codeなどの外部ハーネスに対応",
-    "title_en": "Alibaba's proprietary Qwen3.7-Max can run for 35 hours autonomously and supports external harnesses like Anthropic's Claude Code",
-    "summary": "AI業界は、アリババのQwen3.7-Maxによって新たなマイルストーンに達しました。このモデルは、数日間にわたる自律タスクの実行を目的に設計されており、35時間の連続稼働を通じてその能力を示しています。この独自モデルは、アリババの戦略の変化を示しており、アメリカのAI企業と同様に、オープンソース形式ではなく、有料APIを通じてAIモデルの高度なバージョンを提供する方向に進んでいます。Qwen3.7-Maxの性能向上は企業に新たな機会を提供しますが、そのアクセス制限は、オープンソースAIの未来に関して開発者コミュニティに懸念を与え、地域のAIムーブメントに支障をきたす可能性があります。",
-    "summary_en": "The AI industry has reached a new milestone with Alibaba's Qwen3.7-Max, a model designed for prolonged autonomous task execution over multiple days, showcasing its capabilities through 35 hours of continuous operation. This proprietary model signifies a shift in Alibaba's strategy, aligning with American AI companies by offering advanced versions of AI models via paid APIs, rather than open-source formats. While the enhanced performance of Qwen3.7-Max presents new opportunities for enterprises, its restricted access raises concerns among the developer community about the future of open-source AI, which could hinder the local AI movement.",
-    "link": "https://venturebeat.com/technology/alibabas-proprietary-qwen3-7-max-can-run-for-35-hours-autonomously-and-supports-external-harnesses-like-anthropics-claude-code",
+    "title": "AIエージェントが静かに引き起こす混乱工学の失敗、企業がまだ追跡していない問題",
+    "title_en": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
+    "summary": "この記事では、自律エージェントに関する失敗をエンジニアリングチームがどのように追跡し管理しているかのギャップについて議論しています。自律エージェントは、システムの現在の状態を適切に評価せずに、重大な生産インシデントを偶発的に引き起こす可能性があります。AIエージェントが組織内でますます普及する中、混乱工学の原則をエージェントガバナンスに統合し、その行動がSLO燃焼率やシステム容量などのリアルタイム信号に対して監視されることが重要です。著者は、すべてのエージェントの行動を混乱事象として扱うことを提唱し、あいまいな状況における人間の監視の重要性を強調して、システムの信頼性を維持し、計画外の停止を防ぐ必要性を訴えています。",
+    "summary_en": "The article discusses a gap in how engineering teams track and manage failures involving autonomous agents, which can inadvertently trigger significant production incidents without proper assessment of the system's current state. As AI agents become more prevalent in organizations, there is a critical need to integrate chaos engineering principles into agent governance, ensuring that their actions are monitored against live signals like SLO burn rates and system capacity to prevent cascades of failures. The author advocates for treating every agent action as a chaos event, stressing the importance of human oversight in ambiguous situations to maintain system reliability and prevent unplanned outages.",
+    "link": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
     "category": "AI",
-    "publishedAt": "2026-05-22 17:36"
+    "publishedAt": "2026-05-25 16:53"
   },
   {
     "source": "VentureBeat",
-    "title": "Kore.aiがArtemis AIエージェントプラットフォームを発表、SalesforceとServiceNowに挑む",
-    "title_en": "Kore.ai launches Artemis AI agent platform, takes on Salesforce and ServiceNow",
-    "summary": "Kore.aiは、企業がAIを活用してAIエージェントの構築、管理、最適化を迅速に行える革新的なシステムであるエージェントプラットフォームのArtemisエディションを発表しました。このプラットフォームは、従来のエンジニアリング時間を数ヶ月から数日へと短縮します。プラットフォームには、さまざまなインフラストラクチャ全体でAIエージェントの作成と管理を効率化するための標準化されたYAMLベースの言語「Agent Blueprint Language（ABL）」が導入されており、ビジネス要件を機能するエージェントシステムに変換し、そのパフォーマンスを常に最適化するAI駆動のツール「Arch」も搭載されています。中立性に重点を置き、規制のある業界で安全な意思決定を確保するユニークなデュアルブレインアーキテクチャを持つKore.aiは、大手テクノロジー企業が支配する混雑した市場の中で自らを差別化し、企業AIの導入におけるガバナンスと信頼の重要性を強調しています。",
-    "summary_en": "Kore.ai has launched the Artemis edition of its Agent Platform, a revolutionary system that allows enterprises to leverage AI for building, governing, and optimizing AI agents rapidly, reducing traditional engineering times from months to days. The platform introduces the Agent Blueprint Language (ABL), a standardized YAML-based language to streamline the creation and management of AI agents across various infrastructures, coupled with an AI-driven tool named Arch that translates business requirements into functioning agent systems while continuously optimizing their performance. With a focus on neutrality and a unique Dual-Brain Architecture that ensures safe decision-making in regulated industries, Kore.ai aims to differentiate itself in a crowded market dominated by larger tech companies, emphasizing the importance of governance and trust in enterprise AI deployment.",
-    "link": "https://venturebeat.com/technology/kore-ai-launches-artemis-ai-agent-platform-expands-challenge-to-microsoft-and-salesforce",
+    "title": "AIエージェントにはベクトルデータベースだけでなくターミナルが必要",
+    "title_en": "Your AI agents need a terminal, not just a vector database",
+    "summary": "研究者たちは、AIエージェントが従来の埋め込みモデルを回避し、コマンドラインツールを使用して生データを直接検索できるようにする技術「直接コーパスインタラクション（DCI）」を提案しています。このアプローチは、証拠の特定と動的検索機能の向上を実現し、多段階タスクや正確な文字列検索で苦労する従来の検索システムの限界を解決します。テスト結果によれば、DCIは多段階質問応答や情報検索において既存の方法を上回る性能を示していますが、広範な文書の再現を維持するためには従来のシステムとの組み合わせが必要かもしれません。",
+    "summary_en": "Researchers propose a technique called direct corpus interaction (DCI) that allows AI agents to bypass traditional embedding models, enabling them to search raw data directly using command-line tools. This approach improves evidence localization and dynamic search capabilities, addressing limitations in classic retrieval systems that struggle with multi-step tasks and exact string searches. Testing shows that DCI outperforms existing methods in multi-hop question answering and information retrieval, although it may require a combination with traditional systems to maintain broad document recall.",
+    "link": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
     "category": "AI",
-    "publishedAt": "2026-05-22 17:37"
+    "publishedAt": "2026-05-25 16:53"
   },
   {
     "source": "NHK",
-    "title": "株価 終値で最高値更新 イラン戦闘の終結へ進展の見方",
+    "title": "日経平均株価 終値 6万5000円台で最高値を更新",
     "title_en": "",
-    "summary": "22日の東京株式市場では、アメリカとイランの戦闘終結に向けた協議進展への期待感から買い注文が広がり、日経平均株価は大幅に上昇しました。終値は前日比1654円93銭高の6万3339円7銭となり、過去最高値を更新しました。米半導体大手・NVIDIAの好調な決算も追い風となり、AIや半導体関連銘柄が特に買われました。",
+    "summary": "週明けの東京株式市場で、日経平均株価が一時2000円以上の値上がりを記録しました。終値として初めて6万5000円台に達し、最高値を更新しました。市場は強気の動きを見せています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015128361000",
+    "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130571000.html",
     "category": "経済",
-    "publishedAt": "2026-05-22 17:37"
+    "publishedAt": "2026-05-25 16:53"
   },
   {
     "source": "BBC",
-    "title": "米海軍の最高責任者、イラン戦争のため台湾への140億ドルの武器販売が一時停止と発表",
-    "title_en": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
-    "summary": "上院公聴会で、ハン・カオはイランでの進行中の紛争に対する適切な物資の確保を目的とした弾薬販売の一時停止を発表した。この決定は、戦争に対応するために資源を優先する必要があることを反映している。一時停止の目的は、軍の準備態勢を強化し、地域での作戦を支援することにある。",
-    "summary_en": "During a Senate hearing, Hung Cao announced a temporary halt on the sale of munitions to ensure adequate supplies for the ongoing conflict in Iran. This decision reflects the need to prioritize resources in response to the war. The pause aims to bolster military readiness and support operations in the region.",
-    "link": "https://www.bbc.com/news/articles/c232z4yk437o?at_medium=RSS&at_campaign=rss",
+    "title": "ルビオ氏、月曜日に「堅実な」イラン合意が成立する可能性を示唆",
+    "title_en": "Rubio says 'solid' Iran deal may come on Monday",
+    "summary": "アメリカのメディア報道によると、ホルムズ海峡の再開を可能にする60日間の停戦延長に向けた交渉が進行中です。この合意は地域の緊張を緩和し、安全な海上通行を促進することを目的としています。停戦の条件や影響に関する詳細はまだ最終調整中です。",
+    "summary_en": "Negotiations are ongoing for a potential 60-day ceasefire extension that would allow for the reopening of the Strait of Hormuz, according to US media reports. This agreement aims to ease tensions in the region and facilitate safer maritime passage. Details regarding the terms and impact of the ceasefire are still being finalized.",
+    "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-22 17:37"
+    "publishedAt": "2026-05-25 16:53"
   },
   {
     "source": "NHK",
-    "title": "兵庫の中世豪族の民家2棟 新たに国宝指定へ 文化庁の審議会",
+    "title": "大学や企業の小型衛星など公開 H3ロケットで6月打ち上げへ",
     "title_en": "",
-    "summary": "兵庫県にある中世の豪族が建てた2棟の民家、「箱木家住宅主屋」と「旧古井家住宅」が国宝に指定されました。これにより、地域の歴史的価値が再評価されることになります。両家の住宅は文化財としての重要性を持っています。",
+    "summary": "来月に打ち上げ予定のH3ロケットに搭載される小型衛星が公開されました。これらの衛星は大学や企業によって開発されています。公開は鹿児島県の種子島宇宙センターで行われました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260522/k10015128691000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130901000.html",
     "category": "その他",
-    "publishedAt": "2026-05-22 17:37"
+    "publishedAt": "2026-05-25 16:53"
   }
 ]
