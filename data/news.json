@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-05-26T04:34:20.832Z",
+  "updatedAt": "2026-05-26T10:17:56.798Z",
   "top": [
     {
       "source": "BBC World",
       "title": "US launches new strikes on Iran, targeting missile sites and boats",
       "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command says the strikes were taken in \"self-defense\". It comes as senior Iranian negotiators arrive in Qatar for talks to end the war."
+      "summary": "US Central Command says the strikes were taken in \"self-defence\". It comes as senior Iranian negotiators are in Qatar for talks to end the war."
     },
     {
       "source": "BBC World",
-      "title": "Deal with US not imminent, Iran says",
-      "url": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US secretary of state earlier said that an agreement could possibly come on Monday."
+      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
+      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes. "
     },
     {
       "source": "BBC World",
-      "title": "Oil prices slide on hopes of US-Iran peace deal",
-      "url": "https://www.bbc.com/news/articles/c809m7g29r7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Trump said on Saturday that an agreement would include the reopening of the Strait of Hormuz, without giving further details."
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
     },
     {
       "source": "BBC Technology",
-      "title": "Social media as bad for young people as smoking, top doctors say ",
+      "title": "'Overwhelming consensus' that screen time harms children, top doctors say",
       "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
       "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients."
     },
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Uber president says AI spending is getting ‘harder to justify’",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "A battery-powered Starlink Mini is likely on the way",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Ferrari reveals its first EV, with design help from Jony Ive",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/transportation/937066/ferrari-luce-ev-jony-ive-marc-newson-lovefrom",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Cox Media fined after bragging it spied on users through their phones",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/policy/937027/cox-media-marketing-ai-powered-phone-spying-ads-ftc-fine",
       "summary": "(要約準備中)"
     }
   ]
