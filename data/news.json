@@ -1,29 +1,29 @@
 {
-  "updatedAt": "2026-05-26T10:17:56.798Z",
+  "updatedAt": "2026-05-26T16:09:24.050Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US launches new strikes on Iran, targeting missile sites and boats",
-      "url": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
-      "summary": "US Central Command says the strikes were taken in \"self-defence\". It comes as senior Iranian negotiators are in Qatar for talks to end the war."
+      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
+      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
+      "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
     },
     {
       "source": "BBC World",
-      "title": "Netanyahu says Israel will intensify strikes against Hezbollah",
-      "url": "https://www.bbc.com/news/articles/cewppdk1187o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Israeli military hits targets in eastern Lebanon after the prime minister announces further strikes. "
+      "title": "Four killed as school minibus collides with train in Belgium",
+      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister."
     },
     {
       "source": "BBC World",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
+      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah."
     },
     {
       "source": "BBC Technology",
-      "title": "'Overwhelming consensus' that screen time harms children, top doctors say",
+      "title": "Streeting backs under-16s social media ban as government consultation concludes",
       "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Academy of Medical Royal Colleges says doctors should routinely check on screen time and social media use when seeing younger patients."
+      "summary": "The former health secretary accused regulators and politicians of being \"asleep at the wheel\" on the issue."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Uber president says AI spending is getting ‘harder to justify’",
+        "#text": "Memory V recreates the Memorymoog without the massive headaches or price tag",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/937116/uber-ai-investment-hard-to-justify",
+      "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A battery-powered Starlink Mini is likely on the way",
+        "#text": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/937090/battery-powered-starlink-mini-rumor",
+      "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sennheiser’s new Momentum 5 headphones have upgraded ANC and a replaceable battery",
+        "#text": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/936127/sennheiser-momentum-5-wireless-headphones-anc-lossless-bluetooth",
+      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
       "summary": "(要約準備中)"
     }
   ]
