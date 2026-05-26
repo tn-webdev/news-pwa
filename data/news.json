@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-26T16:09:24.050Z",
+  "updatedAt": "2026-05-26T20:25:12.017Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,21 +9,21 @@
     },
     {
       "source": "BBC World",
+      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
+      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
+      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
+    },
+    {
+      "source": "BBC World",
       "title": "Four killed as school minibus collides with train in Belgium",
       "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
       "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister."
     },
     {
-      "source": "BBC World",
-      "title": "Eleven killed in Lebanon village as Israel intensifies strikes",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" Hezbollah."
-    },
-    {
       "source": "BBC Technology",
-      "title": "Streeting backs under-16s social media ban as government consultation concludes",
+      "title": "Starmer vows to act on social media after meeting bereaved parents",
       "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "The former health secretary accused regulators and politicians of being \"asleep at the wheel\" on the issue."
+      "summary": "Some parents believe whether the government will take strong enough action remains to be seen."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Memory V recreates the Memorymoog without the massive headaches or price tag",
+        "#text": "Google Health is here, but a lot of people want their Fitbit app back instead",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/937054/arturia-memory-v-memorymoog-synthesizer",
+      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Saving for a Switch 2 is easier with Newegg’s gift card deal",
+        "#text": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/937183/nintendo-gift-card-switch-2-apple-studio-display-deal-sale",
+      "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Oppo’s Bubble is a thin round screen for taking rear camera selfies",
+        "#text": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/937067/oppo-bubble-wireless-screen-remote-selfie-magnetic",
+      "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
       "summary": "(要約準備中)"
     }
   ]
