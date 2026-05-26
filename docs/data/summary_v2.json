@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AIエージェントが静かに引き起こす混乱工学の失敗、企業がまだ追跡していない問題",
+    "title": "AIエージェントが静かに引き起こす企業がまだ追跡していないカオスエンジニアリングの失敗",
     "title_en": "AI agents are quietly generating chaos engineering failures enterprises don’t track yet",
-    "summary": "この記事では、自律エージェントに関する失敗をエンジニアリングチームがどのように追跡し管理しているかのギャップについて議論しています。自律エージェントは、システムの現在の状態を適切に評価せずに、重大な生産インシデントを偶発的に引き起こす可能性があります。AIエージェントが組織内でますます普及する中、混乱工学の原則をエージェントガバナンスに統合し、その行動がSLO燃焼率やシステム容量などのリアルタイム信号に対して監視されることが重要です。著者は、すべてのエージェントの行動を混乱事象として扱うことを提唱し、あいまいな状況における人間の監視の重要性を強調して、システムの信頼性を維持し、計画外の停止を防ぐ必要性を訴えています。",
-    "summary_en": "The article discusses a gap in how engineering teams track and manage failures involving autonomous agents, which can inadvertently trigger significant production incidents without proper assessment of the system's current state. As AI agents become more prevalent in organizations, there is a critical need to integrate chaos engineering principles into agent governance, ensuring that their actions are monitored against live signals like SLO burn rates and system capacity to prevent cascades of failures. The author advocates for treating every agent action as a chaos event, stressing the importance of human oversight in ambiguous situations to maintain system reliability and prevent unplanned outages.",
+    "summary": "この記事では、自律エージェントに関連する生産事故の新たな問題について論じています。これらの事故は、確立された追跡および分類の枠組みがないため、しばしば見落とされています。AIエージェントが企業システムにますます統合される中で、適切な人間の監視やカオスエンジニアリングのプロトコルがない場合、その行動が意図せずに連鎖的な失敗を引き起こす可能性があるため、重大な運営リスクが生じることを強調しています。著者は、組織がガバナンス構造を適応させ、エージェントの行動をカオスイベントとして扱う必要があると強調し、意思決定プロセスがインフラの失敗を軽減するためにリアルタイムのシステムストレス評価を取り入れる必要があると指摘しています。",
+    "summary_en": "The article discusses the emerging issue of production incidents related to autonomous agents, which are often overlooked due to a lack of established tracking and categorization frameworks. It highlights that as AI agents are increasingly integrated into enterprise systems, their actions can inadvertently trigger cascading failures without proper human oversight or chaos engineering protocols, leading to significant operational risks. The author emphasizes the need for organizations to adapt their governance structures to treat agent actions as chaos events, ensuring that decision-making processes incorporate real-time system stress assessments to mitigate the potential for infrastructure failures.",
     "link": "https://venturebeat.com/orchestration/ai-agents-are-quietly-generating-chaos-engineering-failures-enterprises-dont-track-yet",
     "category": "AI",
-    "publishedAt": "2026-05-25 16:53"
+    "publishedAt": "2026-05-26 16:46"
   },
   {
     "source": "VentureBeat",
-    "title": "AIエージェントにはベクトルデータベースだけでなくターミナルが必要",
+    "title": "あなたのAIエージェントにはベクターデータベースだけでなく端末が必要",
     "title_en": "Your AI agents need a terminal, not just a vector database",
-    "summary": "研究者たちは、AIエージェントが従来の埋め込みモデルを回避し、コマンドラインツールを使用して生データを直接検索できるようにする技術「直接コーパスインタラクション（DCI）」を提案しています。このアプローチは、証拠の特定と動的検索機能の向上を実現し、多段階タスクや正確な文字列検索で苦労する従来の検索システムの限界を解決します。テスト結果によれば、DCIは多段階質問応答や情報検索において既存の方法を上回る性能を示していますが、広範な文書の再現を維持するためには従来のシステムとの組み合わせが必要かもしれません。",
-    "summary_en": "Researchers propose a technique called direct corpus interaction (DCI) that allows AI agents to bypass traditional embedding models, enabling them to search raw data directly using command-line tools. This approach improves evidence localization and dynamic search capabilities, addressing limitations in classic retrieval systems that struggle with multi-step tasks and exact string searches. Testing shows that DCI outperforms existing methods in multi-hop question answering and information retrieval, although it may require a combination with traditional systems to maintain broad document recall.",
+    "summary": "複数の大学の研究者たちは、直接コーパスインタラクション（DCI）と呼ばれる手法を導入しました。これにより、エージェントは従来の埋め込みモデルをバイパスし、標準的なコマンドラインツールを用いて生のコーパスを直接検索し、対話することが可能になります。この手法は、データの古さに関する問題を解決し、特に企業環境においてダイナミックで多段階のタスクが一般的な場合において、エージェントが特定情報を正確に検索するのに役立ちます。テストでは、DCIは従来の検索システムと比較して優れた精度と効率を示し、特に文書全体での正確な証拠の位置特定と包括的な検証を要求されるタスクに役立つことが証明されました。",
+    "summary_en": "Researchers from multiple universities have introduced a technique called Direct Corpus Interaction (DCI), which allows agents to directly search and interact with raw corpora using standard command-line tools, bypassing traditional embedding models. This method addresses issues like data staleness and helps agents perform precise searches for specific information, which is often critical in enterprise environments where data is dynamic and multi-step tasks are common. In testing, DCI demonstrated superior accuracy and efficiency compared to conventional retrieval systems, proving particularly useful for tasks that require exact evidence localization and comprehensive verification across documents.",
     "link": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
     "category": "AI",
-    "publishedAt": "2026-05-25 16:53"
+    "publishedAt": "2026-05-26 16:47"
   },
   {
     "source": "NHK",
-    "title": "日経平均株価 終値 6万5000円台で最高値を更新",
+    "title": "株価 4営業日ぶり下落 当面の利益確保の動き",
     "title_en": "",
-    "summary": "週明けの東京株式市場で、日経平均株価が一時2000円以上の値上がりを記録しました。終値として初めて6万5000円台に達し、最高値を更新しました。市場は強気の動きを見せています。",
+    "summary": "東京株式市場で日経平均株価が初めて6万5000円台に到達しました。その後、利益確保の動きが強まり、株価は4営業日ぶりに下落しました。市場の変動が見られる中、投資家の行動に変化が出ています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130571000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131571000.html",
     "category": "経済",
-    "publishedAt": "2026-05-25 16:53"
+    "publishedAt": "2026-05-26 16:47"
   },
   {
     "source": "BBC",
-    "title": "ルビオ氏、月曜日に「堅実な」イラン合意が成立する可能性を示唆",
-    "title_en": "Rubio says 'solid' Iran deal may come on Monday",
-    "summary": "アメリカのメディア報道によると、ホルムズ海峡の再開を可能にする60日間の停戦延長に向けた交渉が進行中です。この合意は地域の緊張を緩和し、安全な海上通行を促進することを目的としています。停戦の条件や影響に関する詳細はまだ最終調整中です。",
-    "summary_en": "Negotiations are ongoing for a potential 60-day ceasefire extension that would allow for the reopening of the Strait of Hormuz, according to US media reports. This agreement aims to ease tensions in the region and facilitate safer maritime passage. Details regarding the terms and impact of the ceasefire are still being finalized.",
-    "link": "https://www.bbc.com/news/articles/cglpp2yk336o?at_medium=RSS&at_campaign=rss",
+    "title": "アメリカ、イランに対する新たな攻撃を実施 - ミサイル基地と船舶を標的に",
+    "title_en": "US launches new strikes on Iran, targeting missile sites and boats",
+    "summary": "アメリカ中央司令部は、地域の緊張が続く中で「自衛」として空爆を実施したと報告しました。これらの攻撃は、イランの高官がカタールで対立解決に向けた議論を行っている最中に実施されました。この状況は、軍事行動が続く中で外交努力の脆弱さを浮き彫りにしています。",
+    "summary_en": "US Central Command reported conducting airstrikes in \"self-defense\" amidst ongoing tensions in the region. These strikes coincided with senior Iranian negotiators being present in Qatar to engage in discussions aimed at resolving the conflict. The situation underscores the fragility of diplomatic efforts while military actions continue to unfold.",
+    "link": "https://www.bbc.com/news/articles/cvgzzn4y1n8o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-25 16:53"
+    "publishedAt": "2026-05-26 16:47"
   },
   {
     "source": "NHK",
-    "title": "大学や企業の小型衛星など公開 H3ロケットで6月打ち上げへ",
+    "title": "はしか感染者 ことし累計498人に 過去10年の最多に迫るペース",
     "title_en": "",
-    "summary": "来月に打ち上げ予定のH3ロケットに搭載される小型衛星が公開されました。これらの衛星は大学や企業によって開発されています。公開は鹿児島県の種子島宇宙センターで行われました。",
+    "summary": "各地ではしかの感染者が急増しており、報告された感染者数は最近前の週より17人増加し、過去10年で最も多かった時期に近づいています。厚生労働省は感染防止にワクチンが重要であるとし、特に子どもへの接種を呼びかけています。感染拡大の防止に向けた対策が求められています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260525/k10015130901000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260526/k10015131691000.html",
     "category": "その他",
-    "publishedAt": "2026-05-25 16:53"
+    "publishedAt": "2026-05-26 16:47"
   }
 ]
