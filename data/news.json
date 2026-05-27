@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-05-27T10:19:51.205Z",
+  "updatedAt": "2026-05-27T16:12:02.740Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
-      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
-      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place."
+      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
+      "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread"
     },
     {
       "source": "BBC World",
-      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
-      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group."
+      "title": "Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's military tells residents of Tyre it will \"act forcefully\" against the armed group, after another wave of strikes in south and east Lebanon."
     },
     {
       "source": "BBC World",
-      "title": "Nasa unveils next steps to build permanent Moon base",
-      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base."
+      "title": "Five people found alive after week trapped in flooded Laos cave ",
+      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "The search is continuing for a further two villagers who are still missing, rescuers say. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "The rise of the fruit that tastes like custard",
+      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
+      "summary": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Porn company fined £600,000 by Ofcom over age check failings",
+      "url": "https://www.bbc.com/news/articles/clypxw6penno?at_medium=RSS&at_campaign=rss",
+      "summary": "Ofcom said Youngtek Solutions Ltd did not have checks between July and September 2025, but has since brought in verification."
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete."
     },
     {
-      "source": "BBC Technology",
-      "title": "Instagram betting ads featuring Kane and Haaland banned",
-      "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
-      "summary": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Starmer vows to act on social media after meeting bereaved parents",
-      "url": "https://www.bbc.com/news/articles/c5y7r9gqp6jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some parents believe whether the government will take strong enough action remains to be seen."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Did the Pope use AI to write about the dangers of AI?",
+        "#text": "Sony’s first RGB TV is a statement piece",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+        "#text": "AI tried to bury this politician — now people have actually heard of him",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google Health is here, but a lot of people want their Fitbit app back instead",
+        "#text": "Here&#8217;s how Google is responding to Fitbit users who don&#8217;t like the new Health app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+      "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
       "summary": "(要約準備中)"
     }
   ]
