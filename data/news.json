@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-27T16:12:02.740Z",
+  "updatedAt": "2026-05-27T20:28:45.300Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Israel issues evacuation order for swathes of southern Lebanon",
+      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
+      "summary": "The military says areas south of the Zahrani River are now \"combat zones\" as it threatens Hezbollah with fresh strikes."
+    },
     {
       "source": "BBC World",
       "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Israel orders evacuation of Lebanese city as conflict with Hezbollah escalates",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's military tells residents of Tyre it will \"act forcefully\" against the armed group, after another wave of strikes in south and east Lebanon."
-    },
-    {
-      "source": "BBC World",
-      "title": "Five people found alive after week trapped in flooded Laos cave ",
-      "url": "https://www.bbc.com/news/articles/crkpvxrxgp6o?at_medium=RSS&at_campaign=rss",
-      "summary": "The search is continuing for a further two villagers who are still missing, rescuers say. "
+      "title": "Trump says US 'not satisfied' with Iran deal yet",
+      "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony’s first RGB TV is a statement piece",
+        "#text": "All the news about Ferrari&#8217;s polarizing Luce EV",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/937879/sony-bravia-7-ii-review",
+      "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI tried to bury this politician — now people have actually heard of him",
+        "#text": "The new Halide camera app launches with film looks and an upgraded photo editor",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/937650/ai-alex-bores-openai-anthropic-ny12",
+      "url": "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here&#8217;s how Google is responding to Fitbit users who don&#8217;t like the new Health app",
+        "#text": "Facebook launches a ‘Plus’ subscription that gives you extra features",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/938179/google-health-fitbit-roadmap",
+      "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
       "summary": "(要約準備中)"
     }
   ]
