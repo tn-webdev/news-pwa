@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-27T04:48:50.911Z",
+  "updatedAt": "2026-05-27T10:19:51.205Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Israeli strike in Gaza City kills new head of Hamas's military wing",
+      "url": "https://www.bbc.com/news/articles/cjwppj1yn7go?at_medium=RSS&at_campaign=rss",
+      "summary": "At least three people were killed in the attack, which came despite a ceasefire with Hamas being in place."
+    },
     {
       "source": "BBC World",
       "title": "Dozens killed in Lebanon as Israel intensifies strikes",
@@ -9,19 +15,13 @@
     },
     {
       "source": "BBC World",
-      "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
-      "url": "https://www.bbc.com/news/articles/c4g44yl7q70o?at_medium=RSS&at_campaign=rss",
-      "summary": "The attacks took place while Iranian and Qatari negotiators were in Doha for peace talks."
-    },
-    {
-      "source": "BBC World",
-      "title": "Russia threatens more Kyiv strikes and tells foreign nationals to leave",
-      "url": "https://www.bbc.com/news/articles/c1e22n55zn4o?at_medium=RSS&at_campaign=rss",
-      "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
+      "title": "Nasa unveils next steps to build permanent Moon base",
+      "url": "https://www.bbc.com/news/articles/c39228nxyr4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nasa plans to send hopping drones and roving vehicles to the Moon as part of plans for a permanent Moon base."
     },
     {
       "source": "BBC Technology",
-      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
       "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
       "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete."
     },
