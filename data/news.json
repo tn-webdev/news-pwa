@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-26T20:25:12.017Z",
+  "updatedAt": "2026-05-27T04:48:50.911Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Dozens killed in Lebanon as Israel intensifies strikes",
+      "url": "https://www.bbc.com/news/articles/cx211rgngp0o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says it struck 100 Hezbollah infrastructure sites and fighters in Lebanon, after PM Benjamin Netanyahu vows to \"crush\" the Iran-backed group."
+    },
     {
       "source": "BBC World",
       "title": "Iran condemns US strikes as 'gross violation' of ceasefire",
@@ -14,10 +20,16 @@
       "summary": "It comes after the Ukrainian capital suffered one of the biggest aerial assaults of the war overnight on Saturday."
     },
     {
-      "source": "BBC World",
-      "title": "Four killed as school minibus collides with train in Belgium",
-      "url": "https://www.bbc.com/news/articles/c70vvd17rg7o?at_medium=RSS&at_campaign=rss",
-      "summary": "Two schoolchildren, their chaperone and the minibus driver were killed in the crash, says a Belgian minister."
+      "source": "BBC Technology",
+      "title": "Champion ethical hacker warns AI tools like Mythos could put her out of business",
+      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
+      "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Instagram betting ads featuring Kane and Haaland banned",
+      "url": "https://www.bbc.com/news/articles/c3w220y2l8xo?at_medium=RSS&at_campaign=rss",
+      "summary": "The advertising watchdog said the adverts featuring top footballers had a strong appeal to under-18s."
     },
     {
       "source": "BBC Technology",
@@ -26,16 +38,22 @@
       "summary": "Some parents believe whether the government will take strong enough action remains to be seen."
     },
     {
-      "source": "BBC Technology",
-      "title": "The rise of the fruit that tastes like custard",
-      "url": "https://www.bbc.com/news/articles/ce8pmrp0m47o?at_medium=RSS&at_campaign=rss",
-      "summary": "Custard apple plants are prized for their hardiness but exporting their delicate fruit is difficult."
+      "source": "The Verge",
+      "title": {
+        "#text": "Did the Pope use AI to write about the dangers of AI?",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/937801/pope-leo-xiv-magnifica-humanitas-ai-pangram",
+      "summary": "(要約準備中)"
     },
     {
-      "source": "BBC Technology",
-      "title": "AI may speed up search for drugs to treat brain conditions",
-      "url": "https://www.bbc.com/news/articles/cdrp3zzzp71o?at_medium=RSS&at_campaign=rss",
-      "summary": "Researchers hope the work will help identify affordable, effective drugs to treat conditions like MND."
+      "source": "The Verge",
+      "title": {
+        "#text": "NASA&#8217;s permanent Moon base plans start with three missions this year",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/937775/nasa-moon-base-moonfall-updates",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "GE’s nugget ice maker is nearly half off if you buy it refurbished",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/gadgets/937560/ge-profile-opal-ultra-nugget-ice-maker-deal-sale",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Sony’s sloppy Spider-Man universe gets even messier with Spider-Noir",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/936358/amazon-spider-noir-review",
       "summary": "(要約準備中)"
     }
   ]
