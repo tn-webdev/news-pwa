@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-28T10:33:11.748Z",
+  "updatedAt": "2026-05-28T16:33:55.292Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+      "url": "https://www.bbc.com/news/articles/cn9p40en4ngo?at_medium=RSS&at_campaign=rss",
+      "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander."
+    },
+    {
+      "source": "BBC World",
+      "title": "Are US and Iran close to peace or sliding back to war?",
+      "url": "https://www.bbc.com/news/articles/cze29764067o?at_medium=RSS&at_campaign=rss",
+      "summary": "Neither side seems interested in a return to all-out conflict, despite the latest exchange of strikes."
+    },
     {
       "source": "BBC World",
       "title": "Iran says it targeted American base after fresh US strikes",
       "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
       "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war. "
-    },
-    {
-      "source": "BBC World",
-      "title": "US justice department launches criminal investigation into Trump accuser E Jean Carroll, reports say",
-      "url": "https://www.bbc.com/news/articles/clyp77jd407o?at_medium=RSS&at_campaign=rss",
-      "summary": "The case centres on whether the former columnist lied about the funding she received for her civil lawsuit against the US president."
-    },
-    {
-      "source": "BBC World",
-      "title": "Sixteen pupils killed in Kenya school fire",
-      "url": "https://www.bbc.com/news/articles/cx21kkxq81po?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of people were also injured in the fire, the cause of which is not yet known."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube will let you ask AI to make a custom video feed",
+        "#text": "A $2,000 AI-generated film will make its debut at Tribeca",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/938759/youtube-custom-ai-feed-prompt-availability",
+      "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The golden age of handheld gaming is already over",
+        "#text": "Call of Duty: Warzone is dropping PS4 and Xbox One support later this year",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/938451/steam-deck-price-hike-end-of-handheld-gaming-era",
+      "url": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A Google employee allegedly used inside information to win $1.2 million on Polymarket ",
+        "#text": "YouTube takes baby steps to being a real podcast app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
       "summary": "(要約準備中)"
     }
   ]
