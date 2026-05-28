@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-27T20:28:45.300Z",
+  "updatedAt": "2026-05-28T04:39:38.397Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US strikes Iran targets for second time in three days",
+      "url": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+      "summary": "The hostilities come during a fragile ceasefire between the US and Iran, and protracted negotiations to end the three-month war. "
+    },
     {
       "source": "BBC World",
       "title": "Israel issues evacuation order for swathes of southern Lebanon",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-      "url": "https://www.bbc.com/news/articles/cdxpdex062yo?at_medium=RSS&at_campaign=rss",
-      "summary": "Tedros Adhanom Ghebreyesus said fighting in DR Congo was hampering efforts to stop spread"
+      "title": "Jill Biden says she thought husband was having a stroke during 2024 debate",
+      "url": "https://www.bbc.com/news/articles/c99l270vy3no?at_medium=RSS&at_campaign=rss",
+      "summary": "The former US first lady told CBS News that she was frightened by Joe Biden's performance against Donald Trump. "
     },
     {
-      "source": "BBC World",
-      "title": "Trump says US 'not satisfied' with Iran deal yet",
-      "url": "https://www.bbc.com/news/articles/c74dy9jw1q9o?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president says he believes Iran wants to reach a deal but there is still no agreement on its terms."
+      "source": "BBC Technology",
+      "title": "Google worker charged with using internal data to make $1.2m on bets",
+      "url": "https://www.bbc.com/news/articles/c052yv259jvo?at_medium=RSS&at_campaign=rss",
+      "summary": "The longtime Google employee was charged in New York for allegedly breaking insider trading laws."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "Ofcom said Youngtek Solutions Ltd did not have checks between July and September 2025, but has since brought in verification."
     },
     {
-      "source": "BBC Technology",
-      "title": "Champion ethical hacker warns AI tools like Mythos will make competing harder",
-      "url": "https://www.bbc.com/news/articles/c3r2zjpryzro?at_medium=RSS&at_campaign=rss",
-      "summary": "Chompie, one of the world's tops ethical hackers, says AI like Claude Mythos will make it harder for people like her to compete."
+      "source": "The Verge",
+      "title": {
+        "#text": "A Google employee allegedly used inside information to win $1.2 million on Polymarket ",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/938635/google-polymarket-insider-trading-prediction-market-bets",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Apple’s newest iPad Air is up to $100 off for the first time",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/gadgets/938519/apple-ipad-air-m4-deal-sale",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The new Halide camera app launches with film looks and an upgraded photo editor",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/938339/lux-optics-halide-mark-iii-ios-iphone-camera-app-looks-editor-raw-files-now-available",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Facebook launches a ‘Plus’ subscription that gives you extra features",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/938500/facebook-whatsapp-instagram-meta-ai-subscriptions",
       "summary": "(要約準備中)"
     }
   ]
