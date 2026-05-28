@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T16:33:55.292Z",
+  "updatedAt": "2026-05-28T20:36:54.011Z",
   "top": [
     {
       "source": "BBC World",
@@ -21,6 +21,12 @@
     },
     {
       "source": "BBC Technology",
+      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
+      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
       "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
       "summary": "The gaming giant said the handheld had not changed but the rise reflected \"the current state of component costs\""
@@ -32,36 +38,30 @@
       "summary": "King's College London researchers hope the chip will help answer previously unanswerable questions about the most important natural processes."
     },
     {
-      "source": "BBC Technology",
-      "title": "Meta repeatedly snubs EU body over Facebook and Instagram user bans",
-      "url": "https://www.bbc.com/news/articles/c152yvwjwkko?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC has been contacted by hundreds of users who claimed they had been wrongly banned from the sites."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "A $2,000 AI-generated film will make its debut at Tribeca",
+        "#text": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/939067/ai-film-dreams-of-violets-tribeca",
+      "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Call of Duty: Warzone is dropping PS4 and Xbox One support later this year",
+        "#text": "Microsoft 365 Copilot gets a speed boost and cleaner design",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/939043/call-of-duty-warzone-ps4-xbox-one-end-of-support",
+      "url": "https://www.theverge.com/tech/939273/microsoft-365-copilot-redesign",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "YouTube takes baby steps to being a real podcast app",
+        "#text": "Amazon’s last-gen Paperwhite is on sale for less than the entry-level Kindle ",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/streaming/939051/youtube-premium-podcast-features",
+      "url": "https://www.theverge.com/gadgets/939259/amazon-kindle-paperwhite-2021-woot-dad-tech-sale",
       "summary": "(要約準備中)"
     }
   ]
