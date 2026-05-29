@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T16:08:17.084Z",
+  "updatedAt": "2026-05-29T20:38:06.800Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,9 +9,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
+      "title": "Nato and EU condemn Russia after drone hits Romanian residential block",
       "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
-      "summary": "Romania will hold an emergency meeting following the incident, in which two people were injured. "
+      "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory. "
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Trump’s mass deportations are only possible with racial profiling",
+        "#text": "Acer’s launching a Linux handheld for streaming your PC games",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
+      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal",
+        "#text": "Tech companies desperately want to film you doing chores",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/940007/ai-companies-will-pay-for-robot-training-data",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
+        "#text": "The Verge’s 2026 high school graduation gift guide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
+      "url": "https://www.theverge.com/gadgets/932602/best-high-school-graduation-gift-ideas",
       "summary": "(要約準備中)"
     }
   ]
