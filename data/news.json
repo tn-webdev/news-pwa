@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-05-29T10:13:38.327Z",
+  "updatedAt": "2026-05-29T16:08:17.084Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Eight students arrested in Kenya after suspected deadly school arson attack",
-      "url": "https://www.bbc.com/news/articles/cx21r3138m9o?at_medium=RSS&at_campaign=rss",
-      "summary": "Sixteen pupils died in the fire that ripped through a dormitory while they were asleep."
+      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
+      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain."
     },
     {
       "source": "BBC World",
-      "title": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership. "
+      "title": "Nato condemns Russian 'recklessness' after drone hits Romanian residential block",
+      "url": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+      "summary": "Romania will hold an emergency meeting following the incident, in which two people were injured. "
     },
     {
       "source": "BBC World",
-      "title": "Netanyahu says he has directed IDF to increase control of Gaza to 70% ",
-      "url": "https://www.bbc.com/news/articles/ceqpelq5reqo?at_medium=RSS&at_campaign=rss",
-      "summary": "The expansion in control by Israel would contradict the terms of the ceasefire  Israel and Hamas agreed to in October 2025."
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
+      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
+      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity."
     },
     {
-      "source": "BBC Technology",
-      "title": "Valve hikes Steam Deck prices by more than 40%, blaming rising costs",
-      "url": "https://www.bbc.com/news/articles/cz725d5d1x7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The gaming giant said the handheld had not changed but the rise reflected \"the current state of component costs\""
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Adobe’s conversational AI agent is a mediocre design intern",
+        "#text": "Trump’s mass deportations are only possible with racial profiling",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/939686/adobes-conversational-ai-agent-is-a-mediocre-design-intern",
+      "url": "https://www.theverge.com/policy/939434/trump-ice-racial-profiling-dhs-mass-deportations",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Blue Origin explosion is a major setback for NASA’s Moon plans and Amazon’s Starlink competitor",
+        "#text": "At $549, Lenovo’s Legion Go S gaming handheld is suddenly a good deal",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/939677/blue-origin-explosion-nasa-leo-setback-delays",
+      "url": "https://www.theverge.com/gadgets/939842/lenovo-legion-go-s-windows-gaming-handheld-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nintendo&#8217;s newest WarioWare is a weirdo smartphone app",
+        "#text": "You can buy two of Anker’s Qi2 wireless chargers for under $25",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/939283/pictonico-nintendo-mobile-game",
+      "url": "https://www.theverge.com/gadgets/939445/anker-zolo-magnetic-wireless-charger-ue-wonderboom-4-speaker-deal-sale",
       "summary": "(要約準備中)"
     }
   ]
