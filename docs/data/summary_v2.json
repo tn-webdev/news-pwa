@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "MiniMax、次世代M3モデルを新しいスパースアテンション機構と15.6倍の長文応答速度向上で予告",
-    "title_en": "MiniMax teases upcoming M3 model with new sparse attention mechanism and 15.6X long-context response speed boost",
-    "summary": "中国の著名なAI企業MiniMaxは、特にテキスト、コーディング、映像処理に優れたAIモデルM2シリーズで知られています。最近、同社はM2シリーズの技術的革新を詳述した報告書を発表し、MiniMaxスパースアテンションと呼ばれる新しいアプローチを通じて長文処理速度を大幅に向上させることを目的とした次世代M3モデルの予告も行いました。この進化は、計算効率と多段階推論の課題を克服しつつ、AIの能力を向上させるというMiniMaxのコミットメントを反映しています。",
-    "summary_en": "MiniMax, a notable Chinese AI company, has gained recognition for its advanced AI models, particularly the M2 series, which excel in text, coding, and video processing while adhering to open-source principles. The company has recently released a comprehensive technical report detailing the engineering innovations in the M2 series and previewing its forthcoming M3 models, which aim to improve long-context processing speed significantly through a new approach called MiniMax Sparse Attention. This evolution reflects MiniMax's commitment to enhancing AI capabilities while navigating the challenges of computational efficiency and multi-hop reasoning.",
-    "link": "https://venturebeat.com/technology/minimax-teases-upcoming-m3-model-with-new-sparse-attention-mechanism-and-15-6x-response-speed-boost",
+    "title": "研究者たちがLLMの推論戦略設計を自動化し、トークン使用量を69.5%削減",
+    "title_en": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
+    "summary": "テスト時間スケーリング（TTS）は、大規模言語モデルの性能を向上させるための有効な手法であり、推論中に追加の計算リソースを割り当てることができますが、従来の戦略は手動のヒューリスティックに依存していました。この制限を克服するために、Meta、Google、そしていくつかの大学の研究者たちは、最適なTTS戦略を発見する自動化されたフレームワーク「AutoTTS」を開発しました。これにより、組織は手動での調整なしに計算リソースを動的に割り当てることが可能になります。実験結果では、AutoTTSは精度を維持しつつトークン消費を最大69.5%削減することに成功し、企業環境におけるコスト効果の高いAIアプリケーション開発の可能性を示しました。",
+    "summary_en": "Test-time scaling (TTS) is an effective method for enhancing the performance of large language models by allocating additional compute during inference, but previous strategies have relied on manual, heuristic-based approaches. To overcome this limitation, researchers from Meta, Google, and various universities developed AutoTTS, an automated framework that discovers optimal TTS strategies, allowing organizations to dynamically allocate compute resources without manual adjustments. In experimental trials, AutoTTS significantly reduced token consumption by up to 69.5% while maintaining accuracy, demonstrating its potential for cost-effective AI application development in enterprise environments.",
+    "link": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
     "category": "AI",
-    "publishedAt": "2026-05-28 15:21"
+    "publishedAt": "2026-05-29 16:56"
   },
   {
     "source": "VentureBeat",
-    "title": "DataGrailレポート：あなたのベンダーが承認していないAIモデルにデータを送信している可能性がある",
-    "title_en": "DataGrail report finds your vendor may be sending data to AI models you never approved",
-    "summary": "DataGrailの最近の『プライバシーとAIトレンドレポート2026』によると、データ処理契約（DPA）に関して特にAIベンダーに対する信頼のギャップが顕著であり、AIを使用すると主張するベンダーの63.6%が法的文書で第三者のAIサブプロセッサーを開示していないことが明らかになりました。これにより、企業は不適切なデータ処理にさらされる可能性があります。この透明性の欠如はプライバシーに関する規制が強化されているため悪化しており、2025年には米国各州が34億ドルの罰金を科していることがその証拠となっています。また、AI技術に関連するプライバシーリスクへの懸念が高まる中、ますます多くの企業がデータプライバシー問題によりAIの取り組みを放棄する圧力を感じています。さらに、プライバシーチームが人員削減に直面する一方で責任が増大している状況において、次世代のAIツール、特にエージェントAIは、適切な監視なしに自律的にデータを処理することにより、さらに複雑な状況を引き起こす恐れがあります。",
-    "summary_en": "The recent *Privacy and AI Trends Report 2026* from DataGrail reveals a significant trust gap regarding data processing agreements (DPAs), particularly concerning AI vendors; 63.6% of vendors that claim to use AI do not disclose third-party AI subprocessors in their legal documentation, potentially exposing companies to unvetted data handling. This lack of transparency is exacerbated by rising privacy enforcement, evidenced by U.S. states issuing $3.4 billion in fines in 2025, and mounting concerns about privacy risks associated with AI technology, with an increasing number of companies feeling the pressure to abandon AI initiatives due to data privacy issues. Furthermore, as privacy teams face staffing reductions while being tasked with growing responsibilities, the next wave of AI tools, especially agentic AI, threatens to further complicate the landscape by autonomously processing data without adequate oversight.",
-    "link": "https://venturebeat.com/security/datagrail-report-finds-your-vendor-may-be-sending-data-to-ai-models-you-never-approved",
+    "title": "Mistral AI、Vibeを発表し産業AIに進出、データセンターを立ち上げOpenAIに挑戦",
+    "title_en": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
+    "summary": "Mistral AIは初開催の会議で大規模な拡張を発表し、産業製造へのシフト、新しい推論データセンターのパリ近郊への設置、そして消費者向けアシスタントの名称をVibeに変更しました。同社は航空宇宙や自動車業界向けのカスタムソリューションに焦点を当て、言語モデルと物理シミュレーションを組み合わせた統合AIスタックを推進し、欧州における企業AIプロバイダーとしての地位を確立することを目指しています。野心的な収益目標とデータ主権への戦略的な重点を置くMistralは、自社のインフラと専門的な提供を活用し、アメリカの競合に対抗する姿勢を強調し、データセキュリティと運用コントロールを優先するAIソリューションの提供を約束しています。",
+    "summary_en": "Mistral AI has announced significant expansions at its inaugural conference, shifting into industrial manufacturing, launching a new inference data center near Paris, and rebranding its consumer assistant as Vibe. The company aims to establish itself as a leading enterprise AI provider in Europe, focusing on custom solutions for industries like aerospace and automotive, while promoting its integrated AI stack that combines language models with physics simulations. With ambitious revenue targets and a strategic emphasis on data sovereignty, Mistral is positioning itself against American competitors by leveraging its owned infrastructure and specialized offerings, underscoring its commitment to providing AI solutions that prioritize data security and operational control.",
+    "link": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
     "category": "AI",
-    "publishedAt": "2026-05-28 15:22"
+    "publishedAt": "2026-05-29 16:56"
   },
   {
     "source": "NHK",
-    "title": "株価 一時1000円以上値下がり イラン情勢 不透明感強まる",
+    "title": "株価 終値で初の6万6000円台最高値更新 取引時間中も最高値に",
     "title_en": "",
-    "summary": "東京株式市場で日経平均株価が一時1000円以上下落しました。これは、イラン革命防衛隊がアメリカ空軍基地を攻撃対象とする声明を発表したことが要因です。イラン情勢の不透明感が影響し、売り注文が増加しています。",
+    "summary": "最近、東京株式市場で日経平均株価が一時1800円以上上昇し、取引時間中としての最高値を更新しました。終値も初めて6万6000円台に達し、最高値を記録しました。これは市場の活況を示していると言えます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133801000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134651000.html",
     "category": "経済",
-    "publishedAt": "2026-05-28 15:22"
+    "publishedAt": "2026-05-29 16:56"
   },
   {
     "source": "BBC",
-    "title": "米国、3日間で2度目のイラン攻撃",
-    "title_en": "US strikes Iran targets for second time in three days",
-    "summary": "米国とイランの間で危うい停戦が続く中、最近の敵対行為が発生し、3ヶ月続いた戦争を解決するための交渉が複雑化しています。両者が微妙な状況を進む中、緊張は依然として高いままです。外交努力が続く中、紛争の解決は危険なバランスの上にあります。",
-    "summary_en": "Recent hostilities have erupted amidst a fragile ceasefire between the US and Iran, complicating ongoing negotiations aimed at resolving a three-month war. Tensions remain high as both sides navigate the precarious situation. The conflict's resolution hangs in the balance as diplomatic efforts continue.",
-    "link": "https://www.bbc.com/news/articles/c98r2qy5809o?at_medium=RSS&at_campaign=rss",
+    "title": "NATO、ドローンがルーマニアのアパートに衝突した後、ロシアの「無謀さ」を非難",
+    "title_en": "Nato condemns Russian 'recklessness' after drone hits Romanian apartment block",
+    "summary": "ルーマニアは、2人が負傷した事件に対応するために緊急会議を招集する予定です。事件の詳細は不明であり、公式な間での緊急の議論が必要とされています。この会議は、状況に対処し、今後の必要な措置を決定することを目的としています。",
+    "summary_en": "Romania is set to convene an emergency meeting in response to an incident that resulted in injuries to two individuals. The details surrounding the incident remain unclear, prompting the need for an urgent discussion among officials. This meeting aims to address the situation and determine necessary actions moving forward.",
+    "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-28 15:22"
+    "publishedAt": "2026-05-29 16:57"
   },
   {
     "source": "NHK",
-    "title": "大飯原発設置許可取り消し訴訟 1審と逆に住民の訴え退ける判決",
+    "title": "米アンソロピック 「ミュトス」級AI 数週間以内に全顧客提供へ",
     "title_en": "",
-    "summary": "福井県の大飯原子力発電所に関する設置許可の訴訟で、大阪高等裁判所は市民グループの訴えを退けました。これにより、1審での設置許可取り消しが覆されました。判決は、国の設置許可を支持する内容となりました。",
+    "summary": "アメリカのAI企業アンソロピックは、高性能AIモデル「クロード・ミュトス」を一般公開するのを見送っていましたが、最近、全顧客に提供できる見通しを発表しました。これはサイバー攻撃に悪用される懸念があったためです。数週間以内に提供が開始される予定です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260528/k10015133631000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134691000.html",
     "category": "その他",
-    "publishedAt": "2026-05-28 15:22"
+    "publishedAt": "2026-05-29 16:57"
   }
 ]
