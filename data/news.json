@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-30T14:04:33.848Z",
+  "updatedAt": "2026-05-30T19:40:47.078Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US, UK and Australia to develop underwater drone technology",
+      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
+      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence."
+    },
     {
       "source": "BBC World",
       "title": "No deal announced after Trump meeting to make 'final determination' on Iran",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "US not 'turning back' on Asia allies, but expects them to boost defence - Hegseth",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore."
-    },
-    {
-      "source": "BBC World",
-      "title": "'Poison seller' who sold toxic chemicals online to people across world admits aiding suicides",
-      "url": "https://www.bbc.com/news/articles/c70vg7glglyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Kenneth Law admitted charges relating to Canadian victims - but families say he should also be charged in the UK over 79 deaths in Britain."
+      "title": "Italy bans Kanye West and Travis Scott concerts over security concerns",
+      "url": "https://www.bbc.com/news/articles/c3d27x5vnnvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Local authorities say the cancellation of other West concerts had played a role in the decision."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
+        "#text": "Backrooms is a certified blockbuster with a $38 million opening day",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
+      "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "How one founder’s bet on ‘the old school web’ is paying off",
+        "#text": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI grifters are creating fake Black people to sell Shein junk",
+        "#text": "Microsoft is threatening legal action for disclosing exploits",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
       "summary": "(要約準備中)"
     }
   ]
