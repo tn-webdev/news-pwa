@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T08:40:25.546Z",
+  "updatedAt": "2026-05-30T14:04:33.848Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nvidia, Microsoft, and Arm are all teasing Nvidia’s new N1X laptop processors",
+        "#text": "The Arduboy FX-C is an excellent time killer you might forget you’re carrying",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/940275/nvidia-n1x-laptop-processor-arm-microsoft-teaser",
+      "url": "https://www.theverge.com/tech/939782/arduboy-fx-c-arduino-handheld-hands-on",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "SpaceX gets $4 billion contract to build missile-tracking ‘Golden Dome’ satellites",
+        "#text": "How one founder’s bet on ‘the old school web’ is paying off",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/940207/spacex-golden-dome-satellite-contract",
+      "url": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Acer’s launching a Linux handheld for streaming your PC games",
+        "#text": "AI grifters are creating fake Black people to sell Shein junk",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/940091/acer-nitro-blaze-link-linux-handheld",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
       "summary": "(要約準備中)"
     }
   ]
