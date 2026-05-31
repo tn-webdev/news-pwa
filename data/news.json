@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-05-31T09:23:39.907Z",
+  "updatedAt": "2026-05-31T14:11:03.732Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Hundreds arrested in France after wild Champions League celebrations",
-      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal."
+      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
+      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Backrooms is a certified blockbuster with a $38 million opening day",
+        "#text": "007 First Light is already discounted for the PS5 and Steam",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/940421/backrooms-blockbuster-38-million-opening",
+      "url": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Welcome to Night Vale host Cecil Baldwin shares his tech pet peeves",
+        "#text": "Marathon&#8217;s second season is a chance for Bungie to turn things around",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/939930/welcome-to-night-vale-host-cecil-baldwin-shares-his-tech-pet-peeves",
+      "url": "https://www.theverge.com/games/940214/marathon-bungie-season-two-turnaround-destiny-changes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Microsoft is threatening legal action for disclosing exploits",
+        "#text": "A meteor exploded off the coast of Boston",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/940416/microsoft-nightmare-eclipse-zero-day-vulnerability",
+      "url": "https://www.theverge.com/science/940467/meteor-exploded-new-england",
       "summary": "(要約準備中)"
     }
   ]
