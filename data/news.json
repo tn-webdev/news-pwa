@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-05-31T14:11:03.732Z",
+  "updatedAt": "2026-05-31T19:40:43.461Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah."
+    },
     {
       "source": "BBC World",
       "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
@@ -12,12 +18,6 @@
       "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
       "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
       "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up."
-    },
-    {
-      "source": "BBC World",
-      "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
-      "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "007 First Light is already discounted for the PS5 and Steam",
+        "#text": "Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/940126/007-first-light-ps5-pc-steam-deal-sale",
+      "url": "https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Marathon&#8217;s second season is a chance for Bungie to turn things around",
+        "#text": "Feeble Little Horse leans into digital weirdness on bitknot",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/940214/marathon-bungie-season-two-turnaround-destiny-changes",
+      "url": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "A meteor exploded off the coast of Boston",
+        "#text": "United flight forced to turn around because of a Bluetooth speaker name",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/940467/meteor-exploded-new-england",
+      "url": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
       "summary": "(要約準備中)"
     }
   ]
