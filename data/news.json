@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-05-31T19:40:43.461Z",
+  "updatedAt": "2026-06-01T05:15:45.796Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Israel seizes castle in Lebanon as it expands ground offensive",
       "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Benjamin Netanyahu describes the capture of the strategic fortress as a \"decisive shift\" in its military campaign against Hezbollah."
+      "summary": "Prime Minister Benjamin Netanyahu calls the capture of the strategic fortress a \"decisive shift\" in Israel's campaign against Hezbollah, as European governments criticise the escalation."
     },
     {
       "source": "BBC World",
-      "title": "Hundreds arrested and dozens of police injured after Champions League riots in France",
-      "url": "https://www.bbc.com/news/articles/c0r2ejg1w9xo?at_medium=RSS&at_campaign=rss",
-      "summary": "Nearly 800 people were arrested after clashes with police which saw 219 people injured, including 57 police officers."
+      "title": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+      "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June."
     },
     {
       "source": "BBC World",
-      "title": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
-      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
-      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up."
+      "title": "Trump seeking edits to US-Iran deal, US media report",
+      "url": "https://www.bbc.com/news/articles/c1w2xve315do?at_medium=RSS&at_campaign=rss",
+      "summary": "The requested changes are related to the Strait of Hormuz and the removal of highly enriched uranium, according to US media."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here’s your first look at ‘A Minecraft Movie Squared’ with Kirsten Dunst as Alex",
+        "#text": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/940523/minecraft-movie-squared-sequel-kirsten-dunst-alex",
+      "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Feeble Little Horse leans into digital weirdness on bitknot",
+        "#text": "Nvidia announces RTX Spark as ‘the most efficient PC chip ever built’",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/940449/feeble-little-horse-bitknot-music-album-review",
+      "url": "https://www.theverge.com/tech/940589/nvidia-rtx-spark-n1-n1x-laptop-desktop-pc-cpu-gpu-ai-release-date",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "United flight forced to turn around because of a Bluetooth speaker name",
+        "#text": "AMD’s new pitch: our old tech is so good you should just keep using it",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/transportation/940486/united-flight-236-bluetooth-speaker-name-bomb",
+      "url": "https://www.theverge.com/tech/940524/amd-computex-am5-promise-2029-rx9070gre-7700x3d-5800x3d",
       "summary": "(要約準備中)"
     }
   ]
