@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-01T12:09:07.780Z",
+  "updatedAt": "2026-06-01T18:16:39.735Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US says it struck Iranian radar sites as Kuwait reports missile and drone attacks",
-      "url": "https://www.bbc.com/news/articles/crlpy8n7pr6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran and the US say they have carried out fresh strikes around the Strait of Hormuz, with Kuwait condemning \"repeated\" Iranian attacks."
+      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
+      "summary": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel."
     },
     {
       "source": "BBC World",
@@ -17,7 +17,13 @@
       "source": "BBC World",
       "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
       "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Benjamin Netanyahu says the Hezbollah stronghold of Dahieh will be targeted in response to attacks on Israeli civilians."
+      "summary": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civilians."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "UK banks blocked from cyber AI tool Mythos get offer from rival OpenAI",
+      "url": "https://www.bbc.com/news/articles/cm2p3j6lvn7o?at_medium=RSS&at_campaign=rss",
+      "summary": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US."
     },
     {
-      "source": "BBC Technology",
-      "title": "California Attorney General sues 23andMe successor for 2023 data breach",
-      "url": "https://www.bbc.com/news/articles/crepleq2zyvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Attorney General Rob Bonta alleges the company lied about the breach's severity."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "These are the first Nvidia RTX Spark laptops",
+        "#text": "Anthropic has officially filed to go public",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/940794/first-nvidia-rtx-spark-laptops-roundup-computex-2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Asus just announced the OLED Xbox Ally X of my dreams",
+        "#text": "Sony’s new fight stick and gaming monitor launch in August",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/940722/asus-xbox-ally-x20-special-edition-oled-screen",
+      "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This is the Microsoft Surface Laptop Ultra with Nvidia RTX Spark",
+        "#text": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/940584/microsoft-surface-laptop-ultra-nvidia-rtx-spark-pictures",
+      "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
       "summary": "(要約準備中)"
     }
   ]
