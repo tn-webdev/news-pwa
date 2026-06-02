@@ -1,23 +1,35 @@
 {
-  "updatedAt": "2026-06-01T18:16:39.735Z",
+  "updatedAt": "2026-06-02T05:00:02.574Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran warns Israeli attacks in Lebanon threaten ceasefire with US",
+      "title": "Massive Russian attack on cities across Ukraine kills at least nine people",
+      "url": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Kyiv Mayor Vitali Klitschko says two high-rise apartment buildings have been hit and there are fears people are trapped under rubble. "
+    },
+    {
+      "source": "BBC World",
+      "title": "Lebanon says Hezbollah agrees reciprocal halt to attacks on Israel",
       "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "summary": "Earlier Israel's PM ordered strikes on Beirut's southern suburbs in response to Hezbollah rocket and drone attacks on northern Israel."
+      "summary": "Hours after the pause was announced, the Israeli military said it had intercepted projectiles fired from Lebanon."
     },
     {
       "source": "BBC World",
-      "title": "Iran attacks damage 20 US military sites since start of war, satellite images show",
-      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged."
+      "title": "Bowen: Trump needs this war to end but Iran is not backing down",
+      "url": "https://www.bbc.com/news/articles/cedp3lee059o?at_medium=RSS&at_campaign=rss",
+      "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor."
     },
     {
-      "source": "BBC World",
-      "title": "Israel PM orders strikes on Beirut suburbs as Hezbollah conflict escalates",
-      "url": "https://www.bbc.com/news/articles/c4g419e2xlvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Thousands flee the Hezbollah stronghold of Dahieh after Benjamin Netanyahu says it will be targeted in response to attacks on Israeli civilians."
+      "source": "BBC Technology",
+      "title": "How 'confused' AI rollout hurts firms and baffles staff",
+      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "OpenAI let ChatGPT aid and abet mass shooters, Florida lawsuit claims",
+      "url": "https://www.bbc.com/news/articles/czx2j0v8d2xo?at_medium=RSS&at_campaign=rss",
+      "summary": "Florida Attorney General James Uthmeier alleges OpenAI and boss Sam Altman built a 'web of deceit'"
     },
     {
       "source": "BBC Technology",
@@ -26,42 +38,30 @@
       "summary": "Nine banks have been offered access to GPT 5.5 Cyber, as fierce rival Anthropic has blocked previews of its tool."
     },
     {
-      "source": "BBC Technology",
-      "title": "'Controversial' North Korean invasion setting for next Call of Duty game",
-      "url": "https://www.bbc.com/news/articles/c9q391y5088o?at_medium=RSS&at_campaign=rss",
-      "summary": "Developer Infinity Ward said the game will be \"grounded in the military authenticity\" the series is known for."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Humanoid robots 'the future' of car making, says BMW",
-      "url": "https://www.bbc.com/news/articles/cgmpwzzvxr2o?at_medium=RSS&at_campaign=rss",
-      "summary": "BMW is introducing humanoid robots to a car plant in Europe, building on similar projects in the US."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Anthropic has officially filed to go public",
+        "#text": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/941016/anthropic-has-officially-filed-to-go-public",
+      "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Sony’s new fight stick and gaming monitor launch in August",
+        "#text": "Pebblebee&#8217;s Halo can help track lost items and keep you safe, and it&#8217;s on sale for $50",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/941031/sony-playstation-flexstrike-fight-stick-gaming-monitor-pulse-elevate-speakers-launch-date-price",
+      "url": "https://www.theverge.com/gadgets/941273/pebblebee-halo-bluetooth-tracker-personal-safety-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Summer Game Fest 2026: All the news from gaming&#8217;s busiest week",
+        "#text": "This could be Windows’ M1 moment — but expect it to cost a ton",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/939206/summer-game-fest-playstation-xbox-gaming-events-2026",
+      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
       "summary": "(要約準備中)"
     }
   ]
