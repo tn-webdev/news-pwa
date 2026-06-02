@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "研究者たちがLLMの推論戦略設計を自動化し、トークン使用量を69.5%削減",
-    "title_en": "Researchers automated LLM reasoning strategy design and cut token usage by 69.5%",
-    "summary": "テスト時間スケーリング（TTS）は、大規模言語モデルの性能を向上させるための有効な手法であり、推論中に追加の計算リソースを割り当てることができますが、従来の戦略は手動のヒューリスティックに依存していました。この制限を克服するために、Meta、Google、そしていくつかの大学の研究者たちは、最適なTTS戦略を発見する自動化されたフレームワーク「AutoTTS」を開発しました。これにより、組織は手動での調整なしに計算リソースを動的に割り当てることが可能になります。実験結果では、AutoTTSは精度を維持しつつトークン消費を最大69.5%削減することに成功し、企業環境におけるコスト効果の高いAIアプリケーション開発の可能性を示しました。",
-    "summary_en": "Test-time scaling (TTS) is an effective method for enhancing the performance of large language models by allocating additional compute during inference, but previous strategies have relied on manual, heuristic-based approaches. To overcome this limitation, researchers from Meta, Google, and various universities developed AutoTTS, an automated framework that discovers optimal TTS strategies, allowing organizations to dynamically allocate compute resources without manual adjustments. In experimental trials, AutoTTS significantly reduced token consumption by up to 69.5% while maintaining accuracy, demonstrating its potential for cost-effective AI application development in enterprise environments.",
-    "link": "https://venturebeat.com/orchestration/researchers-automated-llm-reasoning-strategy-design-and-cut-token-usage-by-69-5",
+    "title": "MiniMax-M3が登場、主要ベンチマーク性能でGPT-5.5やGemini 3.1 Proを凌ぎ、コストはたったの5-10％",
+    "title_en": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
+    "summary": "中国のAIスタートアップMiniMaxが、進化したコーディング能力、100万トークンのコンテキストウィンドウ、ネイティブなマルチモーダリティを備えたM3大規模言語モデルを発表し、注目を集めた。月額わずか20ドルで、GoogleやOpenAIなどの主要競合他社を下回る価格設定となっている。MiniMaxはM3をオープンソースモデルとして提供する計画で、企業が自由にカスタマイズして導入できることにより、クローズドソースシステムに比べてデータプライバシーとコスト効率が大幅に向上する。M3モデルの革新的なMiniMax Sparse Attentionメカニズムにより、効率的に動作し、主要指標で競争力のある性能を誇る。更に、最初からマルチモーダルタスク向けに設計されている。",
+    "summary_en": "Chinese AI startup MiniMax made headlines by releasing its M3 large language model, which offers advanced coding capabilities, a significant 1-million-token context window, and native multimodality at a starting price of just $20 per month, undercutting major competitors like Google and OpenAI. MiniMax plans to make M3 available as an open-source model, allowing enterprises to customize and deploy it for free, which significantly enhances data privacy and cost-effectiveness compared to closed-source systems. The M3 model's innovative MiniMax Sparse Attention mechanism enables it to operate efficiently, boasting competitive performance across key metrics while being designed natively for multimodal tasks from the outset.",
+    "link": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
     "category": "AI",
-    "publishedAt": "2026-05-29 16:56"
+    "publishedAt": "2026-06-02 16:04"
   },
   {
     "source": "VentureBeat",
-    "title": "Mistral AI、Vibeを発表し産業AIに進出、データセンターを立ち上げOpenAIに挑戦",
-    "title_en": "Mistral AI launches Vibe, expands into industrial AI and announces data center push to challenge OpenAI",
-    "summary": "Mistral AIは初開催の会議で大規模な拡張を発表し、産業製造へのシフト、新しい推論データセンターのパリ近郊への設置、そして消費者向けアシスタントの名称をVibeに変更しました。同社は航空宇宙や自動車業界向けのカスタムソリューションに焦点を当て、言語モデルと物理シミュレーションを組み合わせた統合AIスタックを推進し、欧州における企業AIプロバイダーとしての地位を確立することを目指しています。野心的な収益目標とデータ主権への戦略的な重点を置くMistralは、自社のインフラと専門的な提供を活用し、アメリカの競合に対抗する姿勢を強調し、データセキュリティと運用コントロールを優先するAIソリューションの提供を約束しています。",
-    "summary_en": "Mistral AI has announced significant expansions at its inaugural conference, shifting into industrial manufacturing, launching a new inference data center near Paris, and rebranding its consumer assistant as Vibe. The company aims to establish itself as a leading enterprise AI provider in Europe, focusing on custom solutions for industries like aerospace and automotive, while promoting its integrated AI stack that combines language models with physics simulations. With ambitious revenue targets and a strategic emphasis on data sovereignty, Mistral is positioning itself against American competitors by leveraging its owned infrastructure and specialized offerings, underscoring its commitment to providing AI solutions that prioritize data security and operational control.",
-    "link": "https://venturebeat.com/technology/mistral-ai-launches-vibe-expands-into-industrial-ai-and-announces-data-center-push-to-challenge-openai",
+    "title": "Anthropicのブラウザエージェントは、セーフガードが作動する前に31.5%の確率でハイジャックされた",
+    "title_en": "Anthropic’s browser agent got hijacked 31.5% of the time before safeguards engaged",
+    "summary": "Anthropicは最新モデルOpus 4.8におけるプロンプトインジェクションの脆弱性に関する懸念のあるデータを発表しました。セーフガードが有効化される前の攻撃成功率は31.5%であり、これはOpenAI、Google、Metaなどの競合他社の報告よりも大幅に高い数値です。これらの企業はプロンプトインジェクションのセキュリティ評価において異なる方法論や指標を使用しており、その結果、業界全体でのデータの一貫性に欠けています。この不一致は、AIモデルのセキュリティ脆弱性を測定し開示するための業界標準の欠如を浮き彫りにし、AIソリューションを実装する際の組織によるより厳密な監視や個別のテストを求める声が高まっています。",
+    "summary_en": "Anthropic has released concerning data regarding prompt injection vulnerabilities in its latest model, Opus 4.8, indicating a 31.5% attack success rate before safeguards are activated, a figure significantly higher than disclosures from competitors OpenAI, Google, and Meta. Each of these companies has utilized different methodologies and metrics in evaluating prompt injection security, leading to inconsistencies and a lack of comparable data across the industry. This inconsistency highlights the absence of industry standards for measuring and disclosing security vulnerabilities in AI models, prompting calls for enhanced scrutiny and individual testing by organizations when implementing AI solutions.",
+    "link": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
     "category": "AI",
-    "publishedAt": "2026-05-29 16:56"
+    "publishedAt": "2026-06-02 16:04"
   },
   {
     "source": "NHK",
-    "title": "株価 終値で初の6万6000円台最高値更新 取引時間中も最高値に",
+    "title": "高市首相 経済同友会代表幹事と会談 中東情勢めぐり意見交わす",
     "title_en": "",
-    "summary": "最近、東京株式市場で日経平均株価が一時1800円以上上昇し、取引時間中としての最高値を更新しました。終値も初めて6万6000円台に達し、最高値を記録しました。これは市場の活況を示していると言えます。",
+    "summary": "高市総理大臣が経済同友会の山口代表幹事と会談しました。主な議題は中東情勢に関連する物資の目詰まりの解消についてです。双方が意見を交わし、対応策の検討が行われました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134651000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138241000.html",
     "category": "経済",
-    "publishedAt": "2026-05-29 16:56"
+    "publishedAt": "2026-06-02 16:04"
   },
   {
     "source": "BBC",
-    "title": "NATO、ドローンがルーマニアのアパートに衝突した後、ロシアの「無謀さ」を非難",
-    "title_en": "Nato condemns Russian 'recklessness' after drone hits Romanian apartment block",
-    "summary": "ルーマニアは、2人が負傷した事件に対応するために緊急会議を招集する予定です。事件の詳細は不明であり、公式な間での緊急の議論が必要とされています。この会議は、状況に対処し、今後の必要な措置を決定することを目的としています。",
-    "summary_en": "Romania is set to convene an emergency meeting in response to an incident that resulted in injuries to two individuals. The details surrounding the incident remain unclear, prompting the need for an urgent discussion among officials. This meeting aims to address the situation and determine necessary actions moving forward.",
-    "link": "https://www.bbc.com/news/articles/c93x4nxlkjeo?at_medium=RSS&at_campaign=rss",
+    "title": "ウクライナ各地へのロシアの大規模攻撃で少なくとも10人が死亡",
+    "title_en": "Massive Russian attack on cities across Ukraine kills at least 10 people",
+    "summary": "キーウでは、ミサイルとドローン攻撃が行われた後、瓦礫の下に閉じ込められていると考えられる人々を見つけるために、救助活動が緊急に行われています。捜索・救助活動は、瓦礫の中に取り残されている可能性のある人々の数に関する懸念が高まる中、重要です。この状況は、続く紛争の中で住民が直面しているリスクと暴力の深刻さを浮き彫りにしています。",
+    "summary_en": "Rescuers in Kyiv are working urgently to locate individuals believed to be trapped under debris following a missile and drone attack that occurred overnight. The search and rescue efforts are critical as concerns grow about the number of people potentially caught in the rubble. The situation highlights the ongoing risks and violence faced by residents amid the ongoing conflict.",
+    "link": "https://www.bbc.com/news/articles/c5y8nq8ljqwo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-05-29 16:57"
+    "publishedAt": "2026-06-02 16:04"
   },
   {
     "source": "NHK",
-    "title": "米アンソロピック 「ミュトス」級AI 数週間以内に全顧客提供へ",
+    "title": "高性能AIの活用“重要インフラ企業などに拡大必要”デジタル相",
     "title_en": "",
-    "summary": "アメリカのAI企業アンソロピックは、高性能AIモデル「クロード・ミュトス」を一般公開するのを見送っていましたが、最近、全顧客に提供できる見通しを発表しました。これはサイバー攻撃に悪用される懸念があったためです。数週間以内に提供が開始される予定です。",
+    "summary": "アメリカのオープンAIの最新AIモデルが国内の金融機関で利用可能となりました。松本デジタル大臣は、金融機関に加えて他のインフラ事業者にも利用を広げる必要があると述べました。これにより、幅広い分野でのAI活用が期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260529/k10015134691000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138121000.html",
     "category": "その他",
-    "publishedAt": "2026-05-29 16:57"
+    "publishedAt": "2026-06-02 16:04"
   }
 ]
