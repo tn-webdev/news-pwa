@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T21:23:49.961Z",
+  "updatedAt": "2026-06-03T05:16:45.356Z",
   "top": [
     {
       "source": "BBC World",
@@ -9,33 +9,51 @@
     },
     {
       "source": "BBC World",
-      "title": "'They'll fix the building, but not our souls': Sleepy Kyiv neighbourhood hit in Russian strike",
-      "url": "https://www.bbc.com/news/articles/c5y9nyvg9z2o?at_medium=RSS&at_campaign=rss",
-      "summary": "Scenes of devastation greet residents emerging from underground shelters after a major Russian attack."
+      "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "summary": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf."
     },
     {
       "source": "BBC World",
-      "title": "British couple lose Iran jail sentence appeal, family says",
-      "url": "https://www.bbc.com/news/articles/cjrpwxe82ypo?at_medium=RSS&at_campaign=rss",
-      "summary": "Lindsay and Craig Foreman were arrested in January 2025 during a global motorbike journey."
+      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
+      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
+      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists."
     },
     {
       "source": "BBC Technology",
-      "title": "Microsoft says new quantum chip 1,000 times more reliable than predecessor",
-      "url": "https://www.bbc.com/news/articles/cj4p7gyvp52o?at_medium=RSS&at_campaign=rss",
-      "summary": "The tech giant predicts it will have a quantum computer that can solve commercially useful problems by the end of the decade."
+      "title": "Publishers in UK can opt out of Google AI search results",
+      "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\"."
     },
     {
       "source": "BBC Technology",
-      "title": "Instagram AI chatbot tricked by hackers to give access to others' accounts",
-      "url": "https://www.bbc.com/news/articles/c98rzr72dpyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some reports have linked the incident to recent cases of high-profile Instagram accounts being hijacked."
+      "title": "Do you find yourself aimlessly scrolling? You're not alone",
+      "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
+      "summary": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose."
     },
     {
       "source": "BBC Technology",
-      "title": "How 'confused' AI rollout hurts firms and baffles staff",
-      "url": "https://www.bbc.com/news/articles/c74d1ydv01eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Some firms are putting pressure on staff to use AI, but have not thought through their AI rollout."
+      "title": "Microsoft testing wearable AI gadget aimed at office workers",
+      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
+      "summary": "The company said its own workers are testing a \"wearable access badge\" and a desktop device. "
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "God of War Laufey is coming to the PS5",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Remedy’s Control sequel launches in September",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "PlayStation State of Play June 2026: All the news and trailers",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/940913/playstation-state-of-play-june-2026-news-trailers",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "I held the next-gen handheld",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/941360/intel-arc-g3-extreme-msi-claw-next-gen-handheld-preview",
       "summary": "(要約準備中)"
     }
   ]
