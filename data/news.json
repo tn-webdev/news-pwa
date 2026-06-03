@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-06-03T11:22:37.903Z",
+  "updatedAt": "2026-06-03T17:17:26.163Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
       "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Kuwait says one person is dead after drones hit civilian buildings including its international airport."
+      "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island. "
     },
     {
       "source": "BBC World",
-      "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-      "url": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel continues its campaign in the south, though has not struck Beirut after a deal announced by the US."
+      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
+      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
+      "summary": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event."
     },
     {
       "source": "BBC World",
-      "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
-      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says."
+      "title": "Foreign nationals among at least 21 killed in Delhi fire",
+      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
+      "summary": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives."
     },
     {
       "source": "BBC Technology",
-      "title": "Meta won't track its workers' clicks - but only for half an hour at a time",
+      "title": "Phone signal on trains not good enough most of the time, research says",
+      "url": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ofcom found the major phone networks were not providing good signal on trains, and train companies were slowing down wi-fi."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
+      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
+      "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
       "url": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
       "summary": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\"."
     },
     {
-      "source": "BBC Technology",
-      "title": "Publishers in UK can opt out of Google AI search results",
-      "url": "https://www.bbc.com/news/articles/c775pp26yz5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Competition and Markets Authority says it would put publishers \"in a stronger position to negotiate content deals with Google\"."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "Do you find yourself aimlessly scrolling? You're not alone",
-      "url": "https://www.bbc.com/news/articles/czd2mq505dpo?at_medium=RSS&at_campaign=rss",
-      "summary": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Trans teens have something to say",
+        "#text": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI has a water problem. Google thinks it has a fix",
+        "#text": "PlayStation is getting back to what it’s good at",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "url": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Google must let publishers opt out of AI Search features, rules UK",
+        "#text": "Supernatural isn’t dead after all",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
+      "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
       "summary": "(要約準備中)"
     }
   ]
