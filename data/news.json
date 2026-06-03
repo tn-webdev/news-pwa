@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-06-03T17:17:26.163Z",
+  "updatedAt": "2026-06-03T21:29:52.865Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday."
+    },
     {
       "source": "BBC World",
       "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Ukrainian drones hit St Petersburg as Putin's flagship economic forum opens",
-      "url": "https://www.bbc.com/news/articles/c0e2vqd3j1vo?at_medium=RSS&at_campaign=rss",
-      "summary": "Several long-range drones struck oil storage facilities near the city, days before Vladimir Putin is due to address the event."
-    },
-    {
-      "source": "BBC World",
-      "title": "Foreign nationals among at least 21 killed in Delhi fire",
-      "url": "https://www.bbc.com/news/articles/czd29327qzvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Many victims were South Asians who had travelled to India for treatment or to accompany relatives."
+      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents. "
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+        "#text": "WiiM expands its whole-home ecosystem with a new soundbar",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "PlayStation is getting back to what it’s good at",
+        "#text": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/942520/playstation-wolverine-god-of-war-laufey-state-of-play-june-2026",
+      "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Supernatural isn’t dead after all",
+        "#text": "The best Bluetooth trackers for Apple and Android phones",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/news/941816/supernatural-health-meta-quest-vr",
+      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
       "summary": "(要約準備中)"
     }
   ]
