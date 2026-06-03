@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-06-03T05:16:45.356Z",
+  "updatedAt": "2026-06-03T11:22:37.903Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "US and Iran launch new strikes, as Kuwait says airport hit by Iranian drones",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "summary": "Kuwait says one person is dead after drones hit civilian buildings including its international airport."
+    },
     {
       "source": "BBC World",
       "title": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "US and Iran launch new strikes as ceasefire negotiations stalled",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "summary": "US launches fresh strikes on Iran and an oil tanker as Tehran says it attacked US bases in the Gulf."
+      "title": "Seven killed after drone hits bus in Russia-controlled part of Ukraine",
+      "url": "https://www.bbc.com/news/articles/cp3peyykxd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The bus was travelling between Moscow and Simferopol, in Russian-occupied Crimea, an official says."
     },
     {
-      "source": "BBC World",
-      "title": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists."
+      "source": "BBC Technology",
+      "title": "Meta won't track its workers' clicks - but only for half an hour at a time",
+      "url": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
+      "summary": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\"."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "A Virgin Media O2 report suggests an average of 36% of time spent on phones is without a clear purpose."
     },
     {
-      "source": "BBC Technology",
-      "title": "Microsoft testing wearable AI gadget aimed at office workers",
-      "url": "https://www.bbc.com/news/articles/cwy25x97wrxo?at_medium=RSS&at_campaign=rss",
-      "summary": "The company said its own workers are testing a \"wearable access badge\" and a desktop device. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "God of War Laufey is coming to the PS5",
+        "#text": "Trans teens have something to say",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/941516/god-of-war-laufey-ps5-trailer",
+      "url": "https://www.theverge.com/features/940977/trans-teens-pediatric-care-closing",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Remedy’s Control sequel launches in September",
+        "#text": "AI has a water problem. Google thinks it has a fix",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/942113/remedy-control-resonant-release-date-trailer",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Here&#8217;s seven bloody minutes of Wolverine on the PS5",
+        "#text": "Google must let publishers opt out of AI Search features, rules UK",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/939378/marvels-wolverine-playstation-trailer-state-of-play-june-2026",
+      "url": "https://www.theverge.com/tech/942302/google-search-ai-overviews-uk-cma-publisher-opt-out",
       "summary": "(要約準備中)"
     }
   ]
