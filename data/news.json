@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-04T10:11:42.533Z",
+  "updatedAt": "2026-06-04T15:43:35.405Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says."
+      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks."
     },
     {
       "source": "BBC World",
-      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
-      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic."
+      "title": "Trump hits back at 'unpatriotic' vote after House rebukes him over Iran",
+      "url": "https://www.bbc.com/news/articles/cn0pl0wvvz0o?at_medium=RSS&at_campaign=rss",
+      "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic."
     },
     {
       "source": "BBC World",
@@ -27,41 +27,41 @@
     },
     {
       "source": "BBC Technology",
+      "title": "Exams watchdog warns of rise in high-tech cheating",
+      "url": "https://www.bbc.com/news/articles/cvgz22w4g9zo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ofqual chief says invigilators are being trained to detect devices like smart glasses and hidden earpieces."
+    },
+    {
+      "source": "BBC Technology",
       "title": "Phone signal on trains not good enough most of the time, research says",
       "url": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&at_campaign=rss",
       "summary": "Ofcom found the major phone networks were not providing good signal on trains, and train companies were slowing down wi-fi."
     },
     {
-      "source": "BBC Technology",
-      "title": "Lloyds, Halifax and Bank of Scotland back after online banking outage",
-      "url": "https://www.bbc.com/news/articles/c9d37gdxp7xo?at_medium=RSS&at_campaign=rss",
-      "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon develops a warehouse robot workers can speak to",
+        "#text": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Shokz upgraded its open earbuds with better sound and a lighter design",
+        "#text": "We’re giving away a Prime Day grab bag loaded with over $800 of free tech",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "url": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+        "#text": "Elon Musk is steamrolling Wall Street to become a trillionaire",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
       "summary": "(要約準備中)"
     }
   ]
