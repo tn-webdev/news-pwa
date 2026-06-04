@@ -1,17 +1,17 @@
 {
-  "updatedAt": "2026-06-03T21:29:52.865Z",
+  "updatedAt": "2026-06-04T05:04:39.362Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israeli strikes kill nine in Lebanon as Hezbollah fires rockets over border",
+      "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The incidents strain a partial ceasefire agreed by Israel and the Lebanese armed group on Monday."
+      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says."
     },
     {
       "source": "BBC World",
-      "title": "One killed and dozens injured in Iranian drone strikes on Kuwait airport",
-      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran says the attack on Kuwait was in retaliation for earlier US strikes on an Iranian oil tanker and island. "
+      "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+      "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
+      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts."
     },
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Nintendo confirms it will sell a new Switch 2 with replaceable battery in the EU",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Apple is bringing age verification to Texas this week",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "WiiM expands its whole-home ecosystem with a new soundbar",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Nvidia is already planning N2X and N3X chips — the goal is the Star Trek computer",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/942588/nvidia-rtx-spark-n2x-n3x-r2-d2-star-trek-star-wars-plan",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The best Bluetooth trackers for Apple and Android phones",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/23769840/best-bluetooth-trackers",
       "summary": "(要約準備中)"
     }
   ]
