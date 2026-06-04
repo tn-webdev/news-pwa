@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T15:43:35.405Z",
+  "updatedAt": "2026-06-04T20:24:26.640Z",
   "top": [
     {
       "source": "BBC World",
@@ -15,9 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
-      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents. "
+      "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
+      "url": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
+      "summary": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+        "#text": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
+      "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "We’re giving away a Prime Day grab bag loaded with over $800 of free tech",
+        "#text": "Kevin O’Leary agrees to downsize massive Utah data center",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/936396/prime-day-grab-bag-giveaway-sweepstakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+        "#text": "Google is letting social media stars customize their search result page",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
+      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
       "summary": "(要約準備中)"
     }
   ]
