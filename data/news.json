@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-06-04T05:04:39.362Z",
+  "updatedAt": "2026-06-04T10:11:42.533Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
       "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US State Department says."
+      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says."
     },
     {
       "source": "BBC World",
-      "title": "US House votes to rein in Trump's war powers in rebuke over Iran",
+      "title": "US House delivers rebuke to Trump as it votes to halt Iran war",
       "url": "https://www.bbc.com/news/articles/cj6pldg39deo?at_medium=RSS&at_campaign=rss",
-      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which had failed in three previous attempts."
+      "summary": "In the 215-208 vote, four Republicans joined Democrats to pass the measure, which is largely symbolic."
     },
     {
       "source": "BBC World",
       "title": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
       "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
       "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents. "
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Who is Elon Musk and what is his net worth?",
+      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
+      "summary": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,22 @@
       "summary": "\"We're aware some customers are having issues with our app and online banking. We're really sorry about this,\" Lloyds Bank posted on X. "
     },
     {
-      "source": "BBC Technology",
-      "title": "Meta workers can opt out of being tracked at work - but only for half an hour at a time",
-      "url": "https://www.bbc.com/news/articles/c93x0k194yno?at_medium=RSS&at_campaign=rss",
-      "summary": "According to an internal memo, new controls will allow employees to pause the data collection for \"up to 30 minutes at a time\"."
+      "source": "The Verge",
+      "title": {
+        "#text": "Amazon develops a warehouse robot workers can speak to",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Shokz upgraded its open earbuds with better sound and a lighter design",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/942054/shokz-clip-on-opendots-2-air-earbuds-wireless-headphones",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -44,24 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/942808/nintendo-switch-2-replaceable-battery-eu",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Apple is bringing age verification to Texas this week",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "WiiM expands its whole-home ecosystem with a new soundbar",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/942748/wiim-releases-first-soundbar",
       "summary": "(要約準備中)"
     }
   ]
