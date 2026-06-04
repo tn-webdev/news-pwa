@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "アリババのQwen3.7-Plusは、1Mトークンあたりわずか0.4ドル/1.6ドルでテキスト、動画、画像入力をサポート - ただし、専有モデル",
-    "title_en": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
-    "summary": "アリババは、新しいAI言語モデルQwen3.7-Plusを発表しました。このモデルはマルチモーダル機能が向上し、前のモデルQwen3.7-Maxよりも60%コストが削減されていますが、今後はクローズドコマーシャルライセンスの下でのみ提供されることになりました。この変更は、オープンアクセスのQwenモデルに依存していたAirbnbなどの大手米国企業を含む組織にとって失望の要因となるかもしれません。それにもかかわらず、Qwen3.7-Plusは、低価格でマルチモーダルタスクにおいて高い性能を発揮するため、企業がテクノロジースタック内でコスト効率の良い自動化ソリューションを探す際の価値ある選択肢と位置付けられています。ただし、クラウド専用の展開構造に起因する重要なコンプライアンスの考慮事項も浮上しています。",
-    "summary_en": "Alibaba has launched Qwen3.7-Plus, a new AI language model that offers improved multimodal capabilities and is 60% cheaper than its predecessor, Qwen3.7-Max, but is now available solely under a closed commercial license. This change from Alibaba's earlier open-source model strategy may disappoint organizations, including major U.S. companies like Airbnb, that relied on open access to the Qwen models. Nonetheless, Qwen3.7-Plus's high performance on multimodal tasks at a lower price point positions it as a valuable option for enterprises looking for cost-effective automation solutions within their tech stacks while raising important compliance considerations due to its cloud-only deployment structure.",
-    "link": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
+    "title": "Google、音声と動画を分析する新しいオープンソースGemma 4 12Bを発表 — 標準的な16GB企業用ラップトップで完全にローカルで動作",
+    "title_en": "Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop",
+    "summary": "Googleは、標準的な企業用ラップトップでのローカル実行に最適化されたオープンソースAIモデル「Gemma 4 12B」を発表しました。このモデルは、音声および視覚データの直接処理を可能にする独自のエンコーダーフリーアーキテクチャを備えており、119.5億のパラメータと256Kトークンのコンテキストウィンドウを持っています。これは、データのプライバシーやコスト効率のためにオフラインでの操作を必要とする企業向けに設計されており、マルチモーダル推論や自律エージェントワークフローなどのタスクを実行可能にします。エッジコンピューティングやコンプライアンスの厳しい環境において重要な利点を提供しますが、広範な知識検索や長時間のメディア処理に関しては、その限界も考慮する必要があります。",
+    "summary_en": "Google has launched Gemma 4 12B, an open-source AI model optimized for local execution on standard enterprise laptops, featuring a unique encoder-free architecture that allows direct processing of audio and visual data. This smaller model, with 11.95 billion parameters and a 256K token context window, is designed for enterprises needing to operate offline for data privacy or cost efficiency, enabling tasks such as multimodal reasoning and autonomous agent workflows. While it offers significant advantages for edge computing and compliance-heavy environments, organizations should also consider its limitations for extensive knowledge retrieval and long media processing.",
+    "link": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop",
     "category": "AI",
-    "publishedAt": "2026-06-03 16:38"
+    "publishedAt": "2026-06-04 17:51"
   },
   {
     "source": "VentureBeat",
-    "title": "パープレキシティAI、Computex 2026でハイブリッドローカル・クラウド推論システムを発表",
-    "title_en": "Perplexity AI unveils hybrid local-cloud inference system at Computex 2026",
-    "summary": "時価総額200億ドルのパープレキシティAIは、Computex 2026で画期的なハイブリッドローカルサーバー推論オーケストレーターを発表し、AIワークロードにおけるローカルデバイスとクラウドモデル間でのリアルタイムタスクルーティングを可能にし、プライバシーと効率を向上させました。デモンストレーションでは、CEOのアラヴィンド・スリニヴァス氏が、センシティブなデータをローカルに留めつつ、複雑なタスクをクラウドリソースで処理する方法を示し、AI処理能力における重要な転換を示しました。しかし、革新的な提供にもかかわらず、パープレキシティは知的財産に関する法的争議など、企業の導入に影響を及ぼす可能性のある課題に直面しています。",
-    "summary_en": "Perplexity AI, valued at $20 billion, introduced a groundbreaking hybrid local-server inference orchestrator at Computex 2026, enabling real-time task routing between local devices and cloud models for AI workloads, enhancing privacy and efficiency. During the demonstration, CEO Aravind Srinivas showcased how sensitive data could remain local while complex tasks leveraged cloud resources, marking a significant shift in AI processing capabilities. Despite its innovative offerings, Perplexity faces challenges, including legal disputes regarding intellectual property, which may impact enterprise adoption as it aims to establish itself in the competitive landscape of AI technology.",
-    "link": "https://venturebeat.com/technology/perplexity-ai-unveils-hybrid-local-cloud-inference-system-at-computex-2026",
+    "title": "アリババのQwen3.7-Plusはテキスト、動画、画像入力をサポートし、コストは1Mトークンあたり0.4ドル/1.6ドル - ただし独自のもの",
+    "title_en": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
+    "summary": "アリババが最新のAI大規模言語モデルQwen3.7-Plusを発表しました。このモデルはマルチモーダル機能を備え、従来のテキスト専用Qwen3.7-Maxモデルに比べて60%のコスト削減を実現しています。しかし、新しいモデルは商業ライセンスの下でのみ利用可能であり、オープンソースモデルの提供を行っていた以前の戦略からの変化を示しています。このことで、これらのモデルに依存していたユーザーは失望するかもしれません。閉鎖的な性質にもかかわらず、Qwen3.7-Plusはコスト効果が高く、さまざまなタスクにおいて優れた性能を発揮するため、視覚機能やワークフローの自動化を必要とする企業にとっての実行可能な選択肢となっています。",
+    "summary_en": "Alibaba has launched Qwen3.7-Plus, its latest AI large language model, which features multimodal capabilities and a 60% cost reduction compared to the previous text-only Qwen3.7-Max model. However, the new model is only available under a closed commercial license, marking a shift from Alibaba's previous strategy of releasing open-source models, which could disappoint users who relied on these models. Despite its closed nature, Qwen3.7-Plus is appealing due to its cost-effectiveness and high performance across various tasks, making it a viable option for enterprises in need of visual capabilities and workflow automation.",
+    "link": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
     "category": "AI",
-    "publishedAt": "2026-06-03 16:38"
+    "publishedAt": "2026-06-04 17:51"
   },
   {
     "source": "NHK",
-    "title": "株価・TOPIXともに最高値更新 半導体関連銘柄がけん引",
+    "title": "JA全中会長 南米EPA交渉に懸念「政府・与党はきぜんと対応を」",
     "title_en": "",
-    "summary": "東京株式市場で半導体関連の買い注文が増え、日経平均株価は一時2000円以上上昇し、終値が初めて6万8000円を超えました。これに伴い、トピックスも初めて4000を突破し、最高値を更新しました。市場は活況を呈し、株価の上昇が顕著です。",
+    "summary": "南米の関税同盟メルコスールとの経済連携協定に関して、JA全中の神農会長は安価な農産物の大量流入を懸念しています。彼は政府と与党に対して、適切な対応を強く求めました。農業市場への影響を考慮した適切な政策が必要とされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260603/k10015139421000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141241000.html",
     "category": "経済",
-    "publishedAt": "2026-06-03 16:38"
+    "publishedAt": "2026-06-04 17:51"
   },
   {
     "source": "BBC",
-    "title": "イスラエル、南レバノンを攻撃も、ヒズボラとの部分停戦は維持されているようだ",
-    "title_en": "Israel strikes southern Lebanon but partial truce with Hezbollah appears to hold",
-    "summary": "イスラエルは南部地域での軍事作戦を継続しているが、アメリカの仲介による合意を受けてベイルートへの攻撃は控えている。この停止は緊張の緩和を目指しており、外交的議論を促進する可能性もある。状況は依然として不安定で、軍事行動と交渉の双方が進展している。",
-    "summary_en": "Israel is maintaining its military operations in southern regions but has refrained from striking Beirut following a deal brokered by the United States. This pause aims to de-escalate tensions and potentially facilitate diplomatic discussions. The situation remains volatile as both military actions and negotiations continue to evolve.",
-    "link": "https://www.bbc.com/news/articles/c936zvne0l6o?at_medium=RSS&at_campaign=rss",
+    "title": "イスラエルとレバノン、ヘズボラが攻撃を停止すれば停戦を実施することで合意",
+    "title_en": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+    "summary": "米国および他の国々は、レバノンの将来を損なう試みを行う国家や非国家的行為者を非難しています。彼らは、外部の干渉なしにレバノンの独立と安定を確保する必要性を強調しています。この声明は、レバノンの主権を支持する国際社会のコミットメントを強化するものです。",
+    "summary_en": "The US and other countries have condemned any efforts by states or non-state actors to undermine Lebanon's future. They emphasize the need for Lebanon's independence and stability without external interference. This statement reinforces the international community's commitment to supporting Lebanon’s sovereignty.",
+    "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-03 16:39"
+    "publishedAt": "2026-06-04 17:51"
   },
   {
     "source": "NHK",
-    "title": "IHIエアロスペース JAXAから5か月間の競争参加資格停止処分",
+    "title": "2028年春の朝ドラは「ほんのモキチ」 ヒロインは河合優実さん",
     "title_en": "",
-    "summary": "IHIエアロスペースがロケット部品製造装置のメンテナンスに関する虚偽の報告を行い、JAXAから競争参加資格を5か月間停止されました。この処分は事実と異なる内容に基づいています。これにより、同社の宇宙関連プロジェクトへの影響が懸念されています。",
+    "summary": "NHKの連続テレビ小説が、歌人斎藤茂吉と妻・輝子をモデルにした「ほんのモキチ」として放送されることが決まりました。ヒロインを河合優実さんが演じ、脚本は宮藤官九郎さんが担当します。放送は再来年の春から始まります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260602/k10015138671000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260604/k10015140391000.html",
     "category": "その他",
-    "publishedAt": "2026-06-03 16:39"
+    "publishedAt": "2026-06-04 17:51"
   }
 ]
