@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Google、音声と動画を分析する新しいオープンソースGemma 4 12Bを発表 — 標準的な16GB企業用ラップトップで完全にローカルで動作",
+    "title": "Google、オープンソースのGemma 4 12Bを発表 - 音声・映像を分析し、一般的な16GBの企業用ノートパソコンで完全にローカル実行可能",
     "title_en": "Google's new open source Gemma 4 12B analyzes audio, video — and runs entirely locally on a typical 16GB enterprise laptop",
-    "summary": "Googleは、標準的な企業用ラップトップでのローカル実行に最適化されたオープンソースAIモデル「Gemma 4 12B」を発表しました。このモデルは、音声および視覚データの直接処理を可能にする独自のエンコーダーフリーアーキテクチャを備えており、119.5億のパラメータと256Kトークンのコンテキストウィンドウを持っています。これは、データのプライバシーやコスト効率のためにオフラインでの操作を必要とする企業向けに設計されており、マルチモーダル推論や自律エージェントワークフローなどのタスクを実行可能にします。エッジコンピューティングやコンプライアンスの厳しい環境において重要な利点を提供しますが、広範な知識検索や長時間のメディア処理に関しては、その限界も考慮する必要があります。",
-    "summary_en": "Google has launched Gemma 4 12B, an open-source AI model optimized for local execution on standard enterprise laptops, featuring a unique encoder-free architecture that allows direct processing of audio and visual data. This smaller model, with 11.95 billion parameters and a 256K token context window, is designed for enterprises needing to operate offline for data privacy or cost efficiency, enabling tasks such as multimodal reasoning and autonomous agent workflows. While it offers significant advantages for edge computing and compliance-heavy environments, organizations should also consider its limitations for extensive knowledge retrieval and long media processing.",
+    "summary": "Googleは、11.95億パラメータを持つオープンソースAIモデル「Gemma 4 12B」を発表しました。このモデルは、標準的な16GBのVRAMを搭載した企業用ノートパソコンでローカルに実行可能で、オフラインでの操作を可能にし、データプライバシーを確保します。その革新的な「Unified」アーキテクチャは、二次処理モジュールを必要とせず、レイテンシを低減しメモリ消費を抑えながら、大容量の256Kトークンコンテキストと複雑な推論タスクのためのネイティブツール使用機能をサポートします。このモデルは、厳格なデータコンプライアンスが求められる企業や、コスト効果の高いエッジアプリケーションに特に有利ですが、大規模な知識検索や長時間の音声・映像コンテンツ処理には適していない可能性があります。",
+    "summary_en": "Google has launched the Gemma 4 12B, an 11.95-billion-parameter open-source AI model designed to run locally on standard enterprise laptops with just 16GB of VRAM, allowing users to operate offline and ensuring data privacy. Its innovative \"Unified\" architecture eliminates the need for secondary processing modules, resulting in lower latency and reduced memory consumption, while still supporting a large 256K token context and native tool use capabilities for complex reasoning tasks. This model is particularly advantageous for enterprises with strict data compliance needs or those focused on cost-effective edge applications, although it may not be suitable for extensive knowledge retrieval or processing prolonged audio and video content.",
     "link": "https://venturebeat.com/technology/googles-new-open-source-gemma-4-12b-analyzes-audio-video-and-runs-entirely-locally-on-a-typical-16gb-enterprise-laptop",
     "category": "AI",
-    "publishedAt": "2026-06-04 17:51"
+    "publishedAt": "2026-06-05 16:08"
   },
   {
     "source": "VentureBeat",
-    "title": "アリババのQwen3.7-Plusはテキスト、動画、画像入力をサポートし、コストは1Mトークンあたり0.4ドル/1.6ドル - ただし独自のもの",
+    "title": "アリババのQwen3.7-Plusはテキスト、動画、画像入力をサポートし、コストは1Mトークンあたり$0.4/$1.6 — ただし独自仕様",
     "title_en": "Alibaba's Qwen3.7-Plus supports text, video and imagery inputs at low cost of $0.4/$1.6 per 1M token — but it's proprietary",
-    "summary": "アリババが最新のAI大規模言語モデルQwen3.7-Plusを発表しました。このモデルはマルチモーダル機能を備え、従来のテキスト専用Qwen3.7-Maxモデルに比べて60%のコスト削減を実現しています。しかし、新しいモデルは商業ライセンスの下でのみ利用可能であり、オープンソースモデルの提供を行っていた以前の戦略からの変化を示しています。このことで、これらのモデルに依存していたユーザーは失望するかもしれません。閉鎖的な性質にもかかわらず、Qwen3.7-Plusはコスト効果が高く、さまざまなタスクにおいて優れた性能を発揮するため、視覚機能やワークフローの自動化を必要とする企業にとっての実行可能な選択肢となっています。",
-    "summary_en": "Alibaba has launched Qwen3.7-Plus, its latest AI large language model, which features multimodal capabilities and a 60% cost reduction compared to the previous text-only Qwen3.7-Max model. However, the new model is only available under a closed commercial license, marking a shift from Alibaba's previous strategy of releasing open-source models, which could disappoint users who relied on these models. Despite its closed nature, Qwen3.7-Plus is appealing due to its cost-effectiveness and high performance across various tasks, making it a viable option for enterprises in need of visual capabilities and workflow automation.",
+    "summary": "アリババは、前モデルのQwen3.7-Maxに比べて60%低コストでマルチモーダル機能を強化した新しいAI大規模言語モデル「Qwen3.7-Plus」を発表しました。このモデルは閉じられた商業ライセンスのもとでのみ提供され、オープンソースモデルを前提としていたアリババの以前の戦略からの転換を示しています。これにより、オープンアクセスに依存している既存のユーザーは失望するかもしれません。Qwen3.7-Plusは閉じた仕様ではありますが、視覚分析やコーディングなどの高性能AIが必要な企業にとって、コスト効率の高い代替手段として位置付けられています。また、複雑な操作中のコンテキスト保持を改善する機能も特徴としています。",
+    "summary_en": "Alibaba has launched Qwen3.7-Plus, a new AI large language model that offers enhanced multimodal capabilities at a cost 60% lower than its predecessor, Qwen3.7-Max, which was text-only. This model is only available under a closed commercial license, marking a shift from Alibaba's earlier strategy of offering open-source models, which may disappoint existing users reliant on open access. Despite its closed nature, Qwen3.7-Plus is positioned as a cost-effective alternative for enterprises needing high-performance AI for tasks like visual analysis and coding, while incorporating features that improve context retention during complex operations.",
     "link": "https://venturebeat.com/technology/alibabas-qwen3-7-plus-supports-text-video-and-imagery-inputs-at-low-cost-of-0-4-1-6-per-1m-token-but-its-proprietary",
     "category": "AI",
-    "publishedAt": "2026-06-04 17:51"
+    "publishedAt": "2026-06-05 16:08"
   },
   {
     "source": "NHK",
-    "title": "JA全中会長 南米EPA交渉に懸念「政府・与党はきぜんと対応を」",
+    "title": "日立 最新AI「クロード・ミュトス」導入 インフラ防御強化へ",
     "title_en": "",
-    "summary": "南米の関税同盟メルコスールとの経済連携協定に関して、JA全中の神農会長は安価な農産物の大量流入を懸念しています。彼は政府と与党に対して、適切な対応を強く求めました。農業市場への影響を考慮した適切な政策が必要とされています。",
+    "summary": "最新のAIモデル「クロード・ミュトス」を日立製作所が利用開始しました。このAIは高性能ですが、悪用のリスクも懸念されています。日立はこの技術を鉄道などのインフラシステムのサイバー攻撃対策に活用する方針です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260604/k10015141241000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142001000.html",
     "category": "経済",
-    "publishedAt": "2026-06-04 17:51"
+    "publishedAt": "2026-06-05 16:09"
   },
   {
     "source": "BBC",
-    "title": "イスラエルとレバノン、ヘズボラが攻撃を停止すれば停戦を実施することで合意",
-    "title_en": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-    "summary": "米国および他の国々は、レバノンの将来を損なう試みを行う国家や非国家的行為者を非難しています。彼らは、外部の干渉なしにレバノンの独立と安定を確保する必要性を強調しています。この声明は、レバノンの主権を支持する国際社会のコミットメントを強化するものです。",
-    "summary_en": "The US and other countries have condemned any efforts by states or non-state actors to undermine Lebanon's future. They emphasize the need for Lebanon's independence and stability without external interference. This statement reinforces the international community's commitment to supporting Lebanon’s sovereignty.",
-    "link": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+    "title": "ゼレンスキー大統領、プーチン大統領への公開書簡で対面会談を提案",
+    "title_en": "Zelensky proposes face-to-face talks in open letter to Putin",
+    "summary": "ウクライナのゼレンスキー大統領は、ロシアとの継続中の戦争は両国間の「直接的な関与」によってのみ解決できると強調しました。一方で、アメリカはイランに関連する懸念への対応に焦点を移しています。これは、ウクライナ紛争への即時の外交努力が必要である一方で、他の国際的な優先事項が浮上する複雑な地政学的状況を示唆しています。",
+    "summary_en": "Ukrainian President Volodymyr Zelensky emphasized that the ongoing war with Russia can only be resolved through \"direct engagement\" between the two nations. Meanwhile, the United States is shifting its focus toward addressing concerns related to Iran. This suggests a complex geopolitical landscape where immediate diplomatic efforts are needed to address the Ukraine conflict while other international priorities emerge.",
+    "link": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-04 17:51"
+    "publishedAt": "2026-06-05 16:09"
   },
   {
     "source": "NHK",
-    "title": "福島 4人襲ったクマ 事業所の敷地外へ 周辺で警戒続く",
+    "title": "「もののけ姫」が“スーパー歌舞伎”に 7月から上演へ",
     "title_en": "",
-    "summary": "福島市笹木野で2日、工場や住宅などでクマに襲われ、20代から80代の男女4人がけがをしました。クマはその後、近くの事業所敷地内にとどまっていましたが、3日夜に門から外へ出ていくのを警察官が確認しました。市によると、クマがいた建物では1階の窓が開き、網戸が破られており、もともと閉まっていた窓の鍵をクマが開けて脱出した可能性があるとしています。市と警察は周辺地域の捜索を続けるとともに、住民に警戒を呼びかけています。",
+    "summary": "宮崎駿監督の名作アニメ「もののけ姫」が、スーパー歌舞伎として舞台化されます。上演は夏から始まる予定です。アニメの魅力を新たな形で楽しむ機会となります。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015141011000",
+    "link": "http://www3.nhk.or.jp/news/html/20260605/k10015142161000.html",
     "category": "その他",
-    "publishedAt": "2026-06-04 17:51"
+    "publishedAt": "2026-06-05 16:09"
   }
 ]
