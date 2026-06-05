@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-06-04T20:24:26.640Z",
+  "updatedAt": "2026-06-05T04:47:11.050Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
+      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran. "
+    },
     {
       "source": "BBC World",
       "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
@@ -14,28 +20,31 @@
       "summary": "The lower chamber of Congress passed a measure that seeks to halt further military action, in a vote seen as largely symbolic."
     },
     {
-      "source": "BBC World",
-      "title": "Ex-wife of Dubai ruler's nephew missing, says lawyer",
-      "url": "https://www.bbc.com/news/articles/c362618d9e8o?at_medium=RSS&at_campaign=rss",
-      "summary": "British lawyer David Haigh lost contact with Zeynab Javadli on Tuesday and the BBC has been told her home in Dubai is locked and empty."
+      "source": "BBC Technology",
+      "title": "The ancient trick making food waste useful and tasty",
+      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
+      "summary": "Instead of throwing away byproducts of food processing, fermentation is making them valuable."
     },
     {
       "source": "BBC Technology",
-      "title": "Who is Elon Musk and what is his net worth?",
-      "url": "https://www.bbc.com/news/articles/c0r1975ded7o?at_medium=RSS&at_campaign=rss",
-      "summary": "The boss of X, Tesla and SpaceX is the world's richest person and has used his platform to make his views known on a vast array of topics."
+      "title": "Mark Zuckerberg's longest-serving employee on AI, jobs - and her boss",
+      "url": "https://www.bbc.com/news/articles/c5y71106g07o?at_medium=RSS&at_campaign=rss",
+      "summary": "Naomi Gleit has weathered many controversies at Meta, but remains in what she tells the BBC is her \"dream job\"."
     },
     {
       "source": "BBC Technology",
-      "title": "Exams watchdog warns of rise in high-tech cheating",
-      "url": "https://www.bbc.com/news/articles/cvgz22w4g9zo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ofqual chief says invigilators are being trained to detect devices like smart glasses and hidden earpieces."
+      "title": "AI needs a 'brake pedal', warns Anthropic co-founder",
+      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
+      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input. "
     },
     {
-      "source": "BBC Technology",
-      "title": "Phone signal on trains not good enough most of the time, research says",
-      "url": "https://www.bbc.com/news/articles/c5yr1penq56o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ofcom found the major phone networks were not providing good signal on trains, and train companies were slowing down wi-fi."
+      "source": "The Verge",
+      "title": {
+        "#text": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Google is letting social media stars customize their search result page",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/943233/google-search-profiles-custom-page",
       "summary": "(要約準備中)"
     }
   ]
