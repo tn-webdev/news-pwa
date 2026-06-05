@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-06-05T15:27:58.312Z",
+  "updatedAt": "2026-06-05T20:12:46.303Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
+      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks."
+    },
+    {
+      "source": "BBC World",
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast",
       "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
       "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories."
     },
     {
       "source": "BBC World",
-      "title": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran. "
+      "title": "Astronauts return to ISS after sheltering during air leak repair attempt",
+      "url": "https://www.bbc.com/news/articles/c5y7yryg01mo?at_medium=RSS&at_campaign=rss",
+      "summary": "Russian attempt to repair tunnel area sparks safe-haven procedure for five other astronauts onboard."
     },
     {
-      "source": "BBC World",
-      "title": "Fury in France after child murder suspect's criminal record released",
-      "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
-      "summary": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show."
+      "source": "BBC Technology",
+      "title": "Trump to meet AI leaders to discuss US investment in their companies",
+      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
+      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "As the price of Bitcoin sinks once more, here's a guide to some of the trickiest crypto terms."
     },
     {
-      "source": "BBC Technology",
-      "title": "We need to stop AI developing without humans, says Anthropic co-founder",
-      "url": "https://www.bbc.com/news/articles/cx2124z7g45o?at_medium=RSS&at_campaign=rss",
-      "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input. "
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "New York lawmakers pass one-year ban on new data centers",
+        "#text": "Gone in 60 minutes",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "MAHA wants to make cotton the new beef tallow",
+        "#text": "The Sonos Era 100 speaker is down to its lowest price in months",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics",
+      "url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "What do you mean my new smart scale is ‘built for GLP-1 users’?",
+        "#text": "This is your laptop… on AI",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/column/943639/optimizer-glp-1-tech-withings-oura-health",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
       "summary": "(要約準備中)"
     }
   ]
