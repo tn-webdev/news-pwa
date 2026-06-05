@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-06-05T10:15:49.553Z",
+  "updatedAt": "2026-06-05T15:27:58.312Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Ukraine strikes cargo ships and admits Romania drone blast as Putin prepares for key speech",
+      "url": "https://www.bbc.com/news/articles/c707098wkzpo?at_medium=RSS&at_campaign=rss",
+      "summary": "Ukraine says it struck five ships carrying illegal cargo in the Sea of Azov and in coastal waters of Russian-occupied territories."
+    },
     {
       "source": "BBC World",
       "title": "Zelensky proposes face-to-face talks in open letter to Putin",
@@ -9,15 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
-      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
-      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks."
+      "title": "Fury in France after child murder suspect's criminal record released",
+      "url": "https://www.bbc.com/news/articles/c1424v7mk8go?at_medium=RSS&at_campaign=rss",
+      "summary": "A man suspected of murdering an 11-year-old girl had previously been identified as a potential child molester, records show."
     },
     {
-      "source": "BBC World",
-      "title": "US actor James Handy stabbed to death, with girlfriend's son arrested",
-      "url": "https://www.bbc.com/news/articles/czd2dj24jgdo?at_medium=RSS&at_campaign=rss",
-      "summary": "Handy, 81, is known for his roles in films including Jumanji and Top Gun: Maverick."
+      "source": "BBC Technology",
+      "title": "Raspberry Pi raises profit forecast as AI demand grows",
+      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The firm said it expected to deliver adjusted earnings of at least $38m (£28.2m) for the first half of 2026."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Jack Clark tells BBC's Newsnight AI could get to the point where it develops without human input. "
     },
     {
-      "source": "BBC Technology",
-      "title": "The ancient trick making food waste useful and tasty",
-      "url": "https://www.bbc.com/news/articles/c78kmj2kyklo?at_medium=RSS&at_campaign=rss",
-      "summary": "Instead of throwing away byproducts of food processing, fermentation is making them valuable."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Valve says it&#8217;s ready to launch the Steam Machine this summer",
+        "#text": "New York lawmakers pass one-year ban on new data centers",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/943657/valve-steam-machine-frame-summer-launch-verified",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Cyberdecks used to look like little laptops, but now they&#8217;re getting more personal",
+        "#text": "MAHA wants to make cotton the new beef tallow",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/943445/cyberdeck-tiktok",
+      "url": "https://www.theverge.com/report/943944/maha-rfk-jr-cotton-natural-fiber-clothing-microplastics",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Kevin O’Leary agrees to downsize massive Utah data center",
+        "#text": "What do you mean my new smart scale is ‘built for GLP-1 users’?",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "url": "https://www.theverge.com/column/943639/optimizer-glp-1-tech-withings-oura-health",
       "summary": "(要約準備中)"
     }
   ]
