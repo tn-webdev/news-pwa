@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T20:12:46.303Z",
+  "updatedAt": "2026-06-06T04:19:49.177Z",
   "top": [
     {
       "source": "BBC World",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Gone in 60 minutes",
+        "#text": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/944337/gone-in-60-minutes",
+      "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Sonos Era 100 speaker is down to its lowest price in months",
+        "#text": "Grand Theft Auto VI is warping the video game release calendar",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/944095/sonos-era-100-google-nest-doorbell-deal-sale",
+      "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "This is your laptop… on AI",
+        "#text": "Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
       "summary": "(要約準備中)"
     }
   ]
