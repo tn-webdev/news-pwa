@@ -1,6 +1,12 @@
 {
-  "updatedAt": "2026-06-06T08:46:18.687Z",
+  "updatedAt": "2026-06-06T14:07:26.454Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war."
+    },
     {
       "source": "BBC World",
       "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
@@ -9,15 +15,9 @@
     },
     {
       "source": "BBC World",
-      "title": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
-      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
-      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks."
-    },
-    {
-      "source": "BBC World",
-      "title": "Rumours and speculation as fans forecast date of Taylor Swift's wedding",
-      "url": "https://www.bbc.com/news/articles/cqjpj80qz1ro?at_medium=RSS&at_campaign=rss",
-      "summary": "Swifties worldwide are looking for clues about the superstar's nuptials to American football star Travis Kelce."
+      "title": "Armenia braces for election as Russia piles pressure on pro-West government",
+      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
+      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Here comes new Siri again",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/944245/apple-wwdc-2026-ai-siri-gemini",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "The next YouTube phenomenon hitting the big screen",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/944942/amazing-digital-circus-lego-pokemon-installer",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "More than a decade later, the team behind N++ is back with a multiplayer sequel",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/943194/metanet-n-plus-plus-multiplayer-sequel",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Grand Theft Auto VI is warping the video game release calendar",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/944229/grand-theft-auto-6-release-calendar-summer-game-fest",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Final Fantasy VII&#8217;s remake trilogy will conclude with Revelation",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/games/939396/final-fantasy-vii-revelation-remake-trilogy-third-game-announcement",
       "summary": "(要約準備中)"
     }
   ]
