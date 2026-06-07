@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-06-07T14:20:01.824Z",
+  "updatedAt": "2026-06-07T19:46:43.369Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky criticises 'vile' Chornobyl drone strike ahead of London talks",
+      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
       "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Ukrainian officials say a Russian drone hit a storage facility for spent nuclear fuel near the Chornobyl nuclear plant."
-    },
-    {
-      "source": "BBC World",
-      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
-      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
-      "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks."
+      "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran. "
     },
     {
       "source": "BBC World",
       "title": "Armenia votes as Russia piles pressure on pro-West government",
       "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
       "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support."
+    },
+    {
+      "source": "BBC World",
+      "title": "Eriksen conscious after collapsing in Denmark game",
+      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
+      "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Dell&#8217;s new XPS 14 is better in almost every way",
+        "#text": "The 7 biggest storylines from Summer Game Fest 2026",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/944360/dell-xps-14-2026-review",
+      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Kill some time with these much needed distractions",
+        "#text": "Persona 6 exists, and that’s all we know",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/945205/weekend-time-waster-internet-browser-game-rabibit-hole",
+      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "AI ‘content creators’ are getting harder to spot",
+        "#text": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943187/ai-content-creators",
+      "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
       "summary": "(要約準備中)"
     }
   ]
