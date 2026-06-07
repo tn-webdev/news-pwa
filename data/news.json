@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-06-07T04:55:46.759Z",
+  "updatedAt": "2026-06-07T09:36:31.392Z",
   "top": [
-    {
-      "source": "BBC World",
-      "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
-      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started."
-    },
-    {
-      "source": "BBC World",
-      "title": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain."
-    },
     {
       "source": "BBC World",
       "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
       "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe."
+    },
+    {
+      "source": "BBC World",
+      "title": "Steve Rosenberg: Russia's economic forum overshadowed by drone attacks on St Petersburg",
+      "url": "https://www.bbc.com/news/articles/c9q2gp52rgro?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC's Russia editor saw Putin's flagship economic event overshadowed by Ukrainian drones attacks."
+    },
+    {
+      "source": "BBC World",
+      "title": "Huge crowds throng Madrid streets for Pope's open-air mass",
+      "url": "https://www.bbc.com/news/articles/c4gyejvzx9eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The pontiff waved at those gathered from his popemobile as he arrived at the Plaza de Cibeles."
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "JMGO’s N3 Ultimate projector is the new portable 4K champ",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/reviews/943732/best-portable-4k-projector-review",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The first Story-Rich showcase was packed with narrative-driven games",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/games/945088/gog-apologizes-email-nazi-symbols-the-end-of-the-sun",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "The cutest games from the Wholesome Direct 2026 showcase",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/943977/wholesome-direct-2026-cute-games-trailers",
       "summary": "(要約準備中)"
     }
   ]
