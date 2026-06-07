@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-06T19:46:50.545Z",
+  "updatedAt": "2026-06-07T04:55:46.759Z",
   "top": [
     {
       "source": "BBC World",
       "title": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
       "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
-      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war."
+      "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started."
     },
     {
       "source": "BBC World",
@@ -15,9 +15,15 @@
     },
     {
       "source": "BBC World",
-      "title": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "title": "Hegseth attacks Europe over migration with beach 'invasion' D-Day speech",
       "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
       "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "The gamers taking on the industry to stop it switching off games",
+      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
+      "summary": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable."
     },
     {
       "source": "BBC Technology",
@@ -30,12 +36,6 @@
       "title": "Raspberry Pi raises profit forecast as AI demand grows",
       "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
       "summary": "The firm said it expected to deliver adjusted earnings of at least $38m (£28.2m) for the first half of 2026."
-    },
-    {
-      "source": "BBC Technology",
-      "title": "From Bitcoin to blockchain: Key cryptocurrency terms and what they mean",
-      "url": "https://www.bbc.com/news/articles/cy5w2k5k5ylo?at_medium=RSS&at_campaign=rss",
-      "summary": "As the price of Bitcoin sinks once more, here's a guide to some of the trickiest crypto terms."
     },
     {
       "source": "The Verge",
