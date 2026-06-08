@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-06-08T05:01:21.985Z",
+  "updatedAt": "2026-06-08T11:20:13.713Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Israel strikes Beirut suburb days after US-brokered truce",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel says the attacks on the Lebanese capital were ordered  \"in response to Hezbollah's firing at Israeli territory\"."
+      "title": "At least 32 dead after major earthquake strikes southern Philippines",
+      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan."
     },
     {
       "source": "BBC World",
-      "title": "Zelensky's close European allies set out five conditions for peace talks",
-      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran. "
+      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
+      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
+      "summary": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily."
     },
     {
       "source": "BBC World",
-      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
-      "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.  "
+      "title": "Armenia's pro-West government wins election despite Russian pressure",
+      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
+      "summary": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Starmer tells Apple and Google to ban nude images on children's phones",
+      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images."
     },
     {
       "source": "BBC Technology",
@@ -32,10 +38,13 @@
       "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week."
     },
     {
-      "source": "BBC Technology",
-      "title": "Raspberry Pi raises profit forecast as AI demand grows",
-      "url": "https://www.bbc.com/news/articles/czx2x3yl9rgo?at_medium=RSS&at_campaign=rss",
-      "summary": "The firm said it expected to deliver adjusted earnings of at least $38m (£28.2m) for the first half of 2026."
+      "source": "The Verge",
+      "title": {
+        "#text": "WWDC 2026: How to watch and what to expect",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Persona 6 exists, and that’s all we know",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
       "summary": "(要約準備中)"
     }
   ]
