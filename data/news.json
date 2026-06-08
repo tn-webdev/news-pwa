@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-06-08T16:20:11.602Z",
+  "updatedAt": "2026-06-08T20:33:15.586Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran says it has halted attacks on Israel after first exchange of fire since truce",
+      "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
       "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
       "summary": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran."
     },
     {
       "source": "BBC World",
-      "title": "Iran releases footage of missiles launched at Israel",
-      "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\""
+      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
+      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi."
     },
     {
       "source": "BBC World",
-      "title": "At least 32 dead after major earthquake strikes southern Philippines",
+      "title": "At least 35 dead after major earthquake strikes southern Philippines",
       "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
       "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan."
+    },
+    {
+      "source": "BBC Technology",
+      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "summary": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable."
     },
     {
-      "source": "BBC Technology",
-      "title": "Trump to meet AI leaders to discuss US investment in their companies",
-      "url": "https://www.bbc.com/news/articles/c98r8r7dz5no?at_medium=RSS&at_campaign=rss",
-      "summary": "The US president said on Friday he expects to meet the leaders of top AI companies next week."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "The Verge’s Father’s Day 2026 gift guide",
+        "#text": "Apple WWDC 2026: The 7 biggest announcements",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas",
+      "url": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
+        "#text": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
+      "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "WWDC 2026: All the news from Apple’s developers conference",
+        "#text": "Cameras get an Apple Intelligence boost in Apple Home",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/944110/wwdc-2026-news-announcements",
+      "url": "https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k",
       "summary": "(要約準備中)"
     }
   ]
