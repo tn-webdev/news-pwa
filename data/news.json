@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-06-08T11:20:13.713Z",
+  "updatedAt": "2026-06-08T16:20:11.602Z",
   "top": [
+    {
+      "source": "BBC World",
+      "title": "Iran says it has halted attacks on Israel after first exchange of fire since truce",
+      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran."
+    },
+    {
+      "source": "BBC World",
+      "title": "Iran releases footage of missiles launched at Israel",
+      "url": "https://www.bbc.com/news/videos/c2kyd52wje4o?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran said its attacks were \"the beginning of a full week of continuous strikes.\""
+    },
     {
       "source": "BBC World",
       "title": "At least 32 dead after major earthquake strikes southern Philippines",
       "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
       "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan."
-    },
-    {
-      "source": "BBC World",
-      "title": "Rare footage captured of Great White shark in Mediterranean Sea",
-      "url": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
-      "summary": "A volunteer diver has described shaking as he filmed his encounter with an endangered Great White shark between Tunisia and Sicily."
-    },
-    {
-      "source": "BBC World",
-      "title": "Armenia's pro-West government wins election despite Russian pressure",
-      "url": "https://www.bbc.com/news/articles/cvgel990n51o?at_medium=RSS&at_campaign=rss",
-      "summary": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "WWDC 2026: How to watch and what to expect",
+        "#text": "The Verge’s Father’s Day 2026 gift guide",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/944099/wwdc-2026-how-to-watch",
+      "url": "https://www.theverge.com/gadgets/943212/best-fathers-day-gift-ideas",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "NASA will wear high-tech Prada long johns to the Moon",
+        "#text": "NotebookLM&#8217;s Gemini 3.5 upgrade adds a cloud computer and help finding sources",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+      "url": "https://www.theverge.com/tech/944325/google-notebooklm-ai-gemini-update",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The 7 biggest storylines from Summer Game Fest 2026",
+        "#text": "WWDC 2026: All the news from Apple’s developers conference",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/945445/summer-game-fest-2026-biggest-stories",
+      "url": "https://www.theverge.com/tech/944110/wwdc-2026-news-announcements",
       "summary": "(要約準備中)"
     }
   ]
