@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-06-07T19:46:43.369Z",
+  "updatedAt": "2026-06-08T05:01:21.985Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Zelensky in Downing Street for Ukraine war talks with European leaders",
+      "title": "Israel strikes Beirut suburb days after US-brokered truce",
+      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
+      "summary": "Israel says the attacks on the Lebanese capital were ordered  \"in response to Hezbollah's firing at Israeli territory\"."
+    },
+    {
+      "source": "BBC World",
+      "title": "Zelensky's close European allies set out five conditions for peace talks",
       "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
-      "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran. "
+      "summary": "The Ukrainian president's meeting with his staunchest European allies came as US President Donald Trump's focus shifts to the war with Iran. "
     },
     {
       "source": "BBC World",
-      "title": "Armenia votes as Russia piles pressure on pro-West government",
-      "url": "https://www.bbc.com/news/articles/c3626n1epd5o?at_medium=RSS&at_campaign=rss",
-      "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support."
-    },
-    {
-      "source": "BBC World",
-      "title": "Eriksen conscious after collapsing in Denmark game",
-      "url": "https://www.bbc.com/sport/football/articles/czrxgd2nljno?at_medium=RSS&at_campaign=rss",
-      "summary": "Christian Eriksen collapsed during Denmark's friendly against Ukraine but is now conscious, says the Danish Football Association."
+      "title": "'A World Cup for them not us': Fans' anger at US travel bans and visa restrictions",
+      "url": "https://www.bbc.com/news/articles/cx212p8r28eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Fans across the world say US travel bans and visa regulations make them feel excluded from the World Cup.  "
     },
     {
       "source": "BBC Technology",
@@ -40,6 +40,15 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "NASA will wear high-tech Prada long johns to the Moon",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/design/945540/nasa-axiom-space-prada-lcvg-spacesuit-moon-artemis",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "The 7 biggest storylines from Summer Game Fest 2026",
         "@_type": "html"
       },
@@ -53,15 +62,6 @@
         "@_type": "html"
       },
       "url": "https://www.theverge.com/entertainment/945256/persona-6-teaser",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Microsoft’s Xbox 25th anniversary console comes in translucent green",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/news/945359/microsoft-xbox-25th-anniversary-console-controller-release-date",
       "summary": "(要約準備中)"
     }
   ]
