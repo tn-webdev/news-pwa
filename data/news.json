@@ -1,15 +1,9 @@
 {
-  "updatedAt": "2026-06-09T04:35:01.381Z",
+  "updatedAt": "2026-06-09T10:02:31.865Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action."
-    },
-    {
-      "source": "BBC World",
-      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+      "title": "Trump tells BBC Netanyahu did not defy him",
       "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
       "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader."
     },
@@ -20,10 +14,16 @@
       "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low."
     },
     {
+      "source": "BBC World",
+      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
+      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden."
+    },
+    {
       "source": "BBC Technology",
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
       "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same."
+      "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
+        "#text": "Amazon employees ask Seattle to put the brakes on new data centers",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
+        "#text": "Donut Lab’s solid-state battery claim debunked by Ziroth",
+        "@_type": "html"
+      },
+      "url": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
+      "summary": "(要約準備中)"
+    },
+    {
+      "source": "The Verge",
+      "title": {
         "#text": "Instagram is finally letting everyone reorganize their profile grid",
         "@_type": "html"
       },
       "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "Apple’s Screen Time updates are too little, too late",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
-      "summary": "(要約準備中)"
-    },
-    {
-      "source": "The Verge",
-      "title": {
-        "#text": "5 things I already love from the iOS 27 beta",
-        "@_type": "html"
-      },
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
       "summary": "(要約準備中)"
     }
   ]
