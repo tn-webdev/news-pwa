@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-06-09T15:27:04.442Z",
+  "updatedAt": "2026-06-09T20:20:05.345Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
-      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
-      "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News."
+      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone."
     },
     {
       "source": "BBC World",
-      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
-      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
-      "summary": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south."
+      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
+      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop."
     },
     {
       "source": "BBC World",
-      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
-      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
-      "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person."
+      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "summary": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war."
     },
     {
       "source": "BBC Technology",
-      "title": "AI giants' race to raise funds heats up as ChatGPT-owner plans stock market debut",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The company behind ChatGPT files its plans one week after Anthropic did the same."
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders."
     },
     {
       "source": "BBC Technology",
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off."
+      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them."
     },
     {
       "source": "BBC Technology",
-      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
-      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The technology giant also revealed a series of new child safety features amid widespread scrutiny over \"nudification\" apps."
+      "title": "EU orders Meta to open WhatsApp to rival AI chatbots ",
+      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
+      "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Square Enix announces Kingdom Hearts 4",
+        "#text": "Nintendo is playing things too safe",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2",
+      "url": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Meta will use your activity on other websites to personalize your feeds",
+        "#text": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
+      "url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2",
+        "#text": "Apple wants Europe to blink",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
       "summary": "(要約準備中)"
     }
   ]
