@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "クロードが変わると全てが変わる：生産におけるAIの影響範囲の管理",
-    "title_en": "When Claude changed, everything changed: Managing AI blast radius in production",
-    "summary": "この記事では、自然言語の問い合わせをAPIコールに変換し、レポートを生成するシステムの開発について論じています。このシステムは2025年半ばまでにさまざまなチームにとって重要なツールとなりました。しかし、基盤となる言語モデルの新バージョンにアップグレードした際、モデルがリクエストを誤解する問題が発生し、正確なAPIコールを生成できず、システムが処理できない質問が明確化できないという失敗が生じました。この失敗は、信頼性と予測可能性を確保するために、LLMに基づくシステムにおける十分な評価メカニズムの必要性を強調しています。従来のエンジニアリング手法では、機械学習モデルの予測不可能な特性による課題に十分に対応できません。",
-    "summary_en": "The article discusses the development of a system that converts natural language queries into API calls for generating reports, which became a vital tool for various teams by mid-2025. However, upon upgrading to a new version of the underlying language model, the system faced significant issues when the model began misinterpreting requests, leading to failures in producing accurate API calls and clarifying questions that the system could not handle. This failure underscores the need for robust evaluation mechanisms in LLM-backed systems to ensure reliability and predictability, as traditional engineering practices do not adequately address the challenges posed by the unpredictable nature of machine learning models.",
-    "link": "https://venturebeat.com/orchestration/when-claude-changed-everything-changed-managing-ai-blast-radius-in-production",
+    "title": "研究者がGPT-5.4を凌ぐ情報検索を実現するオープンソースAIエージェント「Harness-1」を開発",
+    "title_en": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+    "summary": "イリノイ大学アーバナ・シャンペーン校とカリフォルニア大学バークレー校の研究者がAIプラットフォームChromaと共同で、20億パラメータを持つ強力なオープンソース検索エージェント「Harness-1」を開発しました。このエージェントは、複雑なデータセットから関連情報を抽出する能力においてGPT-5.4およびトップオープンソースエージェント「Tongyi DeepResearch 30B」を上回る成果を上げており、73％のリコール率を達成しています。この革新的なモデルは、検索のブックキーピングタスクを構造化された環境にオフロードすることでAIの性能を大幅に改善し、AIがコア機能に集中できるようにし、トレーニング中の膨大なデータ入力の必要性を削減します。Apache 2.0ライセンスの下で提供されるHarness-1のリリースは、特に企業向けアプリケーションにおいて、複雑な検索タスクを処理できる自律AIシステムを構築するためのより効率的なアプローチを提供するとして、開発者コミュニティでの期待を集めています。",
+    "summary_en": "Researchers from the University of Illinois at Urbana-Champaign and UC Berkeley, in collaboration with the AI platform Chroma, have developed Harness-1, a powerful 20-billion parameter open-source search agent that outperforms both GPT-5.4 and the leading open-source agent Tongyi DeepResearch 30B in retrieving relevant information from complex datasets, achieving a recall rate of 73%. This innovative model significantly improves AI performance by offloading the bookkeeping tasks of searches to a structured environment, thereby allowing the AI to focus on its core functions and reducing the need for massive data inputs during training. Available under the Apache 2.0 license, Harness-1's release is generating excitement in the developer community as it offers a more efficient approach for creating autonomous AI systems that can handle sophisticated search tasks in various domains, particularly for enterprise applications.",
+    "link": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
     "category": "AI",
-    "publishedAt": "2026-06-08 16:32"
+    "publishedAt": "2026-06-09 16:44"
   },
   {
     "source": "VentureBeat",
-    "title": "マイクロソフトAI最高責任者、同社が「オープンAIから解放された」と発言しスーパintelligenceの追求へ",
-    "title_en": "Microsoft AI chief says company was “set free” from OpenAI to pursue superintelligence",
-    "summary": "マイクロソフトとオープンAIのパートナーシップは130億ドル以上の投資を伴い、過去3年間の同社のAI戦略に大きな影響を与え、オープンAIのモデルをコパイロット製品に組み込み、市場評価を高めました。最近、CEOのムスタファ・スレイマンは、マイクロソフトが独自のAIイニシアティブを追求する自由を得たことを明らかにし、社内モデルを通じて「スーパintelligence」の開発に注力していると述べました。その結果、独自のデータとインフラストラクチャを利用したMAIブランドの下で7つの新しいAIモデルが導入されました。同社は2030年までにAIの完全な自給自足を目指し、高度なコンピューティングリソースとカスタムシリコンを活用して、企業向けの高度に専門化されたAIシステムの創出と展開を行いながら、オープンAIとの協力を価値ある資源として続ける方針です。",
-    "summary_en": "Microsoft's partnership with OpenAI, which involved over $13 billion in investments, significantly shaped its AI strategy over the past three years, embedding OpenAI's models into its Copilot products and enhancing its market valuation. Recently, CEO Mustafa Suleyman revealed that Microsoft gained the autonomy to pursue its own AI initiatives, focusing on developing \"superintelligence\" through in-house models, which has resulted in the launch of seven new AI models under the MAI brand that utilize proprietary data and infrastructure. The company aims to become fully self-sufficient in AI by 2030, leveraging its advanced computing resources and custom silicon to create and deploy highly specialized AI systems for enterprise use, while continuing its collaboration with OpenAI as a valuable resource.",
-    "link": "https://venturebeat.com/technology/microsoft-ai-chief-says-company-was-set-free-from-openai-to-pursue-superintelligence",
+    "title": "エージェンシーの再評価：エンタープライズAI組織はモデルの問題ではなくランタイムの問題を抱えており、多くが間違った解決策を構築している",
+    "title_en": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
+    "summary": "VentureBeatのPulse Researchによる最近の調査では、企業におけるAIガバナンスに大きなギャップがあることが明らかになりました。多くの組織がガバナンスを整備していると主張する一方で、実際の管理が不足しています。問題の本質はAIモデルそのものではなく、状態と生産現実を効果的に管理できない基盤インフラにあるとされています。これを「ランタイムの耐久性」と呼びます。企業がAIワークフローにおける状態の記憶喪失や幻想といった運用上の課題に悩む中、堅牢な実行フレームワークを優先する企業は成功の可能性が高く、一方で多くの企業は長期的なAIデプロイメントを支援できない過去のモデルやインフラに依存しています。",
+    "summary_en": "A recent survey by VentureBeat's Pulse Research highlights a significant gap in AI governance within enterprises, revealing that while many organizations claim to have governance in place, practical control is lacking. The main issue identified is not with AI models themselves, but with the underlying infrastructure that cannot effectively manage state and production realities – referred to as \"runtime durability.\" As enterprises grapple with operational challenges like state amnesia and hallucinations in AI workflows, those that prioritize resilient execution frameworks are more likely to succeed, while many are still encumbered by previous models and infrastructure that fail to support long-term AI deployment.",
+    "link": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
     "category": "AI",
-    "publishedAt": "2026-06-08 16:32"
+    "publishedAt": "2026-06-09 16:44"
   },
   {
     "source": "NHK",
-    "title": "株価 一時3000円超下落 終値としては過去5番目に大きい下落幅",
+    "title": "“ナフサ由来製品 足りていると発信続けること大事” 経産相",
     "title_en": "",
-    "summary": "東京株式市場で日経平均株価が大幅に下落し、終値として過去5番目の下落幅を記録しました。主な要因はアメリカの利上げ観測やAI関連企業の業績への影響懸念、半導体関連銘柄への売り注文です。また、イラン情勢の不透明感も売りを促す要因となっています。",
+    "summary": "赤澤経済産業大臣が、ナフサに由来する化学製品の流通に関する目詰まりの問題について言及しました。大臣は量が足りているとのメッセージを発信し続ける重要性を強調しました。問題解消のためには関係業界との連携が必要だと述べました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260608/k10015143971000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145171000.html",
     "category": "経済",
-    "publishedAt": "2026-06-08 16:32"
+    "publishedAt": "2026-06-09 16:44"
   },
   {
     "source": "BBC",
-    "title": "地中海でホオジロザメの珍しい映像が撮影される",
-    "title_en": "Rare footage captured of Great White shark in Mediterranean Sea",
-    "summary": "ボランティアのダイバーは、チュニジアとシチリアの間の海域で絶滅危惧種のホオジロザメを撮影した際の感動的な体験を語った。彼は、この壮大な生物に出会う際に興奮と緊張の入り混じった感情を抱いたと説明した。この出会いは、海洋保護の重要性と、このような絶滅危惧種を守る必要性を強調している。",
-    "summary_en": "A volunteer diver recounted his emotional experience while filming an endangered Great White shark in the waters between Tunisia and Sicily. He described feeling a mix of excitement and nervousness as he encountered the majestic creature. This encounter highlights the importance of marine conservation and the need to protect such endangered species.",
-    "link": "https://www.bbc.com/news/videos/cd6p6zqzj6do?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、BBCにネットワイヒル首相が自分に逆らわなかったと語る",
+    "title_en": "Trump tells BBC Netanyahu did not defy him",
+    "summary": "米国のトランプ大統領との電話中、BBCのジャーナリスト、サラ・スミス氏がイラン戦争に対するトランプ氏の見解とイスラエルの指導者との関係について尋ねた。トランプ氏は、紛争に対する自身の見解やイスラエルとの外交的なやり取りについての見解を示した。この議論は、中東における米国の対外関係の複雑さを浮き彫りにした。",
+    "summary_en": "During a call with the US president, BBC journalist Sarah Smith inquired about Trump's stance on the war in Iran and his relationship with the Israeli leader. Trump provided insights into his views on the conflict and his diplomatic interactions with Israel. The discussion highlighted the complexities of US foreign relations in the Middle East.",
+    "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-08 16:33"
+    "publishedAt": "2026-06-09 16:45"
   },
   {
     "source": "NHK",
-    "title": "H3ロケット6号機 10日の打ち上げを延期 “天候悪化予想”JAXA",
+    "title": "天候悪化で延期のH3ロケット 6月12日打ち上げへ",
     "title_en": "",
-    "summary": "日本の主力ロケット「H3」の6号機の打ち上げが予定されていましたが、悪天候のため延期されました。JAXAは新たな打ち上げ日を後日発表することを明らかにしました。昨年の打ち上げ失敗からの再起を目指しています。",
+    "summary": "日本の主力ロケット「H3」の6号機の打ち上げが、天候悪化により延期されていました。宇宙航空研究開発機構（JAXA）は、打ち上げ日を今月12日に設定したと発表しました。打ち上げは鹿児島県の種子島宇宙センターから行われます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260608/k10015144201000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145091000.html",
     "category": "その他",
-    "publishedAt": "2026-06-08 16:33"
+    "publishedAt": "2026-06-09 16:45"
   }
 ]
