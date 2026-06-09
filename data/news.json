@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-06-08T20:33:15.586Z",
+  "updatedAt": "2026-06-09T04:35:01.381Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran and Israel say they have halted strikes after first exchange of fire since truce",
+      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
       "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran launched about 30 missiles at Israel following a strike in Lebanon, while Israel carried out two waves of air strikes in Iran."
+      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action."
     },
     {
       "source": "BBC World",
-      "title": "Iran's strike on Israel suggests the regime's sense of resilience is growing",
-      "url": "https://www.bbc.com/news/articles/cly72ryrd1jo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran's decision to risk jeopardising peace talks may reflect how its leaders view their current position, writes BBC Persian editor Amir Azimi."
+      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
+      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+      "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader."
     },
     {
       "source": "BBC World",
-      "title": "At least 35 dead after major earthquake strikes southern Philippines",
-      "url": "https://www.bbc.com/news/articles/clyel78e6p5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The magnitude-7.8 quake triggered small tsunami waves in the Philippines, Indonesia and Japan."
+      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
+      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
+      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low."
     },
     {
       "source": "BBC Technology",
-      "title": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-      "summary": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned."
+      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
+      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
+      "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same."
     },
     {
       "source": "BBC Technology",
-      "title": "Starmer tells Apple and Google to ban nude images on children's phones",
-      "url": "https://www.bbc.com/news/articles/cly752ydjw6o?at_medium=RSS&at_campaign=rss",
-      "summary": "Firms will be expected to activate built-in features to stop children accessing sexually explicit images."
+      "title": "Could humanoid robots be heading for the battlefield?",
+      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
+      "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off."
     },
     {
       "source": "BBC Technology",
-      "title": "The gamers taking on the industry to stop it switching off games",
-      "url": "https://www.bbc.com/news/articles/c8e8e7g0r82o?at_medium=RSS&at_campaign=rss",
-      "summary": "Stop Killing Games is challenging the idea publishers can shut down a game without making sure it's still playable."
+      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
+      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
+      "summary": "The technology giant also revealed a series of new child safety features amid widespread scrutiny over \"nudification\" apps."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple WWDC 2026: The 7 biggest announcements",
+        "#text": "Instagram is finally letting everyone reorganize their profile grid",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/945693/apple-wwdc-2026-biggest-announcements-ios-27",
+      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "WWDC 2026 bonus live blog: Tech Talk with Craig Federighi",
+        "#text": "Apple’s Screen Time updates are too little, too late",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/946046/wwdc-2026-live-blog-tech-talk-with-craig-federighi",
+      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Cameras get an Apple Intelligence boost in Apple Home",
+        "#text": "5 things I already love from the iOS 27 beta",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/946032/apple-home-ai-camera-descriptions-search-4k",
+      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
       "summary": "(要約準備中)"
     }
   ]
