@@ -1,23 +1,23 @@
 {
-  "updatedAt": "2026-06-09T10:02:31.865Z",
+  "updatedAt": "2026-06-09T15:27:04.442Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump tells BBC Netanyahu did not defy him",
-      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader."
+      "title": "Sea drone rescues US army helicopter crew near Strait of Hormuz",
+      "url": "https://www.bbc.com/news/articles/cwy0l44ex5wo?at_medium=RSS&at_campaign=rss",
+      "summary": "An uncrewed vessel picked up two crew members of an Apache helicopter that went down on Monday, US officials tells CBS News."
     },
     {
       "source": "BBC World",
-      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low."
+      "title": "Hundreds of aftershocks jolt Philippines as officials say death toll could rise",
+      "url": "https://www.bbc.com/news/articles/ckg50pypn2eo?at_medium=RSS&at_campaign=rss",
+      "summary": "Dozens of people are dead and hundreds more injured following an earthquake in the country's south."
     },
     {
       "source": "BBC World",
-      "title": "Trump booed in New York as he becomes first US president to attend NBA Finals",
-      "url": "https://www.bbc.com/news/articles/czj89mz3mzzo?at_medium=RSS&at_campaign=rss",
-      "summary": "The catcalls came after ticketholders faced airport-style security to enter the venue at Madison Square Garden."
+      "title": "300 migrants bound for UK kidnapped and threatened with kidney removal",
+      "url": "https://www.bbc.com/news/articles/c8xwxdgvx8lo?at_medium=RSS&at_campaign=rss",
+      "summary": "The Iraqi Kurds were captured by a militia who demanded a ransom of $5,000 (£3,700) per person."
     },
     {
       "source": "BBC Technology",
@@ -40,28 +40,28 @@
     {
       "source": "The Verge",
       "title": {
-        "#text": "Amazon employees ask Seattle to put the brakes on new data centers",
+        "#text": "Square Enix announces Kingdom Hearts 4",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/945809/amazon-employees-seattle-data-center-moratorium",
+      "url": "https://www.theverge.com/entertainment/946717/kingdom-hearts-4-switch-2",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Donut Lab’s solid-state battery claim debunked by Ziroth",
+        "#text": "Meta will use your activity on other websites to personalize your feeds",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/science/946608/donut-labs-debunk-solid-state-battery",
+      "url": "https://www.theverge.com/tech/946744/meta-website-activity-personalize-feeds",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Instagram is finally letting everyone reorganize their profile grid",
+        "#text": "The Legend of Zelda: Ocarina of Time is getting a remake for the Switch 2",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "url": "https://www.theverge.com/games/945745/nintendo-zelda-ocarina-of-time-remake-direct-june-2026",
       "summary": "(要約準備中)"
     }
   ]
