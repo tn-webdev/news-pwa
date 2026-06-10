@@ -234,6 +234,12 @@ def translate_to_japanese(title_en: str, summary_en: str):
         "Translate the provided English title and summary into clear, natural Japanese "
         "suitable for news readers. Preserve meaning strictly, avoid embellishment, "
         "and maintain factual accuracy.\n"
+        "For proper nouns such as people, places, and organizations, follow these rules:\n"
+        "1. Use widely established Japanese renderings when they exist.\n"
+        "2. If you are not confident about the established Japanese rendering, preserve the original alphabetic form.\n"
+        "3. Do not generate speculative or newly invented katakana renderings.\n"
+        "For well-known politicians, heads of state, senior government officials, major business leaders, international organizations, and famous companies, prioritize commonly used Japanese names.\n"
+        "When in doubt, prefer keeping the original alphabetic form rather than generating an incorrect katakana rendering.\n"
         "Return the result as JSON with keys: title_ja, summary_ja."
     )
 

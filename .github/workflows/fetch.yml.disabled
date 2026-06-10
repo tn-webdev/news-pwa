@@ -1,3 +1,7 @@
+# 2026-06-10停止
+# 旧Node版ニュース取得Workflow
+# Python+OpenAI移行に伴い停止
+
 name: Fetch News
 on:
   workflow_dispatch:
