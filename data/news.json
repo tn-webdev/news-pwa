@@ -1,23 +1,29 @@
 {
-  "updatedAt": "2026-06-09T20:20:05.345Z",
+  "updatedAt": "2026-06-10T04:48:32.966Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Trump says Iran shot down US helicopter and vows to respond",
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.   "
+    },
+    {
+      "source": "BBC World",
+      "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
       "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
-      "summary": "Two crew members of the Apache helicopter that crashed following the attack were rescued by an American sea drone."
+      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond. "
     },
     {
       "source": "BBC World",
-      "title": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop."
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics."
     },
     {
-      "source": "BBC World",
-      "title": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
-      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
-      "summary": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war."
+      "source": "BBC Technology",
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "summary": "After issues with insider trading, the prediction betting platform is adding new rules."
     },
     {
       "source": "BBC Technology",
@@ -32,36 +38,30 @@
       "summary": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them."
     },
     {
-      "source": "BBC Technology",
-      "title": "EU orders Meta to open WhatsApp to rival AI chatbots ",
-      "url": "https://www.bbc.com/news/articles/cn8qj8wjgxwo?at_medium=RSS&at_campaign=rss",
-      "summary": "Meta has accused the EU of \"regulatory overreach\" and says its decision will allow tech giants like OpenAI free access to WhatsApp."
-    },
-    {
       "source": "The Verge",
       "title": {
-        "#text": "Nintendo is playing things too safe",
+        "#text": "I tried Siri AI, and so far it actually works",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/entertainment/947120/nintendo-direct-june-2026-analysis",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Fitbit’s Charge 6 and Ace LTE are now as cheap as the new $100 Air",
+        "#text": "Congress just gave DHS another $70 billion",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/gadgets/947063/fitbit-charge-6-ace-lte-air-deal-sale",
+      "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple wants Europe to blink",
+        "#text": "The App Store is going to add subscription bundles soon",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/ai-artificial-intelligence/947051/apple-europe-dma-siri-ai",
+      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
       "summary": "(要約準備中)"
     }
   ]
