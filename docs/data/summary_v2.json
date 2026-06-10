@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "研究者がGPT-5.4を凌ぐ情報検索を実現するオープンソースAIエージェント「Harness-1」を開発",
-    "title_en": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
-    "summary": "イリノイ大学アーバナ・シャンペーン校とカリフォルニア大学バークレー校の研究者がAIプラットフォームChromaと共同で、20億パラメータを持つ強力なオープンソース検索エージェント「Harness-1」を開発しました。このエージェントは、複雑なデータセットから関連情報を抽出する能力においてGPT-5.4およびトップオープンソースエージェント「Tongyi DeepResearch 30B」を上回る成果を上げており、73％のリコール率を達成しています。この革新的なモデルは、検索のブックキーピングタスクを構造化された環境にオフロードすることでAIの性能を大幅に改善し、AIがコア機能に集中できるようにし、トレーニング中の膨大なデータ入力の必要性を削減します。Apache 2.0ライセンスの下で提供されるHarness-1のリリースは、特に企業向けアプリケーションにおいて、複雑な検索タスクを処理できる自律AIシステムを構築するためのより効率的なアプローチを提供するとして、開発者コミュニティでの期待を集めています。",
-    "summary_en": "Researchers from the University of Illinois at Urbana-Champaign and UC Berkeley, in collaboration with the AI platform Chroma, have developed Harness-1, a powerful 20-billion parameter open-source search agent that outperforms both GPT-5.4 and the leading open-source agent Tongyi DeepResearch 30B in retrieving relevant information from complex datasets, achieving a recall rate of 73%. This innovative model significantly improves AI performance by offloading the bookkeeping tasks of searches to a structured environment, thereby allowing the AI to focus on its core functions and reducing the need for massive data inputs during training. Available under the Apache 2.0 license, Harness-1's release is generating excitement in the developer community as it offers a more efficient approach for creating autonomous AI systems that can handle sophisticated search tasks in various domains, particularly for enterprise applications.",
-    "link": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
+    "title": "Anthropic、最も強力な一般向けモデル「Claude Fable 5」で神話を一般に届ける",
+    "title_en": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
+    "summary": "Anthropicは、AIの能力を大幅に向上させる新しいAIモデル「Claude Fable 5」と「Claude Mythos 5」を発表しました。特にソフトウェアエンジニアリング、知識作業、科学研究において効果を発揮します。Fable 5は一般向けにアクセス可能で、安全対策が内蔵されています。一方、Mythos 5はサイバーセキュリティや生物学の特定のユーザー向けに高度な機能を提供し、いくつかの制限を緩和します。これらのモデルは、強力な能力と責任ある使用を両立させることを目的としており、高リスクのタスクをより能力の低いモデルに振り分けることで、Anthropicは最新のAI技術を企業ワークフローに導入し、悪用のリスクを軽減します。",
+    "summary_en": "Anthropic has launched two new AI models, Claude Fable 5 and Claude Mythos 5, which significantly enhance its AI capabilities, particularly in software engineering, knowledge work, and scientific research. Fable 5 is designed for general public access with built-in safeguards, while Mythos 5 provides advanced features for select users in cybersecurity and biology, lifting certain restrictions. These models aim to balance powerful capabilities with responsible usage by routing high-risk tasks to a less capable model, allowing Anthropic to introduce advanced AI technology into enterprise workflows while mitigating misuse risks.",
+    "link": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever",
     "category": "AI",
-    "publishedAt": "2026-06-09 16:44"
+    "publishedAt": "2026-06-10 16:35"
   },
   {
     "source": "VentureBeat",
-    "title": "エージェンシーの再評価：エンタープライズAI組織はモデルの問題ではなくランタイムの問題を抱えており、多くが間違った解決策を構築している",
-    "title_en": "The Agentic Reckoning: Enterprise AI organizations have a runtime problem, not a model problem — and most are building the wrong solution",
-    "summary": "VentureBeatのPulse Researchによる最近の調査では、企業におけるAIガバナンスに大きなギャップがあることが明らかになりました。多くの組織がガバナンスを整備していると主張する一方で、実際の管理が不足しています。問題の本質はAIモデルそのものではなく、状態と生産現実を効果的に管理できない基盤インフラにあるとされています。これを「ランタイムの耐久性」と呼びます。企業がAIワークフローにおける状態の記憶喪失や幻想といった運用上の課題に悩む中、堅牢な実行フレームワークを優先する企業は成功の可能性が高く、一方で多くの企業は長期的なAIデプロイメントを支援できない過去のモデルやインフラに依存しています。",
-    "summary_en": "A recent survey by VentureBeat's Pulse Research highlights a significant gap in AI governance within enterprises, revealing that while many organizations claim to have governance in place, practical control is lacking. The main issue identified is not with AI models themselves, but with the underlying infrastructure that cannot effectively manage state and production realities – referred to as \"runtime durability.\" As enterprises grapple with operational challenges like state amnesia and hallucinations in AI workflows, those that prioritize resilient execution frameworks are more likely to succeed, while many are still encumbered by previous models and infrastructure that fail to support long-term AI deployment.",
-    "link": "https://venturebeat.com/resources/the-agentic-reckoning-enterprise-ai-organizations-have-a-runtime-problem-not-a-model-problem",
+    "title": "研究者たちが開発したオープンソースAI検索エージェントHarness-1は、GPT-5.4を上回る情報の想起能力を持つ",
+    "title_en": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
+    "summary": "イリノイ大学アーバナ・シャンペーン校、カリフォルニア大学バークレー校、そしてChromaの研究者たちは、20億のパラメータを持つオープンソースの検索エージェントHarness-1を開発しました。このモデルは、複雑な情報検索タスクにおいてAIの能力を大幅に向上させ、73%の想起精度を達成し、GPT-5.4やTongyi DeepResearch 30Bを上回っています。このモデルは、検索プロセスを外部化し、認知負荷をより効率的に管理できる構造化された環境内で動作し、伝統的なモデルが広範なデータ蓄積に依存するのとは対照的です。Harness-1はApache 2.0ライセンスの下でリリースされており、幅広い商業利用を可能にしており、その革新的なアプローチは、より大きなモデルに焦点を当てるのではなく、AIのためのより良い運用フレームワークの構築を強調しています。",
+    "summary_en": "Researchers from the University of Illinois at Urbana-Champaign, UC Berkeley, and Chroma have developed Harness-1, a 20-billion parameter open-source search agent that significantly enhances AI capabilities in complex retrieval tasks, achieving a recall accuracy of 73%, surpassing GPT-5.4 and Tongyi DeepResearch 30B. This model operates within a structured environment that externalizes the search process, allowing it to manage its cognitive load more efficiently, which contrasts with traditional models that rely on extensive data accumulation. Harness-1's release under the Apache 2.0 license enables broad commercialization, and its innovative approach emphasizes building better operational frameworks for AI rather than solely focusing on larger models.",
+    "link": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
     "category": "AI",
-    "publishedAt": "2026-06-09 16:44"
+    "publishedAt": "2026-06-10 16:36"
   },
   {
     "source": "NHK",
-    "title": "“ナフサ由来製品 足りていると発信続けること大事” 経産相",
+    "title": "ガソリン全国平均169.5円 政府補助金で170円水準続く",
     "title_en": "",
-    "summary": "赤澤経済産業大臣が、ナフサに由来する化学製品の流通に関する目詰まりの問題について言及しました。大臣は量が足りているとのメッセージを発信し続ける重要性を強調しました。問題解消のためには関係業界との連携が必要だと述べました。",
+    "summary": "ガソリン価格の調査を行っている石油情報センターによると、レギュラーガソリンの全国平均価格は最近も変わらず169.5円です。政府の補助金により170円程度が維持されていますが、出荷分に適用される補助金は6.3円減少します。これにより、1リットルあたりの補助金額は27円になる見込みです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145171000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146051000.html",
     "category": "経済",
-    "publishedAt": "2026-06-09 16:44"
+    "publishedAt": "2026-06-10 16:36"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、BBCにネットワイヒル首相が自分に逆らわなかったと語る",
-    "title_en": "Trump tells BBC Netanyahu did not defy him",
-    "summary": "米国のトランプ大統領との電話中、BBCのジャーナリスト、サラ・スミス氏がイラン戦争に対するトランプ氏の見解とイスラエルの指導者との関係について尋ねた。トランプ氏は、紛争に対する自身の見解やイスラエルとの外交的なやり取りについての見解を示した。この議論は、中東における米国の対外関係の複雑さを浮き彫りにした。",
-    "summary_en": "During a call with the US president, BBC journalist Sarah Smith inquired about Trump's stance on the war in Iran and his relationship with the Israeli leader. Trump provided insights into his views on the conflict and his diplomatic interactions with Israel. The discussion highlighted the complexities of US foreign relations in the Middle East.",
-    "link": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
+    "title": "ミャンマー内部、反乱軍は軍が人員を増強する中で劣勢に",
+    "title_en": "Inside Myanmar, rebels are losing ground as military forces men into army",
+    "summary": "BBCはミャンマーの最前線からの報告を通じて、反乱グループを巻き込んだongoing conflictについての洞察を提供しています。この記事では、これらの反乱軍が戦争の複雑さに対処し、地域社会への人道的影響に直面している課題が強調されています。第一手の経験を共有することで、報道は不安定な状況とその地域への影響を明らかにすることを目的としています。",
+    "summary_en": "The BBC reports from frontline positions in Myanmar, providing insights into the ongoing conflict involving rebel groups. The article highlights the challenges faced by these rebels as they navigate the war's complexities and the humanitarian impact on local communities. By sharing firsthand experiences, the coverage aims to illuminate the volatile situation and its implications for the region.",
+    "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-09 16:45"
+    "publishedAt": "2026-06-10 16:36"
   },
   {
     "source": "NHK",
-    "title": "天候悪化で延期のH3ロケット 6月12日打ち上げへ",
+    "title": "難病「ムコ多糖症」 早期検査で診断・治療 “症状抑制に効果”",
     "title_en": "",
-    "summary": "日本の主力ロケット「H3」の6号機の打ち上げが、天候悪化により延期されていました。宇宙航空研究開発機構（JAXA）は、打ち上げ日を今月12日に設定したと発表しました。打ち上げは鹿児島県の種子島宇宙センターから行われます。",
+    "summary": "国立成育医療研究センターのグループが、ムコ多糖症の赤ちゃんを早期発見し治療することで、症状が出る前に進行を抑えられる可能性を示しました。これにより、少なくとも2歳まで病状の進行を防ぐことができるとされています。早期治療の重要性が再確認されました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260609/k10015145091000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145841000.html",
     "category": "その他",
-    "publishedAt": "2026-06-09 16:45"
+    "publishedAt": "2026-06-10 16:36"
   }
 ]
