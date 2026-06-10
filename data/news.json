@@ -1,67 +1,67 @@
 {
-  "updatedAt": "2026-06-09T04:35:01.381Z",
+  "updatedAt": "2026-06-10T04:48:32.966Z",
   "top": [
     {
       "source": "BBC World",
-      "title": "Iran and Israel say they will pause strikes but warn of retaliation if ceasefire breached again",
-      "url": "https://www.bbc.com/news/articles/cj6ge150z5go?at_medium=RSS&at_campaign=rss",
-      "summary": "Israel's PM says his country is holding fire \"at the moment\", after Iran's armed forces said they had stopped military action."
+      "title": "Inside Myanmar, rebels are losing ground as military forces men into army",
+      "url": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+      "summary": "The BBC travels with rebels to frontline positions in Myanmar to see how the war is unfolding.   "
     },
     {
       "source": "BBC World",
-      "title": "Watch: Trump tells BBC Netanyahu did not defy him",
-      "url": "https://www.bbc.com/news/videos/cd958e7j8q9o?at_medium=RSS&at_campaign=rss",
-      "summary": "In a call with the US president, the BBC’s Sarah Smith asked Trump about the war in Iran and his relationship with the Israeli leader."
+      "title": "US and Iran exchange fire after American patrol helicopter downed in Hormuz",
+      "url": "https://www.bbc.com/news/articles/cze9359gglyo?at_medium=RSS&at_campaign=rss",
+      "summary": "President Donald Trump earlier accused Iran of shooting down the US helicopter over the Strait of Hormuz and vowed to respond. "
     },
     {
       "source": "BBC World",
-      "title": "Israel and Iran flare-up could strengthen Tehran's negotiating hand",
-      "url": "https://www.bbc.com/news/articles/cp8lm75186lo?at_medium=RSS&at_campaign=rss",
-      "summary": "Iran appears emboldened by the outcome and its leaders may sense Trump's appetite for risk is low."
+      "title": "World's largest chipmaker does not rule out price rises as costs increase",
+      "url": "https://www.bbc.com/news/articles/ce3ez4zzzlvo?at_medium=RSS&at_campaign=rss",
+      "summary": "In a rare interview, a senior executive at TSMC discusses the AI boom, the geopolitics of chips and what it means for the price of electronics."
     },
     {
       "source": "BBC Technology",
-      "title": "OpenAI plans to go public, intensifying investment race with Anthropic",
-      "url": "https://www.bbc.com/news/articles/cd958eqg1n5o?at_medium=RSS&at_campaign=rss",
-      "summary": "The company behind ChatGPT filed its plans one week after Anthropic did the same."
+      "title": "Kalshi to make some users reveal job details to tackle insider trading",
+      "url": "https://www.bbc.com/news/articles/cx2vn7wp33po?at_medium=RSS&at_campaign=rss",
+      "summary": "After issues with insider trading, the prediction betting platform is adding new rules."
     },
     {
       "source": "BBC Technology",
-      "title": "Could humanoid robots be heading for the battlefield?",
-      "url": "https://www.bbc.com/news/articles/cedpxwe26l1o?at_medium=RSS&at_campaign=rss",
-      "summary": "Armed forces are experimenting with humanoid robots, but battlefield deployment is some way off."
+      "title": "Version of AI tool 'too powerful for public' released to public",
+      "url": "https://www.bbc.com/news/articles/ckg701v1dp6o?at_medium=RSS&at_campaign=rss",
+      "summary": "Claude Fable 5 is a version of Anthropic's Claude Mythos, an AI program which caused a stir among technology, finance, and government leaders."
     },
     {
       "source": "BBC Technology",
-      "title": "Apple unveils Siri AI makeover as Tim Cook bids farewell",
-      "url": "https://www.bbc.com/news/articles/cnv9dr996v8o?at_medium=RSS&at_campaign=rss",
-      "summary": "The technology giant also revealed a series of new child safety features amid widespread scrutiny over \"nudification\" apps."
+      "title": "Farage says Reform has contacted X 'to highest level' over fake AI ads",
+      "url": "https://www.bbc.com/news/articles/cewq1w7r0zgo?at_medium=RSS&at_campaign=rss",
+      "summary": "The fake ads feature the governor of the Bank of England - the Bank has urged people to report them."
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Instagram is finally letting everyone reorganize their profile grid",
+        "#text": "I tried Siri AI, and so far it actually works",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/946458/instagram-is-finally-letting-everyone-reorganize-their-grid",
+      "url": "https://www.theverge.com/tech/947432/siri-ai-apple-intelligence-ios-27-wwdc",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "Apple’s Screen Time updates are too little, too late",
+        "#text": "Congress just gave DHS another $70 billion",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/946446/apples-screen-time-updates-are-too-little-too-late",
+      "url": "https://www.theverge.com/policy/947146/dhs-funding-congress-budget-reconciliation",
       "summary": "(要約準備中)"
     },
     {
       "source": "The Verge",
       "title": {
-        "#text": "5 things I already love from the iOS 27 beta",
+        "#text": "The App Store is going to add subscription bundles soon",
         "@_type": "html"
       },
-      "url": "https://www.theverge.com/tech/946391/apple-ios-27-developer-beta-1-wwdc-2026-5-things",
+      "url": "https://www.theverge.com/tech/947365/apple-subscription-bundles-app-store",
       "summary": "(要約準備中)"
     }
   ]
