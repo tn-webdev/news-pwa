@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、最も強力な一般向けモデル「Claude Fable 5」で神話を一般に届ける",
-    "title_en": "Anthropic brings Mythos to the masses with Claude Fable 5, its most powerful generally available model ever",
-    "summary": "Anthropicは、AIの能力を大幅に向上させる新しいAIモデル「Claude Fable 5」と「Claude Mythos 5」を発表しました。特にソフトウェアエンジニアリング、知識作業、科学研究において効果を発揮します。Fable 5は一般向けにアクセス可能で、安全対策が内蔵されています。一方、Mythos 5はサイバーセキュリティや生物学の特定のユーザー向けに高度な機能を提供し、いくつかの制限を緩和します。これらのモデルは、強力な能力と責任ある使用を両立させることを目的としており、高リスクのタスクをより能力の低いモデルに振り分けることで、Anthropicは最新のAI技術を企業ワークフローに導入し、悪用のリスクを軽減します。",
-    "summary_en": "Anthropic has launched two new AI models, Claude Fable 5 and Claude Mythos 5, which significantly enhance its AI capabilities, particularly in software engineering, knowledge work, and scientific research. Fable 5 is designed for general public access with built-in safeguards, while Mythos 5 provides advanced features for select users in cybersecurity and biology, lifting certain restrictions. These models aim to balance powerful capabilities with responsible usage by routing high-risk tasks to a less capable model, allowing Anthropic to introduce advanced AI technology into enterprise workflows while mitigating misuse risks.",
-    "link": "https://venturebeat.com/technology/anthropic-brings-mythos-to-the-masses-with-claude-fable-5-its-most-powerful-generally-available-model-ever",
+    "title": "驚きの番狂わせ：GPT-5.5が過酷な新ベンチマーク『エージェントの最終試験』でClaude Fable 5を破る",
+    "title_en": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
+    "summary": "カリフォルニア大学バークレー校の責任ある分散型インテリジェンスセンターの研究者たちは、様々な産業における複雑で経済的に関連するワークフローの実行能力を評価するために設計されたベンチマーク『エージェントの最終試験（ALE）』を導入しました。OpenAIのGPT-5.5はALEリーダーボードで24%の合格率を記録し、最も高いスコアを達成しました。一方、AnthropicのClaude Fable 5を含む他のモデルは、はるかに低い成績を示し、現在のAI技術の限界を浮き彫りにしています。ALEの厳格かつ本格的なタスクフレームワークは、理論的な性能と実用的な応用のギャップを埋めることを目指しており、最も先進的なAIモデルでさえ、労働力準備が整うにはなお多くの進歩が必要であることを明らかにしています。",
+    "summary_en": "Researchers from UC Berkeley's Center for Responsible, Decentralized Intelligence have introduced Agents’ Last Exam (ALE), a benchmark designed to evaluate AI's ability to execute complex, economically relevant workflows across various industries. OpenAI's GPT-5.5 achieved the highest score on the ALE Leaderboard with a pass rate of 24%, while other models, including Anthropic's Claude Fable 5, performed significantly lower, highlighting the limitations of current AI technologies. ALE's rigorous and authentic task framework aims to bridge the gap between theoretical performance and practical applications, revealing that even the most advanced AI models still have much progress to make before achieving workforce readiness.",
+    "link": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
     "category": "AI",
-    "publishedAt": "2026-06-10 16:35"
+    "publishedAt": "2026-06-11 16:42"
   },
   {
     "source": "VentureBeat",
-    "title": "研究者たちが開発したオープンソースAI検索エージェントHarness-1は、GPT-5.4を上回る情報の想起能力を持つ",
-    "title_en": "Researchers trained an open source AI search agent, Harness-1, that outperforms GPT-5.4 on recalling relevant information",
-    "summary": "イリノイ大学アーバナ・シャンペーン校、カリフォルニア大学バークレー校、そしてChromaの研究者たちは、20億のパラメータを持つオープンソースの検索エージェントHarness-1を開発しました。このモデルは、複雑な情報検索タスクにおいてAIの能力を大幅に向上させ、73%の想起精度を達成し、GPT-5.4やTongyi DeepResearch 30Bを上回っています。このモデルは、検索プロセスを外部化し、認知負荷をより効率的に管理できる構造化された環境内で動作し、伝統的なモデルが広範なデータ蓄積に依存するのとは対照的です。Harness-1はApache 2.0ライセンスの下でリリースされており、幅広い商業利用を可能にしており、その革新的なアプローチは、より大きなモデルに焦点を当てるのではなく、AIのためのより良い運用フレームワークの構築を強調しています。",
-    "summary_en": "Researchers from the University of Illinois at Urbana-Champaign, UC Berkeley, and Chroma have developed Harness-1, a 20-billion parameter open-source search agent that significantly enhances AI capabilities in complex retrieval tasks, achieving a recall accuracy of 73%, surpassing GPT-5.4 and Tongyi DeepResearch 30B. This model operates within a structured environment that externalizes the search process, allowing it to manage its cognitive load more efficiently, which contrasts with traditional models that rely on extensive data accumulation. Harness-1's release under the Apache 2.0 license enables broad commercialization, and its innovative approach emphasizes building better operational frameworks for AI rather than solely focusing on larger models.",
-    "link": "https://venturebeat.com/orchestration/researchers-trained-an-open-source-ai-search-agent-harness-1-that-outperforms-gpt-5-4-on-recalling-relevant-information",
+    "title": "研究者たちは、約1500ドルでゼロから基盤モデルを訓練したと述べている",
+    "title_en": "Researchers say they trained a foundation model from scratch for about $1,500",
+    "summary": "Sapientは、従来のトランスフォーマーと比較して、言語モデルの訓練をより効率的に行うための階層再帰モデル（HRM）アーキテクチャを利用した新しいモデル、HRM-Textを発表しました。このモデルは生のテキストではなく、指示-応答ペアで動作するように設計されており、ゼロから訓練できるため、コストとリソースを大幅に削減しながら、より大規模なモデルに対して競争力のある性能を達成しています。その結果、HRM-Textは企業が従来の大規模言語モデルの高コストなしに、独自のビジネスニーズに合った専門的な推論モデルを構築することを可能にします。",
+    "summary_en": "Sapient has introduced a new model called HRM-Text, which utilizes a Hierarchical Recurrent Model (HRM) architecture for more efficient training of language models compared to traditional Transformers. This model is designed to operate on instruction-response pairs rather than raw text, allowing it to be trained from scratch at a significantly lower cost and with fewer resources, achieving competitive performance against larger models. As a result, HRM-Text enables enterprises to build specialized reasoning models tailored to their unique business needs without the prohibitive costs of conventional LLMs.",
+    "link": "https://venturebeat.com/technology/researchers-say-they-trained-a-foundation-model-from-scratch-for-about-1-500",
     "category": "AI",
-    "publishedAt": "2026-06-10 16:36"
+    "publishedAt": "2026-06-11 16:42"
   },
   {
     "source": "NHK",
-    "title": "ガソリン全国平均169.5円 政府補助金で170円水準続く",
+    "title": "株価 荒い値動き 半導体関連銘柄など買い戻す動きも",
     "title_en": "",
-    "summary": "ガソリン価格の調査を行っている石油情報センターによると、レギュラーガソリンの全国平均価格は最近も変わらず169.5円です。政府の補助金により170円程度が維持されていますが、出荷分に適用される補助金は6.3円減少します。これにより、1リットルあたりの補助金額は27円になる見込みです。",
+    "summary": "東京株式市場では、イラン情勢悪化の懸念から日経平均株価が一時大幅に下落しました。しかし、その後は半導体関連銘柄の買い戻しがあり、値動きが激しくなりました。市場は不安定な状況が続いています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260610/k10015146051000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146761000.html",
     "category": "経済",
-    "publishedAt": "2026-06-10 16:36"
+    "publishedAt": "2026-06-11 16:42"
   },
   {
     "source": "BBC",
-    "title": "ミャンマー内部、反乱軍は軍が人員を増強する中で劣勢に",
-    "title_en": "Inside Myanmar, rebels are losing ground as military forces men into army",
-    "summary": "BBCはミャンマーの最前線からの報告を通じて、反乱グループを巻き込んだongoing conflictについての洞察を提供しています。この記事では、これらの反乱軍が戦争の複雑さに対処し、地域社会への人道的影響に直面している課題が強調されています。第一手の経験を共有することで、報道は不安定な状況とその地域への影響を明らかにすることを目的としています。",
-    "summary_en": "The BBC reports from frontline positions in Myanmar, providing insights into the ongoing conflict involving rebel groups. The article highlights the challenges faced by these rebels as they navigate the war's complexities and the humanitarian impact on local communities. By sharing firsthand experiences, the coverage aims to illuminate the volatile situation and its implications for the region.",
-    "link": "https://www.bbc.com/news/articles/c20y6966xqzo?at_medium=RSS&at_campaign=rss",
+    "title": "中東で米国とイランが2日連続で攻撃を交換",
+    "title_en": "US and Iran exchange strikes across Middle East for second day in a row",
+    "summary": "イランは、米国の空爆に対抗し、クウェート、ヨルダン、バーレーンにあるアメリカの資産を攻撃したと主張しており、イランの首都では損害が報告されています。この行動は、両国間の緊張の高まりを示しており、現在進行中の軍事的対立の中でのことです。この反応は、中東における広範な地域の不安定さとさらなる衝突の可能性を浮き彫りにしています。",
+    "summary_en": "Iran has claimed that it retaliated to U.S. airstrikes by targeting American assets located in Kuwait, Jordan, and Bahrain, resulting in damage reported in its capital city. The actions mark an escalation in tensions between the two countries amid ongoing military confrontations. This response highlights the broader regional instability and potential for further conflict in the Middle East.",
+    "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-10 16:36"
+    "publishedAt": "2026-06-11 16:42"
   },
   {
     "source": "NHK",
-    "title": "難病「ムコ多糖症」 早期検査で診断・治療 “症状抑制に効果”",
+    "title": "芥川賞・直木賞の候補作が発表 オードリー若林さんの作品も",
     "title_en": "",
-    "summary": "国立成育医療研究センターのグループが、ムコ多糖症の赤ちゃんを早期発見し治療することで、症状が出る前に進行を抑えられる可能性を示しました。これにより、少なくとも2歳まで病状の進行を防ぐことができるとされています。早期治療の重要性が再確認されました。",
+    "summary": "第175回の芥川賞と直木賞の候補作が発表されました。直木賞には、お笑いコンビ「オードリー」の若林正恭さんの初小説が選ばれています。各賞にはそれぞれ5作品がノミネートされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260610/k10015145841000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146391000.html",
     "category": "その他",
-    "publishedAt": "2026-06-10 16:36"
+    "publishedAt": "2026-06-11 16:42"
   }
 ]
