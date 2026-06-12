@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "驚きの番狂わせ：GPT-5.5が過酷な新ベンチマーク『エージェントの最終試験』でClaude Fable 5を破る",
-    "title_en": "Surprise upset: GPT-5.5 beats Claude Fable 5 on brutal new Agents’ Last Exam benchmark",
-    "summary": "カリフォルニア大学バークレー校の責任ある分散型インテリジェンスセンターの研究者たちは、様々な産業における複雑で経済的に関連するワークフローの実行能力を評価するために設計されたベンチマーク『エージェントの最終試験（ALE）』を導入しました。OpenAIのGPT-5.5はALEリーダーボードで24%の合格率を記録し、最も高いスコアを達成しました。一方、AnthropicのClaude Fable 5を含む他のモデルは、はるかに低い成績を示し、現在のAI技術の限界を浮き彫りにしています。ALEの厳格かつ本格的なタスクフレームワークは、理論的な性能と実用的な応用のギャップを埋めることを目指しており、最も先進的なAIモデルでさえ、労働力準備が整うにはなお多くの進歩が必要であることを明らかにしています。",
-    "summary_en": "Researchers from UC Berkeley's Center for Responsible, Decentralized Intelligence have introduced Agents’ Last Exam (ALE), a benchmark designed to evaluate AI's ability to execute complex, economically relevant workflows across various industries. OpenAI's GPT-5.5 achieved the highest score on the ALE Leaderboard with a pass rate of 24%, while other models, including Anthropic's Claude Fable 5, performed significantly lower, highlighting the limitations of current AI technologies. ALE's rigorous and authentic task framework aims to bridge the gap between theoretical performance and practical applications, revealing that even the most advanced AI models still have much progress to make before achieving workforce readiness.",
-    "link": "https://venturebeat.com/technology/surprise-upset-gpt-5-5-beats-claude-fable-5-on-brutal-new-agents-last-exam-benchmark",
+    "title": "マイクロソフトのオープンソースSkillOptがAIエージェントのスキルをモデルの重みを変更せずに自動的にアップグレード",
+    "title_en": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
+    "summary": "エージェントのスキルは、AIモデルが特定の企業の使用ケースに適応するために重要であり、テキストベースの指示を通じて実世界のAIアプリケーションを可能にしますが、これらのスキルの最適化は従来、遅くてエラーが発生しやすい手動プロセスでした。マイクロソフトは、SkillOptというオープンソースのフレームワークを開発しました。これは、ディープラーニングスタイルの最適化を利用し、これらのスキル文書を学習可能なオブジェクトとして扱い、基礎となるAIモデルを変更することなく、フィードバックに基づいて自動的に性能を向上させるものです。SkillOptは、さまざまなベンチマークにおいてAIパフォーマンスの大幅な向上を示し、企業アプリケーションにおける精度と適応性を効果的に向上させる一方で、展開の互換性と効率性を維持しています。",
+    "summary_en": "Agent skills are crucial for real-world AI applications, allowing AI models to adapt to specific enterprise use cases through a set of text-based instructions, but optimizing these skills has traditionally been a slow and error-prone manual process. Microsoft has developed SkillOpt, an open-source framework that utilizes deep-learning-style optimization to treat these skill documents as trainable objects, automatically improving their performance based on feedback without altering the underlying AI model. SkillOpt has demonstrated significant improvements in AI performance across various benchmarks, effectively enhancing accuracy and adaptability in enterprise applications while maintaining compatibility and efficiency in deployment.",
+    "link": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
     "category": "AI",
-    "publishedAt": "2026-06-11 16:42"
+    "publishedAt": "2026-06-12 16:46"
   },
   {
     "source": "VentureBeat",
-    "title": "研究者たちは、約1500ドルでゼロから基盤モデルを訓練したと述べている",
-    "title_en": "Researchers say they trained a foundation model from scratch for about $1,500",
-    "summary": "Sapientは、従来のトランスフォーマーと比較して、言語モデルの訓練をより効率的に行うための階層再帰モデル（HRM）アーキテクチャを利用した新しいモデル、HRM-Textを発表しました。このモデルは生のテキストではなく、指示-応答ペアで動作するように設計されており、ゼロから訓練できるため、コストとリソースを大幅に削減しながら、より大規模なモデルに対して競争力のある性能を達成しています。その結果、HRM-Textは企業が従来の大規模言語モデルの高コストなしに、独自のビジネスニーズに合った専門的な推論モデルを構築することを可能にします。",
-    "summary_en": "Sapient has introduced a new model called HRM-Text, which utilizes a Hierarchical Recurrent Model (HRM) architecture for more efficient training of language models compared to traditional Transformers. This model is designed to operate on instruction-response pairs rather than raw text, allowing it to be trained from scratch at a significantly lower cost and with fewer resources, achieving competitive performance against larger models. As a result, HRM-Text enables enterprises to build specialized reasoning models tailored to their unique business needs without the prohibitive costs of conventional LLMs.",
-    "link": "https://venturebeat.com/technology/researchers-say-they-trained-a-foundation-model-from-scratch-for-about-1-500",
+    "title": "シャオミの新しいオープンソースのエージェントAIコーディング支援ツールMiMo Codeが、超長期間の200ステップ以上のタスクでClaude Codeを上回る",
+    "title_en": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
+    "summary": "シャオミのMiMo AIチームは、オープンソースのAIコーディングアシスタントMiMo Code V0.1.0を発表しました。このツールは、AnthropicのClaude Codeよりも長期にわたるマルチステップタスクで優れた性能を発揮することを主張しており、開発者からのフィードバックを基にテストされています。このツールは、時間の経過によるコンテキストの喪失という一般的な問題に対処するために設計された独自のクロスセッションメモリシステムを備えており、開発者環境とのシームレスな統合や直感的な音声コントロール機能も提供します。また、MiMo CodeはシャオミのマルチモーダルフラッグシップモデルMiMo-V2.5への無料アクセスも含まれており、ターミナルベースのAIコーディングエージェントの競争が激化する中で、手頃な代替手段を提供することを目指しています。",
+    "summary_en": "Xiaomi's MiMo AI team has launched MiMo Code V0.1.0, an open-source AI coding assistant claiming superior performance over Anthropic's Claude Code in long-horizon, multi-step tasks, particularly after testing with developer feedback. The tool features a unique cross-session memory system designed to combat the common issue of loss in context over time, as well as offering seamless integration with developer environments and intuitive voice control features. MiMo Code also includes free access to Xiaomi's multimodal flagship model, MiMo-V2.5, and aims to provide an affordable alternative in the increasingly competitive space of terminal-based AI coding agents.",
+    "link": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
     "category": "AI",
-    "publishedAt": "2026-06-11 16:42"
+    "publishedAt": "2026-06-12 16:46"
   },
   {
     "source": "NHK",
-    "title": "株価 荒い値動き 半導体関連銘柄など買い戻す動きも",
+    "title": "株価 一時2800円超上昇 イランへの攻撃中止表明受け",
     "title_en": "",
-    "summary": "東京株式市場では、イラン情勢悪化の懸念から日経平均株価が一時大幅に下落しました。しかし、その後は半導体関連銘柄の買い戻しがあり、値動きが激しくなりました。市場は不安定な状況が続いています。",
+    "summary": "東京株式市場では、アメリカのトランプ大統領がイランへの攻撃を中止したとの報を受けて、日経平均株価が大きく上昇しました。一時的にその上昇幅は2800円を超える場面もありました。市場はこのニュースに対して好感を持ったようです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146761000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148121000.html",
     "category": "経済",
-    "publishedAt": "2026-06-11 16:42"
+    "publishedAt": "2026-06-12 16:47"
   },
   {
     "source": "BBC",
-    "title": "中東で米国とイランが2日連続で攻撃を交換",
-    "title_en": "US and Iran exchange strikes across Middle East for second day in a row",
-    "summary": "イランは、米国の空爆に対抗し、クウェート、ヨルダン、バーレーンにあるアメリカの資産を攻撃したと主張しており、イランの首都では損害が報告されています。この行動は、両国間の緊張の高まりを示しており、現在進行中の軍事的対立の中でのことです。この反応は、中東における広範な地域の不安定さとさらなる衝突の可能性を浮き彫りにしています。",
-    "summary_en": "Iran has claimed that it retaliated to U.S. airstrikes by targeting American assets located in Kuwait, Jordan, and Bahrain, resulting in damage reported in its capital city. The actions mark an escalation in tensions between the two countries amid ongoing military confrontations. This response highlights the broader regional instability and potential for further conflict in the Middle East.",
-    "link": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、イラン戦争終結の合意が近いと主張、テヘランは「何も決まっていない」と反発",
+    "title_en": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
+    "summary": "アメリカのトランプ大統領は、現在進行中の紛争を解決するための「大きな合意」が達成されたと発表しました。一方、イラン側はこの合意のニュースを退け、「憶測にすぎない」としています。対照的な声明は、潜在的な合意に対する不確実性を浮き彫りにしています。",
+    "summary_en": "The US president has announced that a \"great settlement\" has been achieved to resolve the ongoing conflict. In contrast, Iran has dismissed the news of a deal, characterizing it as \"speculative.\" The differing statements highlight uncertainty surrounding the potential agreement.",
+    "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-11 16:42"
+    "publishedAt": "2026-06-12 16:47"
   },
   {
     "source": "NHK",
-    "title": "芥川賞・直木賞の候補作が発表 オードリー若林さんの作品も",
+    "title": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA",
     "title_en": "",
-    "summary": "第175回の芥川賞と直木賞の候補作が発表されました。直木賞には、お笑いコンビ「オードリー」の若林正恭さんの初小説が選ばれています。各賞にはそれぞれ5作品がノミネートされています。",
+    "summary": "日本の主力ロケット「H3」の6号機が、打ち上げに成功し6つの小型衛星を軌道に投入しました。打ち上げは、去年の失敗からの再起を目指したもので、種子島宇宙センターから行われました。記事後半には、JAXAの会見動画も掲載されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260611/k10015146391000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148131000.html",
     "category": "その他",
-    "publishedAt": "2026-06-11 16:42"
+    "publishedAt": "2026-06-12 16:47"
   }
 ]
