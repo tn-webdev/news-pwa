@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "マイクロソフトのオープンソースSkillOptがAIエージェントのスキルをモデルの重みを変更せずに自動的にアップグレード",
-    "title_en": "Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights",
-    "summary": "エージェントのスキルは、AIモデルが特定の企業の使用ケースに適応するために重要であり、テキストベースの指示を通じて実世界のAIアプリケーションを可能にしますが、これらのスキルの最適化は従来、遅くてエラーが発生しやすい手動プロセスでした。マイクロソフトは、SkillOptというオープンソースのフレームワークを開発しました。これは、ディープラーニングスタイルの最適化を利用し、これらのスキル文書を学習可能なオブジェクトとして扱い、基礎となるAIモデルを変更することなく、フィードバックに基づいて自動的に性能を向上させるものです。SkillOptは、さまざまなベンチマークにおいてAIパフォーマンスの大幅な向上を示し、企業アプリケーションにおける精度と適応性を効果的に向上させる一方で、展開の互換性と効率性を維持しています。",
-    "summary_en": "Agent skills are crucial for real-world AI applications, allowing AI models to adapt to specific enterprise use cases through a set of text-based instructions, but optimizing these skills has traditionally been a slow and error-prone manual process. Microsoft has developed SkillOpt, an open-source framework that utilizes deep-learning-style optimization to treat these skill documents as trainable objects, automatically improving their performance based on feedback without altering the underlying AI model. SkillOpt has demonstrated significant improvements in AI performance across various benchmarks, effectively enhancing accuracy and adaptability in enterprise applications while maintaining compatibility and efficiency in deployment.",
-    "link": "https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights",
+    "title": "Anthropic、米政府の指示を受けてClaude Fable 5およびMythos 5へのすべての公共アクセスを遮断 - 企業が取るべき対策",
+    "title_en": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
+    "summary": "米政府は、国家安全保障上の懸念から、Anthropicに対し外国人に対する高度なAIモデルClaude Fable 5およびClaude Mythos 5へのアクセスを即座に停止するよう命じました。このため、同社は企業顧客や従業員へのアクセスも含め、すべてのアクセスをブロックしました。この厳しい措置は、Fableモデルの最近の脱獄に続くもので、危険な情報の抽出が可能になったと報じられ、規制遵守やセキュリティに対する懸念が高まっています。この状況は、中央集権的なAIシステムにのみ依存する企業の脆弱性を浮き彫りにし、政府の監視からの潜在的な混乱を緩和するために、AI提供者戦略における多様化と緊急対応計画の必要性を強調しています。",
+    "summary_en": "The U.S. government has mandated that Anthropic immediately suspend access to its advanced AI models, Claude Fable 5 and Claude Mythos 5, for foreign nationals due to national security concerns, leading the company to block access altogether even for enterprise customers and employees. This drastic measure follows a recent jailbreak of the Fable model that reportedly enabled the extraction of dangerous information, prompting fears over regulatory compliance and security. The situation highlights the vulnerability of enterprises relying solely on centralized AI systems and emphasizes the need for diversification and contingency planning in AI provider strategies to mitigate potential disruptions from government oversight.",
+    "link": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
     "category": "AI",
-    "publishedAt": "2026-06-12 16:46"
+    "publishedAt": "2026-06-15 16:48"
   },
   {
     "source": "VentureBeat",
-    "title": "シャオミの新しいオープンソースのエージェントAIコーディング支援ツールMiMo Codeが、超長期間の200ステップ以上のタスクでClaude Codeを上回る",
-    "title_en": "Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks",
-    "summary": "シャオミのMiMo AIチームは、オープンソースのAIコーディングアシスタントMiMo Code V0.1.0を発表しました。このツールは、AnthropicのClaude Codeよりも長期にわたるマルチステップタスクで優れた性能を発揮することを主張しており、開発者からのフィードバックを基にテストされています。このツールは、時間の経過によるコンテキストの喪失という一般的な問題に対処するために設計された独自のクロスセッションメモリシステムを備えており、開発者環境とのシームレスな統合や直感的な音声コントロール機能も提供します。また、MiMo CodeはシャオミのマルチモーダルフラッグシップモデルMiMo-V2.5への無料アクセスも含まれており、ターミナルベースのAIコーディングエージェントの競争が激化する中で、手頃な代替手段を提供することを目指しています。",
-    "summary_en": "Xiaomi's MiMo AI team has launched MiMo Code V0.1.0, an open-source AI coding assistant claiming superior performance over Anthropic's Claude Code in long-horizon, multi-step tasks, particularly after testing with developer feedback. The tool features a unique cross-session memory system designed to combat the common issue of loss in context over time, as well as offering seamless integration with developer environments and intuitive voice control features. MiMo Code also includes free access to Xiaomi's multimodal flagship model, MiMo-V2.5, and aims to provide an affordable alternative in the increasingly competitive space of terminal-based AI coding agents.",
-    "link": "https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks",
+    "title": "Kimi K2.7-Codeが思考トークンを30%削減 — しかし実務者はベンチマークに疑問を呈する",
+    "title_en": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
+    "summary": "Moonshot AIは、K2コーディングモデルのオープンソースアップデートであるKimi K2.7-Codeを発表し、推論の削減と著しい性能向上を謳っています。この新モデルは、コーディングタスクにおける信頼性向上を目的としており、既存のK2.6システムと互換性があります。思考トークンの使用量を30%削減するなど、著しい効率向上を主張しており、推論コストの低下が期待されます。しかし、独立したベンチマーク結果は実際の性能向上に疑問を投げかけており、一部の研究者は従来のモデルと比較した場合の能力について懐疑的な見方を示しています。",
+    "summary_en": "Moonshot AI has launched Kimi K2.7-Code, an open-source update to its K2 coding model, touting reduced reasoning and significant performance improvements. The new model, which is designed for better reliability in coding tasks and is compatible with existing K2.6 systems, claims notable efficiency gains, including a 30% reduction in thinking-token usage, which could lower inference costs. However, independent benchmarking results are raising questions about the actual performance improvements, with some researchers expressing skepticism regarding its capabilities compared to previous models.",
+    "link": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out",
     "category": "AI",
-    "publishedAt": "2026-06-12 16:46"
+    "publishedAt": "2026-06-15 16:49"
   },
   {
     "source": "NHK",
-    "title": "株価 一時2800円超上昇 イランへの攻撃中止表明受け",
+    "title": "株価 終値も初の6万9000円台 アメリカとイラン 協議合意伝わり",
     "title_en": "",
-    "summary": "東京株式市場では、アメリカのトランプ大統領がイランへの攻撃を中止したとの報を受けて、日経平均株価が大きく上昇しました。一時的にその上昇幅は2800円を超える場面もありました。市場はこのニュースに対して好感を持ったようです。",
+    "summary": "週明けの東京株式市場では、アメリカとイランの戦闘終結に向けた合意を受け、幅広い銘柄に買い注文が集まりました。日経平均株価は6万9000円台に突入し、今回の終値は6万9317円50銭となりました。先週末の終値と比べて3200円以上の値上がりを記録し、終値としては2番目に大きな値上がりとなりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148121000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
     "category": "経済",
-    "publishedAt": "2026-06-12 16:47"
+    "publishedAt": "2026-06-15 16:49"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、イラン戦争終結の合意が近いと主張、テヘランは「何も決まっていない」と反発",
-    "title_en": "Trump claims deal to end Iran war near as Tehran says 'nothing' finalised",
-    "summary": "アメリカのトランプ大統領は、現在進行中の紛争を解決するための「大きな合意」が達成されたと発表しました。一方、イラン側はこの合意のニュースを退け、「憶測にすぎない」としています。対照的な声明は、潜在的な合意に対する不確実性を浮き彫りにしています。",
-    "summary_en": "The US president has announced that a \"great settlement\" has been achieved to resolve the ongoing conflict. In contrast, Iran has dismissed the news of a deal, characterizing it as \"speculative.\" The differing statements highlight uncertainty surrounding the potential agreement.",
-    "link": "https://www.bbc.com/news/articles/c78y6w78828o?at_medium=RSS&at_campaign=rss",
-    "category": "その他",
-    "publishedAt": "2026-06-12 16:47"
+    "title": "米国とイランの合意発表後、原油価格が下落し株価が急上昇",
+    "title_en": "Oil prices fall and shares jump after US-Iran deal announced",
+    "summary": "ドナルド・トランプ米大統領が発表した新たな合意により、戦略的に重要なホルムズ海峡が航行再開されることとなりました。この発展は、海上の安全を向上させ、重要な水路を通じた石油や商品の流通を促進することが期待されています。この動きは、過去の緊張や制限の中で地域を安定させるための継続的な努力を反映しています。",
+    "summary_en": "Under a new agreement announced by US President Donald Trump, the strategically important Strait of Hormuz will be reopened for navigation. This development is expected to enhance maritime security and facilitate the flow of oil and goods through the vital waterway. The move reflects ongoing efforts to stabilize the region amid previous tensions and restrictions.",
+    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
+    "category": "経済",
+    "publishedAt": "2026-06-15 16:49"
   },
   {
     "source": "NHK",
-    "title": "H3ロケット打ち上げ成功 6つの小型衛星を軌道に投入 JAXA",
+    "title": "英文学者の小田島雄志さん死去 95歳 シェークスピア全戯曲翻訳",
     "title_en": "",
-    "summary": "日本の主力ロケット「H3」の6号機が、打ち上げに成功し6つの小型衛星を軌道に投入しました。打ち上げは、去年の失敗からの再起を目指したもので、種子島宇宙センターから行われました。記事後半には、JAXAの会見動画も掲載されています。",
+    "summary": "英文学者で文化功労者の小田島雄志さんが、老衰により亡くなりました。彼はシェークスピアのすべての戯曲を現代日本語に翻訳したことで知られています。享年は95歳でした。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260612/k10015148131000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150271000.html",
     "category": "その他",
-    "publishedAt": "2026-06-12 16:47"
+    "publishedAt": "2026-06-15 16:49"
   }
 ]
