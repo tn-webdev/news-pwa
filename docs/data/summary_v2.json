@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、米政府の指示を受けてClaude Fable 5およびMythos 5へのすべての公共アクセスを遮断 - 企業が取るべき対策",
-    "title_en": "Anthropic blocks all public access to Claude Fable 5, Mythos 5 following US government order — what enterprises should do",
-    "summary": "米政府は、国家安全保障上の懸念から、Anthropicに対し外国人に対する高度なAIモデルClaude Fable 5およびClaude Mythos 5へのアクセスを即座に停止するよう命じました。このため、同社は企業顧客や従業員へのアクセスも含め、すべてのアクセスをブロックしました。この厳しい措置は、Fableモデルの最近の脱獄に続くもので、危険な情報の抽出が可能になったと報じられ、規制遵守やセキュリティに対する懸念が高まっています。この状況は、中央集権的なAIシステムにのみ依存する企業の脆弱性を浮き彫りにし、政府の監視からの潜在的な混乱を緩和するために、AI提供者戦略における多様化と緊急対応計画の必要性を強調しています。",
-    "summary_en": "The U.S. government has mandated that Anthropic immediately suspend access to its advanced AI models, Claude Fable 5 and Claude Mythos 5, for foreign nationals due to national security concerns, leading the company to block access altogether even for enterprise customers and employees. This drastic measure follows a recent jailbreak of the Fable model that reportedly enabled the extraction of dangerous information, prompting fears over regulatory compliance and security. The situation highlights the vulnerability of enterprises relying solely on centralized AI systems and emphasizes the need for diversification and contingency planning in AI provider strategies to mitigate potential disruptions from government oversight.",
-    "link": "https://venturebeat.com/technology/anthropic-blocks-all-public-access-to-claude-fable-5-mythos-5-following-us-government-order-what-enterprises-should-do",
+    "title": "サティア・ナデラ氏、AIが産業を空洞化させる可能性を警告、グローバリゼーションによる影響を反映",
+    "title_en": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+    "summary": "マイクロソフトのCEO、サティア・ナデラ氏は最近のエッセイで、AIモデルが産業全体の専門知識を商品化することで経済的リスクをもたらす可能性を警告し、いくつかのモデルが価値創出を独占することを許さず、バランスの取れたエコシステムの必要性を強調しました。彼は「トークン資本」の概念を提唱し、競争優位性を維持し、貴重な組織知識が失われないように人間の資本とAIの能力を統合する重要性を強調しました。アウトソーシング危機に類似点を引き合いに出し、AIによってビジネスが空洞化されることから保護する新しいアーキテクチャの必要性を主張していますが、現在の運営上の課題やAIに関連するコストの上昇を考えると、マイクロソフトが彼の提唱するビジョンを体現できるかどうかについては懐疑的な意見もあります。",
+    "summary_en": "In a recent essay, Microsoft CEO Satya Nadella warns of the economic risks posed by AI models that may commoditize the expertise of entire industries, emphasizing the need for a balanced ecosystem rather than allowing a few models to monopolize value generation. He introduces the concept of \"token capital,\" highlighting the importance of integrating human capital with AI capabilities to maintain competitive advantages and ensure that valuable institutional knowledge is not lost. Drawing parallels to the outsourcing crisis, Nadella argues for a new architecture that protects businesses from being hollowed out by AI, but he faces skepticism regarding whether Microsoft can embody the vision he advocates given its current operational challenges and rising costs associated with AI.",
+    "link": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
     "category": "AI",
-    "publishedAt": "2026-06-15 16:48"
+    "publishedAt": "2026-06-16 18:08"
   },
   {
     "source": "VentureBeat",
-    "title": "Kimi K2.7-Codeが思考トークンを30%削減 — しかし実務者はベンチマークに疑問を呈する",
-    "title_en": "Kimi K2.7-Code cuts thinking tokens 30% — but practitioners say the benchmarks don't check out",
-    "summary": "Moonshot AIは、K2コーディングモデルのオープンソースアップデートであるKimi K2.7-Codeを発表し、推論の削減と著しい性能向上を謳っています。この新モデルは、コーディングタスクにおける信頼性向上を目的としており、既存のK2.6システムと互換性があります。思考トークンの使用量を30%削減するなど、著しい効率向上を主張しており、推論コストの低下が期待されます。しかし、独立したベンチマーク結果は実際の性能向上に疑問を投げかけており、一部の研究者は従来のモデルと比較した場合の能力について懐疑的な見方を示しています。",
-    "summary_en": "Moonshot AI has launched Kimi K2.7-Code, an open-source update to its K2 coding model, touting reduced reasoning and significant performance improvements. The new model, which is designed for better reliability in coding tasks and is compatible with existing K2.6 systems, claims notable efficiency gains, including a 30% reduction in thinking-token usage, which could lower inference costs. However, independent benchmarking results are raising questions about the actual performance improvements, with some researchers expressing skepticism regarding its capabilities compared to previous models.",
-    "link": "https://venturebeat.com/technology/kimi-k2-7-code-cuts-thinking-tokens-30-practitioners-say-benchmarks-dont-check-out",
+    "title": "ビジネスに深いリサーチが足りないとき：Sakana AI、8時間で100ページ以上のレポートを作成する「超深度リサーチ」エージェントを発表",
+    "title_en": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
+    "summary": "東京に拠点を置くスタートアップSakana AIは、初の商業製品であるSakana Marlinを発表しました。この自律型B2Bリサーチエージェントは、典型的なチャットボットのように即座の回答を生成するのではなく、長期間にわたる深層的な戦略分析を行うことを目的としています。Marlinは仮想的な最高戦略責任者として機能し、長期的な推論を行い、自律的な推論ループを通じて包括的な戦略レポートを作成します。初期のリサーチプロンプトを受け取った後は独立して機能します。企業クライアントを重視するMarlinは、迅速で表面的な情報よりも、広範で十分に調査された成果物を強調することで、企業や金融機関の進化するニーズに応え、AIエコシステムの中で際立っています。",
+    "summary_en": "Tokyo-based startup Sakana AI has launched its first commercial product, Sakana Marlin, an autonomous B2B research agent designed to perform in-depth strategic analysis over extended periods rather than generate immediate responses like typical chatbots. Marlin operates as a virtual Chief Strategy Officer, conducting long-horizon reasoning and producing comprehensive strategy reports through self-governing reasoning loops, capable of functioning independently after receiving an initial research prompt. With a focus on enterprise clients, Marlin distinguishes itself within the AI ecosystem by emphasizing extensive, well-researched outputs over rapid, surface-level information, thus addressing the evolving needs of corporations and financial institutions.",
+    "link": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
     "category": "AI",
-    "publishedAt": "2026-06-15 16:49"
+    "publishedAt": "2026-06-16 18:09"
   },
   {
     "source": "NHK",
-    "title": "株価 終値も初の6万9000円台 アメリカとイラン 協議合意伝わり",
+    "title": "【詳しく】利上げで暮らしへの影響は？金利どこまで上がる？",
     "title_en": "",
-    "summary": "週明けの東京株式市場では、アメリカとイランの戦闘終結に向けた合意を受け、幅広い銘柄に買い注文が集まりました。日経平均株価は6万9000円台に突入し、今回の終値は6万9317円50銭となりました。先週末の終値と比べて3200円以上の値上がりを記録し、終値としては2番目に大きな値上がりとなりました。",
+    "summary": "日銀は最近の金融政策決定会合で政策金利を31年ぶりの高水準に引き上げることを決定しました。利上げに伴い、私たちの生活に与える影響や今後の金利の行方について考察されています。詳細な情報がまとめられています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260615/k10015150021000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260616/k10015150921000.html",
     "category": "経済",
-    "publishedAt": "2026-06-15 16:49"
+    "publishedAt": "2026-06-16 18:09"
   },
   {
     "source": "BBC",
-    "title": "米国とイランの合意発表後、原油価格が下落し株価が急上昇",
-    "title_en": "Oil prices fall and shares jump after US-Iran deal announced",
-    "summary": "ドナルド・トランプ米大統領が発表した新たな合意により、戦略的に重要なホルムズ海峡が航行再開されることとなりました。この発展は、海上の安全を向上させ、重要な水路を通じた石油や商品の流通を促進することが期待されています。この動きは、過去の緊張や制限の中で地域を安定させるための継続的な努力を反映しています。",
-    "summary_en": "Under a new agreement announced by US President Donald Trump, the strategically important Strait of Hormuz will be reopened for navigation. This development is expected to enhance maritime security and facilitate the flow of oil and goods through the vital waterway. The move reflects ongoing efforts to stabilize the region amid previous tensions and restrictions.",
-    "link": "https://www.bbc.com/news/articles/c6217106px6o?at_medium=RSS&at_campaign=rss",
-    "category": "経済",
-    "publishedAt": "2026-06-15 16:49"
+    "title": "バンス氏、トランプ氏が金曜日前に米イラン合意を発表する可能性を示唆",
+    "title_en": "Trump may release US-Iran deal before Friday, Vance says",
+    "summary": "米国の副大統領は最近の合意について簡潔に説明し、「約1ページ半」と「一般的な」内容であると指摘しました。これにより、多くの具体的な事項が今後の議論で取り上げられる必要があることが示唆されています。この発言は合意の予備的な性質と、その詳細を最終決定するためにまだ必要な作業を強調しています。",
+    "summary_en": "The U.S. Vice President described a recent agreement as succinct, noting it is \"about a page and a half\" long and quite \"general\" in nature. This suggests that many specifics will need to be addressed in future discussions. The statement highlights the preliminary nature of the agreement and the work still needed to finalize its details.",
+    "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+    "category": "その他",
+    "publishedAt": "2026-06-16 18:09"
   },
   {
     "source": "NHK",
-    "title": "日本版GPS衛星「みちびき7号機」 H3ロケットで8月7日打ち上げ",
+    "title": "佐賀県沖の有明海にアザラシ 専門家「非常に珍しい」",
     "title_en": "",
-    "summary": "JAXAは、H3ロケットの打ち上げ再開が成功したことを受け、日本版GPS衛星「みちびき7号機」を2026年8月7日に鹿児島県の種子島宇宙センターから打ち上げると発表しました。「みちびき7号機」は、2025年のH3ロケット失敗の影響で延期されていました。政府は海外衛星に依存しない7機体制の構築を目指していますが、「みちびき5号機」を失ったため計画は見直され、まずは6機体制での運用実現を目標としています。",
+    "summary": "有明海で漁業者がアザラシを発見しました。専門家はこのアザラシの出現が非常にまれであると指摘し、迷い込んだ可能性が高いと述べています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015150411000",
+    "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151311000.html",
     "category": "その他",
-    "publishedAt": "2026-06-15 16:49"
+    "publishedAt": "2026-06-16 18:09"
   }
 ]
