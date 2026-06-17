@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "サティア・ナデラ氏、AIが産業を空洞化させる可能性を警告、グローバリゼーションによる影響を反映",
-    "title_en": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
-    "summary": "マイクロソフトのCEO、サティア・ナデラ氏は最近のエッセイで、AIモデルが産業全体の専門知識を商品化することで経済的リスクをもたらす可能性を警告し、いくつかのモデルが価値創出を独占することを許さず、バランスの取れたエコシステムの必要性を強調しました。彼は「トークン資本」の概念を提唱し、競争優位性を維持し、貴重な組織知識が失われないように人間の資本とAIの能力を統合する重要性を強調しました。アウトソーシング危機に類似点を引き合いに出し、AIによってビジネスが空洞化されることから保護する新しいアーキテクチャの必要性を主張していますが、現在の運営上の課題やAIに関連するコストの上昇を考えると、マイクロソフトが彼の提唱するビジョンを体現できるかどうかについては懐疑的な意見もあります。",
-    "summary_en": "In a recent essay, Microsoft CEO Satya Nadella warns of the economic risks posed by AI models that may commoditize the expertise of entire industries, emphasizing the need for a balanced ecosystem rather than allowing a few models to monopolize value generation. He introduces the concept of \"token capital,\" highlighting the importance of integrating human capital with AI capabilities to maintain competitive advantages and ensure that valuable institutional knowledge is not lost. Drawing parallels to the outsourcing crisis, Nadella argues for a new architecture that protects businesses from being hollowed out by AI, but he faces skepticism regarding whether Microsoft can embody the vision he advocates given its current operational challenges and rising costs associated with AI.",
-    "link": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+    "title": "Weiboの小型モデルVibeThinker-3BがAI界をベンチマークを巡る議論に再び巻き込む",
+    "title_en": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
+    "summary": "Sina Weiboの研究チームが、パラメータ数がわずか30億の言語モデルVibeThinker-3Bを発表しました。このモデルは、GoogleやOpenAIなどの大規模モデルと同等またはそれ以上の推論能力を持ち、厳しい数学およびコーディングのベンチマークで顕著なスコアを達成しています。この開発は、AIコミュニティ内でAIベンチマークの妥当性および適用可能性に対する懐疑を引き起こしました。批評家は、本モデルの印象的なベンチマークパフォーマンスにもかかわらず、実世界での有用性に懸念を示しました。研究結果は、AI研究における潜在的な変化を示唆しており、小型化された専門モデルが推論タスクを効果的に処理できる一方で、大型モデルは事実知識を提供することができることを示しています。これにより、大型モデルがAI開発において必然的に優れているという従来の信念に挑戦しています。",
+    "summary_en": "A team of researchers from Sina Weibo has introduced VibeThinker-3B, a language model with only 3 billion parameters that reportedly matches or surpasses the reasoning abilities of much larger models from companies like Google and OpenAI, achieving notable scores on rigorous math and coding benchmarks. This development sparked skepticism within the AI community regarding the validity and applicability of AI benchmarks, as critics raised concerns about the model's real-world utility despite its impressive benchmark performance. The findings suggest a potential shift in AI research, indicating that smaller, specialized models could effectively handle reasoning tasks while larger models provide factual knowledge, challenging the traditional belief that larger models are inherently better for AI development.",
+    "link": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
     "category": "AI",
-    "publishedAt": "2026-06-16 18:08"
+    "publishedAt": "2026-06-17 15:59"
   },
   {
     "source": "VentureBeat",
-    "title": "ビジネスに深いリサーチが足りないとき：Sakana AI、8時間で100ページ以上のレポートを作成する「超深度リサーチ」エージェントを発表",
-    "title_en": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
-    "summary": "東京に拠点を置くスタートアップSakana AIは、初の商業製品であるSakana Marlinを発表しました。この自律型B2Bリサーチエージェントは、典型的なチャットボットのように即座の回答を生成するのではなく、長期間にわたる深層的な戦略分析を行うことを目的としています。Marlinは仮想的な最高戦略責任者として機能し、長期的な推論を行い、自律的な推論ループを通じて包括的な戦略レポートを作成します。初期のリサーチプロンプトを受け取った後は独立して機能します。企業クライアントを重視するMarlinは、迅速で表面的な情報よりも、広範で十分に調査された成果物を強調することで、企業や金融機関の進化するニーズに応え、AIエコシステムの中で際立っています。",
-    "summary_en": "Tokyo-based startup Sakana AI has launched its first commercial product, Sakana Marlin, an autonomous B2B research agent designed to perform in-depth strategic analysis over extended periods rather than generate immediate responses like typical chatbots. Marlin operates as a virtual Chief Strategy Officer, conducting long-horizon reasoning and producing comprehensive strategy reports through self-governing reasoning loops, capable of functioning independently after receiving an initial research prompt. With a focus on enterprise clients, Marlin distinguishes itself within the AI ecosystem by emphasizing extensive, well-researched outputs over rapid, surface-level information, thus addressing the evolving needs of corporations and financial institutions.",
-    "link": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+    "title": "Z.aiのオープンウェイトGLM-5.2、6分の1のコストでGPT-5.5を複数の長期コーディングベンチマークで上回る",
+    "title_en": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
+    "summary": "中国のAIスタートアップZ.aiは、7530億のパラメータを持つ大規模言語モデルGLM-5.2を発表しました。このモデルは長期的なコーディングやエンジニアリングタスク向けに設計されており、Hugging Faceやさまざまなコーディングプラットフォームで利用可能です。GLM-5.2はオープンソースのMITライセンスにより、企業が制約なくカスタマイズできる点が特徴で、専有モデルに比べてAPIアクセスの価格設定も競争力があります。主要モデルとのベンチマークテストでの高いパフォーマンスにより、GLM-5.2はすでに開発者からその能力とコスト効率を評価されており、AI分野での重要な可能性を示しています。",
+    "summary_en": "Chinese AI startup Z.ai has launched GLM-5.2, a large language model with 753 billion parameters designed for long-horizon coding and engineering tasks, now available on Hugging Face and various coding platforms. The model stands out due to its open-source MIT licensing, allowing enterprises to customize it without restrictions and offering competitive pricing for API access compared to proprietary models. With high performance on benchmark tests against leading models, GLM-5.2 is already receiving positive feedback from developers for its capabilities and cost-effectiveness, highlighting its significant potential in the AI landscape.",
+    "link": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
     "category": "AI",
-    "publishedAt": "2026-06-16 18:09"
+    "publishedAt": "2026-06-17 15:59"
   },
   {
     "source": "NHK",
-    "title": "【詳しく】利上げで暮らしへの影響は？金利どこまで上がる？",
+    "title": "株価最高値を更新 原油先物価格下落で業績改善の見方",
     "title_en": "",
-    "summary": "日銀は最近の金融政策決定会合で政策金利を31年ぶりの高水準に引き上げることを決定しました。利上げに伴い、私たちの生活に与える影響や今後の金利の行方について考察されています。詳細な情報がまとめられています。",
+    "summary": "最近、東京株式市場では原油の先物価格が下落した影響で、企業業績の改善が期待されました。それにより多くの銘柄に買い注文が広がりました。結果として、日経平均株価は終値の最高値を更新しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260616/k10015150921000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152221000.html",
     "category": "経済",
-    "publishedAt": "2026-06-16 18:09"
+    "publishedAt": "2026-06-17 15:59"
   },
   {
     "source": "BBC",
-    "title": "バンス氏、トランプ氏が金曜日前に米イラン合意を発表する可能性を示唆",
-    "title_en": "Trump may release US-Iran deal before Friday, Vance says",
-    "summary": "米国の副大統領は最近の合意について簡潔に説明し、「約1ページ半」と「一般的な」内容であると指摘しました。これにより、多くの具体的な事項が今後の議論で取り上げられる必要があることが示唆されています。この発言は合意の予備的な性質と、その詳細を最終決定するためにまだ必要な作業を強調しています。",
-    "summary_en": "The U.S. Vice President described a recent agreement as succinct, noting it is \"about a page and a half\" long and quite \"general\" in nature. This suggests that many specifics will need to be addressed in future discussions. The statement highlights the preliminary nature of the agreement and the work still needed to finalize its details.",
-    "link": "https://www.bbc.com/news/articles/ce8mv6l6eezo?at_medium=RSS&at_campaign=rss",
+    "title": "テヘラン、米国との取引を勝利として売り出すが、イラン国民にとっては必要性",
+    "title_en": "Tehran selling deal with US as victory – but for Iranians it was necessity",
+    "summary": "イラン国民は、最近の取引を勝利と見なすのではなく、むしろ実際的な影響に注目しており、特に価格の低下や再び戦争になることへの不安の軽減について関心を寄せています。この地域の経済の安定性や安全に関する不確実性は、依然として住民にとって重要な懸念事項です。全体として、この取引が日常生活や国家の安定に及ぼす影響が、多くの市民にとって最も重要な要素となっています。",
+    "summary_en": "Iranians are more focused on the practical implications of a recent deal rather than viewing it as a victory, particularly regarding its potential to lower prices and alleviate fears of another war. The uncertainty surrounding economic stability and security in the region remains a significant concern for the population. Overall, the deal's impact on daily life and national stability is of primary importance to many citizens.",
+    "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-16 18:09"
+    "publishedAt": "2026-06-17 15:59"
   },
   {
     "source": "NHK",
-    "title": "佐賀県沖の有明海にアザラシ 専門家「非常に珍しい」",
+    "title": "改正著作権法が成立 歌手らに音楽使用料を分配 参院本会議",
     "title_en": "",
-    "summary": "有明海で漁業者がアザラシを発見しました。専門家はこのアザラシの出現が非常にまれであると指摘し、迷い込んだ可能性が高いと述べています。",
+    "summary": "店舗やイベント会場のBGMに関する著作権法が改正され、歌手や演奏家が音楽の使用料を受け取れるようになります。この改正法案は、参議院本会議で賛成多数で可決されました。音楽業界にとって重要な一歩となる内容です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260616/k10015151311000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152361000.html",
     "category": "その他",
-    "publishedAt": "2026-06-16 18:09"
+    "publishedAt": "2026-06-17 15:59"
   }
 ]
