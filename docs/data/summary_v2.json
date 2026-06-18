@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Weiboの小型モデルVibeThinker-3BがAI界をベンチマークを巡る議論に再び巻き込む",
+    "title": "なぜWeiboの小型VibeThinker-3BがAI界を再びベンチマークを巡る議論に巻き込んでいるのか",
     "title_en": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
-    "summary": "Sina Weiboの研究チームが、パラメータ数がわずか30億の言語モデルVibeThinker-3Bを発表しました。このモデルは、GoogleやOpenAIなどの大規模モデルと同等またはそれ以上の推論能力を持ち、厳しい数学およびコーディングのベンチマークで顕著なスコアを達成しています。この開発は、AIコミュニティ内でAIベンチマークの妥当性および適用可能性に対する懐疑を引き起こしました。批評家は、本モデルの印象的なベンチマークパフォーマンスにもかかわらず、実世界での有用性に懸念を示しました。研究結果は、AI研究における潜在的な変化を示唆しており、小型化された専門モデルが推論タスクを効果的に処理できる一方で、大型モデルは事実知識を提供することができることを示しています。これにより、大型モデルがAI開発において必然的に優れているという従来の信念に挑戦しています。",
-    "summary_en": "A team of researchers from Sina Weibo has introduced VibeThinker-3B, a language model with only 3 billion parameters that reportedly matches or surpasses the reasoning abilities of much larger models from companies like Google and OpenAI, achieving notable scores on rigorous math and coding benchmarks. This development sparked skepticism within the AI community regarding the validity and applicability of AI benchmarks, as critics raised concerns about the model's real-world utility despite its impressive benchmark performance. The findings suggest a potential shift in AI research, indicating that smaller, specialized models could effectively handle reasoning tasks while larger models provide factual knowledge, challenging the traditional belief that larger models are inherently better for AI development.",
+    "summary": "Sina Weiboの研究者が、言語モデルVibeThinker-3Bがわずか30億のパラメータでありながら、GoogleやOpenAIなどの大手AI企業のより大きなモデルを推論タスクで上回るか匹敵すると主張する技術報告を発表しました。特にさまざまな数学コンペティションで高いスコアを記録しています。 impressiveなベンチマークにもかかわらず、AIコミュニティはモデルの実世界での適用可能性やベンチマーク操作の可能性について懐疑的であり、既存のテスト方法論の効果についての議論を引き起こしています。この論文は、AI開発におけるより大きなモデルへの依存に関して重要な疑問を提起し、特定の推論能力に対しては小型で専門的なモデルが実行可能な代替手段となる可能性があることを示唆しています。",
+    "summary_en": "Researchers at Sina Weibo have released a technical report asserting that their language model, VibeThinker-3B, with just 3 billion parameters, can outperform or match larger models from leading AI firms like Google and OpenAI on reasoning tasks, scoring notably high on various math competitions. Despite the impressive benchmarks, the AI community remains skeptical about the model's real-world applicability and the potential for benchmark manipulation, leading to discussions about the effectiveness of existing testing methodologies. The paper raises significant questions regarding the dependency on larger models in AI development and suggests that smaller, specialized models may provide a viable alternative for specific reasoning capabilities.",
     "link": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
     "category": "AI",
-    "publishedAt": "2026-06-17 15:59"
+    "publishedAt": "2026-06-18 16:25"
   },
   {
     "source": "VentureBeat",
-    "title": "Z.aiのオープンウェイトGLM-5.2、6分の1のコストでGPT-5.5を複数の長期コーディングベンチマークで上回る",
+    "title": "Z.aiのオープンウェイトGLM-5.2が、1/6のコストでGPT-5.5を複数の長期コーディングベンチマークで上回る",
     "title_en": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
-    "summary": "中国のAIスタートアップZ.aiは、7530億のパラメータを持つ大規模言語モデルGLM-5.2を発表しました。このモデルは長期的なコーディングやエンジニアリングタスク向けに設計されており、Hugging Faceやさまざまなコーディングプラットフォームで利用可能です。GLM-5.2はオープンソースのMITライセンスにより、企業が制約なくカスタマイズできる点が特徴で、専有モデルに比べてAPIアクセスの価格設定も競争力があります。主要モデルとのベンチマークテストでの高いパフォーマンスにより、GLM-5.2はすでに開発者からその能力とコスト効率を評価されており、AI分野での重要な可能性を示しています。",
-    "summary_en": "Chinese AI startup Z.ai has launched GLM-5.2, a large language model with 753 billion parameters designed for long-horizon coding and engineering tasks, now available on Hugging Face and various coding platforms. The model stands out due to its open-source MIT licensing, allowing enterprises to customize it without restrictions and offering competitive pricing for API access compared to proprietary models. With high performance on benchmark tests against leading models, GLM-5.2 is already receiving positive feedback from developers for its capabilities and cost-effectiveness, highlighting its significant potential in the AI landscape.",
+    "summary": "中国のAIスタートアップZ.aiが7530億パラメータを持つオープンソース言語モデルGLM-5.2を発表しました。このモデルは複雑なプログラミングタスク向けに設計されており、Hugging Faceなどのプラットフォームで利用可能で、競争力のあるサブスクリプション料金が設定されています。モデルは100万トークンのコンテキストウィンドウを特徴とし、革新的な「IndexShare」アーキテクチャにより計算コストを大幅に削減しています。また、多くのコーディングベンチマークにおいてOpenAIやAnthropicのような企業の専有モデルに比べて優れた性能を示しています。MITのオープンソースライセンスのもとで、GLM-5.2は企業がモデルを利用、変更、運用する際により大きな柔軟性とコスト効率を提供し、開発者からの好意的な反応を得て、いくつかのコーディング環境にシームレスに統合されています。",
+    "summary_en": "Chinese AI startup Z.ai has launched GLM-5.2, a powerful 753-billion parameter open-source language model designed for complex programming tasks, available on platforms like Hugging Face and at competitive subscription rates. The model features a 1-million-token context window and the innovative \"IndexShare\" architecture, reducing computational costs significantly, and it demonstrates strong performance compared to proprietary models by companies like OpenAI and Anthropic in various coding benchmarks. With its MIT open-source license, GLM-5.2 allows businesses to use, modify, and run the model with greater flexibility and cost-effectiveness, garnering positive reactions from developers and integrating seamlessly into several coding environments.",
     "link": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
     "category": "AI",
-    "publishedAt": "2026-06-17 15:59"
+    "publishedAt": "2026-06-18 16:25"
   },
   {
     "source": "NHK",
-    "title": "株価最高値を更新 原油先物価格下落で業績改善の見方",
+    "title": "株価 終値として初の7万円超え 最高値を更新",
     "title_en": "",
-    "summary": "最近、東京株式市場では原油の先物価格が下落した影響で、企業業績の改善が期待されました。それにより多くの銘柄に買い注文が広がりました。結果として、日経平均株価は終値の最高値を更新しました。",
+    "summary": "最近の東京株式市場では、アメリカとイランの戦闘終結に向けた覚書署名を受けて多くの銘柄に買い注文が入りました。その結果、日経平均株価は7万1053円49銭で取引を終えました。これにより、日経平均株価は初めて7万円を超え、最高値を更新しました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152221000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153191000.html",
     "category": "経済",
-    "publishedAt": "2026-06-17 15:59"
+    "publishedAt": "2026-06-18 16:25"
   },
   {
     "source": "BBC",
-    "title": "テヘラン、米国との取引を勝利として売り出すが、イラン国民にとっては必要性",
-    "title_en": "Tehran selling deal with US as victory – but for Iranians it was necessity",
-    "summary": "イラン国民は、最近の取引を勝利と見なすのではなく、むしろ実際的な影響に注目しており、特に価格の低下や再び戦争になることへの不安の軽減について関心を寄せています。この地域の経済の安定性や安全に関する不確実性は、依然として住民にとって重要な懸念事項です。全体として、この取引が日常生活や国家の安定に及ぼす影響が、多くの市民にとって最も重要な要素となっています。",
-    "summary_en": "Iranians are more focused on the practical implications of a recent deal rather than viewing it as a victory, particularly regarding its potential to lower prices and alleviate fears of another war. The uncertainty surrounding economic stability and security in the region remains a significant concern for the population. Overall, the deal's impact on daily life and national stability is of primary importance to many citizens.",
-    "link": "https://www.bbc.com/news/articles/cn4rwzxvl8ko?at_medium=RSS&at_campaign=rss",
+    "title": "米国とイランの合意内容は？",
+    "title_en": "What's in the US-Iran agreement?",
+    "summary": "このメモは、敵対行為の停止とイランが核兵器を決して追求しないことを約束する包括的な合意を示しています。さらに、イラン経済の活性化を目指した3,000億ドルの大規模な再開発パッケージを提案しています。全体として、この文書は、地域の平和と安定を促進し、イランの重要な経済課題に対処することを目指しています。",
+    "summary_en": "The memo outlines a comprehensive agreement involving a cessation of hostilities and a commitment from Iran to never pursue nuclear weapons. Additionally, it proposes a substantial $300 billion redevelopment package aimed at revitalizing Iran's economy. Overall, the document seeks to foster peace and stability in the region while addressing significant economic challenges in Iran.",
+    "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-17 15:59"
+    "publishedAt": "2026-06-18 16:26"
   },
   {
     "source": "NHK",
-    "title": "改正著作権法が成立 歌手らに音楽使用料を分配 参院本会議",
+    "title": "ひざ治療に“エクソソーム” 臨床研究で痛み改善",
     "title_en": "",
-    "summary": "店舗やイベント会場のBGMに関する著作権法が改正され、歌手や演奏家が音楽の使用料を受け取れるようになります。この改正法案は、参議院本会議で賛成多数で可決されました。音楽業界にとって重要な一歩となる内容です。",
+    "summary": "50歳以上の多くの人が患う「変形性ひざ関節症」に関する臨床研究が行われ、細胞が分泌する「エクソソーム」を投与した結果、痛みの改善が確認されました。研究は神奈川県の病院のグループによってまとめられました。これにより、新たな治療法の可能性が示唆されました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152361000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260617/k10015152611000.html",
     "category": "その他",
-    "publishedAt": "2026-06-17 15:59"
+    "publishedAt": "2026-06-18 16:26"
   }
 ]
