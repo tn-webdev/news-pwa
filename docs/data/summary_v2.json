@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "なぜWeiboの小型VibeThinker-3BがAI界を再びベンチマークを巡る議論に巻き込んでいるのか",
+    "title": "ウエイボの小型モデルVibeThinker-3BがAI界のベンチマークを再び議論させる理由",
     "title_en": "Why Weibo’s tiny VibeThinker-3B has the AI world arguing over benchmarks again",
-    "summary": "Sina Weiboの研究者が、言語モデルVibeThinker-3Bがわずか30億のパラメータでありながら、GoogleやOpenAIなどの大手AI企業のより大きなモデルを推論タスクで上回るか匹敵すると主張する技術報告を発表しました。特にさまざまな数学コンペティションで高いスコアを記録しています。 impressiveなベンチマークにもかかわらず、AIコミュニティはモデルの実世界での適用可能性やベンチマーク操作の可能性について懐疑的であり、既存のテスト方法論の効果についての議論を引き起こしています。この論文は、AI開発におけるより大きなモデルへの依存に関して重要な疑問を提起し、特定の推論能力に対しては小型で専門的なモデルが実行可能な代替手段となる可能性があることを示唆しています。",
-    "summary_en": "Researchers at Sina Weibo have released a technical report asserting that their language model, VibeThinker-3B, with just 3 billion parameters, can outperform or match larger models from leading AI firms like Google and OpenAI on reasoning tasks, scoring notably high on various math competitions. Despite the impressive benchmarks, the AI community remains skeptical about the model's real-world applicability and the potential for benchmark manipulation, leading to discussions about the effectiveness of existing testing methodologies. The paper raises significant questions regarding the dependency on larger models in AI development and suggests that smaller, specialized models may provide a viable alternative for specific reasoning capabilities.",
+    "summary": "シナ・ウエイボの研究チームが、30億のパラメータを持つ言語モデルVibeThinker-3Bを発表しました。これは、GoogleやOpenAIといったテクノロジー大手のはるかに大きなモデルの推論能力に匹敵するか、あるいはそれを上回ると報告されており、難しい数学コンペティションで高得点を達成しています。この開発はAIの潜在的なブレークスルーとして称賛されていますが、コミュニティ内には懐疑的な見方も根強く、ベンチマークスコアが実用的な応用にどの程度関連するのか懸念が示されています。研究はAIパフォーマンスの理解に大きな変化を提案しており、より小型のモデルが特定の推論タスクを効果的に達成できる可能性があり、将来的なAIの展開や設計戦略を再構築する可能性があります。",
+    "summary_en": "A team of researchers from Sina Weibo introduced VibeThinker-3B, a language model with 3 billion parameters that reportedly matches or exceeds reasoning abilities of significantly larger models from tech giants like Google and OpenAI, achieving high scores on challenging mathematics competitions. While this development has been hailed as a potential breakthrough in AI, skepticism remains prevalent among the community, raising concerns about the relevance of benchmark scores to practical applications. The research suggests a significant shift in understanding AI performance, proposing that smaller models can achieve specialized reasoning tasks effectively, potentially reshaping the future of AI deployment and design strategies.",
     "link": "https://venturebeat.com/technology/why-weibos-tiny-vibethinker-3b-has-the-ai-world-arguing-over-benchmarks-again",
     "category": "AI",
-    "publishedAt": "2026-06-18 16:25"
+    "publishedAt": "2026-06-18 22:38"
   },
   {
     "source": "VentureBeat",
-    "title": "Z.aiのオープンウェイトGLM-5.2が、1/6のコストでGPT-5.5を複数の長期コーディングベンチマークで上回る",
+    "title": "Z.aiのオープンウェイトGLM-5.2が、コストの6分の1で複数の長期コーディングベンチマークでGPT-5.5を上回る",
     "title_en": "Z.ai’s open-weights GLM-5.2 beats GPT-5.5 on multiple long-horizon coding benchmarks for 1/6th the cost",
-    "summary": "中国のAIスタートアップZ.aiが7530億パラメータを持つオープンソース言語モデルGLM-5.2を発表しました。このモデルは複雑なプログラミングタスク向けに設計されており、Hugging Faceなどのプラットフォームで利用可能で、競争力のあるサブスクリプション料金が設定されています。モデルは100万トークンのコンテキストウィンドウを特徴とし、革新的な「IndexShare」アーキテクチャにより計算コストを大幅に削減しています。また、多くのコーディングベンチマークにおいてOpenAIやAnthropicのような企業の専有モデルに比べて優れた性能を示しています。MITのオープンソースライセンスのもとで、GLM-5.2は企業がモデルを利用、変更、運用する際により大きな柔軟性とコスト効率を提供し、開発者からの好意的な反応を得て、いくつかのコーディング環境にシームレスに統合されています。",
-    "summary_en": "Chinese AI startup Z.ai has launched GLM-5.2, a powerful 753-billion parameter open-source language model designed for complex programming tasks, available on platforms like Hugging Face and at competitive subscription rates. The model features a 1-million-token context window and the innovative \"IndexShare\" architecture, reducing computational costs significantly, and it demonstrates strong performance compared to proprietary models by companies like OpenAI and Anthropic in various coding benchmarks. With its MIT open-source license, GLM-5.2 allows businesses to use, modify, and run the model with greater flexibility and cost-effectiveness, garnering positive reactions from developers and integrating seamlessly into several coding environments.",
+    "summary": "中国のAIスタートアップZ.aiが、7530億パラメータを持つ長期コーディングとエンジニアリングタスク向けに設計された大規模言語モデルGLM-5.2を発表しました。このモデルはHugging Faceやその他のプラットフォームで利用可能です。MITオープンソースライセンスが無制限に提供されており、ユーザーはモデルをカスタマイズしてローカルで実行することができ、企業は専有モデルが直面する規制問題を回避できます。GLM-5.2はベンチマークテストで多くの既存モデルを上回り、APIアクセスやサブスクリプションプランの競争力のある価格を提供しており、コスト効果の高いAIソリューションを求める開発者や企業にとって魅力的な選択肢となっています。",
+    "summary_en": "Chinese AI startup Z.ai has launched GLM-5.2, a 753-billion parameter large language model designed for long-horizon coding and engineering tasks, now available on Hugging Face and other platforms. With an unrestricted MIT open-source license, users can customize and run the model locally, allowing enterprises to bypass regulatory issues faced by proprietary models. GLM-5.2 outperforms many existing models in benchmark tests, offering competitive pricing for API access and subscription plans, making it an attractive option for developers and businesses seeking cost-effective AI solutions.",
     "link": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
     "category": "AI",
-    "publishedAt": "2026-06-18 16:25"
+    "publishedAt": "2026-06-18 22:38"
   },
   {
     "source": "NHK",
-    "title": "株価 終値として初の7万円超え 最高値を更新",
+    "title": "日本経済はどうなる？ 米・イランが覚書署名で【詳しく】",
     "title_en": "",
-    "summary": "最近の東京株式市場では、アメリカとイランの戦闘終結に向けた覚書署名を受けて多くの銘柄に買い注文が入りました。その結果、日経平均株価は7万1053円49銭で取引を終えました。これにより、日経平均株価は初めて7万円を超え、最高値を更新しました。",
+    "summary": "アメリカとイランが戦闘終結に向けた覚書に署名し、イラン情勢が重要な転機を迎えました。これにより、原油供給への影響が懸念されています。日本経済の見通しについても専門家の意見や関係者の反応が寄せられています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153191000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153671000.html",
     "category": "経済",
-    "publishedAt": "2026-06-18 16:25"
+    "publishedAt": "2026-06-18 22:38"
   },
   {
     "source": "BBC",
-    "title": "米国とイランの合意内容は？",
-    "title_en": "What's in the US-Iran agreement?",
-    "summary": "このメモは、敵対行為の停止とイランが核兵器を決して追求しないことを約束する包括的な合意を示しています。さらに、イラン経済の活性化を目指した3,000億ドルの大規模な再開発パッケージを提案しています。全体として、この文書は、地域の平和と安定を促進し、イランの重要な経済課題に対処することを目指しています。",
-    "summary_en": "The memo outlines a comprehensive agreement involving a cessation of hostilities and a commitment from Iran to never pursue nuclear weapons. Additionally, it proposes a substantial $300 billion redevelopment package aimed at revitalizing Iran's economy. Overall, the document seeks to foster peace and stability in the region while addressing significant economic challenges in Iran.",
-    "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+    "title": "ロシアの本格的な戦争が始まって以来、モスクワが最大のウクライナ攻撃を受ける",
+    "title_en": "Moscow hit by largest Ukrainian attack since start of Russia's full-scale war",
+    "summary": "約200機のウクライナのドローンがモスクワ南東部の地域を標的にし、精油所とショッピングセンターで大規模な火災が発生しました。このドローン攻撃は、紛争の顕著なエスカレーションを示しており、ロシアの首都での安全に対する懸念を引き起こしています。ウクライナとロシアの間の紛争が激化する中、当局は状況に対応しています。",
+    "summary_en": "Almost 200 Ukrainian drones targeted an area southeast of Moscow, resulting in significant fires at a refinery and a shopping center. The drone strikes mark a notable escalation in the conflict, raising concerns about security in the Russian capital. Authorities are responding to the situation as the conflict between Ukraine and Russia continues to intensify.",
+    "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-18 16:26"
+    "publishedAt": "2026-06-18 22:38"
   },
   {
     "source": "NHK",
-    "title": "消費税減税 自民 小野寺税調会長 “理解得るため議論加速を”",
+    "title": "原子力規制委員会 山中委員長が福島第一原発の廃炉作業を視察",
     "title_en": "",
-    "summary": "自民党の小野寺税制調査会長は、食料品の消費税率を来年4月から2年間、1％に引き下げる案について、できるだけ多くの政党の理解と協力を得たいとして、超党派の「国民会議」での議論を加速する考えを示しました。案では、中低所得の現役勤労者に対し、消費税1％分に相当する給付を行い、実質的な税負担をゼロにすることを目指しています。また、自民党の小林政務調査会長は、議長案を基に党内の意見集約を進めるとともに、将来的な給付付き税額控除との連携や、農業・外食業界への配慮を重視する考えを示しました。",
+    "summary": "原子力規制委員会の山中委員長らが福島第一原発の廃炉現場を視察しました。東京電力に対し、6月から始まった2号機の燃料プールからの核燃料取り出しを着実に進めるよう要請しました。引き続き、廃炉作業の進捗が重要視されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015153371000",
-    "category": "経済",
-    "publishedAt": "2026-06-18 16:26"
+    "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153781000.html",
+    "category": "その他",
+    "publishedAt": "2026-06-18 22:38"
   }
 ]
