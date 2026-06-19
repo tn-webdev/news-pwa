@@ -54,7 +54,7 @@ def fetch_rss(url):
 
     feed = feedparser.parse(resp.content)
     entries = feed.entries
-        
+
     # 記事が空でない時だけ1件
     return feed.entries[0] if feed.entries else None
 
@@ -71,27 +71,33 @@ def fetch_rss_ai_multiple(url, max_items=2):
     resp.raise_for_status()
 
     feed = feedparser.parse(resp.content)
-    entries = feed.entries
 
-    if not entries:
-        return []
+    return feed.entries[:max_items]
 
-    keywords = ["openai", "chatgpt", "sam altman", "gpt", "large language model"]
+    # -------------------------
+    # OpenAI関連ニュース優先取得
+    # -------------------------
+    # entries = feed.entries
 
-    # 優先記事（OpenAI/ChatGPT関連）を先に取得
-    priority_items = []
-    normal_items = []
+    # if not entries:
+    #     return []
 
-    for e in entries:
-        text = (e.title + " " + e.get("summary", "")).lower()
-        if any(k in text for k in keywords):
-            priority_items.append(e)
-        else:
-            normal_items.append(e)
+    # keywords = ["openai", "chatgpt", "sam altman", "gpt", "large language model"]
 
-    # 優先 → 通常 の順で max_items 件取り出す
-    combined = priority_items + normal_items
-    return combined[:max_items]
+    # # 優先記事（OpenAI/ChatGPT関連）を先に取得
+    # priority_items = []
+    # normal_items = []
+
+    # for e in entries:
+    #     text = (e.title + " " + e.get("summary", "")).lower()
+    #     if any(k in text for k in keywords):
+    #         priority_items.append(e)
+    #     else:
+    #         normal_items.append(e)
+
+    # # 優先 → 通常 の順で max_items 件取り出す
+    # combined = priority_items + normal_items
+    # return combined[:max_items]
 
 def deduplicate_articles(entries):
     seen_links = set()
