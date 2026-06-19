@@ -181,7 +181,9 @@ def summarize(text, title=""):
     else:
             prompt = (
                 f"{date_rule}\n"
-                f"次の記事を3行で要約してください：\n{text}"
+                "次の記事について、ニュースとして重要な事実を3文で要約してください。"
+                "視察や会見などの行為そのものではなく、確認された内容や影響を優先して要約してください。\n"
+                f"{text}"
             )
     
     res = client.chat.completions.create(
@@ -217,7 +219,10 @@ def summarize_en(text, title=""):
         )
     else:
         prompt = (
-            "Summarize the following article in about 3 sentences:\n"
+            "Summarize the following article in exactly 2 short sentences. "
+            "Keep it under 60 words. Do not include background details. "
+            "Focus only on: what happened, who is involved, and why it matters."
+            # "Summarize the following article in about 80-100 words:\n"
             f"{text}"
         )
 
@@ -410,7 +415,7 @@ def main():
 
         print(f"🧠 [{info['source']}] 要約中...")
         summary = summarize(description, title)
-
+        
         title_ja = title
         summary_ja = ""
         title_en = ""

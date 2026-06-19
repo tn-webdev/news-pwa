@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AnthropicのClaude Code Artifactsアップデートが企業向けにライブ共有ダッシュボードとインタラクティブ作業スペースを提供",
+    "title": "AnthropicのClaude Code Artifactsアップデートが企業向けにライブ共有ダッシュボードとインタラクティブな作業スペースを提供",
     "title_en": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-    "summary": "Anthropicは、TeamおよびEnterpriseプランのユーザー向けに「Artifacts」と呼ばれる革新的な機能を導入しました。この機能は、コーディングセッションをライブでインタラクティブなHTMLウェブページに変換します。これにより、リアルタイムでのコラボレーションが可能になり、ユーザーはダイナミックなダッシュボードやアプリのデザインを共有し、チームメイトは変化を即座に確認できるため、従来のステータスアップデートを省略できます。この機能は、OpenAIのCodex Sitesなどの競合製品と対照的に、Claude Code Artifactsは一時的で安全な視覚ツールを強調しており、バックエンド機能を持たないため、フルスタックアプリケーションとして機能するのではなく、内部のワークフローをターゲットにしています。",
-    "summary_en": "Anthropic has introduced a revolutionary feature for users of Claude Code under Team and Enterprise plans called \"Artifacts,\" which transforms a coding session into a live, interactive HTML webpage. This allows for real-time collaboration, enabling users to share dynamic dashboards or app designs with teammates who can see updates as they happen, eliminating the need for traditional status updates. The feature contrasts with competitors like OpenAI's Codex Sites, as Claude Code Artifacts emphasizes ephemeral, secure visual tools without backend functionality, thus targeting internal workflows rather than serving as full-stack applications.",
+    "summary": "Anthropicは、新機能「Artifacts」をClaude Codeに導入し、ユーザーがコーディング作業やリアルタイムの更新を示すライブでインタラクティブなHTMLウェブページを作成できるようになりました。この革新は、技術的および非技術的な関係者間のコラボレーションを強化し、OpenAIのCodex Sitesとの競争の中で企業向け作業ツールにおける重要な進展を示しています。",
+    "summary_en": "Anthropic has launched a new feature called Artifacts for Claude Code, enabling users to create live, interactive HTML webpages that showcase coding work and real-time updates. This innovation enhances collaboration among technical and non-technical stakeholders, marking a significant advancement in enterprise workspace tools amidst competition with OpenAI's Codex Sites.",
     "link": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
     "category": "AI",
-    "publishedAt": "2026-06-19 14:12"
+    "publishedAt": "2026-06-19 16:18"
   },
   {
     "source": "VentureBeat",
-    "title": "新しいAI最適化フレームワークが同じコンピュート予算でClaude CodeとCodexを2.5倍上回る成果を達成",
+    "title": "新しいAI最適化フレームワークが同じ計算予算でClaude CodeとCodexを2.5倍上回る",
     "title_en": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
-    "summary": "中国人民大学とマイクロソフトリサーチの研究者たちが開発したArborは、従来の試行錯誤手法を累積学習プロセスに変換することを目的としたAIシステムの自主最適化を改善するフレームワークです。Arborは、研究の方向性を管理する調整エージェントと、孤立した仮説を探索する複数の実行エージェントで構成される二重エージェントシステムを導入しており、改善点の明確な帰属を可能にし、繰り返しのミスを防ぎます。実際のテストでは、Arborは標準的なAIコーディングエージェントの性能向上を2.5倍以上示し、複雑な工学タスクにおける継続的改善の可能性を示すとともに、信頼性のある評価指標の重要性を強調しています。",
-    "summary_en": "Researchers from Renmin University of China and Microsoft Research developed Arbor, a framework aimed at improving the autonomous optimization of AI systems by transforming the traditional trial-and-error method into a cumulative learning process. Arbor introduces a dual-agent system, consisting of a coordinating agent that manages research direction and several executor agents that explore isolated hypotheses, allowing for clear attribution of improvements and preventing repeated mistakes. In practical tests, Arbor demonstrated over 2.5 times the performance gains of standard AI coding agents, showing promise for continuous improvement in complex engineering tasks while emphasizing the importance of trustworthy evaluation metrics.",
+    "summary": "中国人民大学とマイクロソフトリサーチの研究者たちは、最適化タスクにおいてAIエージェントが過去の失敗から学習できるフレームワーク「Arbor」を開発しました。Arborは従来のAIコーディングエージェントを大幅に上回り、性能向上を2.5倍以上達成しました。これにより企業のAIシステムの効率が向上する可能性があります。",
+    "summary_en": "Researchers from Renmin University of China and Microsoft Research developed Arbor, a framework that enables AI agents to learn from past failures during optimization tasks. Arbor significantly outperformed traditional AI coding agents, achieving over 2.5 times the performance gains, which can enhance the efficiency of enterprise AI systems.",
     "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
     "category": "AI",
-    "publishedAt": "2026-06-19 14:12"
+    "publishedAt": "2026-06-19 16:18"
   },
   {
     "source": "NHK",
-    "title": "政府 塗料用シンナーを直接販売する仕組み導入 今月23日から",
+    "title": "株価 終値として5日連続最高値更新",
     "title_en": "",
-    "summary": "赤澤経済産業大臣は、流通の目詰まりが問題となっている塗料用シンナーについて、直接販売の仕組みを導入することを発表しました。これにより、メーカーが工務店などに直接供給することが可能になります。この新しい販売方法は、今月23日から開始される予定です。",
+    "summary": "東京株式市場では、アメリカとイランが戦闘終結に向けた覚書に署名したことを受け、ホルムズ海峡の航行正常化への期待感が広がりました。この影響で、日経平均株価は上昇し、終値として5日連続で最高値を更新しました。市場の安定を反映した結果、投資家の信頼感が高まっていることが伺えます。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154391000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154081000.html",
     "category": "経済",
-    "publishedAt": "2026-06-19 14:13"
+    "publishedAt": "2026-06-19 16:18"
   },
   {
     "source": "BBC",
-    "title": "米、海上封鎖を解除、イラン最高指導者がトランプの取引を「絶望から生まれた」と発言",
+    "title": "米国が海上封鎖を解除、イラン最高指導者はトランプが絶望の中で合意を結んだと発言",
     "title_en": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-    "summary": "イランの最高指導者は、ドナルド・トランプ前大統領が署名した核合意に対して不満を表明し、それが「絶望的な状態」での決定であると示唆しました。彼はその合意とその影響について批判し、その条件に対する支持がないことを示しました。この発言は、イランの核野心とアメリカとの外交関係に関する継続的な緊張を反映しています。",
-    "summary_en": "Iran's supreme leader expressed his disapproval of the nuclear deal signed by former President Donald Trump, suggesting that it was a decision made in a state of \"desperation.\" He criticized the agreement and its implications, indicating a lack of support for the terms and conditions laid out in the deal. This statement reflects ongoing tensions surrounding Iran's nuclear ambitions and diplomatic relations with the United States.",
+    "summary": "イランの最高指導者は、ドナルド・トランプが署名した合意を批判し、それが絶望の結果であると主張した。この対立は、イランと米国の間の国際的合意に関する緊張と異なる視点を浮き彫りにしている。",
+    "summary_en": "Iran's supreme leader criticized a deal signed by Donald Trump, claiming it was a result of desperation. This disagreement highlights ongoing tensions and differing perspectives on international agreements between Iran and the United States.",
     "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-19 14:13"
+    "publishedAt": "2026-06-19 16:19"
   },
   {
     "source": "NHK",
     "title": "原子力規制委員会 山中委員長が福島第一原発の廃炉作業を視察",
     "title_en": "",
-    "summary": "原子力規制委員会の山中委員長が福島第一原発の廃炉現場を視察しました。東京電力に対して、2号機の燃料プールからの核燃料取り出しを進めるよう求めました。視察は廃炉作業の進捗確認を目的としています。",
+    "summary": "原子力規制委員会の山中伸介委員長は、福島第一原発の廃炉作業について東京電力に指導を行い、2号機の燃料プールからの核燃料の取り出しを確実に進めるよう要請しました。この視察では、廃炉作業の進捗状況が確認されました。規制委員会は、廃炉作業の安全性と効率性を重視している姿勢を示しています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153781000.html",
     "category": "その他",
-    "publishedAt": "2026-06-19 14:13"
+    "publishedAt": "2026-06-19 16:19"
   }
 ]
