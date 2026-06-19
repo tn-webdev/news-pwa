@@ -245,6 +245,8 @@ def translate_to_japanese(title_en: str, summary_en: str):
         "Translate the provided English title and summary into clear, natural Japanese "
         "suitable for news readers. Preserve meaning strictly, avoid embellishment, "
         "and maintain factual accuracy.\n"
+        "All Japanese output must use polite Japanese news style (です・ます調).\n"
+        "Never use plain style (だ・である調).\n"
         "For proper nouns such as people, places, and organizations, follow these rules:\n"
         "1. Use widely established Japanese renderings when they exist.\n"
         "2. If you are not confident about the established Japanese rendering, preserve the original alphabetic form.\n"

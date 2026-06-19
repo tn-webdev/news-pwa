@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AnthropicのClaude Code Artifactsアップデートが企業向けにライブ共有ダッシュボードとインタラクティブな作業スペースを提供",
+    "title": "AnthropicのClaude Codeに新機能「Artifacts」追加、企業向けにライブ共有ダッシュボードやインタラクティブワークスペースを提供",
     "title_en": "Anthropic's Claude Code Artifacts update brings live, shared dashboards and interactive workspaces to enterprises",
-    "summary": "Anthropicは、新機能「Artifacts」をClaude Codeに導入し、ユーザーがコーディング作業やリアルタイムの更新を示すライブでインタラクティブなHTMLウェブページを作成できるようになりました。この革新は、技術的および非技術的な関係者間のコラボレーションを強化し、OpenAIのCodex Sitesとの競争の中で企業向け作業ツールにおける重要な進展を示しています。",
-    "summary_en": "Anthropic has launched a new feature called Artifacts for Claude Code, enabling users to create live, interactive HTML webpages that showcase coding work and real-time updates. This innovation enhances collaboration among technical and non-technical stakeholders, marking a significant advancement in enterprise workspace tools amidst competition with OpenAI's Codex Sites.",
+    "summary": "Anthropicは、Claude Codeのための「Artifacts」という機能を発表しました。この機能により、セッションがライブで共有可能なHTMLウェブページに変換され、チームにリアルタイムの更新と洞察を提供します。この革新は、技術者と非技術者の間のコミュニケーションを円滑にし、AIを活用した協調的開発ツールにおける重要な進展となります。",
+    "summary_en": "Anthropic launched a feature called Artifacts for Claude Code, transforming sessions into live, shareable HTML webpages that provide real-time updates and insights for teams. This innovation streamlines communication between technical and non-technical stakeholders, marking a significant advancement in collaborative AI-powered development tools.",
     "link": "https://venturebeat.com/data/anthropics-claude-code-artifacts-update-brings-live-shared-dashboards-and-interactive-workspaces-to-enterprises",
     "category": "AI",
-    "publishedAt": "2026-06-19 16:18"
+    "publishedAt": "2026-06-19 16:49"
   },
   {
     "source": "VentureBeat",
-    "title": "新しいAI最適化フレームワークが同じ計算予算でClaude CodeとCodexを2.5倍上回る",
+    "title": "新しいAI最適化フレームワークが同じ計算リソースでClaude CodeおよびCodexを2.5倍上回る成果を達成",
     "title_en": "New AI optimization framework beats Claude Code and Codex by 2.5x on the same compute budget",
-    "summary": "中国人民大学とマイクロソフトリサーチの研究者たちは、最適化タスクにおいてAIエージェントが過去の失敗から学習できるフレームワーク「Arbor」を開発しました。Arborは従来のAIコーディングエージェントを大幅に上回り、性能向上を2.5倍以上達成しました。これにより企業のAIシステムの効率が向上する可能性があります。",
-    "summary_en": "Researchers from Renmin University of China and Microsoft Research developed Arbor, a framework that enables AI agents to learn from past failures during optimization tasks. Arbor significantly outperformed traditional AI coding agents, achieving over 2.5 times the performance gains, which can enhance the efficiency of enterprise AI systems.",
+    "summary": "中国人民大学とマイクロソフトリサーチの研究者たちは、AIシステムの最適化能力を向上させるフレームワーク「Arbor」を開発しました。これは累積学習プロセスを通じて、既存のエージェントに比べてエンジニアリングタスクでのパフォーマンスを2.5倍以上改善するものです。この進展は、複雑な企業システムにおける継続的な改善を自動化し、より良く効率的なAI駆動のソリューションを実現する上で重要です。",
+    "summary_en": "Researchers at Renmin University of China and Microsoft Research developed Arbor, a framework that enhances AI systems' abilities to optimize through a cumulative learning process, improving performance on engineering tasks by over 2.5 times compared to existing agents. This advancement is crucial for automating continuous improvement in complex enterprise systems, enabling better and more efficient AI-driven solutions.",
     "link": "https://venturebeat.com/orchestration/new-ai-optimization-framework-beats-claude-code-and-codex-by-2-5x-on-the-same-compute-budget",
     "category": "AI",
-    "publishedAt": "2026-06-19 16:18"
+    "publishedAt": "2026-06-19 16:49"
   },
   {
     "source": "NHK",
     "title": "株価 終値として5日連続最高値更新",
     "title_en": "",
-    "summary": "東京株式市場では、アメリカとイランが戦闘終結に向けた覚書に署名したことを受け、ホルムズ海峡の航行正常化への期待感が広がりました。この影響で、日経平均株価は上昇し、終値として5日連続で最高値を更新しました。市場の安定を反映した結果、投資家の信頼感が高まっていることが伺えます。",
+    "summary": "東京株式市場では、アメリカとイランが戦闘終結に向けた覚書に署名したことから、ホルムズ海峡の航行が正常化する期待感が高まりました。この影響を受けて、日経平均株価は上昇し、最高値を5日連続で更新しました。市場の楽観的な雰囲気が株価を押し上げる形となっています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260619/k10015154081000.html",
     "category": "経済",
-    "publishedAt": "2026-06-19 16:18"
+    "publishedAt": "2026-06-19 16:49"
   },
   {
     "source": "BBC",
-    "title": "米国が海上封鎖を解除、イラン最高指導者はトランプが絶望の中で合意を結んだと発言",
-    "title_en": "US lifts naval blockade as Iran's supreme leader says Trump made deal 'out of desperation'",
-    "summary": "イランの最高指導者は、ドナルド・トランプが署名した合意を批判し、それが絶望の結果であると主張した。この対立は、イランと米国の間の国際的合意に関する緊張と異なる視点を浮き彫りにしている。",
-    "summary_en": "Iran's supreme leader criticized a deal signed by Donald Trump, claiming it was a result of desperation. This disagreement highlights ongoing tensions and differing perspectives on international agreements between Iran and the United States.",
-    "link": "https://www.bbc.com/news/articles/c8r2eejdd35o?at_medium=RSS&at_campaign=rss",
+    "title": "米国とイランの会談が延期、バンスがスイス訪問を取りやめ",
+    "title_en": "US-Iran talks postponed as Vance pulls out of Switzerland trip",
+    "summary": "レバノンでの衝突により、18人と4人のイスラエル国防軍兵士が死亡しましたが、既存の停戦が維持されています。このエスカレーションは地域の緊張の高まりを示しており、平和努力のもろさを浮き彫りにしています。",
+    "summary_en": "Eighteen individuals and four Israeli Defense Forces soldiers were killed in clashes in Lebanon, despite an existing truce. This escalation underscores ongoing tensions in the region, highlighting the fragility of peace efforts.",
+    "link": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-19 16:19"
+    "publishedAt": "2026-06-19 16:49"
   },
   {
     "source": "NHK",
     "title": "原子力規制委員会 山中委員長が福島第一原発の廃炉作業を視察",
     "title_en": "",
-    "summary": "原子力規制委員会の山中伸介委員長は、福島第一原発の廃炉作業について東京電力に指導を行い、2号機の燃料プールからの核燃料の取り出しを確実に進めるよう要請しました。この視察では、廃炉作業の進捗状況が確認されました。規制委員会は、廃炉作業の安全性と効率性を重視している姿勢を示しています。",
+    "summary": "原子力規制委員会は福島第一原発の廃炉作業の進捗を確認し、東京電力に対して燃料プールからの核燃料取り出しを着実に進めるよう指示しました。視察を通じて、委員会は廃炉に向けた作業の重要性を強調しました。この取り組みは、安全な廃炉を実現するための重要なステップと位置付けられています。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260618/k10015153781000.html",
     "category": "その他",
-    "publishedAt": "2026-06-19 16:19"
+    "publishedAt": "2026-06-19 16:49"
   }
 ]
