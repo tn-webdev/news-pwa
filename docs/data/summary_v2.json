@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "7,000台のLangflowサーバーが攻撃を受けています。LangGraphとLangChainにも同様の脆弱性があります",
-    "title_en": "7,000 Langflow servers are under attack. LangGraph and LangChain have the same holes",
-    "summary": "広く利用されている三つのAIフレームワーク、LangGraph、Langflow、そしてLangChain-coreが、SQLインジェクションやパス・トラバーサル攻撃による悪用の脆弱性があることが判明しました。これにより、リモートでのコード実行の可能性が生じます。攻撃者が機密情報やデータにアクセスできるようになるため、今後のAIインフラにおける重要なセキュリティギャップが浮き彫りになっています。",
-    "summary_en": "Three widely used AI frameworks—LangGraph, Langflow, and LangChain-core—were found to be vulnerable to exploitation through SQL injection and path traversal attacks, leading to potential remote code execution. This poses a significant risk by enabling attackers to access sensitive credentials and data, highlighting critical security gaps in emerging AI infrastructure.",
-    "link": "https://venturebeat.com/security/7000-langflow-servers-under-attack-langgraph-langchain-same-holes",
+    "title": "アリババのAI動画モデルが世界ランキングで2位に躍進、オープンAIのソラとバイトダンスのシーダンスは後退",
+    "title_en": "Alibaba's AI video model rises to No. 2 in global rankings, as OpenAI's Sora and ByteDance's Seedance fall away",
+    "summary": "アリババクラウドは、アップグレードされたAI動画生成モデル「HappyHorse 1.1」を発表し、企業向けにAPIアクセスを提供しています。このリリースにより、アリババはオープンAIのソラおよびバイトダンスのシーダンス2.0のサービスが終了した中で、増大する競争の中でAI動画市場において強力な競争者としての地位を確立しました。",
+    "summary_en": "Alibaba Cloud launched HappyHorse 1.1, an upgraded AI video generation model, which is now available with API access for enterprise customers and a 40% discount for two weeks. This release positions Alibaba as a strong contender in the AI video market amid heightened competition and limited alternatives following the discontinuation of OpenAI's Sora and ByteDance's Seedance 2.0.",
+    "link": "https://venturebeat.com/technology/alibabas-ai-video-model-rises-to-no-2-in-global-rankings-as-openais-sora-and-bytedances-seedance-fall-away",
     "category": "AI",
-    "publishedAt": "2026-06-22 13:44"
+    "publishedAt": "2026-06-23 16:26"
   },
   {
     "source": "VentureBeat",
-    "title": "ファインチューニングの問題。RAGは文脈を漏らす。ハイパーネットワークがエージェントに必要なモデルをオンデマンドで構築します。",
-    "title_en": "Fine-tuning forgets. RAG leaks context. Hypernetworks build the model your agent needs on demand.",
-    "summary": "AIエージェントはしばしば実運用において苦労し、効率性が期待されるにもかかわらず人間の監督を必要とするため、多くのパイロットプログラムが失敗しています。新しいハイパーネットワークを基にしたモデルアプローチは、企業の方針からタスク特化型モデルをオンデマンドでシームレスに生成することを目指しており、自動化の向上と高頻度の繰り返し作業における人間の介入を減少させるための潜在的な解決策を提供します。",
-    "summary_en": "AI agents often struggle in production, requiring human supervision despite promising efficiency, leading to many pilot programs failing. A new hypernetwork-based model approach aims to seamlessly generate task-specific models from company policies on demand, offering a potential solution to enhance automation and reduce human intervention in high-repetitive tasks.",
-    "link": "https://venturebeat.com/orchestration/fine-tuning-forgets-rag-leaks-context-hypernetworks-build-the-model-your-agent-needs-on-demand",
+    "title": "クロード・ファーブル5は不要？問題ありません：Sakanaが新しいFuguマルチモデル自動合成システムで最前線のパフォーマンスを達成",
+    "title_en": "No Claude Fable 5? No problem: Sakana achieves frontier performance with new Fugu multi-model, auto synthesis system",
+    "summary": "Sakanaは、OpenAI対応APIを通じて高性能なAI機能を提供することを目的としたマルチエージェントオーケストレーションシステム「Fugu」を発表しました。これは、ベンダーロックインを避けたい開発者や企業向けに設計されています。この発表は、主要なAIモデルへの最近の輸出規制に対するものであり、AIインフラにおける柔軟性と回復力の重要性を浮き彫りにしています。",
+    "summary_en": "Sakana launched Fugu, a multi-agent orchestration system designed to deliver high-performing AI capabilities through an OpenAI-compatible API, targeting developers and enterprises looking to avoid vendor lock-in. This launch comes in response to recent export controls affecting leading AI models, highlighting the importance of resilience and flexibility in AI infrastructure.",
+    "link": "https://venturebeat.com/orchestration/no-claude-fable-5-no-problem-sakana-achieves-frontier-performance-with-new-fugu-multi-model-auto-synthesis-system",
     "category": "AI",
-    "publishedAt": "2026-06-22 13:44"
+    "publishedAt": "2026-06-23 16:26"
   },
   {
     "source": "NHK",
-    "title": "株価 初の7万2000円台 “米イラン協議に進展”の見方から",
+    "title": "株価 午後に下落幅が拡大 一時7万円割れ",
     "title_en": "",
-    "summary": "最近の東京株式市場で、イラン情勢を巡るスイスでの協議の進展が期待され、日経平均株価が1000円以上上昇しました。この結果、株価は初めて7万2000円を超える水準に達しました。市場へのポジティブな影響が見られる中、投資家の信頼感が高まっています。",
+    "summary": "東京株式市場では、売り注文が増加し、日経平均株価が大きく下落した。下落幅は2300円を超え、一時的に7万円を下回る水準に達した。これは投資家の心理に悪影響を及ぼし、マーケット全体に不安感が広がっている。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260622/k10015156031000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260623/k10015157011000.html",
     "category": "経済",
-    "publishedAt": "2026-06-22 13:44"
+    "publishedAt": "2026-06-23 16:26"
   },
   {
     "source": "BBC",
-    "title": "米イラン協議の第一ラウンドが「励みとなる進展」との報告で終了",
-    "title_en": "First round of US-Iran talks end with 'encouraging progress', mediators say",
-    "summary": "アメリカとイランはスイスで協議を開始し、先週の合意に基づき60日以内に合意を最終化する予定です。この動きは、今後の関係や地域の安定性に影響を与える可能性があるため、重要です。",
-    "summary_en": "US and Iran commenced talks in Switzerland, following last week's agreement to finalize a deal within 60 days. This development is significant as it may shape future relations and stability in the region.",
-    "link": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+    "title": "イランはバンス氏が検査官の再招待を発表した後、核施設に関する新たな約束はないと述べる",
+    "title_en": "Iran says no new commitments on nuclear sites after Vance says inspectors to be invited back",
+    "summary": "イランの外務省は、スイスでの協議を受けて、核検査に関して新たな約束は行われなかったと発表しました。これは、イランの核プログラムに対する懸念や国際的な外交に影響を与えるため、重要な出来事です。",
+    "summary_en": "Iran's foreign ministry announced that no new commitments were made regarding nuclear inspections following discussions in Switzerland. This is significant as it impacts ongoing international diplomacy and concerns over Iran's nuclear program.",
+    "link": "https://www.bbc.com/news/articles/c3vy3nr63gxo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-22 13:45"
+    "publishedAt": "2026-06-23 16:26"
   },
   {
     "source": "NHK",
-    "title": "東電 柏崎刈羽原発を視察 “安全最優先で” 佐藤官房副長官",
+    "title": "福島第一原発1号機で燃料プール周辺のがれき撤去開始",
     "title_en": "",
-    "summary": "東京電力柏崎刈羽原子力発電所の6号機に関し、政府の監視チームのトップが安全対応を徹底するよう東京電力に指示しました。この要請は、発電所の運営における安全性確保を強化するためのものであり、特に最近の状況を考慮しています。安全最優先の方針に基づき、発電所の運営が見直される可能性があります。",
+    "summary": "東京電力は福島第一原子力発電所1号機の燃料プールからの核燃料取り出しに向けて、大量のがれきを撤去する作業を開始しました。これは原発事故による水素爆発によって飛散したがれきを対象としています。作業が進むことで、核燃料の取り出しが可能になる見込みです。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260621/k10015155781000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260622/k10015156501000.html",
     "category": "その他",
-    "publishedAt": "2026-06-22 13:45"
+    "publishedAt": "2026-06-23 16:26"
   }
 ]
