@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "エンタープライズ向けのAI画像生成が2秒で実現：Krea 2 RawおよびKrea 2 Turboがカスタムライセンスの下でオープンウェイトとして提供開始",
-    "title_en": "Enterprise-grade AI image generation in 2 seconds is here: Krea 2 Raw and Turbo available as open weights under custom license",
-    "summary": "Kreaは、Krea 2 RawとKrea 2 Turboという2つのAI画像モデルを発表し、現在のオプションよりも視覚的に異なるカスタマイズ可能な出力を提供することを目指しています。これは、AI生成画像の単調さに対する懸念に対処し、厳格なライセンス条項を通じて企業が有害なコンテンツの生成をより良く防ぐことを可能にするため、重要です。",
-    "summary_en": "Krea has launched two AI image models, Krea 2 Raw and Krea 2 Turbo, aiming to provide more visually distinct and customizable outputs than current options, thereby enhancing creative workflows for users. This matters as it addresses concerns about the monotony of AI-generated imagery and enables enterprises to better protect against the generation of harmful content through strict licensing terms.",
-    "link": "https://venturebeat.com/technology/enterprise-grade-ai-image-generation-in-2-seconds-is-here-krea-2-raw-and-turbo-available-as-open-weights-under-custom-license",
+    "title": "あなたの企業AIエージェントは、どのモデルがどのタスクに適しているかを自動的に記憶すべきです。MindstoneはRebelでその機能を構築しました",
+    "title_en": "Your enterprise AI agents should automatically remember which model is right for which task. Mindstone built the capability with Rebel",
+    "summary": "ロンドンに拠点を置くスタートアップのMindstoneは、有望なAIオーケストレーションプラットフォームであるRebelを立ち上げ、小規模チームがFair Sourceライセンスの下でAIワークフローをカスタマイズできるようにしました。この革新的なシステムは、タスクの重要性に基づいて動的にモデルを選択できることにより、安全性と柔軟性を強調し、組織全体の記憶を共有して生産性と業務効率を向上させることを目指しています。",
+    "summary_en": "London-based startup Mindstone launched its promising AI orchestration platform, Rebel, allowing small teams to customize AI workflows under a Fair Source license. This innovative system emphasizes security and flexibility by enabling dynamic model selection based on task sensitivity, fostering shared organizational memory that enhances productivity and operational efficiency across enterprise teams.",
+    "link": "https://venturebeat.com/orchestration/your-enterprise-ai-agents-should-automatically-remember-which-model-is-right-for-which-task-mindstone-built-the-capability-with-rebel",
     "category": "AI",
-    "publishedAt": "2026-06-24 17:22"
+    "publishedAt": "2026-06-25 15:28"
   },
   {
     "source": "VentureBeat",
-    "title": "AnthropicがClaude Tagを発表、Slackアプリを独立して学習・監視・作業を行うAIチームメイトに置き換え",
-    "title_en": "Anthropic launches Claude Tag, replacing its Slack app with a persistent AI teammate that learns, monitors and works autonomously",
-    "summary": "Anthropicは、チームが簡単なコマンドを通してタスクを割り当てることを可能にするSlackに統合されたAI「Claude Tag」を発表しました。これにより、コラボレーションとワークフローが強化されることになります。この重要な開発により、Anthropicは企業向けAIの分野において重要なプレーヤーとして位置づけられ、AIが職場のコミュニケーションチャネル内でどのように相互作用するかを再定義しています。",
-    "summary_en": "Anthropic launched Claude Tag, an AI integrated into Slack that allows teams to assign tasks through simple commands, enhancing collaboration and workflow. This significant development positions Anthropic as a key player in the enterprise AI landscape, redefining how AI interacts within workplace communication channels.",
-    "link": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+    "title": "Mistral、OCR 4を発表し、文書抽出を企業向けのAIソリューションに進化させる",
+    "title_en": "Mistral launches OCR 4, turning document extraction into a full enterprise AI play",
+    "summary": "Mistral AIは、構造化された文書抽出を目的とした先進的な文書インテリジェンスモデルOCR 4を発表しました。これは、規制された業界における企業のコンプライアンスニーズに対応しています。このリリースは、米国の輸出管理に関する懸念が高まる中で行われ、Mistralの市場におけるヨーロッパのAI主権と今後の規制への準拠に対する有利な立ち位置を確保しています。",
+    "summary_en": "Mistral AI launched OCR 4, an advanced document intelligence model designed for structured document extraction, which addresses compliance needs for enterprises in regulated industries. This release comes amid rising concerns about U.S. export controls, positioning Mistral favorably in the market for European AI sovereignty and compliance with upcoming regulations.",
+    "link": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
     "category": "AI",
-    "publishedAt": "2026-06-24 17:22"
+    "publishedAt": "2026-06-25 15:28"
   },
   {
     "source": "NHK",
-    "title": "メガバンク3行がグーグルの最新AI利用へ 片山金融担当相",
+    "title": "株価 一時3200円以上値上がり 7万2000円台を回復",
     "title_en": "",
-    "summary": "片山金融担当大臣は、国内のメガバンク3行がグーグルの最新AIを利用できるようになったことを発表しました。このAIの悪用により深刻なリスクが懸念されている中、金融業界への影響が心配されています。政府は、安全性や倫理的な利用についての対策を強化する必要があります。",
+    "summary": "東京株式市場では、半導体関連の需要が堅調との見方から、幅広い銘柄に買い注文が殺到しました。その結果、日経平均株価は一時3200円以上上昇し、7万2000円台を回復しました。この動きは市場全体にポジティブな影響を与えています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260624/k10015158401000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159251000.html",
     "category": "経済",
-    "publishedAt": "2026-06-24 17:22"
+    "publishedAt": "2026-06-25 15:28"
   },
   {
     "source": "BBC",
-    "title": "議会、初めての戦争権限法案を通過、イラン問題でトランプ政権と対立",
-    "title_en": "Congress passes war powers measure for first time, breaking with Trump over Iran",
-    "summary": "火曜日に通過した決議は、ホワイトハウスに対して継続的な紛争を解決するよう圧力をかけました。主に象徴的なものであるものの、状況に対する議員たちの緊急性が高まっていることを反映しています。",
-    "summary_en": "A resolution passed on Tuesday increased pressure on the White House to resolve the ongoing conflict. While largely symbolic, it reflects growing urgency among lawmakers regarding the situation.",
-    "link": "https://www.bbc.co.uk/news/articles/ce8j6g3v3r4o?at_medium=RSS&at_campaign=rss",
+    "title": "「建物が私の上に倒れてくると思った」 - ベネズエラ人が地震時のパニックを語る",
+    "title_en": "'I thought building would fall on top of me' - Venezuelans describe earthquake panic",
+    "summary": "首都で7.2と7.5のマグニチュードの2つの地震が発生しました。これらの地震活動は、地域のインフラおよび公共の安全に対して重大なリスクをもたらしています。",
+    "summary_en": "Two earthquakes struck the capital, with magnitudes of 7.2 and 7.5 occurring seconds apart. This seismic activity poses significant risks to infrastructure and public safety in the region.",
+    "link": "https://www.bbc.co.uk/news/articles/czj8vjvmz38o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-24 17:22"
+    "publishedAt": "2026-06-25 15:28"
   },
   {
     "source": "NHK",
-    "title": "IAEA事務局長 東京電力福島第一原発を視察 “廃炉作業は順調”",
+    "title": "みらい 与野党の議員対象にAI勉強会を開催 安野党首が講師",
     "title_en": "",
-    "summary": "国際原子力機関のグロッシ事務局長は、福島第一原発の廃炉作業が順調に進んでいると確認しました。これにより、廃炉に向けた取り組みの信頼性が高まることが期待されます。また、IAEAの評価は、国内外の関心を集める中での透明性と進捗状況を示す重要な指標となります。",
+    "summary": "チームみらいは最近、与野党の国会議員を対象にAIに関する勉強会を開催しました。安野党首がエンジニアの視点からAIの活用メリットや利用上の注意点について解説しました。この取り組みにより、政治家がAIを効果的に活用するための理解を深めることを目指しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260624/k10015158061000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260625/k10015159441000.html",
     "category": "その他",
-    "publishedAt": "2026-06-24 17:23"
+    "publishedAt": "2026-06-25 15:28"
   }
 ]
