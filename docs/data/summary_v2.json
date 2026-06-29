@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Liquid AI、最小モデルLFM2.5-230Mを発表。データ抽出でその4倍のサイズのモデルを上回り、「どこでも」動作可能",
-    "title_en": "Liquid AI's smallest model yet LFM2.5-230M beats models 4X its size at data extraction, can run 'anywhere'",
-    "summary": "Liquid AIは企業向けにデータ抽出とオンデバイス処理を強化する新しい2億3000万パラメータのAIモデルLFM2.5-230Mを発表しました。このモデルは効率性が際立ち、限られたハードウェアで動作しながら、大きな競合他社を上回る性能を示しており、AI技術におけるアーキテクチャの効率性への移行を示唆しています。",
-    "summary_en": "Liquid AI launched its new 230-million-parameter AI model, LFM2.5-230M, aimed at enhancing data extraction and on-device processing for enterprises. This model stands out for its efficiency, outperforming larger competitors while operating on limited hardware, signaling a shift towards architectural efficiency in AI technologies.",
-    "link": "https://venturebeat.com/technology/liquid-ais-smallest-model-yet-lfm2-5-230m-beats-models-4x-its-size-at-data-extraction-can-run-anywhere",
+    "title": "プロンプトインジェクションが企業AIの設計上の最大の欠陥を悪用し、エージェント、RAGパイプライン、モデルルーターを標的としています",
+    "title_en": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
+    "summary": "企業は大規模言語モデル（LLM）の利用を増加させていますが、サイバー犯罪者はプロンプトインジェクションのような脆弱性を悪用し、重大なデータ漏洩や認証情報の盗難を引き起こしています。この傾向は、組織がリスクを軽減し、機密情報を効果的に保護するためにLLMを信頼できないシステムとして扱う必要性を浮き彫りにしています。",
+    "summary_en": "Businesses increasingly use large language models (LLMs), but cybercriminals exploit vulnerabilities like prompt injection, leading to significant data breaches and credential theft. This trend highlights the necessity for organizations to treat LLMs as untrusted systems to mitigate risks and safeguard sensitive information effectively.",
+    "link": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
     "category": "AI",
-    "publishedAt": "2026-06-26 20:48"
+    "publishedAt": "2026-06-29 16:25"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAIの更新版GPT-5.5 Instantは、ショッピング、複雑な制約、ユーザーの意図理解が向上し、すでにAPIで利用可能です",
-    "title_en": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent  — and it's already in the API",
-    "summary": "OpenAIは、広く使用されている言語モデルGPT-5.5 Instantを更新し、ユーザーの意図を理解する能力とより良い推奨を提供する能力を強化しました。この重要なアップグレードは、ChatGPTユーザーに展開されており、日常の意思決定やインタラクションの改善を目指しています。",
-    "summary_en": "OpenAI has updated its widely used language model, GPT-5.5 Instant, enhancing its ability to understand user intent and provide better recommendations. This significant upgrade is rolling out to ChatGPT users, aiming to improve everyday decision-making and interactions.",
-    "link": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
+    "title": "クロード コードが全てのエンジニアを3人に変えた。今、企業はより多くのプロダクト思考者を必要としている。",
+    "title_en": "Claude Code turned every engineer into three. Now companies need more product thinkers",
+    "summary": "アンソロピックは、AIツールの進展によりエンジニアリングチームからの需要が増加しているため、より多くのプロダクトマネージャーを採用しています。これにより、エンジニアの人数の3倍のスピードでコードを出荷できるようになりました。この変化は、ソフトウェア開発におけるボトルネックがコーディングから、どの機能を構築するかの意思決定に移行していることを示す業界の広範なトレンドを意味しています。",
+    "summary_en": "Anthropic is hiring more product managers to address the increasing demand from its engineering team, which can now ship code at three times its headcount due to advancements in AI tools. This shift signifies a broader industry trend where the bottleneck in software development has moved from coding to decision-making about what features to build.",
+    "link": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
     "category": "AI",
-    "publishedAt": "2026-06-26 20:48"
+    "publishedAt": "2026-06-29 16:25"
   },
   {
     "source": "NHK",
-    "title": "フジとSBIがメディア事業で業務提携協議 コンテンツ展開強化へ",
+    "title": "株価は小幅上昇 値下がりの銘柄を午後に買い戻す動き",
     "title_en": "",
-    "summary": "フジ・メディア・ホールディングスとSBIホールディングスは、メディア事業において戦略的な業務提携の協議を開始しました。この提携により、アニメやドラマの制作、さらには海外展開に向けた連携が検討されています。両社の協力により、コンテンツ制作の幅が広がることが期待されています。",
+    "summary": "週明けの東京株式市場では、一部のAIや半導体関連の銘柄に売り注文がありましたが、午後からは値下がりした銘柄の買い戻しが進みました。その結果、日経平均株価は小幅に値上がりしました。市場の動きは、特定の業種に対する売買活動によって影響を受けています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260626/k10015160891000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163491000.html",
     "category": "経済",
-    "publishedAt": "2026-06-26 20:48"
+    "publishedAt": "2026-06-29 16:25"
   },
   {
     "source": "BBC",
-    "title": "不安定な時期にベネズエラに襲いかかる壊滅的な地震",
-    "title_en": "Earthquake is devastating blow to Venezuela at time of uncertainty",
-    "summary": "ベネズエラは、アメリカが当時の指導者ニコラス・マドゥロを拘束した直後に、二度の地震を経験しました。これらの地震は、地域における不安定さや地政学的緊張を浮き彫りにしています。",
-    "summary_en": "Venezuela experienced twin earthquakes shortly after the U.S. seized then-leader Nicolás Maduro. The quakes highlight ongoing instability and geopolitical tensions in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/c3vynpw7rk4o?at_medium=RSS&at_campaign=rss",
+    "title": "パキスタンの攻撃がアフガニスタンで多数の死者を出す",
+    "title_en": "Pakistani strikes kill dozens in Afghanistan",
+    "summary": "タリバン政府は最近の事件で民間人が殺害されたと主張しています。一方、パキスタンはこの作戦が武装勢力を対象としていたと主張しています。この対立は両国間の緊張が続いていることを示し、地域の対テロ活動における民間人の安全に対する懸念を引き起こしています。",
+    "summary_en": "The Taliban government claims that civilians were killed in a recent incident, while Pakistan asserts that the operation was aimed at militants. This conflict highlights ongoing tensions between the two countries and raises concerns about civilian safety in regional counterterrorism efforts.",
+    "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-26 20:49"
+    "publishedAt": "2026-06-29 16:25"
   },
   {
     "source": "NHK",
-    "title": "チョルノービリ原発周辺自治体 復興で福島県双葉町と協定締結",
+    "title": "ブタの腎臓ヒトに“異種移植”の治験 北大などで実施へ",
     "title_en": "",
-    "summary": "ウクライナのチョルノービリ原子力発電所周辺の自治体は、事故から40年を迎えたことを契機に、福島県双葉町と協力協定を締結しました。この協定により、両地域は復興に向けた意見交換や事故の教訓の情報共有を行うことになります。これにより、災害からの復興に向けた具体的な取り組みが進展することが期待されています。",
+    "summary": "明治大学発のベンチャー企業が、ブタの腎臓を重い腎不全のヒトに移植する異種移植の治験を、北海道大学病院で再来年にも開始する計画を発表しました。これは腎不全患者に新たな治療法を提供することを目的としています。治験の成功が期待され、移植医療の進展に寄与する可能性があります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260626/k10015161591000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163271000.html",
     "category": "その他",
-    "publishedAt": "2026-06-26 20:49"
+    "publishedAt": "2026-06-29 16:26"
   }
 ]
