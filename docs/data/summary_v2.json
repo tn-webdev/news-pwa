@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "プロンプトインジェクションが企業AIの設計上の最大の欠陥を悪用し、エージェント、RAGパイプライン、モデルルーターを標的としています",
-    "title_en": "Prompt injection is exploiting enterprise AI's biggest design flaws by targeting agents, RAG pipelines and model routers",
-    "summary": "企業は大規模言語モデル（LLM）の利用を増加させていますが、サイバー犯罪者はプロンプトインジェクションのような脆弱性を悪用し、重大なデータ漏洩や認証情報の盗難を引き起こしています。この傾向は、組織がリスクを軽減し、機密情報を効果的に保護するためにLLMを信頼できないシステムとして扱う必要性を浮き彫りにしています。",
-    "summary_en": "Businesses increasingly use large language models (LLMs), but cybercriminals exploit vulnerabilities like prompt injection, leading to significant data breaches and credential theft. This trend highlights the necessity for organizations to treat LLMs as untrusted systems to mitigate risks and safeguard sensitive information effectively.",
-    "link": "https://venturebeat.com/security/prompt-injection-is-exploiting-enterprise-ais-biggest-design-flaws-by-targeting-agents-rag-pipelines-and-model-routers",
+    "title": "メイツァンがオープンソースのLongCat-2.0を発表、1.6兆パラメータの次世代エージェントコーディングモデルでOpenRouterをリード — すべて中国製チップでトレーニングされる",
+    "title_en": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips",
+    "summary": "メイツァンは、1.6兆パラメータのアーキテクチャを持つ強力なオープンソースAIモデルLongCat-2.0を発表しました。このモデルは、クローズドソースの企業ソフトウェアエンジニアリングに挑戦し、手頃な価格の自律的な開発ソリューションを実現します。西側諸国での規制圧力が高まる中、Nvidiaや米国のAIモデルの優位性に対抗することを目指しています。",
+    "summary_en": "Meituan released LongCat-2.0, a powerful open-source AI model intended to disrupt closed-source enterprise software engineering, boasting a 1.6-trillion-parameter architecture. The model's introduction enables affordable, autonomous development solutions, challenging the dominance of Nvidia and U.S. AI models amid increasing regulatory pressures in the West.",
+    "link": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
     "category": "AI",
-    "publishedAt": "2026-06-29 16:25"
+    "publishedAt": "2026-06-30 19:23"
   },
   {
     "source": "VentureBeat",
-    "title": "クロード コードが全てのエンジニアを3人に変えた。今、企業はより多くのプロダクト思考者を必要としている。",
-    "title_en": "Claude Code turned every engineer into three. Now companies need more product thinkers",
-    "summary": "アンソロピックは、AIツールの進展によりエンジニアリングチームからの需要が増加しているため、より多くのプロダクトマネージャーを採用しています。これにより、エンジニアの人数の3倍のスピードでコードを出荷できるようになりました。この変化は、ソフトウェア開発におけるボトルネックがコーディングから、どの機能を構築するかの意思決定に移行していることを示す業界の広範なトレンドを意味しています。",
-    "summary_en": "Anthropic is hiring more product managers to address the increasing demand from its engineering team, which can now ship code at three times its headcount due to advancements in AI tools. This shift signifies a broader industry trend where the bottleneck in software development has moved from coding to decision-making about what features to build.",
-    "link": "https://venturebeat.com/infrastructure/claude-code-turned-every-engineer-into-three-now-companies-need-more-product-thinkers",
+    "title": "DeepSeekがDSparkをオープンソース化、LLM推論を最大85%高速化する新しいフレームワーク",
+    "title_en": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
+    "summary": "DeepSeekは、意味を変えることなく大規模言語モデルからの応答速度を向上させる新しい投機的デコーディングシステムDSparkを発表しました。この革新はAIアプリケーションの効率を改善し、ユーザー体験を向上させるとともに、これらの技術を展開する企業の運用コストを削減するため、重要です。",
+    "summary_en": "DeepSeek launched DSpark, a new speculative decoding system, enabling faster responses from large language models without altering their meaning. This innovation is significant as it improves efficiency in AI applications, enhancing user experience and reducing operational costs for companies deploying these technologies.",
+    "link": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
     "category": "AI",
-    "publishedAt": "2026-06-29 16:25"
+    "publishedAt": "2026-06-30 19:23"
   },
   {
     "source": "NHK",
-    "title": "株価は小幅上昇 値下がりの銘柄を午後に買い戻す動き",
+    "title": "記録的水準の円安 今後は？暮らしはどうなる？【詳しく】",
     "title_en": "",
-    "summary": "週明けの東京株式市場では、一部のAIや半導体関連の銘柄に売り注文がありましたが、午後からは値下がりした銘柄の買い戻しが進みました。その結果、日経平均株価は小幅に値上がりしました。市場の動きは、特定の業種に対する売買活動によって影響を受けています。",
+    "summary": "最近、東京外国為替市場で円相場が1ドル＝162円台前半に達し、約39年半ぶりの円安ドル高水準となりました。この円安の影響で、仕入れコストの上昇が懸念され、生活費の負担が増大する可能性があります。専門家は今後の円相場の見通しに言及しつつ、円安がどのように経済に影響を与えるかを分析しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163491000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164771000.html",
     "category": "経済",
-    "publishedAt": "2026-06-29 16:25"
+    "publishedAt": "2026-06-30 19:23"
   },
   {
     "source": "BBC",
-    "title": "パキスタンの攻撃がアフガニスタンで多数の死者を出す",
-    "title_en": "Pakistani strikes kill dozens in Afghanistan",
-    "summary": "タリバン政府は最近の事件で民間人が殺害されたと主張しています。一方、パキスタンはこの作戦が武装勢力を対象としていたと主張しています。この対立は両国間の緊張が続いていることを示し、地域の対テロ活動における民間人の安全に対する懸念を引き起こしています。",
-    "summary_en": "The Taliban government claims that civilians were killed in a recent incident, while Pakistan asserts that the operation was aimed at militants. This conflict highlights ongoing tensions between the two countries and raises concerns about civilian safety in regional counterterrorism efforts.",
-    "link": "https://www.bbc.co.uk/news/articles/cy8wygyed0wo?at_medium=RSS&at_campaign=rss",
+    "title": "怒りを抱くベネズエラ国民、地震対応の政府の怠慢を非難",
+    "title_en": "Angry Venezuelans accuse government of negligence over earthquake response",
+    "summary": "地震の影響を受けた地域の住民は、二つの災害を受けて政府に対して支援の強化を求めています。彼らの訴えは、地域の復興と再建の取り組みにおける継続的な課題を浮き彫りにし、コミュニティの回復力にとって重要であることを示しています。",
+    "summary_en": "Residents in earthquake-stricken areas are urging the government for increased support following the twin disasters. Their plea highlights the ongoing challenges in recovery and rebuilding efforts that are critical for community resilience.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-29 16:25"
+    "publishedAt": "2026-06-30 19:23"
   },
   {
     "source": "NHK",
-    "title": "ブタの腎臓ヒトに“異種移植”の治験 北大などで実施へ",
+    "title": "AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定",
     "title_en": "",
-    "summary": "明治大学発のベンチャー企業が、ブタの腎臓を重い腎不全のヒトに移植する異種移植の治験を、北海道大学病院で再来年にも開始する計画を発表しました。これは腎不全患者に新たな治療法を提供することを目的としています。治験の成功が期待され、移植医療の進展に寄与する可能性があります。",
+    "summary": "政府の規制改革推進会議は、フィジカルAIを活用した歩行型ロボットの法律上の扱いを明確にする方針を示しました。また、公道での実証実験を推進するための措置を含む答申を決定しました。この取り組みにより、ロボット技術の実用化が進む可能性があります。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163271000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html",
     "category": "その他",
-    "publishedAt": "2026-06-29 16:26"
+    "publishedAt": "2026-06-30 19:23"
   }
 ]
