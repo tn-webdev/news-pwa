@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "メイツァンがオープンソースのLongCat-2.0を発表、1.6兆パラメータの次世代エージェントコーディングモデルでOpenRouterをリード — すべて中国製チップでトレーニングされる",
-    "title_en": "Meituan open sources LongCat-2.0, the 1.6T, near-frontier agentic coding model that's been leading OpenRouter — trained entirely on Chinese chips",
-    "summary": "メイツァンは、1.6兆パラメータのアーキテクチャを持つ強力なオープンソースAIモデルLongCat-2.0を発表しました。このモデルは、クローズドソースの企業ソフトウェアエンジニアリングに挑戦し、手頃な価格の自律的な開発ソリューションを実現します。西側諸国での規制圧力が高まる中、Nvidiaや米国のAIモデルの優位性に対抗することを目指しています。",
-    "summary_en": "Meituan released LongCat-2.0, a powerful open-source AI model intended to disrupt closed-source enterprise software engineering, boasting a 1.6-trillion-parameter architecture. The model's introduction enables affordable, autonomous development solutions, challenging the dominance of Nvidia and U.S. AI models amid increasing regulatory pressures in the West.",
-    "link": "https://venturebeat.com/technology/meituan-open-sources-longcat-2-0-the-1-6t-near-frontier-agentic-coding-model-thats-been-leading-openrouter-trained-entirely-on-chinese-chips",
+    "title": "モルガン・スタンレー、リスクの高い調整業務を半減 — エージェントの自律性を低下させることで",
+    "title_en": "Morgan Stanley cut its riskiest reconciliation job in half — by making its agents less autonomous",
+    "summary": "モルガン・スタンレーは、利益と損失の調整を強化するためにFIXRシステムを導入し、プロセス時間を最大半分に短縮しつつ、人間の監視を維持しています。このアプローチは、AIと人間の意思決定間の協力に焦点を当てることで、金融業務におけるより複雑な作業自動化の可能性を示しています。",
+    "summary_en": "Morgan Stanley implemented the FIXR system to enhance profit and loss reconciliation, reducing the process time by up to half while keeping humans involved for oversight. This approach highlights the potential for more complex work automation in finance by focusing on collaboration between AI and human decision-making.",
+    "link": "https://venturebeat.com/orchestration/morgan-stanley-cut-its-riskiest-reconciliation-job-in-half-by-making-its-agents-less-autonomous",
     "category": "AI",
-    "publishedAt": "2026-06-30 19:23"
+    "publishedAt": "2026-07-01 16:08"
   },
   {
     "source": "VentureBeat",
-    "title": "DeepSeekがDSparkをオープンソース化、LLM推論を最大85%高速化する新しいフレームワーク",
-    "title_en": "DeepSeek open sources DSpark, a new framework to speed up LLM inference by up to 85%",
-    "summary": "DeepSeekは、意味を変えることなく大規模言語モデルからの応答速度を向上させる新しい投機的デコーディングシステムDSparkを発表しました。この革新はAIアプリケーションの効率を改善し、ユーザー体験を向上させるとともに、これらの技術を展開する企業の運用コストを削減するため、重要です。",
-    "summary_en": "DeepSeek launched DSpark, a new speculative decoding system, enabling faster responses from large language models without altering their meaning. This innovation is significant as it improves efficiency in AI applications, enhancing user experience and reducing operational costs for companies deploying these technologies.",
-    "link": "https://venturebeat.com/orchestration/deepseek-open-sources-dspark-a-new-framework-to-speed-up-llm-inference-by-up-to-85",
+    "title": "AnthropicがIPOに向けて急成長する中、最上位モデルより大幅割引でClaude Sonnet 5を発売",
+    "title_en": "Anthropic launches Claude Sonnet 5 at a steep discount to its top model as the company races toward a blockbuster IPO",
+    "summary": "AnthropicはClaude Sonnet 5モデルを発表し、コストを重視する開発者を惹きつけるため、ほぼフラッグシップのAI性能を大幅に低価格で提供します。この発売は、AI機能の企業導入を促進し、AI市場での競争が激化する中で同社の評価ストーリーを強化することを目指しています。",
+    "summary_en": "Anthropic released its Claude Sonnet 5 model, offering near-flagship AI performance at significantly lower prices to attract cost-conscious developers, while positioning itself for an IPO. This launch aims to improve enterprise adoption of AI capabilities and enhance the company's valuation narrative amid growing competition in the AI market.",
+    "link": "https://venturebeat.com/technology/anthropic-launches-claude-sonnet-5-at-a-steep-discount-to-its-top-model-as-the-company-races-toward-a-blockbuster-ipo",
     "category": "AI",
-    "publishedAt": "2026-06-30 19:23"
+    "publishedAt": "2026-07-01 16:09"
   },
   {
     "source": "NHK",
-    "title": "記録的水準の円安 今後は？暮らしはどうなる？【詳しく】",
+    "title": "ガソリン価格 全国平均169.8円 政府補助金で170円水準続く",
     "title_en": "",
-    "summary": "最近、東京外国為替市場で円相場が1ドル＝162円台前半に達し、約39年半ぶりの円安ドル高水準となりました。この円安の影響で、仕入れコストの上昇が懸念され、生活費の負担が増大する可能性があります。専門家は今後の円相場の見通しに言及しつつ、円安がどのように経済に影響を与えるかを分析しています。",
+    "summary": "石油情報センターの調査によると、レギュラーガソリンの全国平均小売価格は最近も変わらず、1リットル当たり169.8円となっています。政府の激変緩和措置により、価格は170円程度で安定しています。これにより、消費者はガソリンの価格変動を一定程度抑えられる状況が続いています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260630/k10015164771000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260701/k10015166061000.html",
     "category": "経済",
-    "publishedAt": "2026-06-30 19:23"
+    "publishedAt": "2026-07-01 16:09"
   },
   {
     "source": "BBC",
-    "title": "怒りを抱くベネズエラ国民、地震対応の政府の怠慢を非難",
-    "title_en": "Angry Venezuelans accuse government of negligence over earthquake response",
-    "summary": "地震の影響を受けた地域の住民は、二つの災害を受けて政府に対して支援の強化を求めています。彼らの訴えは、地域の復興と再建の取り組みにおける継続的な課題を浮き彫りにし、コミュニティの回復力にとって重要であることを示しています。",
-    "summary_en": "Residents in earthquake-stricken areas are urging the government for increased support following the twin disasters. Their plea highlights the ongoing challenges in recovery and rebuilding efforts that are critical for community resilience.",
-    "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、就任初年度に暗号通貨で10億ドル以上の収益を上げる",
+    "title_en": "Trump made more than $1bn from crypto in first year back in office",
+    "summary": "大統領の暗号通貨に関する収益は、不動産やトランプブランドの商品からの収入を大きく上回りました。これは、彼の財務ポートフォリオにおける暗号通貨の重要性が高まっていることを示しています。",
+    "summary_en": "The president's cryptocurrency earnings significantly exceed his income from real estate and Trump-branded merchandise. This highlights the growing importance of cryptocurrency in his financial portfolio.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgmv98ez3zo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-06-30 19:23"
+    "publishedAt": "2026-07-01 16:09"
   },
   {
     "source": "NHK",
-    "title": "AI活用歩行型ロボの実証実験推進を 規制改革推進会議 答申決定",
+    "title": "ミュトス提供再開 “情報収集進める”国内金融機関",
     "title_en": "",
-    "summary": "政府の規制改革推進会議は、フィジカルAIを活用した歩行型ロボットの法律上の扱いを明確にする方針を示しました。また、公道での実証実験を推進するための措置を含む答申を決定しました。この取り組みにより、ロボット技術の実用化が進む可能性があります。",
+    "summary": "アメリカのAI新興企業「アンソロピック」は、最新のAIモデル「クロード・ミュトス5」と「フェイブル5」の提供を再開することを発表しました。これは、アメリカ政府による輸出規制の解除を受けたもので、この新しいモデルは同等の性能を持つとされています。これにより、同社は市場での競争力をさらに強化することが期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260629/k10015163811000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260701/k10015165431000.html",
     "category": "その他",
-    "publishedAt": "2026-06-30 19:23"
+    "publishedAt": "2026-07-01 16:09"
   }
 ]
