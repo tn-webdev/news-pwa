@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "管理のギャップ：企業AI組織は技術の問題ではなく所有の問題を抱えており、大部分が手動で管理しています",
-    "title_en": "The Control Gap: Enterprise AI organizations have an ownership problem, not a technology problem — and most are governing it by hand",
-    "summary": "組織はAIポートフォリオを急速に拡大しており、58%が新たな取り組みを追加していますが、中央集権的なガバナンスチームを持つのはわずか38%であり、これが重大な管理のギャップを生んでいます。このギャップは、無許可の「シャドーAI」など、ほぼ半数の企業に影響を及ぼす財務上の失敗が多発していることによって強調されています。",
-    "summary_en": "Organizations are rapidly expanding their AI portfolios, with 58% adding initiatives, yet only 38% have a centralized governance team, leading to a significant control gap. This gap is highlighted by the prevalence of financial failures, such as unauthorized \"shadow AI,\" affecting nearly half of enterprises.",
-    "link": "https://venturebeat.com/resources/the-control-gap-enterprise-ai-organizations-have-an-ownership-problem-not-a-technology-problem-and-most-are-governing-it-by-hand",
+    "title": "企業は数週間にわたりClaude Fable 5を失いました。新たなデータでは、3分の2が既にヘッジ戦略を構築していたことが示されています。",
+    "title_en": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
+    "summary": "アメリカ政府の突然の輸出管理命令により、アンソロピックのClaude Fable 5モデルへのアクセスが一時的に制限されたことに対し、3分の2の企業がヘッジされたAIモデル戦略を採用しました。この出来事は、ベンダー依存のリスクを浮き彫りにし、AIの展開におけるより良い監視とガバナンスの必要性を強調しました。",
+    "summary_en": "Two-thirds of enterprises adopted a hedged AI model strategy in response to the U.S. government’s abrupt export-control order that temporarily removed Anthropic's Claude Fable 5 model from access. This incident highlighted the risks of vendor dependency and underscored the need for better oversight and governance in AI deployments.",
+    "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
     "category": "AI",
-    "publishedAt": "2026-07-02 16:37"
+    "publishedAt": "2026-07-03 16:49"
   },
   {
     "source": "VentureBeat",
-    "title": "アンソロピック、米国が輸出規制命令を解除した後にグローバルにClaude Fable 5を再導入 — 企業はどこでアクセスできるか？",
-    "title_en": "Anthropic is bringing back Claude Fable 5 globally after US lifts export control order — where can enterprises access it?",
-    "summary": "アンソロピックは、米国商務省が以前の輸出規制を撤回した後、AIモデルClaude Fable 5へのグローバルなアクセスを再開しました。この重要な展開は、アンソロピックと米国政府との協力関係を強調するとともに、地政学的な懸念の中で競争力あるAI能力を維持することの重要性を示しています。",
-    "summary_en": "Anthropic has restored global access to its AI model Claude Fable 5 following the U.S. Department of Commerce's withdrawal of previous export controls. This significant development underscores the collaboration between Anthropic and the U.S. government, as well as the importance of maintaining competitive AI capabilities amidst geopolitical concerns.",
-    "link": "https://venturebeat.com/technology/anthropic-is-bringing-back-claude-fable-5-globally-after-us-lifts-export-control-order-where-can-enterprises-access-it",
+    "title": "新しいアリババのAIフレームワーク、ツールの読み込みを省略しエージェントトークン使用量を99%削減",
+    "title_en": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
+    "summary": "アリババの研究者たちは、タスクを効果的に分解し適切なスキルを選択することで、AIエージェントの複雑なワークフローをルーティングする能力を向上させるフレームワーク「SkillWeaver」を開発しました。この革新により、精度が大幅に向上し、トークン消費が削減され、企業のAIシステムにおける非効率性に対処しています。",
+    "summary_en": "Researchers at Alibaba developed SkillWeaver, a framework that enhances AI agents' ability to route complex workflows by effectively decomposing tasks and selecting appropriate skills. This innovation significantly improves accuracy and reduces token consumption, addressing inefficiencies faced by practitioners in enterprise AI systems.",
+    "link": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
     "category": "AI",
-    "publishedAt": "2026-07-02 16:37"
+    "publishedAt": "2026-07-03 16:49"
   },
   {
     "source": "NHK",
-    "title": "夏休み旅行者は去年より4.6％減少見通し",
+    "title": "株価 一時1000円以上値下がりも午後には上昇",
     "title_en": "",
-    "summary": "ことしの夏休み期間に旅行を検討している人は、前年より減少する見通しが示されました。大手旅行会社は、この減少の要因として物価の上昇や中東情勢の影響を挙げています。旅行需要の低下が予測される中、業界に与える影響が懸念されています。",
+    "summary": "東京株式市場で日経平均株価は一時1000円以上の下落を見せましたが、午後からはAIや半導体関連株への買いが増え、株価が反発しました。市場の動向はこれらのセクターの強い需要によって影響を受けていることが示されました。全体的には、午後の回復により、投資家の信頼感が一部戻った形となりました。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260702/k10015167201000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167961000.html",
     "category": "経済",
-    "publishedAt": "2026-07-02 16:38"
+    "publishedAt": "2026-07-03 16:49"
   },
   {
     "source": "BBC",
-    "title": "キエフに対する大規模なロシアのミサイルおよびドローン攻撃で少なくとも13人死亡",
-    "title_en": "At least 13 killed in large-scale Russian missile and drone strikes on Kyiv",
-    "summary": "ウクライナの関係者によりますと、ロシアは数週間ぶりに同市に対して最大規模の攻撃を行い、子供を含む多くの死傷者が出ました。この度の escalated (エスカレートされた) 状況は、この地域における暴力と人道的危機の継続を浮き彫りにしています。",
-    "summary_en": "Russia carried out its largest attacks on the city in weeks, resulting in a significant number of casualties, including children, according to Ukrainian officials. This escalation underscores the ongoing violence and humanitarian crisis in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
+    "title": "ホルムズ海峡で、BBCが押収された船やサメ漁師を発見し、不安な静けさが戻る",
+    "title_en": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
+    "summary": "BBCはホルムズ海峡のイラン側、バンダル・アッバースを訪れた初の国際的なジャーナリストとなり、イランの戦略的海洋的重要性を浮き彫りにしました。この訪問は、地政学的緊張が続く中での地域ダイナミクスに対する世界的な認識の必要性を強調しています。",
+    "summary_en": "The BBC became the first international journalists to visit the Iranian side of the Strait of Hormuz in Bandar Abbas, highlighting Iran's strategic maritime importance. This visit emphasizes the need for global awareness of regional dynamics amid ongoing geopolitical tensions.",
+    "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-02 16:38"
+    "publishedAt": "2026-07-03 16:49"
   },
   {
     "source": "NHK",
-    "title": "世界で最も細い直径約4ミリの胃カメラ開発 大阪大発ベンチャー",
+    "title": "国立映画アーカイブが存続の危機 なぜ？【Q＆Aで詳しく】",
     "title_en": "",
-    "summary": "大阪大学発のベンチャー企業が、直径4ミリの世界最細の胃カメラを開発したと発表しました。このカメラは胃がん検診に使用される予定で、構造がシンプル化されています。企業は再来年に国に承認申請を行う計画です。",
+    "summary": "国立映画アーカイブが保管している貴重な映像の継続的な保存事業が危機に直面している。これに対処するため、アーカイブはクラウドファンディングを開始した。資金調達を通じてこの重要な文化資産を守る努力が求められている。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260702/k10015166561000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015168051000.html",
     "category": "その他",
-    "publishedAt": "2026-07-02 16:38"
+    "publishedAt": "2026-07-03 16:49"
   }
 ]
