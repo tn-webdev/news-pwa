@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "企業は数週間にわたりClaude Fable 5を失いました。新たなデータでは、3分の2が既にヘッジ戦略を構築していたことが示されています。",
-    "title_en": "Enterprises lost Claude Fable 5 for a few weeks. New data shows two-thirds had already built their hedge",
-    "summary": "アメリカ政府の突然の輸出管理命令により、アンソロピックのClaude Fable 5モデルへのアクセスが一時的に制限されたことに対し、3分の2の企業がヘッジされたAIモデル戦略を採用しました。この出来事は、ベンダー依存のリスクを浮き彫りにし、AIの展開におけるより良い監視とガバナンスの必要性を強調しました。",
-    "summary_en": "Two-thirds of enterprises adopted a hedged AI model strategy in response to the U.S. government’s abrupt export-control order that temporarily removed Anthropic's Claude Fable 5 model from access. This incident highlighted the risks of vendor dependency and underscored the need for better oversight and governance in AI deployments.",
-    "link": "https://venturebeat.com/orchestration/enterprises-lost-claude-fable-5-for-a-few-weeks-new-data-shows-two-thirds-had-already-built-their-hedge",
+    "title": "アメリカの250周年がAI駆動の集合知の試金 stone となった理由",
+    "title_en": "How America's 250th birthday became a test of AI-powered collective intelligence",
+    "summary": "277人のランダムに選ばれたアメリカ人を対象とした議論により、過去250年の間にアメリカから生まれたトップ3の革新が特定されました。それはインターネット、医学の進歩、および民主主義の促進です。このプロセスは、AI技術による高度なコミュニケーションを活用し、大規模な集合知の可能性を示し、アメリカが世界に与えた重要な貢献を浮き彫りにしています。",
+    "summary_en": "A debate involving 277 randomly selected Americans identified the top three innovations from the U.S. over the past 250 years: the Internet, advances in medicine, and the promotion of democracy. This exercise, facilitated by AI-driven hyper-communication technology, showcases the potential for large-scale collective intelligence and highlights significant contributions that reflect America's impact on the world.",
+    "link": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
     "category": "AI",
-    "publishedAt": "2026-07-03 16:49"
+    "publishedAt": "2026-07-06 17:04"
   },
   {
     "source": "VentureBeat",
-    "title": "新しいアリババのAIフレームワーク、ツールの読み込みを省略しエージェントトークン使用量を99%削減",
-    "title_en": "New Alibaba AI framework skips loading every tool, cutting agent token use 99%",
-    "summary": "アリババの研究者たちは、タスクを効果的に分解し適切なスキルを選択することで、AIエージェントの複雑なワークフローをルーティングする能力を向上させるフレームワーク「SkillWeaver」を開発しました。この革新により、精度が大幅に向上し、トークン消費が削減され、企業のAIシステムにおける非効率性に対処しています。",
-    "summary_en": "Researchers at Alibaba developed SkillWeaver, a framework that enhances AI agents' ability to route complex workflows by effectively decomposing tasks and selecting appropriate skills. This innovation significantly improves accuracy and reduces token consumption, addressing inefficiencies faced by practitioners in enterprise AI systems.",
-    "link": "https://venturebeat.com/orchestration/new-alibaba-ai-framework-skips-loading-every-tool-cutting-agent-token-use-99",
+    "title": "Trunk Toolsが汎用モデルを排除することでスタックカットドキュメントのレビュー期間を60日から10日に短縮",
+    "title_en": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
+    "summary": "Trunk Toolsは建設プロジェクト管理を改善するために、専門的な三層AIアーキテクチャを開発し、レビューサイクルを大幅に短縮し、高価なエラーを防いでいます。この革新的なアプローチは、非構造化データに苦しむ他の業界の手本となる可能性があり、ドメイン特化型ワークフローとデータの整合性の重要性を強調しています。",
+    "summary_en": "Trunk Tools has developed a specialized three-layer AI architecture to improve construction project management, significantly reducing review cycles and preventing costly errors. This innovative approach could serve as a model for other industries grappling with unstructured data, emphasizing the importance of domain-specific workflows and data integrity.",
+    "link": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
     "category": "AI",
-    "publishedAt": "2026-07-03 16:49"
+    "publishedAt": "2026-07-06 17:04"
   },
   {
     "source": "NHK",
-    "title": "株価 一時1000円以上値下がりも午後には上昇",
+    "title": "長期金利2.83％に上昇 およそ29年ぶりの高水準",
     "title_en": "",
-    "summary": "東京株式市場で日経平均株価は一時1000円以上の下落を見せましたが、午後からはAIや半導体関連株への買いが増え、株価が反発しました。市場の動向はこれらのセクターの強い需要によって影響を受けていることが示されました。全体的には、午後の回復により、投資家の信頼感が一部戻った形となりました。",
+    "summary": "最近、債券市場で長期金利が約29年ぶりの高水準に達し、2.83％となりました。この金利上昇は、インフレ加速の見通しや財政運営への懸念が背景にあり、国債の売却が強まる要因となっています。これにより、今後の経済情勢への影響が懸念されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260703/k10015167961000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169951000.html",
     "category": "経済",
-    "publishedAt": "2026-07-03 16:49"
+    "publishedAt": "2026-07-06 17:04"
   },
   {
     "source": "BBC",
-    "title": "ホルムズ海峡で、BBCが押収された船やサメ漁師を発見し、不安な静けさが戻る",
-    "title_en": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-    "summary": "BBCはホルムズ海峡のイラン側、バンダル・アッバースを訪れた初の国際的なジャーナリストとなり、イランの戦略的海洋的重要性を浮き彫りにしました。この訪問は、地政学的緊張が続く中での地域ダイナミクスに対する世界的な認識の必要性を強調しています。",
-    "summary_en": "The BBC became the first international journalists to visit the Iranian side of the Strait of Hormuz in Bandar Abbas, highlighting Iran's strategic maritime importance. This visit emphasizes the need for global awareness of regional dynamics amid ongoing geopolitical tensions.",
-    "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
+    "title": "ウクライナのキエフへのロシアの攻撃、今週2回目で少なくとも11人が死亡",
+    "title_en": "At least 11 killed in second Russian strikes on Kyiv in a week",
+    "summary": "市の軍事管理者によると、20カ所以上で救助活動が続いています。この対応は、地域での最近の出来事による影響を受けた人々のニーズに対処するために重要です。",
+    "summary_en": "Rescue efforts are ongoing at over 20 sites, as stated by the city's military administrator. This response is critical for addressing the needs of those affected by recent events in the area.",
+    "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-03 16:49"
+    "publishedAt": "2026-07-06 17:04"
   },
   {
     "source": "NHK",
-    "title": "高市首相 インドから帰国の途に 首脳会談など一連の日程終え",
+    "title": "【中継】はやぶさ2 小惑星トリフネ接近 観測結果をJAXAが会見",
     "title_en": "",
-    "summary": "インドを訪問した高市総理大臣は、モディ首相との会談を終え、3日午後に帰国の途につきました。会談では、中国を念頭に経済的威圧や海洋進出への懸念を示し、半導体、重要鉱物、情報通信技術、クリーンエネルギー、医薬品の5分野で協力を進める方針を確認しました。また、ホルムズ海峡の安全な航行やエネルギー安定供給の重要性を強調し、約2兆円の投資を含む約130件の企業間協力文書も発表しました。",
+    "summary": "日本の探査機「はやぶさ2」が小惑星「トリフネ」の近くを通過し、観測データを取得しました。JAXAはこの結果を記者会見で発表予定で、撮影された画像に関する詳細が注目されています。今回のミッションは、小惑星の探査に新たな知見をもたらすことが期待されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015168071000",
+    "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169991000.html",
     "category": "その他",
-    "publishedAt": "2026-07-03 16:49"
+    "publishedAt": "2026-07-06 17:04"
   }
 ]
