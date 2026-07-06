@@ -1,7 +1,7 @@
 [
   {
     "source": "VentureBeat",
-    "title": "アメリカの250周年がAI駆動の集合知の試金 stone となった理由",
+    "title": "アメリカの250周年がAI駆動の集合知の試金石となった理由",
     "title_en": "How America's 250th birthday became a test of AI-powered collective intelligence",
     "summary": "277人のランダムに選ばれたアメリカ人を対象とした議論により、過去250年の間にアメリカから生まれたトップ3の革新が特定されました。それはインターネット、医学の進歩、および民主主義の促進です。このプロセスは、AI技術による高度なコミュニケーションを活用し、大規模な集合知の可能性を示し、アメリカが世界に与えた重要な貢献を浮き彫りにしています。",
     "summary_en": "A debate involving 277 randomly selected Americans identified the top three innovations from the U.S. over the past 250 years: the Internet, advances in medicine, and the promotion of democracy. This exercise, facilitated by AI-driven hyper-communication technology, showcases the potential for large-scale collective intelligence and highlights significant contributions that reflect America's impact on the world.",
@@ -31,9 +31,9 @@
   },
   {
     "source": "BBC",
-    "title": "ウクライナのキエフへのロシアの攻撃、今週2回目で少なくとも11人が死亡",
-    "title_en": "At least 11 killed in second Russian strikes on Kyiv in a week",
-    "summary": "市の軍事管理者によると、20カ所以上で救助活動が続いています。この対応は、地域での最近の出来事による影響を受けた人々のニーズに対処するために重要です。",
+    "title": "ウクライナ、キエフ地域で14人死亡、迎撃ミサイル不足を警告",
+    "title_en": "Russian forces launched a large-scale attack on Kyiv using 68 missiles and 351 attack drones, killing at least 14 people. Ukrainian forces intercepted cruise missiles and drones, but failed to shoot down any of the 23 ballistic missiles due to a severe shortage of interceptor missiles. President Volodymyr Zelensky urged NATO allies to provide Ukraine with additional air defense systems.",
+    "summary": "ロシア軍はキエフにミサイル68発と攻撃ドローン351機による大規模攻撃を行い、少なくとも14人が死亡しました。ウクライナ軍は巡航ミサイルとドローンを迎撃したものの、迎撃ミサイル不足により弾道ミサイル23発は撃墜できませんでした。ゼレンスキー大統領はNATOに防空システムの供与を求めています。",
     "summary_en": "Rescue efforts are ongoing at over 20 sites, as stated by the city's military administrator. This response is critical for addressing the needs of those affected by recent events in the area.",
     "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
@@ -43,7 +43,7 @@
     "source": "NHK",
     "title": "【中継】はやぶさ2 小惑星トリフネ接近 観測結果をJAXAが会見",
     "title_en": "",
-    "summary": "日本の探査機「はやぶさ2」が小惑星「トリフネ」の近くを通過し、観測データを取得しました。JAXAはこの結果を記者会見で発表予定で、撮影された画像に関する詳細が注目されています。今回のミッションは、小惑星の探査に新たな知見をもたらすことが期待されています。",
+    "summary": "JAXAは、「はやぶさ2」が小惑星トリフネを秒速5キロで通過するフライバイに成功し、撮影画像を公開しました。画像には雪だるま形の天体と表面の岩が鮮明に写っています。表面温度の観測にも成功しており、今後、取得データを地上へ送信します。",
     "summary_en": "",
     "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169991000.html",
     "category": "その他",
