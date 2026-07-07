@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "アメリカの250周年がAI駆動の集合知の試金石となった理由",
-    "title_en": "How America's 250th birthday became a test of AI-powered collective intelligence",
-    "summary": "277人のランダムに選ばれたアメリカ人を対象とした議論により、過去250年の間にアメリカから生まれたトップ3の革新が特定されました。それはインターネット、医学の進歩、および民主主義の促進です。このプロセスは、AI技術による高度なコミュニケーションを活用し、大規模な集合知の可能性を示し、アメリカが世界に与えた重要な貢献を浮き彫りにしています。",
-    "summary_en": "A debate involving 277 randomly selected Americans identified the top three innovations from the U.S. over the past 250 years: the Internet, advances in medicine, and the promotion of democracy. This exercise, facilitated by AI-driven hyper-communication technology, showcases the potential for large-scale collective intelligence and highlights significant contributions that reflect America's impact on the world.",
-    "link": "https://venturebeat.com/technology/how-americas-250th-birthday-became-a-test-of-ai-powered-collective-intelligence",
+    "title": "Anthropicの新しい「J-lens」が、意識の主要な理論を反映したClaude内部の静かな作業空間を明らかにしました",
+    "title_en": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
+    "summary": "Anthropicの最近の研究論文では、同社のClaude言語モデルが推論と報告のための人間のような作業空間に似た内部構造、J-spaceを発展させたことが明らかになりました。この発見は、AIの行動についての理解を深め、機械の意識に関する疑問を提起するものであり、AIの安全監視や倫理的影響に影響を与える重要なものです。",
+    "summary_en": "Anthropic's recent research paper reveals that its Claude language models have developed an internal structure resembling a human-like workspace for reasoning and reporting, termed J-space. This discovery is significant as it enhances understanding of AI behavior and raises questions about machine consciousness, impacting AI safety monitoring and ethical implications.",
+    "link": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
     "category": "AI",
-    "publishedAt": "2026-07-06 17:04"
+    "publishedAt": "2026-07-07 16:35"
   },
   {
     "source": "VentureBeat",
-    "title": "Trunk Toolsが汎用モデルを排除することでスタックカットドキュメントのレビュー期間を60日から10日に短縮",
-    "title_en": "Trunk Tools' stack cut document review from 60 days to 10 by ditching general-purpose models",
-    "summary": "Trunk Toolsは建設プロジェクト管理を改善するために、専門的な三層AIアーキテクチャを開発し、レビューサイクルを大幅に短縮し、高価なエラーを防いでいます。この革新的なアプローチは、非構造化データに苦しむ他の業界の手本となる可能性があり、ドメイン特化型ワークフローとデータの整合性の重要性を強調しています。",
-    "summary_en": "Trunk Tools has developed a specialized three-layer AI architecture to improve construction project management, significantly reducing review cycles and preventing costly errors. This innovative approach could serve as a model for other industries grappling with unstructured data, emphasizing the importance of domain-specific workflows and data integrity.",
-    "link": "https://venturebeat.com/orchestration/trunk-tools-stack-cut-document-review-from-60-days-to-10-by-ditching-general-purpose-models",
+    "title": "TencentのApacheライセンスのHy3がGLM-5.2に挑戦、サイズは半分でコーディングを除いてすべてで勝利",
+    "title_en": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
+    "summary": "Tencentは、Apache 2.0ライセンスのもと、新しいオープンウェイトAIモデル「Hy3」を発表しました。このモデルは、これまでの地域展開制限を撤廃し、GLM-5.2などの主要モデルと同等の信頼性とパフォーマンスを目指しています。この動きは、特に検索やエージェントベースのアプリケーションにおいて、革新的なAIソリューションに関心を持つ企業へのアクセスを大幅に広げるものです。現在、展開能力に関する議論も続いています。",
+    "summary_en": "Tencent has released Hy3, a new open-weight AI model under the Apache 2.0 license, removing previous regional deployment restrictions and aiming to compete in reliability and performance with leading models like GLM-5.2. This move significantly broadens access for enterprises interested in innovative AI solutions, particularly in search and agent-based applications, amid ongoing discussions about deployment capabilities.",
+    "link": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
     "category": "AI",
-    "publishedAt": "2026-07-06 17:04"
+    "publishedAt": "2026-07-07 16:35"
   },
   {
     "source": "NHK",
-    "title": "長期金利2.83％に上昇 およそ29年ぶりの高水準",
+    "title": "株価 値下がり AIや半導体関連の銘柄が売られる展開に",
     "title_en": "",
-    "summary": "最近、債券市場で長期金利が約29年ぶりの高水準に達し、2.83％となりました。この金利上昇は、インフレ加速の見通しや財政運営への懸念が背景にあり、国債の売却が強まる要因となっています。これにより、今後の経済情勢への影響が懸念されています。",
+    "summary": "最近の東京株式市場では、値上がりを続けていたAIや半導体関連の銘柄が売られ、株価が下落しました。この動きは投資家の利益確定の動きによるものとされています。市場全体の動向に影響を与える可能性があるため、注視が必要です。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169951000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169791000.html",
     "category": "経済",
-    "publishedAt": "2026-07-06 17:04"
+    "publishedAt": "2026-07-07 16:35"
   },
   {
     "source": "BBC",
-    "title": "ウクライナ、キエフ地域で14人死亡、迎撃ミサイル不足を警告",
-    "title_en": "Russian forces launched a large-scale attack on Kyiv using 68 missiles and 351 attack drones, killing at least 14 people. Ukrainian forces intercepted cruise missiles and drones, but failed to shoot down any of the 23 ballistic missiles due to a severe shortage of interceptor missiles. President Volodymyr Zelensky urged NATO allies to provide Ukraine with additional air defense systems.",
-    "summary": "ロシア軍はキエフにミサイル68発と攻撃ドローン351機による大規模攻撃を行い、少なくとも14人が死亡しました。ウクライナ軍は巡航ミサイルとドローンを迎撃したものの、迎撃ミサイル不足により弾道ミサイル23発は撃墜できませんでした。ゼレンスキー大統領はNATOに防空システムの供与を求めています。",
-    "summary_en": "Rescue efforts are ongoing at over 20 sites, as stated by the city's military administrator. This response is critical for addressing the needs of those affected by recent events in the area.",
-    "link": "https://www.bbc.co.uk/news/articles/cewqqnd7zdwo?at_medium=RSS&at_campaign=rss",
+    "title": "ゼレンスキー大統領、ロシアの激しい攻撃を受けてNATOに対空防衛システムを要請",
+    "title_en": "Zelensky to press Nato for air defence systems after intense Russian strikes",
+    "summary": "ウクライナのヴォロディミル・ゼレンスキー大統領は、トルコでのNATO会議中に追加の迎撃ミサイルを求めています。この要請は、ロシアとの緊張と紛争が高まる中でのウクライナの防衛ニーズを浮き彫りにしています。",
+    "summary_en": "Ukrainian President Volodymyr Zelensky is seeking additional interceptor missiles during the NATO meeting in Turkey. This request highlights Ukraine's ongoing defense needs amid escalating tensions and conflict with Russia.",
+    "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-06 17:04"
+    "publishedAt": "2026-07-07 16:35"
   },
   {
     "source": "NHK",
-    "title": "【中継】はやぶさ2 小惑星トリフネ接近 観測結果をJAXAが会見",
+    "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
     "title_en": "",
-    "summary": "JAXAは、「はやぶさ2」が小惑星トリフネを秒速5キロで通過するフライバイに成功し、撮影画像を公開しました。画像には雪だるま形の天体と表面の岩が鮮明に写っています。表面温度の観測にも成功しており、今後、取得データを地上へ送信します。",
+    "summary": "トルコ南部の洞窟で、ネアンデルタール人とホモ・サピエンスの間の文化的交流を示唆する貝が発見されました。この発見は、両者が同じ地域で相互作用していた可能性を示すものであり、文化的な共有や影響の証拠とされています。研究者たちは、この成果が古代人類の行動や交流の理解を深める重要な手がかりになるとしています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169991000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
     "category": "その他",
-    "publishedAt": "2026-07-06 17:04"
+    "publishedAt": "2026-07-07 16:36"
   }
 ]
