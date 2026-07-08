@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropicの新しい「J-lens」が、意識の主要な理論を反映したClaude内部の静かな作業空間を明らかにしました",
-    "title_en": "Anthropic's new \"J-lens\" reveals a silent workspace inside Claude that mirrors a leading theory of consciousness",
-    "summary": "Anthropicの最近の研究論文では、同社のClaude言語モデルが推論と報告のための人間のような作業空間に似た内部構造、J-spaceを発展させたことが明らかになりました。この発見は、AIの行動についての理解を深め、機械の意識に関する疑問を提起するものであり、AIの安全監視や倫理的影響に影響を与える重要なものです。",
-    "summary_en": "Anthropic's recent research paper reveals that its Claude language models have developed an internal structure resembling a human-like workspace for reasoning and reporting, termed J-space. This discovery is significant as it enhances understanding of AI behavior and raises questions about machine consciousness, impacting AI safety monitoring and ethical implications.",
-    "link": "https://venturebeat.com/technology/anthropics-new-j-lens-reveals-a-silent-workspace-inside-claude-that-mirrors-a-leading-theory-of-consciousness",
+    "title": "企業のAIエージェントに隠れた実際のコスト、安全性、文化の問題",
+    "title_en": "The real cost, security, and culture problems behind enterprise AI agents",
+    "summary": "VentureBeatのAI Impactイベントにおいて、Red Hatのブライアン・グレイシー氏が、エンタープライズがエージェント型AIをスケールする際に直面する課題について議論しました。これにはコスト管理や組織内の合意形成が含まれます。企業はAI導入における遅れを過大評価しているものの、利用が拡大するにつれて、競争力を維持するためにはコストの増加や限られたモデルプロバイダーへの依存を解決する必要があります。",
+    "summary_en": "At VentureBeat's AI Impact event, Brian Gracely of Red Hat discussed the challenges enterprises face as they scale agentic AI, including cost management and organizational buy-in. Companies are overestimating their lag in AI adoption, but as usage grows, they must address rising costs and the dependency on a few model providers to maintain competitiveness.",
+    "link": "https://venturebeat.com/security/the-real-cost-security-and-culture-problems-behind-enterprise-ai-agents",
     "category": "AI",
-    "publishedAt": "2026-07-07 16:35"
+    "publishedAt": "2026-07-08 15:59"
   },
   {
     "source": "VentureBeat",
-    "title": "TencentのApacheライセンスのHy3がGLM-5.2に挑戦、サイズは半分でコーディングを除いてすべてで勝利",
-    "title_en": "Tencent's Apache-licensed Hy3 takes on GLM-5.2 at half the size — and wins everywhere except coding",
-    "summary": "Tencentは、Apache 2.0ライセンスのもと、新しいオープンウェイトAIモデル「Hy3」を発表しました。このモデルは、これまでの地域展開制限を撤廃し、GLM-5.2などの主要モデルと同等の信頼性とパフォーマンスを目指しています。この動きは、特に検索やエージェントベースのアプリケーションにおいて、革新的なAIソリューションに関心を持つ企業へのアクセスを大幅に広げるものです。現在、展開能力に関する議論も続いています。",
-    "summary_en": "Tencent has released Hy3, a new open-weight AI model under the Apache 2.0 license, removing previous regional deployment restrictions and aiming to compete in reliability and performance with leading models like GLM-5.2. This move significantly broadens access for enterprises interested in innovative AI solutions, particularly in search and agent-based applications, amid ongoing discussions about deployment capabilities.",
-    "link": "https://venturebeat.com/technology/tencents-apache-licensed-hy3-takes-on-glm-5-2-at-half-the-size-and-wins-everywhere-except-coding",
+    "title": "Box調査：企業AIリーダーが仲間を上回る理由",
+    "title_en": "Box survey: Why enterprise AI leaders are outperforming their peers",
+    "summary": "Boxの報告によると、AI統合において先進的であると認識している組織の割合が、昨年の8%から64%に大幅に増加したことが明らかになりました。この変化は、主に業務の実行力向上によるものであり、AI投資の収益を高めるためには効果的なコンテンツガバナンスが重要であることを浮き彫りにしています。先進的な企業は、初期段階の企業と比較して著しく高い収益を得ていることが確認されています。",
+    "summary_en": "The Box report reveals a significant increase in organizations identifying as advanced in AI integration, rising from 8% to 64% in a year, largely due to improved operational execution. This shift underscores the importance of effective content governance in driving AI ROI, with leading-edge companies seeing notably higher returns compared to their early-stage counterparts.",
+    "link": "https://venturebeat.com/orchestration/box-survey-why-enterprise-ai-leaders-are-outperforming-their-peers",
     "category": "AI",
-    "publishedAt": "2026-07-07 16:35"
+    "publishedAt": "2026-07-08 15:59"
   },
   {
     "source": "NHK",
-    "title": "株価 値下がり AIや半導体関連の銘柄が売られる展開に",
+    "title": "長期金利 2.87％まで上昇 1997年5月以来の高水準",
     "title_en": "",
-    "summary": "最近の東京株式市場では、値上がりを続けていたAIや半導体関連の銘柄が売られ、株価が下落しました。この動きは投資家の利益確定の動きによるものとされています。市場全体の動向に影響を与える可能性があるため、注視が必要です。",
+    "summary": "8日の債券市場では、長期金利が上昇し、10年もの国債の利回りが2.87％に達しました。この水準は、約29年ぶりの高水準であると日本相互証券が報告しています。この傾向が市場に与える影響が注目されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260706/k10015169791000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171531000.html",
     "category": "経済",
-    "publishedAt": "2026-07-07 16:35"
+    "publishedAt": "2026-07-08 15:59"
   },
   {
     "source": "BBC",
-    "title": "ゼレンスキー大統領、ロシアの激しい攻撃を受けてNATOに対空防衛システムを要請",
-    "title_en": "Zelensky to press Nato for air defence systems after intense Russian strikes",
-    "summary": "ウクライナのヴォロディミル・ゼレンスキー大統領は、トルコでのNATO会議中に追加の迎撃ミサイルを求めています。この要請は、ロシアとの緊張と紛争が高まる中でのウクライナの防衛ニーズを浮き彫りにしています。",
-    "summary_en": "Ukrainian President Volodymyr Zelensky is seeking additional interceptor missiles during the NATO meeting in Turkey. This request highlights Ukraine's ongoing defense needs amid escalating tensions and conflict with Russia.",
-    "link": "https://www.bbc.co.uk/news/articles/c9d227e5zj6o?at_medium=RSS&at_campaign=rss",
+    "title": "ホルムズ海峡でタンカーが攻撃された後、米国とイランが報復攻撃を行う",
+    "title_en": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
+    "summary": "米国軍はイランのミサイル基地や指令センターを標的とし、一方でイランは報復として米軍基地への攻撃を報告しました。このエスカレーションは両国間の緊張が高まっていることを示しており、地域の安全保障や国際関係に影響を与えています。",
+    "summary_en": "The US military targeted Iranian missile sites and command centers, while Iran reported attacks on US bases in retaliation. This escalation highlights growing tensions between the two nations, impacting regional security and international relations.",
+    "link": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-07 16:35"
+    "publishedAt": "2026-07-08 15:59"
   },
   {
     "source": "NHK",
-    "title": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+    "title": "「はじめてのおつかい」 絵本作家の林明子さん死去 81歳",
     "title_en": "",
-    "summary": "トルコ南部の洞窟で、ネアンデルタール人とホモ・サピエンスの間の文化的交流を示唆する貝が発見されました。この発見は、両者が同じ地域で相互作用していた可能性を示すものであり、文化的な共有や影響の証拠とされています。研究者たちは、この成果が古代人類の行動や交流の理解を深める重要な手がかりになるとしています。",
+    "summary": "絵本作家の林明子さんが肺炎により亡くなったことが確認されました。彼女は「はじめてのおつかい」や「おつきさまこんばんは」など、多くの名作を手がけ、長年にわたり親しまれてきました。享年81歳で、彼女の作品は今後も多くの子どもたちに愛され続けることでしょう。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260707/k10015170291000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260708/k10015171741000.html",
     "category": "その他",
-    "publishedAt": "2026-07-07 16:36"
+    "publishedAt": "2026-07-08 16:00"
   }
 ]
