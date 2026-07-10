@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "SpaceXのGrok 4.5が競合の半額で発売 — これがAnthropicやOpenAIに影響を与える理由",
-    "title_en": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
-    "summary": "SpaceXは、Cursorの600億ドルでの買収後、コーディング専用に訓練された最初のAIモデルGrok 4.5を発表しました。このモデルは、Anthropicなどの競合と比べて高い効率性と低コストを提供することで、AIコーディング市場に変革をもたらすことを目指しています。これは、コスト効率の良いソリューションを求めるソフトウェアエンジニアリング企業にとって重要です。",
-    "summary_en": "SpaceX launched Grok 4.5, its first AI model trained specifically for coding, following its $60 billion acquisition of Cursor. This model aims to disrupt the AI coding market by providing higher efficiency and lower costs compared to competitors like Anthropic, which is significant for software engineering enterprises seeking cost-effective solutions.",
-    "link": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
+    "title": "共有されたAPIキーが69%の企業でAIエージェントを危険にさらす、VentureBeatの新たな調査によると",
+    "title_en": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
+    "summary": "最近の調査によると、69%の企業がAIエージェント間で資格情報を共有しており、単一のエージェントが侵害された場合にセキュリティリスクが大幅に増加することが分かりました。このため、パロアルトネットワークスやクラウドストライクなどの大手サイバーセキュリティ企業は、これらの脆弱性への対策を強化するために企業を迅速に買収し、企業保護の緊急のギャップに対応しています。",
+    "summary_en": "A recent survey found that 69% of enterprises share credentials among AI agents, significantly increasing security risks if a single agent is compromised. In response, major cybersecurity firms like Palo Alto Networks and CrowdStrike are rapidly acquiring companies to strengthen security measures against these vulnerabilities, targeting an urgent gap in enterprise protection.",
+    "link": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
     "category": "AI",
-    "publishedAt": "2026-07-09 17:22"
+    "publishedAt": "2026-07-10 16:04"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAIがGPT-Liveを発表、ChatGPTがより人間らしい会話を実現する全二重音声機能を搭載",
-    "title_en": "OpenAI launches GPT-Live, a full-duplex voice upgrade that lets ChatGPT talk more like a person",
-    "summary": "OpenAIは、同時に聞き取りと話すことができる新しい音声モデルGPT-Liveを発表しました。これにより、世界中のユーザーとのインタラクションが向上します。この進展は、AIの会話をより自然なやり取りに変えることを目指しており、ユーザー体験やアプリケーションを再構築する可能性のあるAI音声技術の重要な進化を示しています。",
-    "summary_en": "OpenAI launched GPT-Live, a new voice model allowing simultaneous listening and speaking, enhancing user interaction with ChatGPT globally. This advancement aims to transform AI conversations into more natural exchanges, marking a significant evolution in AI voice technology that could reshape user experiences and applications.",
-    "link": "https://venturebeat.com/technology/openai-launches-gpt-live-a-full-duplex-voice-upgrade-that-lets-chatgpt-talk-more-like-a-person",
+    "title": "複数のAIモデルを使用する企業は、失敗率を2.25倍過小評価している",
+    "title_en": "Enterprises using multiple AI models are underestimating failure rates by 2.25x",
+    "summary": "新たな研究によると、異なるAIモデルを組み合わせて互いの欠点をカバーするという仮定は、「共倒れの天井」という現象により誤っていることが明らかになりました。この現象は、難しいプロンプトに対してモデルが同時に失敗することが多いことを示しています。この洞察は、開発者にマルチモデル戦略を再考させ、コーディングタスクのパフォーマンス向上のために多様性よりも品質に重点を置くことを提案しています。",
+    "summary_en": "A new study reveals that the assumption of combining different AI models to cover each other's shortcomings is flawed due to a phenomenon called \"co-failure ceiling,\" which shows that models often fail simultaneously on difficult prompts. This insight prompts developers to reconsider their multi-model strategies and suggests focusing on quality rather than diversity for improved performance in coding tasks.",
+    "link": "https://venturebeat.com/orchestration/enterprises-using-multiple-ai-models-are-underestimating-failure-rates-by-2-25x",
     "category": "AI",
-    "publishedAt": "2026-07-09 17:22"
+    "publishedAt": "2026-07-10 16:04"
   },
   {
     "source": "NHK",
-    "title": "長期金利2.９％まで上昇 1996年11月以来29年8か月ぶりの水準",
+    "title": "地方税収 初の50兆円超 5年連続過去最高更新 総務省",
     "title_en": "",
-    "summary": "債券市場で長期金利が上昇し、10年もの国債の利回りが一時2.9％に達しました。この動きは市場の金利上昇期待を反映しており、投資家の関心が高まっています。今後の市場動向に影響を与える可能性があります。",
+    "summary": "昨年度の地方税収が過去最高を更新し、初めて50兆円を超えました。この伸びは、賃上げや企業業績の好調に起因しています。特に個人住民税が大きく寄与したとされています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172471000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173551000.html",
     "category": "経済",
-    "publishedAt": "2026-07-09 17:22"
+    "publishedAt": "2026-07-10 16:04"
   },
   {
     "source": "BBC",
-    "title": "米国がイランにさらなる攻撃を実施、国内南部で爆発が報告される",
-    "title_en": "US launches more strikes on Iran with blasts reported in south of country",
-    "summary": "トランプ氏は、最近の攻撃がイランによる船舶への爆撃に対する報復であると述べました。イランは以前に強力な報復を誓っており、地域の緊張が高まっています。",
-    "summary_en": "Trump stated that recent attacks are retaliation for Iran's bombing of ships. Iran had previously vowed strong reprisals, escalating tensions in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+    "title": "イランの故最高指導者、マシュハドで大勢の人々に見守られ埋葬される",
+    "title_en": "Huge crowds in Mashhad as Iran's late supreme leader is buried",
+    "summary": "アリー・ハーメネイは、イランでの6日間の公的な喪に服した後、イマーム・レザー廟に埋葬されました。彼の埋葬はイランの最も神聖なシーア派イスラム教の場所で行われ、イランの指導者や宗教文化における彼の重要性を強調しています。",
+    "summary_en": "Ali Khamenei was buried at the Imam Reza shrine following six days of public mourning in Iran. His burial at the country’s holiest Shia Muslim site underscores his significance in Iranian leadership and religious culture.",
+    "link": "https://www.bbc.co.uk/news/articles/c5yzm8m4peeo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-09 17:22"
+    "publishedAt": "2026-07-10 16:04"
   },
   {
     "source": "NHK",
-    "title": "浜岡原発データ不正問題 中部電力が御前崎市議会特別委で陳謝",
+    "title": "iPS細胞で角膜の病気の治療 大阪大で治験1例目",
     "title_en": "",
-    "summary": "中部電力は浜岡原子力発電所の地震データの不正な操作について、原子力規制委員会からの説明要請後も問題を続けていたことが明らかになりました。静岡県御前崎市の市議会では特別委員会が開催され、中部電力の幹部がこの問題について「許されるものではない」と陳謝しました。会社の信頼性や安全性に対する影響が懸念されています。",
+    "summary": "iPS細胞から作成した角膜組織を患者に移植する治療の治験が始まり、1例目の手術が大阪大学医学部附属病院で実施されました。治験を行う企業は、数年内に国への承認申請を計画しています。この治療により、角膜の病気を抱える患者の視力回復が期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260709/k10015172821000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260710/k10015173671000.html",
     "category": "その他",
-    "publishedAt": "2026-07-09 17:22"
+    "publishedAt": "2026-07-10 16:04"
   }
 ]
