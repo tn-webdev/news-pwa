@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "ACRouterはタスクごとに最適なAIモデルを選択し、Opus専用の設定よりもコストで2.6倍の優位性を示します",
-    "title_en": "ACRouter picks the smartest AI model per task, beating Opus-only setups by 2.6x on cost",
-    "summary": "新しいオープンソースフレームワークであるAgent-as-a-Routerは、実際の成功と失敗のフィードバックに基づいて動的にAIモデルのルーティングを最適化し、従来の静的ルーティング方式を大きく上回る成果を示します。この進展により、企業はタスクに最も適したAIモデルを確実にマッチングさせることで、パフォーマンスを向上させ、コストを削減することが可能になります。",
-    "summary_en": "The new open-source framework, Agent-as-a-Router, optimizes AI model routing by dynamically adjusting based on real-world success and failure feedback, significantly outperforming traditional static routing methods. This advancement allows enterprises to enhance performance and reduce costs by ensuring tasks are matched with the most suitable AI models.",
-    "link": "https://venturebeat.com/orchestration/acrouter-picks-the-smartest-ai-model-per-task-beating-opus-only-setups-by-2-6x-on-cost",
+    "title": "1Password、AIコスト管理に進出し、トークン支出が次の企業予算危機になると予測",
+    "title_en": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
+    "summary": "1Passwordは、SaaSマネージャープラットフォーム内でAI支出および消費管理ツールを発表しました。このツールにより、ITおよび財務チームはAnthropicやOpenAIなどの主要ベンダーからのAIサービスの使用状況とコストを監視および管理することができます。この開発はAI消費に関連する予算圧力の高まりに対応し、組織が支出を効果的に把握し管理できるよう支援します。",
+    "summary_en": "1Password has launched its AI Spend and Consumption Management tool within its SaaS Manager platform, enabling IT and finance teams to monitor and control AI service usage and costs from major vendors like Anthropic and OpenAI. This development addresses rising budget pressures related to AI consumption, helping organizations gain visibility and manage spending effectively.",
+    "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
     "category": "AI",
-    "publishedAt": "2026-07-14 15:29"
+    "publishedAt": "2026-07-15 15:07"
   },
   {
     "source": "VentureBeat",
-    "title": "タイプスカッティングを忘れよ; スロップスカッティングはAIコーディングツールによって引き起こされるソフトウェアサプライチェーンの脅威です",
-    "title_en": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-    "summary": "スロップスカッティングは、コーディングアシスタントにおけるAIの幻覚を利用した新しいサプライチェーン攻撃です。これにより、サイバー犯罪者はマルウェアを含む架空のソフトウェアパッケージ名を登録することが可能になります。開発者は知らず知らずのうちに悪意のあるコードをプロジェクトに組み込む可能性があり、ソフトウェアエコシステムにおける脆弱性を高めるため、重大なセキュリティリスクを引き起こします。",
-    "summary_en": "Slopsquatting is a new supply chain attack that exploits AI hallucinations in coding assistants, allowing cybercriminals to register fictitious software package names filled with malware. This poses a significant security risk as developers may unknowingly incorporate malicious code into their projects, increasing vulnerabilities in software ecosystems.",
-    "link": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+    "title": "Canva、全ユーザー向けにAIウェブサイト構築を提供するCode 2.0を発表 - 無料アカウントも含む",
+    "title_en": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
+    "summary": "Canvaは、265万人以上のユーザーが簡略化されたプロンプトを使用してインタラクティブなウェブサイトやアプリを作成・カスタマイズできるアップグレード版AIコーディングツール「Canva Code 2.0」を発表しました。この開発により、Canvaは成長する「バイブコーディング」市場のリーダーとしての地位を確立し、非開発者をターゲットにしながらAI生成出力のデザイン能力を向上させています。",
+    "summary_en": "Canva launched Canva Code 2.0, an upgraded AI coding tool enabling over 265 million users to create and customize interactive websites and apps using simplified prompts. This development positions Canva as a leader in the growing \"vibe coding\" market, targeting non-developers and enhancing the design capabilities of AI-generated outputs.",
+    "link": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
     "category": "AI",
-    "publishedAt": "2026-07-14 15:29"
+    "publishedAt": "2026-07-15 15:07"
   },
   {
     "source": "NHK",
-    "title": "片山財務相 GPIF運用割合 “適時適切に検証を行うルール”",
+    "title": "暑さ対策も 最新の農業設備集めた展示会  東京 江東区",
     "title_en": "",
-    "summary": "片山財務大臣は、年金積立金管理運用独立行政法人（GPIF）の運用について、適宜検証を行うルールがあると述べ、市場環境の変化に応じて国内債券などの運用割合を見直す可能性があることを示唆しました。これは年金資産の安定運用を目指す方針の一環とされています。今後の市場状況によって具体的な運用方針に変更が生じる可能性があるため、注目が集まります。",
+    "summary": "都内で開催されている展示会では、最新の農業設備が紹介されており、特に農業用ハウス向けの暑さ対策として熱を遮るシートが注目を集めています。出展者は、農業の生産性向上に寄与する新技術やアイデアを提供しています。これにより、農業界全体での気候変動への対応が進むことが期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260714/k10015176601000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177461000.html",
     "category": "経済",
-    "publishedAt": "2026-07-14 15:29"
+    "publishedAt": "2026-07-15 15:07"
   },
   {
     "source": "BBC",
-    "title": "バンコクのバー火災による死者数が30人に増加、警察が安全対策の不備を調査",
-    "title_en": "Death toll from Bangkok bar fire rises to 30 as police probe safety lapses",
-    "summary": "生存者や救助隊員は、最近の事件において施錠されたドアや不十分な非常口の表示を指摘しました。これは、生命を守るための安全プロトコルや緊急措置の効果について懸念を呼び起こしています。",
-    "summary_en": "Survivors and first responders highlighted locked doors and insufficient emergency exit signage during a recent incident. This raises concerns about safety protocols and the effectiveness of emergency measures in protecting lives.",
-    "link": "https://www.bbc.co.uk/news/articles/clyxyzlp9p2o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、イランとの交渉再開を求め橋や発電所を爆撃すると脅迫",
+    "title_en": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
+    "summary": "トランプ氏の発言は、米国とイランの間の緊張が高まる中で行われました。両国間の発砲が続き、米国がイランの港に封鎖を再導入したことが記録されています。この状況は、関係の悪化と地域内でのさらなる対立の可能性を浮き彫りにしています。",
+    "summary_en": "Trump's comments coincided with escalating tensions between the U.S. and Iran, marked by continued exchange of fire and the U.S. reinstating a blockade on Iranian ports. This situation is significant as it highlights the deteriorating relations and potential for further conflict in the region.",
+    "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-14 15:29"
+    "publishedAt": "2026-07-15 15:07"
   },
   {
     "source": "NHK",
-    "title": "福井県の関西電力・大飯原発3、4号機 住民側の訴え退ける判決",
+    "title": "小型ロケット「イプシロンS」今月23日燃焼試験へ JAXA",
     "title_en": "",
-    "summary": "福井県の関西電力・大飯原子力発電所3、4号機の運転差し止めなどを求め、京都府や滋賀県、大阪府などの住民3400人余りが起こした裁判で、京都地方裁判所は住民側の訴えを退けました。住民側は地震や避難計画の不備による危険性を主張しましたが、関西電力と国は安全対策や新規制基準への適合を説明し、裁判所は運転差し止めや損害賠償を認めませんでした。",
+    "summary": "JAXAは小型ロケット「イプシロンS」の燃焼試験を今月23日に種子島宇宙センターで実施することを発表しました。この試験はロケットの開発に向けた重要なステップとされており、打ち上げは今年度中を目指しています。開発が難航している中でのこの試験は、今後の進展に影響を与えると期待されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/na-k10015176521000",
+    "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177271000.html",
     "category": "その他",
-    "publishedAt": "2026-07-14 15:29"
+    "publishedAt": "2026-07-15 15:07"
   }
 ]
