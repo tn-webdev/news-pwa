@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "1Password、AIコスト管理に進出し、トークン支出が次の企業予算危機になると予測",
-    "title_en": "1Password moves into AI cost management, betting that token spend is the next enterprise budget crisis",
-    "summary": "1Passwordは、SaaSマネージャープラットフォーム内でAI支出および消費管理ツールを発表しました。このツールにより、ITおよび財務チームはAnthropicやOpenAIなどの主要ベンダーからのAIサービスの使用状況とコストを監視および管理することができます。この開発はAI消費に関連する予算圧力の高まりに対応し、組織が支出を効果的に把握し管理できるよう支援します。",
-    "summary_en": "1Password has launched its AI Spend and Consumption Management tool within its SaaS Manager platform, enabling IT and finance teams to monitor and control AI service usage and costs from major vendors like Anthropic and OpenAI. This development addresses rising budget pressures related to AI consumption, helping organizations gain visibility and manage spending effectively.",
-    "link": "https://venturebeat.com/security/1password-moves-into-ai-cost-management-betting-that-token-spend-is-the-next-enterprise-budget-crisis",
+    "title": "Writer社のAIハーネスがトークン支出を40%近く削減 — 精度を犠牲にすることなく",
+    "title_en": "Writer's AI harness cuts token spend nearly 40% — without sacrificing accuracy",
+    "summary": "Writer社の研究者たちは、基盤モデルを取り巻くオーケストレーション層、つまり「ハーネス」を最適化する解決策を提案しました。この方法により、モデル自体を変更することなく、運用コストを最大61%削減することが可能です。このアプローチにより、エンジニアリングチームはより効率的なAIアプリケーションを作成でき、企業がAIを本番環境に展開する際に直面するROIの逆説に対処します。",
+    "summary_en": "Researchers at Writer have proposed a solution to optimize the orchestration layer, or 'harness', surrounding foundation models to reduce operational costs by up to 61% without changing the models themselves. This approach allows engineering teams to create more efficient AI applications, addressing the ROI paradox that enterprises face when deploying AI in production.",
+    "link": "https://venturebeat.com/orchestration/writers-ai-harness-cuts-token-spend-nearly-40-without-sacrificing-accuracy",
     "category": "AI",
-    "publishedAt": "2026-07-15 15:07"
+    "publishedAt": "2026-07-21 18:35"
   },
   {
     "source": "VentureBeat",
-    "title": "Canva、全ユーザー向けにAIウェブサイト構築を提供するCode 2.0を発表 - 無料アカウントも含む",
-    "title_en": "Canva launches Code 2.0, offering AI website building to every user — including free accounts",
-    "summary": "Canvaは、265万人以上のユーザーが簡略化されたプロンプトを使用してインタラクティブなウェブサイトやアプリを作成・カスタマイズできるアップグレード版AIコーディングツール「Canva Code 2.0」を発表しました。この開発により、Canvaは成長する「バイブコーディング」市場のリーダーとしての地位を確立し、非開発者をターゲットにしながらAI生成出力のデザイン能力を向上させています。",
-    "summary_en": "Canva launched Canva Code 2.0, an upgraded AI coding tool enabling over 265 million users to create and customize interactive websites and apps using simplified prompts. This development positions Canva as a leader in the growing \"vibe coding\" market, targeting non-developers and enhancing the design capabilities of AI-generated outputs.",
-    "link": "https://venturebeat.com/technology/canva-launches-code-2-0-offering-ai-website-building-to-every-user-including-free-accounts",
+    "title": "LangChain、Conviva、CoreWeaveのリーダーがVB Transform 2026で語る、単一のAIエージェントの会話は完璧に見えても破綻している可能性がある",
+    "title_en": "A single AI agent conversation can look perfect and still be broken, leaders from LangChain, Conviva and CoreWeave said at VB Transform 2026",
+    "summary": "VB Transform 2026において、業界のリーダーたちは、AIエージェントの評価方法が個別のスコアリングからコホート比較へと移行していることを議論しました。この変更は、問題をより良く特定するために、静的なテストではなく継続的な評価が必要であることを強調しています。この変革は、標準化されたトレースが見落とすギャップに対処することにより、AIシステムの信頼性を向上させ、最終的にはユーザー体験や信頼を改善することを目的としています。",
+    "summary_en": "At VB Transform 2026, industry leaders discussed a shift in evaluating AI agents from individual scoring to cohort comparisons to better identify issues, emphasizing the need for ongoing evaluation rather than static testing. This transformation matters as it aims to enhance the reliability of AI systems by addressing gaps that standardized traces miss, ultimately improving user experience and trust.",
+    "link": "https://venturebeat.com/data/a-single-ai-agent-conversation-can-look-perfect-and-still-be-broken-leaders-from-langchain-conviva-and-coreweave-said-at-vb-transform-2026",
     "category": "AI",
-    "publishedAt": "2026-07-15 15:07"
+    "publishedAt": "2026-07-21 18:35"
   },
   {
     "source": "NHK",
-    "title": "暑さ対策も 最新の農業設備集めた展示会  東京 江東区",
+    "title": "円相場 いくぶん値下がり イラン情勢の先行き不透明感で",
     "title_en": "",
-    "summary": "都内で開催されている展示会では、最新の農業設備が紹介されており、特に農業用ハウス向けの暑さ対策として熱を遮るシートが注目を集めています。出展者は、農業の生産性向上に寄与する新技術やアイデアを提供しています。これにより、農業界全体での気候変動への対応が進むことが期待されています。",
+    "summary": "東京外国為替市場で、円相場が値下がりしました。これはイラン情勢に対する不透明感から、ドル買いが進んだことが影響しています。投資家のリスク回避姿勢が円安を促進しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177461000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181961000.html",
     "category": "経済",
-    "publishedAt": "2026-07-15 15:07"
+    "publishedAt": "2026-07-21 18:35"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、イランとの交渉再開を求め橋や発電所を爆撃すると脅迫",
-    "title_en": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-    "summary": "トランプ氏の発言は、米国とイランの間の緊張が高まる中で行われました。両国間の発砲が続き、米国がイランの港に封鎖を再導入したことが記録されています。この状況は、関係の悪化と地域内でのさらなる対立の可能性を浮き彫りにしています。",
-    "summary_en": "Trump's comments coincided with escalating tensions between the U.S. and Iran, marked by continued exchange of fire and the U.S. reinstating a blockade on Iranian ports. This situation is significant as it highlights the deteriorating relations and potential for further conflict in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領、カナダに50％の関税を課しカーニー氏は貿易交渉を「強化する」と誓う",
+    "title_en": "Trump slaps 50% tariffs on Canada and Carney vows to 'intensify' trade talks",
+    "summary": "アメリカはカナダの柔らかい木材に対して新たな関税を課し、両国間の貿易緊張が高まっています。このエスカレーションは、建設産業やアメリカとカナダの全体的な経済関係に影響を及ぼすため、重要です。",
+    "summary_en": "The U.S. imposed new tariffs on Canadian softwood lumber, intensifying trade tensions between the two countries. This escalation is significant as it impacts the construction industry and overall economic relations between the U.S. and Canada.",
+    "link": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-15 15:07"
+    "publishedAt": "2026-07-21 18:35"
   },
   {
     "source": "NHK",
-    "title": "小型ロケット「イプシロンS」今月23日燃焼試験へ JAXA",
+    "title": "iPS脊髄損傷治療の研究 長期でも悪化せず安全性確認",
     "title_en": "",
-    "summary": "JAXAは小型ロケット「イプシロンS」の燃焼試験を今月23日に種子島宇宙センターで実施することを発表しました。この試験はロケットの開発に向けた重要なステップとされており、打ち上げは今年度中を目指しています。開発が難航している中でのこの試験は、今後の進展に影響を与えると期待されています。",
+    "summary": "慶応大学などの研究グループが、iPS細胞を用いた脊髄損傷治療研究において、世界初の症状改善を達成した患者の経過を報告しました。患者は長期間にわたり運動機能が悪化せず、重篤な副作用も観察されないことが確認されました。これにより、iPS細胞を用いた治療の有望性が示されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260715/k10015177271000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260721/k10015181931000.html",
     "category": "その他",
-    "publishedAt": "2026-07-15 15:07"
+    "publishedAt": "2026-07-21 18:35"
   }
 ]
