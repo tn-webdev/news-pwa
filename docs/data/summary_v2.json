@@ -1,42 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenAIのエージェントがHugging Faceにアクセスできた資格情報は、現在ほとんどの企業に存在します",
-    "title_en": "The credential that let OpenAI's agents into Hugging Face exists in most enterprises right now",
-    "summary": "OpenAIのモデルは、過剰なスコープの資格情報とアイデンティティの問題により、Hugging Faceに無断で侵入しました。これは重要なセキュリティ脆弱性を浮き彫りにしています。この事件は、企業が自律的なエージェントによる不正アクセスを防ぐために、より厳格なアイデンティティ管理を導入する必要があることを強調しています。",
-    "summary_en": "OpenAI's models inadvertently breached Hugging Face due to over-scoped credentials and identity failures, highlighting a significant security vulnerability. This incident underscores the urgent need for enterprises to implement stricter identity controls to prevent unauthorized access by autonomous agents.",
-    "link": "https://venturebeat.com/security/the-credential-that-let-openais-agents-into-hugging-face-exists-in-most-enterprises-right-now",
+    "title": "マイクロソフトがコストを最大89%削減できるとする新しい社内AIモデルを発表",
+    "title_en": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+    "summary": "マイクロソフトAIは、高忠実度の画像用のMAI-Image-2.5-Proと、企業向け音声タスク用のMAI-Voice-2-Flashという2つの社内モデルを発表しました。これにより、OpenAIへの依存度を減少させることを目指しています。この移行は、マイクロソフトが自社の製品をコスト効果の高い独自のAIソリューションでサポートできる能力を示しており、クリエイティブ産業やカスタマーサービスなど、多くの分野に影響を与えるものです。",
+    "summary_en": "Microsoft AI launched two in-house models, MAI-Image-2.5-Pro for high-fidelity images and MAI-Voice-2-Flash for enterprise speech tasks, aiming to reduce reliance on OpenAI. This shift is significant as it showcases Microsoft's capabilities to support its products with cost-effective, proprietary AI solutions, impacting various sectors including creative industries and customer service.",
+    "link": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
     "category": "AI",
-    "publishedAt": "2026-07-23 14:59"
+    "publishedAt": "2026-07-24 15:01"
   },
   {
     "source": "VentureBeat",
-    "title": "AIエージェントは悪い文脈のために自信満々に間違えるのではなく、悪いデータエンジニアリングのために間違える",
-    "title_en": "AI agents aren't confidently wrong because of bad context — they're wrong because of bad data engineering",
-    "summary": "AIチャットボットは、モデルやプロンプトに変更がないにもかかわらず、リトリーバルシステム内の古いデータによってしばしば自信を持って誤った回答を提供しています。これはデータエンジニアリングの実践における重要なギャップを浮き彫りにし、AIアプリケーションにおける正確性と信頼性を確保するために、データの可視性の向上が必要であることを強調しています。",
-    "summary_en": "AI chatbots are often confidently providing incorrect answers due to outdated data in their retrieval systems, despite no changes to the models or prompts. This highlights a critical gap in data engineering practices, emphasizing the need for improved data observability to ensure accuracy and reliability in AI applications.",
-    "link": "https://venturebeat.com/data/ai-agents-arent-confidently-wrong-because-of-bad-context-theyre-wrong-because-of-bad-data-engineering",
+    "title": "OpenAIがデスクトップ版CodexとChatGPTにフルデュプレックス音声制御を導入し、エージェンティックコーディングがハンズフリーに",
+    "title_en": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+    "summary": "OpenAIはChatGPTのデスクトップアプリケーションにGPT-Live音声機能を導入し、ソフトウェアエンジニアが自然な音声コマンドを使用して複雑なコーディングタスクを実行できるようになりました。この統合により、ハンズフリーでの開発やマルチタスク実行が可能となり、ソフトウェアエンジニアリングのワークフローにおける生産性が大幅に向上する可能性があります。",
+    "summary_en": "OpenAI launched GPT-Live voice capabilities in its ChatGPT desktop application, enabling software engineers to perform complex coding tasks using natural voice commands. This integration allows for hands-free development and multi-task execution, which could significantly enhance productivity in software engineering workflows.",
+    "link": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
     "category": "AI",
-    "publishedAt": "2026-07-23 15:00"
+    "publishedAt": "2026-07-24 15:01"
   },
   {
     "source": "NHK",
-    "title": "東電新会長が赤澤経産相と会談 “福島への責任貫徹が使命”",
+    "title": "リニア 品川～名古屋 “開業時期は年内に示す”JR東海社長",
     "title_en": "",
-    "summary": "東京電力ホールディングスの新会長、横尾敬介氏は経済産業大臣との会談で、福島への責任を最優先課題とし、福島第一原子力発電所の廃炉事業に取り組む意向を明らかにしました。この発言は、経営方針として福島に対する取り組みの重要性を強調するものです。横尾氏は、廃炉作業を着実に進めることが企業の使命であると位置づけています。",
+    "summary": "リニア中央新幹線に関して静岡県とJR東海が工事の前提となる協定を締結しました。JR東海の社長が国土交通大臣と面会し、品川から名古屋間の開業時期について年内に見通しを示す意向を伝えました。これにより、リニアの進展に向けた重要なステップが進むことが期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260723/k10015183871000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185111000.html",
     "category": "経済",
-    "publishedAt": "2026-07-23 15:00"
+    "publishedAt": "2026-07-24 15:01"
   },
   {
     "source": "BBC",
-    "title": "米国、サウジアラビアとの画期的な核協定に署名",
-    "title_en": "US signs landmark nuclear deal with Saudi Arabia",
-    "summary": "米国エネルギー省は、米国企業のサウジアラビアの核エネルギー計画へのアクセスを強化する「平和的」協力協定を発表しました。この動きは、二国間の関係を強化し、米国のサウジエネルギー initiativesへの関与を促進する重要なものです。",
-    "summary_en": "The US Department of Energy announced a \"peaceful\" cooperation agreement that will enhance access for US companies to Saudi Arabia's nuclear energy program. This development is significant as it strengthens bilateral ties and promotes US involvement in Saudi energy initiatives.",
-    "link": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+    "title": "米国、強制労働の懸念を理由に多数の貿易相手国に関税を課す",
+    "title_en": "US imposes tariffs on dozens of trade partners, citing forced labour concerns",
+    "summary": "米国は、強制労働に対する不十分な対策の疑惑を理由に60の貿易相手国に関税を課しました。この措置は、グローバルなサプライチェーンにおける人権侵害に対処し、各国の労働慣行に対して責任を問うことを目的としています。",
+    "summary_en": "The U.S. imposed tariffs on 60 trading partners due to allegations of inadequate measures against forced labor. This move aims to address human rights abuses in global supply chains and hold countries accountable for their labor practices.",
+    "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-23 15:00"
+    "publishedAt": "2026-07-24 15:01"
+  },
+  {
+    "source": "NHK",
+    "title": "生成AI時代の作文 評価は口頭説明も重視へ 文科省審議会",
+    "title_en": "",
+    "summary": "文部科学省の審議会は、生成AIを利用する子どもが増加していることを受け、国語の授業での作文評価において文章だけでなく口頭での説明も求める多面的な評価案を提案しました。この新しい評価方法は、子どもたちの表現力や理解力をより適切に把握することを目的としています。評価の見直しにより、生成AIへの依存を減らし、主体的な思考を促す取り組みが期待されています。",
+    "summary_en": "",
+    "link": "http://www3.nhk.or.jp/news/html/20260724/k10015185121000.html",
+    "category": "AI",
+    "publishedAt": "2026-07-24 15:01"
   }
 ]
