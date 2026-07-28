@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "VentureBeatリサーチ: エンタープライズAIエージェントのガバナンスが追いついていない場所",
-    "title_en": "VentureBeat Research: Where enterprise AI agent governance hasn't caught up",
-    "summary": "企業は適切な管理なしにAIエージェントを導入しており、その結果、システムを改修する必要が生じています。57%から68%の企業が、1年以内にベンダーを変更するか、新しいソリューションを導入する計画を立てています。この状況は、セキュリティ、評価信頼、リソース利用における重要なギャップを浮き彫りにし、運用の健全性と効率にリスクをもたらしています。",
-    "summary_en": "Enterprises have deployed AI agents without proper controls, leading to a need for retrofitting their systems; 57-68% plan to switch vendors or implement new solutions within a year. This situation highlights significant gaps in security, evaluation trust, and resource utilization, posing risks to operational integrity and efficiency.",
-    "link": "https://venturebeat.com/technology/venturebeat-research-where-enterprise-ai-agent-governance-hasnt-caught-up",
+    "title": "Kimi K3の完全なウェイトが公開されましたが、条件付きの「オープン」です：企業が知っておくべきこと",
+    "title_en": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
+    "summary": "中国のAIスタートアップ、Moonshot AIは、28兆のパラメータを持つ強力なKimi K3 AIモデルの完全なウェイトを公開しました。このモデルの独自のライセンス形態では、特定の収益基準を超える大企業が商業契約を取得し、モデルを目立つ形で表示することが求められるため、オープンソースAIの利用において重要な変化を示しています。",
+    "summary_en": "Chinese AI startup Moonshot AI has released the full weights for its powerful Kimi K3 AI model, which boasts 2.8 trillion parameters. The model's unique licensing requires larger companies to obtain a commercial agreement and attribute the model prominently if they exceed specific revenue thresholds, marking a significant shift in open-source AI usage.",
+    "link": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
     "category": "AI",
-    "publishedAt": "2026-07-27 18:48"
+    "publishedAt": "2026-07-28 17:33"
   },
   {
     "source": "VentureBeat",
-    "title": "Anthropicがコーディング、エージェント、企業ワークフロー向けのより安価なAIモデル「Claude Opus 5」を発表",
-    "title_en": "Anthropic launches Claude Opus 5, a cheaper AI model for coding, agents and enterprise workflows",
-    "summary": "Anthropicは、Fable 5とほぼ同等の知能を持ちながら、その半額で提供される新しいAIモデル「Claude Opus 5」を発表しました。この動きは、AIモデルにおいて生の能力よりもコスト効率と実用性を優先する業界全体のトレンドを反映しています。",
-    "summary_en": "Anthropic launched Claude Opus 5, a new AI model offering nearly the same intelligence as its Fable 5 counterpart at half the cost, aiming to make AI more economically viable for enterprises. This shift reflects a broader industry trend prioritizing cost efficiency and practical application over raw capability in AI models.",
-    "link": "https://venturebeat.com/orchestration/anthropic-launches-claude-opus-5-a-cheaper-ai-model-for-coding-agents-and-enterprise-workflows",
+    "title": "マイクロソフト、企業のセキュリティコスト削減を目指したAIサイバーセキュリティモデルとエージェンティックディフェンスプラットフォームを発表",
+    "title_en": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
+    "summary": "マイクロソフトは、自社開発のサイバーセキュリティモデル「MAI-Cyber-1-Flash」と「Project Perception」プラットフォームを発表し、効果的でコスト効率の高いAIセキュリティソリューションを提供することを目指しています。この開発は、企業のAI戦略において大きな変化をもたらし、高価なモデルではなく手頃なモデルを重視することに焦点を当てており、企業のサイバーセキュリティにおけるAI導入のアプローチを再構築する可能性があります。",
+    "summary_en": "Microsoft launched its custom-built cybersecurity model, MAI-Cyber-1-Flash, alongside the Project Perception platform, aiming to provide effective and cost-efficient AI security solutions. This development marks a significant shift in enterprise AI strategy, emphasizing affordable models over larger, more expensive ones, potentially reshaping how businesses approach AI adoption in cybersecurity.",
+    "link": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
     "category": "AI",
-    "publishedAt": "2026-07-27 18:48"
+    "publishedAt": "2026-07-28 17:33"
   },
   {
     "source": "NHK",
-    "title": "円相場 いくぶん値上がり 原油の先物価格下落に伴い",
+    "title": "携帯各社 “熊本県の一部 通信サービス利用しづらい状況”",
     "title_en": "",
-    "summary": "週明けの東京外国為替市場では、原油の先物価格が下落したことを受けて、ドルを売って円を買い戻す動きが見られました。これにより、円相場は一部値上がりしました。市場では原油価格の動向が為替相場に影響を与えることが再確認されました。",
+    "summary": "最近発生した地震の影響により、熊本県の一部でNTTドコモ、KDDI、楽天モバイルの通信サービスが利用できなくなったり、利用しづらい状況が生じています。各社は、熊本県内の基地局への被害や通話への影響について確認作業を進めています。今後の通信サービスの回復状況に注目が集まっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260727/k10015187331000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188561000.html",
     "category": "経済",
-    "publishedAt": "2026-07-27 18:48"
+    "publishedAt": "2026-07-28 17:33"
   },
   {
     "source": "BBC",
-    "title": "シアトルのスペースニードル近くのフードフェスティバルで発生した銃撃事件、死者3人と数人の負傷者",
-    "title_en": "Three dead and several injured in shooting at food festival near Seattle's Space Needle",
-    "summary": "事件により、2歳の男の子を含む数人が負傷し、容疑者が拘束されています。シアトル市長のケイティ・ウィルソンは、この状況の深刻さを強調し、地域の安全確保の必要性を訴えました。",
-    "summary_en": "A suspect is in custody following an incident in which several people, including a two-year-old boy, were injured. Seattle Mayor Katie Wilson emphasized the seriousness of the situation, highlighting the need for community safety.",
-    "link": "https://www.bbc.co.uk/news/articles/c78gjyx4q2yo?at_medium=RSS&at_campaign=rss",
+    "title": "エクアドルからヨーロッパへのコカインのスーパーハイウェイ - BBCが gangsと警察の反撃を報道",
+    "title_en": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
+    "summary": "エクアドルの警察は、この脅威に対抗するために街をパトロールする中で、薬物関連の犯罪が著しく増加しているという課題に直面しています。この暴力と犯罪行為の増加は、公共の安全に影響を与え、地域の法執行機関が直面する課題を浮き彫りにしています。",
+    "summary_en": "Ecuador's police are facing a significant rise in drug-related crime as they patrol the streets to combat this threat. This increase in violence and criminal activity impacts public safety and underscores the challenges law enforcement must address in the region.",
+    "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-27 18:48"
+    "publishedAt": "2026-07-28 17:33"
   },
   {
     "source": "NHK",
-    "title": "作家 東野圭吾さん 68歳で死去 「容疑者Xの献身」「白夜行」",
+    "title": "元プロ野球投手 板東英二さん死去 タレントとしても活躍 86歳",
     "title_en": "",
-    "summary": "直木賞作家の東野圭吾氏が、大腸がんのために亡くなりました。享年68歳で、彼の作品は「容疑者Xの献身」や「白夜行」など多くのベストセラー小説に広がっていました。彼の死は文学界に大きな衝撃を与えることとなります。",
+    "summary": "プロ野球・中日で投手として活躍した板東英二さんが慢性心不全により亡くなりました。彼はタレントや俳優としても人気があり、その明るいキャラクターと話術で多くのファンに愛されました。享年は86歳でした。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260727/k10015187291000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188041000.html",
     "category": "その他",
-    "publishedAt": "2026-07-27 18:48"
+    "publishedAt": "2026-07-28 17:33"
   }
 ]
