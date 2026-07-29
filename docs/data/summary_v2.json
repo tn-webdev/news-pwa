@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Kimi K3の完全なウェイトが公開されましたが、条件付きの「オープン」です：企業が知っておくべきこと",
-    "title_en": "Kimi K3's full weights are here, but they're 'open' with a caveat: What enterprises should know",
-    "summary": "中国のAIスタートアップ、Moonshot AIは、28兆のパラメータを持つ強力なKimi K3 AIモデルの完全なウェイトを公開しました。このモデルの独自のライセンス形態では、特定の収益基準を超える大企業が商業契約を取得し、モデルを目立つ形で表示することが求められるため、オープンソースAIの利用において重要な変化を示しています。",
-    "summary_en": "Chinese AI startup Moonshot AI has released the full weights for its powerful Kimi K3 AI model, which boasts 2.8 trillion parameters. The model's unique licensing requires larger companies to obtain a commercial agreement and attribute the model prominently if they exceed specific revenue thresholds, marking a significant shift in open-source AI usage.",
-    "link": "https://venturebeat.com/technology/kimi-k3s-full-weights-are-here-but-theyre-open-with-a-caveat-what-enterprises-should-know",
+    "title": "Visaは自社の決済ネットワークの脆弱性を探るためにMythosを使用し、その実現を可能にしたハーネスをオープンソース化しました",
+    "title_en": "Visa used Mythos to hunt for bugs in its own payment network, then open-sourced the harness that made it possible",
+    "summary": "VisaはAnthropicと提携し、重要な決済インフラの脆弱性に対してClaude Mythos AIをテストし、1万以上の潜在的な脆弱性を発見しました。この取り組みは、脆弱性の迅速な検証と修正の重要性を強調し、従来の指標から、新しいアプローチに焦点を移すことで、急速に進化する脅威の中でのセキュリティを向上させることを目指しています。",
+    "summary_en": "Visa partnered with Anthropic to test its Claude Mythos AI against vulnerabilities in critical payment infrastructure, uncovering over 10,000 potential exploits. This initiative emphasizes the importance of rapid verification and remediation of vulnerabilities, shifting focus from traditional metrics to a new approach that enhances security in a rapidly evolving threat landscape.",
+    "link": "https://venturebeat.com/security/visa-used-mythos-to-hunt-for-bugs-in-its-own-payment-network-then-open-sourced-the-harness-that-made-it-possible",
     "category": "AI",
-    "publishedAt": "2026-07-28 17:33"
+    "publishedAt": "2026-07-29 15:51"
   },
   {
     "source": "VentureBeat",
-    "title": "マイクロソフト、企業のセキュリティコスト削減を目指したAIサイバーセキュリティモデルとエージェンティックディフェンスプラットフォームを発表",
-    "title_en": "Microsoft launches AI cybersecurity model, agentic defense platform to cut enterprise security costs",
-    "summary": "マイクロソフトは、自社開発のサイバーセキュリティモデル「MAI-Cyber-1-Flash」と「Project Perception」プラットフォームを発表し、効果的でコスト効率の高いAIセキュリティソリューションを提供することを目指しています。この開発は、企業のAI戦略において大きな変化をもたらし、高価なモデルではなく手頃なモデルを重視することに焦点を当てており、企業のサイバーセキュリティにおけるAI導入のアプローチを再構築する可能性があります。",
-    "summary_en": "Microsoft launched its custom-built cybersecurity model, MAI-Cyber-1-Flash, alongside the Project Perception platform, aiming to provide effective and cost-efficient AI security solutions. This development marks a significant shift in enterprise AI strategy, emphasizing affordable models over larger, more expensive ones, potentially reshaping how businesses approach AI adoption in cybersecurity.",
-    "link": "https://venturebeat.com/security/microsoft-launches-ai-cybersecurity-model-agentic-defense-platform-to-cut-enterprise-security-costs",
+    "title": "インスタカートのCTO、AIの導入で技術的負債への不安が解消されたと語る",
+    "title_en": "Instacart's CTO says AI made the company stop worrying about tech debt",
+    "summary": "インスタカートのCTOであるアニルバン・クンドゥ氏は、繰り返し行われるエンジニアリング作業をAIに移行することを提唱しています。これにより、人間の開発者は複雑な問題解決に集中できるようになります。現在、コーディングのわずか3%しか人間の入力を必要としないため、このシフトは生産問題の特定における効率と正確性を向上させる可能性があります。最終的には、エンジニアリングの役割を再定義し、チーム間でのコードアクセスを民主化することにつながるでしょう。",
+    "summary_en": "Instacart's CTO Anirban Kundu advocates for moving repetitive engineering tasks to AI, allowing human developers to concentrate on complex problem-solving, as only 3% of coding currently requires human input. This shift could enhance efficiency and accuracy in identifying production issues, ultimately redefining engineering roles and democratizing code access across teams.",
+    "link": "https://venturebeat.com/orchestration/instacarts-cto-says-ai-made-the-company-stop-worrying-about-tech-debt",
     "category": "AI",
-    "publishedAt": "2026-07-28 17:33"
+    "publishedAt": "2026-07-29 15:52"
   },
   {
     "source": "NHK",
-    "title": "携帯各社 “熊本県の一部 通信サービス利用しづらい状況”",
+    "title": "トヨタ 福岡県の3工場 31日まで稼働停止 地震の影響で",
     "title_en": "",
-    "summary": "最近発生した地震の影響により、熊本県の一部でNTTドコモ、KDDI、楽天モバイルの通信サービスが利用できなくなったり、利用しづらい状況が生じています。各社は、熊本県内の基地局への被害や通話への影響について確認作業を進めています。今後の通信サービスの回復状況に注目が集まっています。",
+    "summary": "最近の地震により、九州にある大手メーカーの工場が操業に影響を受けていることが確認されました。特に熊本県では、生産ラインが一時停止するなどの事態が発生しています。これにより、製品供給に遅れが生じる可能性が指摘されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188561000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189681000.html",
     "category": "経済",
-    "publishedAt": "2026-07-28 17:33"
+    "publishedAt": "2026-07-29 15:52"
   },
   {
     "source": "BBC",
-    "title": "エクアドルからヨーロッパへのコカインのスーパーハイウェイ - BBCが gangsと警察の反撃を報道",
-    "title_en": "The cocaine superhighway from Ecuador to Europe - BBC reports on the gangs and police fightback",
-    "summary": "エクアドルの警察は、この脅威に対抗するために街をパトロールする中で、薬物関連の犯罪が著しく増加しているという課題に直面しています。この暴力と犯罪行為の増加は、公共の安全に影響を与え、地域の法執行機関が直面する課題を浮き彫りにしています。",
-    "summary_en": "Ecuador's police are facing a significant rise in drug-related crime as they patrol the streets to combat this threat. This increase in violence and criminal activity impacts public safety and underscores the challenges law enforcement must address in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/cdx7n1r54nno?at_medium=RSS&at_campaign=rss",
+    "title": "震災で瓦礫の下に閉じ込められた人々を救出するための「時間との勝負」に取り組む日本",
+    "title_en": "Japan in a ‘race against time’ to rescue people trapped beneath rubble after quake",
+    "summary": "九州で発生した最近の地震により、少なくとも13人が死亡しました。この悲劇は、地域が引き続き地震の影響を受けやすいことを浮き彫りにし、災害対策の必要性を強調しています。",
+    "summary_en": "A recent earthquake in Kyushu has resulted in the deaths of at least 13 people. This tragedy highlights the ongoing vulnerability of the region to seismic events and underscores the need for disaster preparedness.",
+    "link": "https://www.bbc.co.uk/news/videos/c3r0pg0dgrgo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-07-28 17:33"
+    "publishedAt": "2026-07-29 15:52"
   },
   {
     "source": "NHK",
-    "title": "元プロ野球投手 板東英二さん死去 タレントとしても活躍 86歳",
+    "title": "アンソロピックCEOなど米AI企業幹部 AI開発にペース管理必要",
     "title_en": "",
-    "summary": "プロ野球・中日で投手として活躍した板東英二さんが慢性心不全により亡くなりました。彼はタレントや俳優としても人気があり、その明るいキャラクターと話術で多くのファンに愛されました。享年は86歳でした。",
+    "summary": "アメリカのAI新興企業の幹部たちが、AI開発のペースを調整するための国際的な取り組みに対する政府の支援を求める声明を発表しました。彼らは、急速なAI能力の開発が理解や制御を超えるリスクをもたらす可能性があると警告しています。これにより、AI技術の安全性を確保するための新たな方針が必要とされることが示唆されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260728/k10015188041000.html",
-    "category": "その他",
-    "publishedAt": "2026-07-28 17:33"
+    "link": "http://www3.nhk.or.jp/news/html/20260729/k10015189731000.html",
+    "category": "経済",
+    "publishedAt": "2026-07-29 15:52"
   }
 ]
