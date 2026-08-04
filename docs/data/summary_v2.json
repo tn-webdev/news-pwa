@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "すべてをグラフ化するのをやめる：GraphRAGが実際にベクターRAGに勝るとき",
-    "title_en": "Stop graphing everything: When GraphRAG actually beats vector RAG",
-    "summary": "マイクロソフトリサーチは、知識グラフを活用して複雑で多段階の質問に対する情報の取得を改善する手法、GraphRAGを紹介しました。これは従来のテキストチャンク取得を上回るものであり、相互に関連するデータに跨る複雑な推論が必要とされるシナリオにおいて、回答の正確性と包括性を向上させる重要な革新です。また、実装に際してのコスト面についても考慮が必要です。",
-    "summary_en": "Microsoft Research introduced GraphRAG, a method that utilizes knowledge graphs to improve the retrieval of information for complex, multi-hop questions, outperforming traditional text chunk retrieval. This innovation matters because it enhances the accuracy and comprehensiveness of responses in scenarios where complex reasoning across interconnected data is required, while also presenting cost considerations for implementation.",
-    "link": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+    "title": "Qwen3.8-Maxが大胆な主張で登場：GPT-5.6 Sol MaxやFable 5を上回るエージェントコンピュータ使用性能",
+    "title_en": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
+    "summary": "アリババのQwenチームは、独立したソフトウェア工学に優れ、特定の競合他社を主要なベンチマークで上回るマルチモーダル大規模言語モデルQwen3.8-Maxを発表しました。今後リリースされるオープンウェイトは、企業での導入を大幅に促進する可能性がありますが、ライセンス条件がその統合の重要な要因となるでしょう。",
+    "summary_en": "Alibaba's Qwen team launched Qwen3.8-Max, a multimodal large language model that excels in autonomous software engineering and outperforms certain competitors in key benchmarks. The upcoming release of open weights could significantly enhance enterprise adoption, although the licensing terms remain a critical factor in its potential integration.",
+    "link": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
     "category": "AI",
-    "publishedAt": "2026-08-03 18:49"
+    "publishedAt": "2026-08-04 16:01"
   },
   {
     "source": "VentureBeat",
-    "title": "構造化AIデータパイプラインは自由形式コードより10.9ポイント低評価 — DataFlow-Harnessがそのギャップを埋める",
-    "title_en": "Structured AI data pipelines score 10.9 points below free-form code — DataFlow-Harness closes the gap",
-    "summary": "北京大学の研究者と共同研究者が、構造化データ処理ワークフローを構築するためのAI自動化を大幅に改善するオープンソースフレームワークであるDataFlow-Harnessを開発しました。このフレームワークは93.3%の成功率を達成し、APIコストを72.5%削減しました。この進展は、AI生成スクリプトを管理可能で監査可能な生産パイプラインに統合する際に企業が直面する課題に対応しています。",
-    "summary_en": "Researchers at Peking University and collaborators developed DataFlow-Harness, an open-source framework that significantly improves AI automation for building structured data-processing workflows, achieving a 93.3% success rate and reducing API costs by 72.5%. This advancement addresses the challenges faced by enterprises when integrating AI-generated scripts into manageable, auditable production pipelines.",
-    "link": "https://venturebeat.com/orchestration/structured-ai-data-pipelines-score-10-9-points-below-free-form-code-dataflow-harness-closes-the-gap",
+    "title": "AsanaのAIエージェントが社内で記憶を共有—ただし秘密は守られます",
+    "title_en": "Asana's AI agents share memory across your company — but not your secrets",
+    "summary": "Asanaの最高製品責任者であるアルナブ・ボース氏は、効果的な企業運営のための記憶とチームワークを作成することでAI統合を強化するエージェンティックワークマネジメント（AWM）システムを紹介しました。AWMは、Asanaの18年にわたるワークグラフを活用し、AIエージェントが組織の文脈内で協力して動作できるようにすることで、無状態のチャットボットの限界に対処します。",
+    "summary_en": "Asana's chief product officer, Arnab Bose, introduced the Agentic Work Management (AWM) system, which enhances AI integration by creating memory and teamwork for effective enterprise operations. AWM addresses the limitations of stateless chatbots by leveraging Asana's 18-year-old Work Graph to enable AI agents to operate collaboratively within organizational contexts.",
+    "link": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
     "category": "AI",
-    "publishedAt": "2026-08-03 18:49"
+    "publishedAt": "2026-08-04 16:01"
   },
   {
     "source": "NHK",
-    "title": "円相場 一時1ドル＝155円台前半まで値上がり",
+    "title": "農林水産物 食品の輸出額 上半期2年連続で過去最高に",
     "title_en": "",
-    "summary": "日本とアメリカが協調して市場介入を実施したことが発表された後、円が急速に買われ、円相場は一時1ドル＝155円台前半に達しました。この介入により、市場の反応は敏感に変動し、円高が進行しています。両国の協調行動は、為替市場において重要な影響を及ぼすとみられています。",
+    "summary": "ことし6月までの半年間、日本の農林水産物と食品の輸出額は8977億円となり、上半期として過去最高を2年連続で更新しました。輸出増加の要因として、海外での抹茶ブームや日本食への関心の高まりが挙げられています。特に「緑茶」の輸出が増加したことが、日本食輸出の後押しとなっています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195161000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195821000.html",
     "category": "経済",
-    "publishedAt": "2026-08-03 18:49"
+    "publishedAt": "2026-08-04 16:01"
   },
   {
     "source": "BBC",
-    "title": "トランプ氏、月曜日からイランとの新たな協議を提案",
-    "title_en": "Trump suggests new talks with Iran to begin on Monday",
-    "summary": "テヘランは、依然として緊張が続いている中で、新たな協議の可能性についてコメントを発表していません。この状況は、米国とイランの関係を巡る不確実性と、衝突が激化する可能性を反映しており、重要です。",
-    "summary_en": "Tehran has not commented on the possibility of new talks despite ongoing tensions. The situation is significant as it reflects the uncertainty surrounding U.S.-Iran relations and the potential for escalating conflict.",
-    "link": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+    "title": "セウタでの移民越境後、EUが国境強化を呼びかけ",
+    "title_en": "EU calls for stronger borders after Ceuta migrant crossings",
+    "summary": "ウルスラ・フォン・デア・ライエン氏は、緊急のEU内務大臣会合前に早急な対策を促しました。これは、EUが移民管理に関して直面している課題と、加盟国間での協調した対応の必要性を反映しています。",
+    "summary_en": "Ursula von der Leyen urged action before an urgent EU interior ministers meeting to address pressing migration issues. This matters as it reflects the EU's ongoing challenges with managing immigration and the need for coordinated responses among member states.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-08-03 18:50"
+    "publishedAt": "2026-08-04 16:01"
   },
   {
     "source": "NHK",
-    "title": "「みちびき7号機」7日の打ち上げは延期 台風影響で JAXA",
+    "title": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
     "title_en": "",
-    "summary": "日本版GPS衛星「みちびき」の7号機の打ち上げが、台風13号の影響で天候の悪化が予想されるため延期されることが決定されました。打ち上げは鹿児島県の種子島宇宙センターから予定されていました。JAXAが発表したこの延期により、具体的な新たな打ち上げ日程はまだ示されていません。",
+    "summary": "京都市東山区の高台寺で火事が発生し、敷地内の建物が燃えた。通報から約40分後にほぼ消し止められたが、被害の状況は確認中である。警察と消防が詳細を調査している。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195091000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html",
     "category": "その他",
-    "publishedAt": "2026-08-03 18:50"
+    "publishedAt": "2026-08-04 16:02"
   }
 ]
