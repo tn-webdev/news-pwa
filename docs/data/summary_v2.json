@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Qwen3.8-Maxが大胆な主張で登場：GPT-5.6 Sol MaxやFable 5を上回るエージェントコンピュータ使用性能",
-    "title_en": "Qwen3.8-Max arrives with a bold claim: it outperforms GPT-5.6 Sol Max and Fable 5 on agentic computer use",
-    "summary": "アリババのQwenチームは、独立したソフトウェア工学に優れ、特定の競合他社を主要なベンチマークで上回るマルチモーダル大規模言語モデルQwen3.8-Maxを発表しました。今後リリースされるオープンウェイトは、企業での導入を大幅に促進する可能性がありますが、ライセンス条件がその統合の重要な要因となるでしょう。",
-    "summary_en": "Alibaba's Qwen team launched Qwen3.8-Max, a multimodal large language model that excels in autonomous software engineering and outperforms certain competitors in key benchmarks. The upcoming release of open weights could significantly enhance enterprise adoption, although the licensing terms remain a critical factor in its potential integration.",
-    "link": "https://venturebeat.com/technology/qwen3-8-max-arrives-with-a-bold-claim-it-outperforms-gpt-5-6-sol-max-and-fable-5-on-agentic-computer-use",
+    "title": "AIコーディングエージェントが予算を圧迫 — Replit、Kilo Code、Symboticがその管理方法を説明",
+    "title_en": "AI coding agents are blowing through budgets — Replit, Kilo Code, and Symbotic explain how they're managing it",
+    "summary": "Kilo Codeでは、エンジニアがコーディング作業の99%をAIエージェントに依存しており、モデルの誤りや企業のワークフローにおけるコスト管理に関する懸念が高まっています。このエージェント型AIへの移行は、Kilo Code、Replit、Symboticの技術責任者によって前向きな発展と見なされており、ソフトウェア開発プロセスの大きな変革を示しています。",
+    "summary_en": "At Kilo Code, engineers now rely on AI agents for 99% of coding tasks, raising concerns about model errors and cost management in enterprise workflows. This shift towards agentic AI is seen as a positive development by tech leads from Kilo Code, Replit, and Symbotic, indicating a significant transformation in the software development process.",
+    "link": "https://venturebeat.com/orchestration/ai-coding-agents-are-blowing-through-budgets-replit-kilo-code-and-symbotic-explain-how-theyre-managing-it",
     "category": "AI",
-    "publishedAt": "2026-08-04 16:01"
+    "publishedAt": "2026-08-05 17:44"
   },
   {
     "source": "VentureBeat",
-    "title": "AsanaのAIエージェントが社内で記憶を共有—ただし秘密は守られます",
-    "title_en": "Asana's AI agents share memory across your company — but not your secrets",
-    "summary": "Asanaの最高製品責任者であるアルナブ・ボース氏は、効果的な企業運営のための記憶とチームワークを作成することでAI統合を強化するエージェンティックワークマネジメント（AWM）システムを紹介しました。AWMは、Asanaの18年にわたるワークグラフを活用し、AIエージェントが組織の文脈内で協力して動作できるようにすることで、無状態のチャットボットの限界に対処します。",
-    "summary_en": "Asana's chief product officer, Arnab Bose, introduced the Agentic Work Management (AWM) system, which enhances AI integration by creating memory and teamwork for effective enterprise operations. AWM addresses the limitations of stateless chatbots by leveraging Asana's 18-year-old Work Graph to enable AI agents to operate collaboratively within organizational contexts.",
-    "link": "https://venturebeat.com/orchestration/asanas-ai-agents-share-memory-across-your-company-but-not-your-secrets",
+    "title": "コマースAIは誰も話していない測定の問題を抱えています",
+    "title_en": "Commerce AI has a measurement problem no one is talking about",
+    "summary": "ブランドは、AIプラットフォームが消費者の購入決定にますます影響を与えるという顕著な消費者行動の変化に適応するのに苦労しています。この影響は、消費者がブランドのウェブサイトを訪れる前にしばしば現れます。既存の分析ツールがこれらの変化を捉えることができないため、AIを介した発見の段階で視認性を高めないブランドには潜在的な市場損失が生じる重大な課題となっています。",
+    "summary_en": "Brands are struggling to adapt to a significant shift in consumer behavior where AI platforms increasingly influence purchase decisions, often before consumers even visit brand websites. This presents a major challenge as existing analytics tools fail to capture these changes, leading to potential market losses for brands that do not enhance their visibility in the AI-mediated discovery phase.",
+    "link": "https://venturebeat.com/technology/commerce-ai-has-a-measurement-problem-no-one-is-talking-about",
     "category": "AI",
-    "publishedAt": "2026-08-04 16:01"
+    "publishedAt": "2026-08-05 17:44"
   },
   {
     "source": "NHK",
-    "title": "農林水産物 食品の輸出額 上半期2年連続で過去最高に",
+    "title": "熊本地震で9人死亡の日本製紙 初めて記者会見 社長が陳謝",
     "title_en": "",
-    "summary": "ことし6月までの半年間、日本の農林水産物と食品の輸出額は8977億円となり、上半期として過去最高を2年連続で更新しました。輸出増加の要因として、海外での抹茶ブームや日本食への関心の高まりが挙げられています。特に「緑茶」の輸出が増加したことが、日本食輸出の後押しとなっています。",
+    "summary": "日本製紙は、先月の地震による煙突倒壊で9人が死亡したことを受けて、八代市で初めての記者会見を開催しました。瀬邊明社長は、尊い命を失ったことを深く悲しみ、関係者に謝罪の言葉を述べました。今後の対応や再発防止策についての具体的な言及は行われませんでした。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260804/k10015195821000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260805/k10015197011000.html",
     "category": "経済",
-    "publishedAt": "2026-08-04 16:01"
+    "publishedAt": "2026-08-05 17:45"
   },
   {
     "source": "BBC",
-    "title": "セウタでの移民越境後、EUが国境強化を呼びかけ",
-    "title_en": "EU calls for stronger borders after Ceuta migrant crossings",
-    "summary": "ウルスラ・フォン・デア・ライエン氏は、緊急のEU内務大臣会合前に早急な対策を促しました。これは、EUが移民管理に関して直面している課題と、加盟国間での協調した対応の必要性を反映しています。",
-    "summary_en": "Ursula von der Leyen urged action before an urgent EU interior ministers meeting to address pressing migration issues. This matters as it reflects the EU's ongoing challenges with managing immigration and the need for coordinated responses among member states.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvl84zmgyro?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、ホルムズ海峡が早期に開かれない場合はイランを「非常に厳しく打つ」と発言",
+    "title_en": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
+    "summary": "アメリカのマルコ・ルビオ国務長官とスコット・ベッセント財務長官は、議論が進展し、輸送再開が可能になったと発表しました。この展開は、貿易や関係に影響を与える可能性がある制限の緩和を示唆しているため、重要なものとなります。",
+    "summary_en": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent announced that discussions had advanced, enabling the resumption of shipments. This development is significant as it indicates a potential easing of restrictions that could impact trade and relations.",
+    "link": "https://www.bbc.co.uk/news/articles/cpw9v0gnzxwo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-08-04 16:01"
+    "publishedAt": "2026-08-05 17:45"
   },
   {
     "source": "NHK",
-    "title": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
+    "title": "スペースXのロケット残骸 月面に衝突予定 NASAが観測へ",
     "title_en": "",
-    "summary": "3日夜、京都市東山区の高台寺で建物火災が発生し、通報から約40分後にほぼ消し止められました。けが人の情報はありません。高台寺は、ねねが豊臣秀吉を供養するために建立した寺で、重要文化財もあります。警察と消防が出火原因や被害状況を調べています。",
+    "summary": "スペースXが打ち上げたロケットの残骸が近日中に月面に衝突することが確認されました。NASAはこの衝突を観測することで、将来の月面探査に必要な知見を得ることを目的としています。これにより、月面における研究や探索の進展が期待されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260803/k10015195201000.html",
+    "link": "http://www3.nhk.or.jp/news/html/20260805/k10015196961000.html",
     "category": "その他",
-    "publishedAt": "2026-08-04 16:02"
+    "publishedAt": "2026-08-05 17:45"
   }
 ]
