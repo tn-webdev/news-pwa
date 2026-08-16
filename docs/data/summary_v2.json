@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "評価ハーネスが質的レビューでは見つけられなかったことを発見：AIモデルは誤っているときに最も自信を持つ",
+    "title": "評価ハーネスが質的レビューでは気付かなかったことを発見：AIモデルは間違っている時に最も自信を持つ",
     "title_en": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
-    "summary": "多くのLLM支援ツールを開発しているチームは、モデルの出力の正確性を確認するための重要な検証を見落とし、微妙な不正確さを見逃す質的評価に依存しています。この見落としはビジネスの文脈で大きな失敗を引き起こす可能性があるため、正確性と信頼性を確保するために、既知の真実に対する厳格な評価プロセスを実施することが重要です。",
-    "summary_en": "Most teams developing LLM-assisted tools overlook essential verification of the model's output for correctness, relying instead on qualitative evaluations that miss subtle inaccuracies. This oversight can lead to significant failures in business contexts, making it crucial to implement rigorous evaluation processes against known ground truth to ensure accuracy and reliability in decision-making.",
+    "summary": "多くのチームは、大規模言語モデルの出力の正確性を確認する重要なステップを見落としており、その結果、正確性がビジネスの意思決定に影響を与える実世界の応用において失敗を招いています。アラン・ミシュラ氏は、企業環境で信頼性のあるツール展開を確保するために、モデル出力を既知の正解と測定する堅牢な評価ハーネスの開発の重要性を強調しています。",
+    "summary_en": "Most teams overlook the critical step of verifying the accuracy of large language model outputs, leading to failures in real-world applications where correctness influences business decisions. Arun Mishra emphasizes the importance of developing a robust evaluation harness that measures model output against known correct answers to ensure reliable tool deployment in enterprise contexts.",
     "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
     "category": "AI",
-    "publishedAt": "2026-08-16 13:02"
+    "publishedAt": "2026-08-16 16:57"
   },
   {
     "source": "VentureBeat",
-    "title": "GLM-5.3が登場、先進的なサイバー機能を搭載 — すでにCursorに「深刻な脆弱性」を発見したとの報道も",
+    "title": "GLM-5.3が高度なサイバー能力を搭載して登場 — すでにCursorの『深刻な脆弱性』を発見したとの報告",
     "title_en": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-    "summary": "中国のAIスタートアップであるZ.aiがGLM-5.3を発表し、長期的なコーディングおよびサイバーセキュリティ機能を強化しました。この新機能には、SpaceXが買収したスタートアップCursorの脆弱性を特定する機能も含まれています。この進展は、強化された自律的エンジニアリングの能力とサイバーセキュリティに関連する潜在的なリスクとのバランスの重要性を強調しています。",
-    "summary_en": "Chinese AI startup Z.ai has released GLM-5.3, enhancing its long-horizon coding and cybersecurity capabilities, including identifying vulnerabilities in Cursor, a SpaceX-acquired startup. This advancement emphasizes the balance between the stronger capabilities of autonomous engineering and the potential risks associated with cybersecurity.",
+    "summary": "Z.aiは、長期間のコーディングにおける大きな進展と、脆弱性の特定を含む強化されたサイバーセキュリティ機能を備えたGLM-5.3モデルを発表しました。このリリースは、コーディングの効率向上と高度なサイバーセキュリティ機能に伴う潜在的リスクとの間の緊張関係を浮き彫りにするため、注目されています。",
+    "summary_en": "Z.ai released its GLM-5.3 model, showcasing significant advancements in long-horizon coding and enhanced cybersecurity capabilities, including vulnerability identification. This release is notable because it highlights the tension between improving coding efficiency and the potential risks associated with advanced cybersecurity functions.",
     "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
     "category": "AI",
-    "publishedAt": "2026-08-16 13:02"
+    "publishedAt": "2026-08-16 16:57"
   },
   {
     "source": "NHK",
-    "title": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+    "title": "4月-6月のGDP 民間は3期連続プラスの予測 個人消費堅調で",
     "title_en": "",
-    "summary": "オープンAIは、AIモデル「アストラ」の開発を一時中断すると発表しました。これはAIの能力が著しく向上し、自ら判断して重大なサイバー攻撃を実行するリスクがあるためです。今後の方針については、慎重な検討が必要としています。",
+    "summary": "最近公表された民間の予測によると、今年4月から6月までの国内総生産（GDP）は、エアコンの買い替え需要などによる個人消費の堅調な伸びを背景に、成長率が3期連続でプラスになると見込まれています。これは経済の回復を示す重要な指標となります。消費動向が今後の経済に与える影響が注目されています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200151000.html",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260815de44230",
     "category": "経済",
-    "publishedAt": "2026-08-16 13:02"
+    "publishedAt": "2026-08-16 16:57"
   },
   {
     "source": "BBC",
-    "title": "インドネシアの強力な地震で生存者を捜索する救助隊",
+    "title": "インドネシアの強震で生存者を捜索する救助隊",
     "title_en": "Rescuers search for survivors of powerful Indonesia earthquake",
-    "summary": "当局は、数百棟の建物が破壊され47人の死者が出た地震に続いて迅速な評価を行っています。この評価は、災害の影響を理解し、復旧活動を導く上で重要です。",
-    "summary_en": "Officials are conducting a rapid assessment following an earthquake that resulted in the destruction of hundreds of buildings and 47 fatalities. This evaluation is crucial for understanding the disaster's impact and guiding recovery efforts.",
+    "summary": "数百棟の建物が破壊され、47人が亡くなった地震後、迅速な評価が行われています。この評価は、災害の影響を理解し、救援活動を調整するために重要です。",
+    "summary_en": "A rapid assessment is being conducted following an earthquake that destroyed hundreds of buildings and resulted in 47 fatalities. This evaluation is crucial for understanding the disaster's effects and coordinating relief efforts.",
     "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-08-16 13:02"
+    "publishedAt": "2026-08-16 16:57"
   },
   {
     "source": "NHK",
-    "title": "「みちびき」打ち上げは11日に再延期 気象条件が整わず JAXA",
+    "title": "女性研究者支援の大学に年間最大5000万円補助へ 文部科学省",
     "title_en": "",
-    "summary": "日本版GPS衛星「みちびき」7号機の打ち上げが気象条件により延期され、次回の予定日は8月中旬となりました。これにより、8月に入って2度目の延期となります。打ち上げは鹿児島県の種子島宇宙センターから行われる予定です。",
+    "summary": "文部科学省は、女性研究者が出産などのライフイベントと研究を両立させるため、補助金を支給する新制度の導入を検討しています。この制度では、対象となる大学に対して年間最大で5000万円程度の支援が行われる予定です。これにより、女性研究者の活躍を促進し、研究環境の改善を目指しています。",
     "summary_en": "",
-    "link": "http://www3.nhk.or.jp/news/html/20260808/k10015200241000.html",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260816de44362",
     "category": "その他",
-    "publishedAt": "2026-08-16 13:02"
+    "publishedAt": "2026-08-16 16:57"
   }
 ]
