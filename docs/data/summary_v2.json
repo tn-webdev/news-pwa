@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "評価ハーネスが質的レビューでは気付かなかったことを発見：AIモデルは間違っている時に最も自信を持つ",
-    "title_en": "An eval harness found what qualitative review couldn't: AI models are most confident when wrong",
-    "summary": "多くのチームは、大規模言語モデルの出力の正確性を確認する重要なステップを見落としており、その結果、正確性がビジネスの意思決定に影響を与える実世界の応用において失敗を招いています。アラン・ミシュラ氏は、企業環境で信頼性のあるツール展開を確保するために、モデル出力を既知の正解と測定する堅牢な評価ハーネスの開発の重要性を強調しています。",
-    "summary_en": "Most teams overlook the critical step of verifying the accuracy of large language model outputs, leading to failures in real-world applications where correctness influences business decisions. Arun Mishra emphasizes the importance of developing a robust evaluation harness that measures model output against known correct answers to ensure reliable tool deployment in enterprise contexts.",
-    "link": "https://venturebeat.com/orchestration/an-eval-harness-found-what-qualitative-review-couldnt-ai-models-are-most-confident-when-wrong",
+    "title": "Anthropicの新しいClaude Tagアップデートにより、Slackエージェントが会話を全て読み取り、無 promptedで参加することが可能に",
+    "title_en": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+    "summary": "Anthropicは、個々のAIツールから「マルチプレイヤーAI」へと焦点を移しています。これにより、ClaudeのようなAIエージェントが組織の文脈を理解し、チーム内で共同で操作しながら、積極的に議論に参加できるようになります。このアプローチは、AIを個人のアシスタントではなく、共同のリソースとして活用することで、企業の生産性を向上させることを目指しており、AI技術のビジネス利用において重要な進化を示しています。",
+    "summary_en": "Anthropic is shifting its focus from individual AI tools to \"multiplayer AI,\" allowing AI agents like Claude to operate collaboratively within teams by understanding organizational context and proactively engaging in discussions. This approach aims to enhance enterprise productivity by making AI a collective resource rather than a personal assistant, marking a significant evolution in how businesses utilize AI technology.",
+    "link": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
     "category": "AI",
-    "publishedAt": "2026-08-16 16:57"
+    "publishedAt": "2026-08-25 16:53"
   },
   {
     "source": "VentureBeat",
-    "title": "GLM-5.3が高度なサイバー能力を搭載して登場 — すでにCursorの『深刻な脆弱性』を発見したとの報告",
-    "title_en": "GLM-5.3 is here with advanced cyber capabilities — and reportedly already found a 'serious vulnerability' in Cursor",
-    "summary": "Z.aiは、長期間のコーディングにおける大きな進展と、脆弱性の特定を含む強化されたサイバーセキュリティ機能を備えたGLM-5.3モデルを発表しました。このリリースは、コーディングの効率向上と高度なサイバーセキュリティ機能に伴う潜在的リスクとの間の緊張関係を浮き彫りにするため、注目されています。",
-    "summary_en": "Z.ai released its GLM-5.3 model, showcasing significant advancements in long-horizon coding and enhanced cybersecurity capabilities, including vulnerability identification. This release is notable because it highlights the tension between improving coding efficiency and the potential risks associated with advanced cybersecurity functions.",
-    "link": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+    "title": "IBMの次世代メインフレームチップが、同一コア上でArmとZワークロードを処理する初の処理装置に",
+    "title_en": "IBM’s next-gen mainframe chip is the first to run Arm and Z workloads on the same cores",
+    "summary": "IBMはホットチップス会議で、画期的なデュアルアーキテクチャプロセッサを発表しました。このプロセッサにより、IBM ZおよびLinuxONEシステムがIBMの命令セットとArmをネイティブに実行できるようになり、企業は従来のメインフレームワークロードとともに、より広範なArmネイティブアプリケーションを運用できるようになります。この革新は、変化する技術環境においてAIや企業向けアプリケーションへの需要が高まる中で、IBMがそのニーズに応えるための重要なステップとなります。",
+    "summary_en": "IBM announced a groundbreaking dual-architecture processor at the Hot Chips conference, enabling the IBM Z and LinuxONE systems to execute both IBM's instruction set and Arm's natively, which allows enterprises to run a wider range of Arm-native applications alongside traditional mainframe workloads. This innovation is significant as it positions IBM to meet the growing demand for AI and enterprise applications in a changing technological landscape.",
+    "link": "https://venturebeat.com/infrastructure/ibms-next-gen-mainframe-chip-is-the-first-to-run-arm-and-z-workloads-on-the-same-cores",
     "category": "AI",
-    "publishedAt": "2026-08-16 16:57"
+    "publishedAt": "2026-08-25 16:53"
   },
   {
     "source": "NHK",
-    "title": "4月-6月のGDP 民間は3期連続プラスの予測 個人消費堅調で",
+    "title": "鈴木農相 新米の作柄31日に公表 備蓄米買い戻し判断へ",
     "title_en": "",
-    "summary": "最近公表された民間の予測によると、今年4月から6月までの国内総生産（GDP）は、エアコンの買い替え需要などによる個人消費の堅調な伸びを背景に、成長率が3期連続でプラスになると見込まれています。これは経済の回復を示す重要な指標となります。消費動向が今後の経済に与える影響が注目されています。",
+    "summary": "農林水産大臣は、今年の新米の作柄を今月末に発表する意向を示しました。さらに、政府の備蓄米の買い戻しについては、発表される作柄を基に判断する方針を明らかにしました。これにより、作柄の良し悪しが今後の政策に影響を与える可能性があることが示されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260815de44230",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260825de46159",
     "category": "経済",
-    "publishedAt": "2026-08-16 16:57"
+    "publishedAt": "2026-08-25 16:53"
   },
   {
     "source": "BBC",
-    "title": "インドネシアの強震で生存者を捜索する救助隊",
-    "title_en": "Rescuers search for survivors of powerful Indonesia earthquake",
-    "summary": "数百棟の建物が破壊され、47人が亡くなった地震後、迅速な評価が行われています。この評価は、災害の影響を理解し、救援活動を調整するために重要です。",
-    "summary_en": "A rapid assessment is being conducted following an earthquake that destroyed hundreds of buildings and resulted in 47 fatalities. This evaluation is crucial for understanding the disaster's effects and coordinating relief efforts.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v00w5ylw9o?at_medium=RSS&at_campaign=rss",
+    "title": "イラン、米国による経済制裁の拡大に対抗する準備が「整っている」と発表",
+    "title_en": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+    "summary": "米国はイランに対して新たな制裁を課し、この行動を「経済のDデイ」と表現しました。これに対し、イランはこれらの制裁の影響に対抗するための戦略を整えていると発表しました。",
+    "summary_en": "The US imposed new sanctions on Iran, labeling the action as \"economic D-Day.\" In response, Iran announced it has strategies in place to counteract the impact of these sanctions.",
+    "link": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-08-16 16:57"
+    "publishedAt": "2026-08-25 16:53"
   },
   {
     "source": "NHK",
-    "title": "女性研究者支援の大学に年間最大5000万円補助へ 文部科学省",
+    "title": "沖縄振興予算 2897億円を要求へ 去年より68億円増加",
     "title_en": "",
-    "summary": "文部科学省は、女性研究者が出産などのライフイベントと研究を両立させるため、補助金を支給する新制度の導入を検討しています。この制度では、対象となる大学に対して年間最大で5000万円程度の支援が行われる予定です。これにより、女性研究者の活躍を促進し、研究環境の改善を目指しています。",
+    "summary": "内閣府は来年度の沖縄振興予算の概算要求として2897億円を自民党の調査会に示し、大筋で了承されました。この金額は前年の要求を60億円余り上回っていますが、沖縄県が求めていた3000億円台には届いていません。結果として、県の期待に対する不足感が残る形となりました。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260816de44362",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260825de46212",
     "category": "その他",
-    "publishedAt": "2026-08-16 16:57"
+    "publishedAt": "2026-08-25 16:54"
   }
 ]
