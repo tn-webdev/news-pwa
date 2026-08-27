@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "プロンプトインジェクションがOWASPで第1位、インシデント記録で第12位にランクイン。攻撃自体はスキャンに対して不可視です。",
-    "title_en": "Prompt injection ranks No. 1 with OWASP and No. 12 in the incident record. The attack itself is invisible to a scan.",
-    "summary": "キリアコス・ランブロス氏とスティーブ・ウィルソン氏は、LLMのセキュリティリスクに関するOWASPトップ10リストを分析し、プロンプトインジェクションがインシデント記録のランキングは低いものの、依然として最も大きなリスクであることを確認しました。彼らの調査結果は、専門家の評価と公的なインシデント報告との間に乖離があることを浮き彫りにし、LLMの脆弱性を正確に評価し、セキュリティ戦略を通知する上での複雑さを強調しています。",
-    "summary_en": "Kyriakos Lambros and Steve Wilson analyzed the OWASP Top 10 list for LLM security risks, finding that prompt injection remains the top risk despite its low incident record ranking. Their findings highlight a disconnect between expert assessments and public incident reports, underscoring the complexities in accurately gauging LLM vulnerabilities and informing security strategies.",
-    "link": "https://venturebeat.com/security/prompt-injection-ranks-no-1-with-owasp-and-no-12-in-the-incident-record-the-attack-itself-is-invisible-to-a-scan",
+    "title": "GLM-5.3-FlashはおそらくあなたのAIワークロードの45％を処理するでしょう",
+    "title_en": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
+    "summary": "AIモデルのOx Alphaは、現在Z.aiのGLM-5.3-Flashとして知られ、その性能と低コストで急速に人気を集めています。このモデルは中国のインフラに完全に基づいて構築されています。この変化は、中国のAIモデルからの競争の激化を示しており、アメリカの企業にAI投資戦略の見直しを迫っています。",
+    "summary_en": "The AI model Ox Alpha, now identified as GLM-5.3-Flash from Z.ai, gained rapid popularity for its performance and low cost, being fully built on Chinese infrastructure. This shift highlights the increasing competition from Chinese AI models, pressuring U.S. companies to reassess their AI spending strategies.",
+    "link": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
     "category": "AI",
-    "publishedAt": "2026-08-26 15:34"
+    "publishedAt": "2026-08-27 18:18"
   },
   {
     "source": "VentureBeat",
-    "title": "PerplexityがNvidiaと提携し、ゼロトークンコストの完全ローカルAIエージェント「Portable Computer」を発表",
-    "title_en": "Perplexity partners with Nvidia to launch Portable Computer, a fully local AI agent with zero token costs",
-    "summary": "Perplexityは、クラウドに依存せずにタスクを実行できるAIプラットフォームのローカル版「Portable Computer」を発表しました。この製品は既存のNvidiaハードウェア上で動作し、プライバシーの向上とコスト削減を図ることを目指しています。これは、AI導入戦略における重要な変化を示しています。",
-    "summary_en": "Perplexity has launched the Portable Computer, a local version of its AI platform, running on existing Nvidia hardware to perform tasks without cloud reliance. This initiative aims to enhance privacy and reduce costs for businesses by allowing extensive AI workloads to be processed locally, marking a significant shift in AI deployment strategies.",
-    "link": "https://venturebeat.com/infrastructure/perplexity-partners-with-nvidia-to-launch-portable-computer-a-fully-local-ai-agent-with-zero-token-costs",
+    "title": "セールスフォースがその全てのCRM機能をクロードに統合し、アプリは不要になると発表",
+    "title_en": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
+    "summary": "セールスフォースとアンソロピックはパートナーシップを拡大し、クローデフォースを発表しました。これにより、セールスフォースはクロードに直接統合され、販売者はセールスフォースのインターフェースなしでCRMデータを管理できるようになります。このコラボレーションは、AI駆動のエンタープライズソフトウェアへのシフトを示しており、企業のデータおよびワークフローとのインタラクションの方法を変革する可能性があります。",
+    "summary_en": "Salesforce and Anthropic expanded their partnership by launching Claudeforce, integrating Salesforce directly into Claude, allowing sellers to manage CRM data without the Salesforce interface. This collaboration matters as it represents a shift towards AI-driven enterprise software, potentially transforming how businesses interact with their data and workflows.",
+    "link": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
     "category": "AI",
-    "publishedAt": "2026-08-26 15:34"
+    "publishedAt": "2026-08-27 18:19"
   },
   {
     "source": "NHK",
-    "title": "AI関連の展示会「フィジカルAI」に注目集まる 約100社が出展",
+    "title": "8月月例経済報告「緩やかに回復」維持 熊本地震などで表現変更",
     "title_en": "",
-    "summary": "都内で開催されているAI関連の技術の展示会では、AIが自律的に判断してロボットや機械を動かす「フィジカルAI」が注目されています。この技術は、さまざまな業界における効率化や生産性向上に寄与する可能性があります。出展企業は、リアルタイムのデータ処理や学習能力を活かした具体的な応用事例を紹介し、来場者の関心を集めています。",
+    "summary": "政府は、月例経済報告で景気の基調判断を「緩やかに回復している」と維持しましたが、熊本地震などの影響を踏まえ、表現の一部を変更しました。具体的には、中東情勢や自然災害の影響に注意を払う必要があると明記しました。これにより、経済回復の見通しに慎重さが求められることとなりました。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260826de46402",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260827de46753",
     "category": "経済",
-    "publishedAt": "2026-08-26 15:35"
+    "publishedAt": "2026-08-27 18:19"
   },
   {
     "source": "BBC",
-    "title": "カナダ、アメリカに対して最大50%の「ドル対ドル」報復関税を発表",
-    "title_en": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-    "summary": "アメリカは、貿易戦争が激化する中、カナダ産の鋼鉄、家具、マグロ、化粧品など様々な商品に新たな関税を課しました。この事態は両国の貿易関係に影響を及ぼし、より広範な経済的な影響をもたらす可能性があります。",
-    "summary_en": "The US has imposed new tariffs on various Canadian goods, including steel, furniture, tuna, and makeup, amid an escalating trade war. This development affects trade relations between the two countries and could have broader economic implications.",
-    "link": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+    "title": "科学者が示唆した崩壊した氷河がネパール・チベットの大規模な洪水を引き起こした可能性",
+    "title_en": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
+    "summary": "科学者たちは、最近の地域での出来事の原因として崩壊した氷河を特定し、ヒマラヤの氷が急速に融解することの重大な影響を強調しました。この発見は、気候変動が周辺のコミュニティや生態系に及ぼす影響について警鐘を鳴らすものです。",
+    "summary_en": "Scientists have identified a collapsed glacier as the cause of recent incidents in the region, emphasizing the critical impact of swiftly melting Himalayan ice. This finding raises alarms about the effects of climate change on nearby communities and ecosystems.",
+    "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-08-26 15:35"
+    "publishedAt": "2026-08-27 18:19"
   },
   {
     "source": "NHK",
-    "title": "出産無償化に向けて 有識者による検討会立ち上げへ 厚労省",
+    "title": "沖縄県知事選6人が立候補 基地負担や経済振興で論戦へ",
     "title_en": "",
-    "summary": "厚生労働省は、出産の無償化に向けて、基本的な費用を全額公的医療保険で賄うための制度設計を議論する有識者による検討会を立ち上げることを決定しました。この取り組みは、全国的な出産に関する経済的負担を軽減することを目的としています。検討会では、具体的な制度の詳細が話し合われる予定です。",
+    "summary": "沖縄県知事選挙が告示され、現職知事が3期目を目指す中、新人候補5人を含む6人が立候補しました。選挙では沖縄の基地負担軽減や経済振興が主要な争点となり、候補者間での論戦が繰り広げられる見込みです。また、この選挙結果は国の安全保障政策にも影響を与える可能性があります。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260826de46453",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260827de46747",
     "category": "その他",
-    "publishedAt": "2026-08-26 15:35"
+    "publishedAt": "2026-08-27 18:19"
   }
 ]
