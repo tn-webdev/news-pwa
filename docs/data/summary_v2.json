@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "GLM-5.3-FlashはおそらくあなたのAIワークロードの45％を処理するでしょう",
-    "title_en": "GLM-5.3-Flash will likely handle 45% of your AI workloads",
-    "summary": "AIモデルのOx Alphaは、現在Z.aiのGLM-5.3-Flashとして知られ、その性能と低コストで急速に人気を集めています。このモデルは中国のインフラに完全に基づいて構築されています。この変化は、中国のAIモデルからの競争の激化を示しており、アメリカの企業にAI投資戦略の見直しを迫っています。",
-    "summary_en": "The AI model Ox Alpha, now identified as GLM-5.3-Flash from Z.ai, gained rapid popularity for its performance and low cost, being fully built on Chinese infrastructure. This shift highlights the increasing competition from Chinese AI models, pressuring U.S. companies to reassess their AI spending strategies.",
-    "link": "https://venturebeat.com/orchestration/glm-5-3-flash-will-likely-handle-45-of-your-ai-workloads",
+    "title": "OpenClaw 2.0が登場、企業向けの「マルチプレイヤー」AIコーディングの時代を切り開く",
+    "title_en": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
+    "summary": "OpenClawの創設者であるピーター・シュタインバーガー氏は、共有インフラ、複数ユーザーのコラボレーション、およびセキュリティ対策の向上を目指したOpenClaw 2.0を発表しました。このアップデートは、OpenClawを協力エージェントプラットフォームとして位置づけ、AIエージェントに関連するセキュリティ問題に対処しながらワークフローの効率化を図る企業にとって重要です。",
+    "summary_en": "OpenClaw's creator, Peter Steinberger, announced OpenClaw 2.0, aiming to enhance its functionality for enterprises by introducing shared infrastructure, multi-user collaboration, and improved security measures. This update is significant as it positions OpenClaw as a collaborative agent platform, crucial for organizations seeking to streamline workflows while addressing security concerns associated with AI agents.",
+    "link": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
     "category": "AI",
-    "publishedAt": "2026-08-27 18:18"
+    "publishedAt": "2026-09-01 15:27"
   },
   {
     "source": "VentureBeat",
-    "title": "セールスフォースがその全てのCRM機能をクロードに統合し、アプリは不要になると発表",
-    "title_en": "Salesforce just put its entire CRM inside Claude — and says you’ll never need its app again",
-    "summary": "セールスフォースとアンソロピックはパートナーシップを拡大し、クローデフォースを発表しました。これにより、セールスフォースはクロードに直接統合され、販売者はセールスフォースのインターフェースなしでCRMデータを管理できるようになります。このコラボレーションは、AI駆動のエンタープライズソフトウェアへのシフトを示しており、企業のデータおよびワークフローとのインタラクションの方法を変革する可能性があります。",
-    "summary_en": "Salesforce and Anthropic expanded their partnership by launching Claudeforce, integrating Salesforce directly into Claude, allowing sellers to manage CRM data without the Salesforce interface. This collaboration matters as it represents a shift towards AI-driven enterprise software, potentially transforming how businesses interact with their data and workflows.",
-    "link": "https://venturebeat.com/orchestration/salesforce-just-put-its-entire-crm-inside-claude-and-says-youll-never-need-its-app-again",
+    "title": "ソフトウェアエンジニアの新しい仕事はコードを書くことではなく、AIエージェントが破れない境界を設計することです",
+    "title_en": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
+    "summary": "現代のデータプラットフォームでは、エージェントが自律的にコードを生成できるようになり、ソフトウェアエンジニアの役割がクリエイターからフィードバックループや境界の設計者へと変化しています。この進化は、エンジニアの役割がエージェントが相互作用するシステムの信頼性と一貫性を確保する上で重要であることを強調しています。",
+    "summary_en": "Modern data platforms are experiencing a shift where agents can now autonomously generate code, changing the role of software engineers from creators to designers of feedback loops and boundaries. This evolution is significant as it highlights the importance of engineers in ensuring the reliability and coherence of the systems that agents interact with.",
+    "link": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
     "category": "AI",
-    "publishedAt": "2026-08-27 18:19"
+    "publishedAt": "2026-09-01 15:27"
   },
   {
     "source": "NHK",
-    "title": "8月月例経済報告「緩やかに回復」維持 熊本地震などで表現変更",
+    "title": "【解説動画】長期金利3％に上昇 なぜ? 生活への影響は？",
     "title_en": "",
-    "summary": "政府は、月例経済報告で景気の基調判断を「緩やかに回復している」と維持しましたが、熊本地震などの影響を踏まえ、表現の一部を変更しました。具体的には、中東情勢や自然災害の影響に注意を払う必要があると明記しました。これにより、経済回復の見通しに慎重さが求められることとなりました。",
+    "summary": "債券市場では長期金利が急上昇し、10年もの国債の利回りが約30年ぶりの高水準に達しました。これにより、投資家や経済に影響を与える可能性が強まっています。長期金利の急激な上昇の背景には、さまざまな経済要因が関与していると見られています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260827de46753",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260901de47609",
     "category": "経済",
-    "publishedAt": "2026-08-27 18:19"
+    "publishedAt": "2026-09-01 15:27"
   },
   {
     "source": "BBC",
-    "title": "科学者が示唆した崩壊した氷河がネパール・チベットの大規模な洪水を引き起こした可能性",
-    "title_en": "Collapsed glacier likely caused devastating Nepal-Tibet floods, scientists say",
-    "summary": "科学者たちは、最近の地域での出来事の原因として崩壊した氷河を特定し、ヒマラヤの氷が急速に融解することの重大な影響を強調しました。この発見は、気候変動が周辺のコミュニティや生態系に及ぼす影響について警鐘を鳴らすものです。",
-    "summary_en": "Scientists have identified a collapsed glacier as the cause of recent incidents in the region, emphasizing the critical impact of swiftly melting Himalayan ice. This finding raises alarms about the effects of climate change on nearby communities and ecosystems.",
-    "link": "https://www.bbc.co.uk/news/articles/cly464k252yo?at_medium=RSS&at_campaign=rss",
+    "title": "トゥパック・シャクールの殺人事件裁判における評決の内部状況",
+    "title_en": "What it was like inside court for Tupac Shakur’s murder trial verdict",
+    "summary": "デュワン・「ケッフィー・D」・デイビス氏がラッパーのトゥパック・シャクールを殺害した罪で有罪判決を受けました。この事件は27年以上未解決のままでした。この評決はヒップホップの歴史における重要な瞬間に終止符を打ち、音楽業界における未解決犯罪の継続的な影響に光を当てています。",
+    "summary_en": "Duane \"Keffe D\" Davis was found guilty of murdering rapper Tupac Shakur, a case that has remained unresolved for over 27 years. This verdict brings closure to a pivotal moment in hip-hop history and sheds light on the ongoing impact of unsolved crimes in the music industry.",
+    "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-08-27 18:19"
+    "publishedAt": "2026-09-01 15:27"
   },
   {
     "source": "NHK",
-    "title": "沖縄県知事選6人が立候補 基地負担や経済振興で論戦へ",
+    "title": "高市首相 首都直下などの巨大地震想定の防災訓練を視察",
     "title_en": "",
-    "summary": "沖縄県知事選挙が告示され、現職知事が3期目を目指す中、新人候補5人を含む6人が立候補しました。選挙では沖縄の基地負担軽減や経済振興が主要な争点となり、候補者間での論戦が繰り広げられる見込みです。また、この選挙結果は国の安全保障政策にも影響を与える可能性があります。",
+    "summary": "高市総理大臣は、防災の日に神奈川県厚木市で行われた巨大地震を想定した訓練を視察しました。訓練では、首都直下地震の対応能力を強化するための取り組みが行われました。この視察を通じて、政府の防災対策の重要性が再確認されました。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260827de46747",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260901de47616",
     "category": "その他",
-    "publishedAt": "2026-08-27 18:19"
+    "publishedAt": "2026-09-01 15:27"
   }
 ]
