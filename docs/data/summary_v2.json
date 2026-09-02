@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenClaw 2.0が登場、企業向けの「マルチプレイヤー」AIコーディングの時代を切り開く",
-    "title_en": "OpenClaw 2.0 is here, ushering in the era of 'multiplayer' AI coding: What it means for enterprises",
-    "summary": "OpenClawの創設者であるピーター・シュタインバーガー氏は、共有インフラ、複数ユーザーのコラボレーション、およびセキュリティ対策の向上を目指したOpenClaw 2.0を発表しました。このアップデートは、OpenClawを協力エージェントプラットフォームとして位置づけ、AIエージェントに関連するセキュリティ問題に対処しながらワークフローの効率化を図る企業にとって重要です。",
-    "summary_en": "OpenClaw's creator, Peter Steinberger, announced OpenClaw 2.0, aiming to enhance its functionality for enterprises by introducing shared infrastructure, multi-user collaboration, and improved security measures. This update is significant as it positions OpenClaw as a collaborative agent platform, crucial for organizations seeking to streamline workflows while addressing security concerns associated with AI agents.",
-    "link": "https://venturebeat.com/technology/openclaw-2-0-is-here-what-it-means-for-enterprises",
+    "title": "フロンティアモデルは、直接思い出せない事実の最大65%を思考時間を延ばすことで回復できる",
+    "title_en": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
+    "summary": "Googleリサーチとテクニオンによる研究により、GPT-5のような先進的な言語モデルは、多くの場合、事実を正確にエンコードしますが、生成時のリコールに苦労しており、信頼性に影響を与えていることが明らかになりました。この発見は、開発者がモデルのサイズやトレーニングデータを単に増やすのではなく、推論時の計算を通じてモデルのパフォーマンスを向上させることができることを示唆しています。",
+    "summary_en": "A study by Google Research and Technion reveals that leading language models like GPT-5 often encode facts accurately but struggle with recall during generation, impacting their reliability. This finding suggests developers can enhance model performance through inference-time computation rather than simply increasing model size or training data.",
+    "link": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
     "category": "AI",
-    "publishedAt": "2026-09-01 15:27"
+    "publishedAt": "2026-09-02 15:41"
   },
   {
     "source": "VentureBeat",
-    "title": "ソフトウェアエンジニアの新しい仕事はコードを書くことではなく、AIエージェントが破れない境界を設計することです",
-    "title_en": "Software engineers' new job isn't writing code — it's designing the boundaries AI agents can't break",
-    "summary": "現代のデータプラットフォームでは、エージェントが自律的にコードを生成できるようになり、ソフトウェアエンジニアの役割がクリエイターからフィードバックループや境界の設計者へと変化しています。この進化は、エンジニアの役割がエージェントが相互作用するシステムの信頼性と一貫性を確保する上で重要であることを強調しています。",
-    "summary_en": "Modern data platforms are experiencing a shift where agents can now autonomously generate code, changing the role of software engineers from creators to designers of feedback loops and boundaries. This evolution is significant as it highlights the importance of engineers in ensuring the reliability and coherence of the systems that agents interact with.",
-    "link": "https://venturebeat.com/orchestration/software-engineers-new-job-isnt-writing-code-its-designing-the-boundaries-ai-agents-cant-break",
+    "title": "Azure OpenAI アシスタントの情報取得のギャップを解消するのに新しいアイデンティティプラットフォームは必要なかった。必要だったのは1つのフィルターとより狭いアシスタントである。",
+    "title_en": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
+    "summary": "SynSphere ItaliaのCEOであるエジジアゴ・チョッフィ氏は、低権限のアカウントが制限されたSharePointデータにアクセスした際に、カスタムAzure OpenAIメールアシスタントに重大なセキュリティの欠陥があることを発見しました。この事件は、AIシステムにおける重大なリスクを浮き彫りにしており、不正なデータアクセスを防ぐために適切な情報取得の権限チェックが必要であることを強調しています。",
+    "summary_en": "Egiziago Cioffi, CEO of SynSphere Italia, discovered a critical security flaw in his custom Azure OpenAI email assistant when a low-privilege account accessed restricted SharePoint data, despite passing evaluations designed to test accuracy. This incident highlights significant risks in AI systems, emphasizing the need for proper retrieval permission checks to prevent unauthorized data access.",
+    "link": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
     "category": "AI",
-    "publishedAt": "2026-09-01 15:27"
+    "publishedAt": "2026-09-02 15:41"
   },
   {
     "source": "NHK",
-    "title": "【解説動画】長期金利3％に上昇 なぜ? 生活への影響は？",
+    "title": "米が輸入解禁求める生ジャガイモめぐり説明会 北海道 帯広",
     "title_en": "",
-    "summary": "債券市場では長期金利が急上昇し、10年もの国債の利回りが約30年ぶりの高水準に達しました。これにより、投資家や経済に影響を与える可能性が強まっています。長期金利の急激な上昇の背景には、さまざまな経済要因が関与していると見られています。",
+    "summary": "農林水産省は、生のジャガイモの輸入解禁に向けた手続きに対して北海道帯広市で説明会を開催し、地元の生産者から強い反発が寄せられました。生産者たちは、輸入が進めば国内産業への影響が懸念されると訴えています。アメリカの要求に応える形での政策変更が進んでいることに対する不安が広がっています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260901de47609",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260902de47800",
     "category": "経済",
-    "publishedAt": "2026-09-01 15:27"
+    "publishedAt": "2026-09-02 15:41"
   },
   {
     "source": "BBC",
-    "title": "トゥパック・シャクールの殺人事件裁判における評決の内部状況",
-    "title_en": "What it was like inside court for Tupac Shakur’s murder trial verdict",
-    "summary": "デュワン・「ケッフィー・D」・デイビス氏がラッパーのトゥパック・シャクールを殺害した罪で有罪判決を受けました。この事件は27年以上未解決のままでした。この評決はヒップホップの歴史における重要な瞬間に終止符を打ち、音楽業界における未解決犯罪の継続的な影響に光を当てています。",
-    "summary_en": "Duane \"Keffe D\" Davis was found guilty of murdering rapper Tupac Shakur, a case that has remained unresolved for over 27 years. This verdict brings closure to a pivotal moment in hip-hop history and sheds light on the ongoing impact of unsolved crimes in the music industry.",
-    "link": "https://www.bbc.co.uk/news/videos/cz6zp2pwzx5o?at_medium=RSS&at_campaign=rss",
+    "title": "イラン、中東の米軍基地を攻撃　米軍の空爆で結婚式参加者5人が死亡との報道を受けて",
+    "title_en": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
+    "summary": "イラン赤新月社によりますと、米軍の空爆により子供を含む数人が家屋に飛んできた破片で亡くなりました。米軍は民間人を意図的に標的にしていないと主張しており、この地域における軍事作戦に関する緊張が続いていることを強調しています。",
+    "summary_en": "A US military strike killed a child and others when shrapnel hit a home, according to the Iranian Red Crescent. The US military asserts it does not intentionally target civilians, highlighting the ongoing tension regarding military operations in the region.",
+    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-01 15:27"
+    "publishedAt": "2026-09-02 15:42"
   },
   {
     "source": "NHK",
-    "title": "高市首相 首都直下などの巨大地震想定の防災訓練を視察",
+    "title": "全国知事会 所得連動給付などの地方負担“国は丁寧に協議を”",
     "title_en": "",
-    "summary": "高市総理大臣は、防災の日に神奈川県厚木市で行われた巨大地震を想定した訓練を視察しました。訓練では、首都直下地震の対応能力を強化するための取り組みが行われました。この視察を通じて、政府の防災対策の重要性が再確認されました。",
+    "summary": "全国知事会は、国に対して新たに導入される所得に連動した給付について、地方の事務や財政への影響に配慮した協議を求めることを決定しました。地方自治体の負担軽減を目指し、今後も国との連携を強化する意向を示しています。協議の進展が地方の財政状況にどのように反映されるかが注目されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260901de47616",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260902de47767",
     "category": "その他",
-    "publishedAt": "2026-09-01 15:27"
+    "publishedAt": "2026-09-02 15:42"
   }
 ]
