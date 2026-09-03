@@ -1,7 +1,7 @@
 [
   {
     "source": "VentureBeat",
-    "title": "GoogleのGemini 3.8 Flashはエージェント向けに設計され、サイバー双子は脆弱性を狙います",
+    "title": "GoogleのGemini 3.8 Flashはエージェント向けに設計され、一方の「Cyber​​ twin」は脆弱性を探索します。",
     "title_en": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
     "summary": "Googleは3.8 Flash AIモデルの新しい2バージョンを発表し、ソフトウェア開発タスクとサイバーセキュリティの能力を強化しました。標準のFlashモデルはエージェント的なタスクとコーディングに優れており、Flash Cyberは効果的な脆弱性検出のために設計されています。これにより、AIの性能とセキュリティ対策において重要な進展が示されています。",
     "summary_en": "Google launched two new versions of its 3.8 Flash AI models, enhancing software development tasks and cybersecurity capabilities. The standard Flash model excels in agentic tasks and coding, while Flash Cyber is designed for effective vulnerability detection, indicating significant advancements in AI performance and security measures.",
@@ -21,11 +21,11 @@
   },
   {
     "source": "NHK",
-    "title": "【きょうのおはBiz 9月3日（木）】FRB “ベージュブック”とは",
+    "title": "円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中",
     "title_en": "",
-    "summary": "経済ニュースコーナー「おはBiz」では、最近のビジネストレンドや働き方の変化、役立つサービスに関する情報が紹介されている。特に、スタートアップ企業の新たな取り組みが注目され、成長戦略や市場の動向がフォーカスされている。視聴者にとって有益な情報を提供し、最新の経済環境への理解を深めることを目的としている。",
+    "summary": "2日のニューヨーク外国為替市場では、日銀の利上げペースが速まるとの見方から円買いが急速に進み、円相場は一時1ドル＝158円台前半まで上昇しました。FRB高官の発言もドル売りを後押しし、市場では政府・日銀の介入への警戒感も高まっています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260903de47906",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260903de47883",
     "category": "経済",
     "publishedAt": "2026-09-03 16:18"
   },

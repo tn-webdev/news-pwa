@@ -31,7 +31,7 @@ RSS_SOURCES = {
     },
     "economy": {
         "source": "NHK",
-        "url": "https://www3.nhk.or.jp/rss/news/cat5.xml"
+        "url": "https://news.web.nhk/n-data/conf/na/rss/cat5.xml"
     },
     "world": {
         "source": "BBC",
@@ -39,7 +39,7 @@ RSS_SOURCES = {
     },
     "japan_politics": {
         "source": "NHK",
-        "url": "https://www3.nhk.or.jp/rss/news/cat3.xml"
+        "url": "https://news.web.nhk/n-data/conf/na/rss/cat4.xml"
     }
 }
 
