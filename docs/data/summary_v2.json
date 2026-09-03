@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "フロンティアモデルは、直接思い出せない事実の最大65%を思考時間を延ばすことで回復できる",
-    "title_en": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
-    "summary": "Googleリサーチとテクニオンによる研究により、GPT-5のような先進的な言語モデルは、多くの場合、事実を正確にエンコードしますが、生成時のリコールに苦労しており、信頼性に影響を与えていることが明らかになりました。この発見は、開発者がモデルのサイズやトレーニングデータを単に増やすのではなく、推論時の計算を通じてモデルのパフォーマンスを向上させることができることを示唆しています。",
-    "summary_en": "A study by Google Research and Technion reveals that leading language models like GPT-5 often encode facts accurately but struggle with recall during generation, impacting their reliability. This finding suggests developers can enhance model performance through inference-time computation rather than simply increasing model size or training data.",
-    "link": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+    "title": "GoogleのGemini 3.8 Flashはエージェント向けに設計され、サイバー双子は脆弱性を狙います",
+    "title_en": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
+    "summary": "Googleは3.8 Flash AIモデルの新しい2バージョンを発表し、ソフトウェア開発タスクとサイバーセキュリティの能力を強化しました。標準のFlashモデルはエージェント的なタスクとコーディングに優れており、Flash Cyberは効果的な脆弱性検出のために設計されています。これにより、AIの性能とセキュリティ対策において重要な進展が示されています。",
+    "summary_en": "Google launched two new versions of its 3.8 Flash AI models, enhancing software development tasks and cybersecurity capabilities. The standard Flash model excels in agentic tasks and coding, while Flash Cyber is designed for effective vulnerability detection, indicating significant advancements in AI performance and security measures.",
+    "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
     "category": "AI",
-    "publishedAt": "2026-09-02 15:41"
+    "publishedAt": "2026-09-03 16:18"
   },
   {
     "source": "VentureBeat",
-    "title": "Azure OpenAI アシスタントの情報取得のギャップを解消するのに新しいアイデンティティプラットフォームは必要なかった。必要だったのは1つのフィルターとより狭いアシスタントである。",
-    "title_en": "Closing an Azure OpenAI assistant's retrieval gap didn't take a new identity platform. It took one filter and a narrower assistant.",
-    "summary": "SynSphere ItaliaのCEOであるエジジアゴ・チョッフィ氏は、低権限のアカウントが制限されたSharePointデータにアクセスした際に、カスタムAzure OpenAIメールアシスタントに重大なセキュリティの欠陥があることを発見しました。この事件は、AIシステムにおける重大なリスクを浮き彫りにしており、不正なデータアクセスを防ぐために適切な情報取得の権限チェックが必要であることを強調しています。",
-    "summary_en": "Egiziago Cioffi, CEO of SynSphere Italia, discovered a critical security flaw in his custom Azure OpenAI email assistant when a low-privilege account accessed restricted SharePoint data, despite passing evaluations designed to test accuracy. This incident highlights significant risks in AI systems, emphasizing the need for proper retrieval permission checks to prevent unauthorized data access.",
-    "link": "https://venturebeat.com/security/azure-openai-agent-passed-every-evaluation-served-files-user-couldnt-open",
+    "title": "MetaがMuse Voice Transcribeを1時間あたり0.18ドルで提供、20人以上の話者のリアルタイムダイアライズ機能を搭載：企業にとってお得か？",
+    "title_en": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
+    "summary": "Metaは、20人以上の話者に対応可能な新しいリアルタイム音声認識モデル「Muse Voice Transcribe」を1時間あたり0.18ドルという競争力のある価格で発表しました。この進展は、企業の開発者にとって会議の分析やリアルタイムの文字起こしサービスを向上させる大きな利益をもたらす可能性があり、競合他社に対して話者の特定能力や精度の向上を促すことになりそうです。",
+    "summary_en": "Meta has launched Muse Voice Transcribe, a new real-time speech-to-text model capable of processing audio for over 20 speakers at a competitive cost of $0.18 per hour. This advancement could significantly benefit enterprise developers by enhancing meeting analytics and live transcription services while challenging competitors to improve their speaker attribution and accuracy capabilities.",
+    "link": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
     "category": "AI",
-    "publishedAt": "2026-09-02 15:41"
+    "publishedAt": "2026-09-03 16:18"
   },
   {
     "source": "NHK",
-    "title": "米が輸入解禁求める生ジャガイモめぐり説明会 北海道 帯広",
+    "title": "【きょうのおはBiz 9月3日（木）】FRB “ベージュブック”とは",
     "title_en": "",
-    "summary": "農林水産省は、生のジャガイモの輸入解禁に向けた手続きに対して北海道帯広市で説明会を開催し、地元の生産者から強い反発が寄せられました。生産者たちは、輸入が進めば国内産業への影響が懸念されると訴えています。アメリカの要求に応える形での政策変更が進んでいることに対する不安が広がっています。",
+    "summary": "経済ニュースコーナー「おはBiz」では、最近のビジネストレンドや働き方の変化、役立つサービスに関する情報が紹介されている。特に、スタートアップ企業の新たな取り組みが注目され、成長戦略や市場の動向がフォーカスされている。視聴者にとって有益な情報を提供し、最新の経済環境への理解を深めることを目的としている。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260902de47800",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260903de47906",
     "category": "経済",
-    "publishedAt": "2026-09-02 15:41"
+    "publishedAt": "2026-09-03 16:18"
   },
   {
     "source": "BBC",
-    "title": "イラン、中東の米軍基地を攻撃　米軍の空爆で結婚式参加者5人が死亡との報道を受けて",
-    "title_en": "Iran attacks US bases in Middle East after reports US strike killed five at wedding party",
-    "summary": "イラン赤新月社によりますと、米軍の空爆により子供を含む数人が家屋に飛んできた破片で亡くなりました。米軍は民間人を意図的に標的にしていないと主張しており、この地域における軍事作戦に関する緊張が続いていることを強調しています。",
-    "summary_en": "A US military strike killed a child and others when shrapnel hit a home, according to the Iranian Red Crescent. The US military asserts it does not intentionally target civilians, highlighting the ongoing tension regarding military operations in the region.",
-    "link": "https://www.bbc.co.uk/news/articles/cj06q4ynpmjo?at_medium=RSS&at_campaign=rss",
+    "title": "国連、各国が影響に備える中で「超大型」エルニーニョに警告",
+    "title_en": "UN warns of 'supersized' El Niño as countries prepare for impact",
+    "summary": "世界気象機関（WMO）は、世界経済に影響を及ぼす可能性のある自然現象について警告を発しました。この警告は、気象パターンの変化から生じる重大な経済的影響の可能性を強調しています。",
+    "summary_en": "The World Meteorological Organization (WMO) has issued a warning about a natural weather phenomenon that could disrupt global economies. This alert highlights the potential for significant economic impacts stemming from changes in weather patterns.",
+    "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-02 15:42"
+    "publishedAt": "2026-09-03 16:18"
   },
   {
     "source": "NHK",
-    "title": "全国知事会 所得連動給付などの地方負担“国は丁寧に協議を”",
+    "title": "木原官房長官 上皇さまの将来の葬儀 宮内庁で必要な検討",
     "title_en": "",
-    "summary": "全国知事会は、国に対して新たに導入される所得に連動した給付について、地方の事務や財政への影響に配慮した協議を求めることを決定しました。地方自治体の負担軽減を目指し、今後も国との連携を強化する意向を示しています。協議の進展が地方の財政状況にどのように反映されるかが注目されています。",
+    "summary": "宮内庁は、上皇さまの意向を受けて将来の葬儀を皇居・宮殿で行う方針で、規模を大幅に縮小する調整を進めています。木原官房長官は、現在必要な検討が行われていることを説明しました。これにより、葬儀の形態が従来と異なる可能性が示唆されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260902de47767",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260903de47970",
     "category": "その他",
-    "publishedAt": "2026-09-02 15:42"
+    "publishedAt": "2026-09-03 16:18"
   }
 ]
