@@ -1,7 +1,7 @@
 [
   {
     "source": "VentureBeat",
-    "title": "GoogleのGemini 3.8 Flashはエージェント向けに設計され、一方の「Cyber​​ twin」は脆弱性を探索します。",
+    "title": "GoogleのGemini 3.8 Flashはエージェント向けに設計され、一方の「Cyber ​twin」は脆弱性を探索",
     "title_en": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
     "summary": "Googleは3.8 Flash AIモデルの新しい2バージョンを発表し、ソフトウェア開発タスクとサイバーセキュリティの能力を強化しました。標準のFlashモデルはエージェント的なタスクとコーディングに優れており、Flash Cyberは効果的な脆弱性検出のために設計されています。これにより、AIの性能とセキュリティ対策において重要な進展が示されています。",
     "summary_en": "Google launched two new versions of its 3.8 Flash AI models, enhancing software development tasks and cybersecurity capabilities. The standard Flash model excels in agentic tasks and coding, while Flash Cyber is designed for effective vulnerability detection, indicating significant advancements in AI performance and security measures.",
