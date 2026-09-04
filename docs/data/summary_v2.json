@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "GoogleのGemini 3.8 Flashはエージェント向けに設計され、一方の「Cyber ​twin」は脆弱性を探索",
-    "title_en": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-    "summary": "Googleは3.8 Flash AIモデルの新しい2バージョンを発表し、ソフトウェア開発タスクとサイバーセキュリティの能力を強化しました。標準のFlashモデルはエージェント的なタスクとコーディングに優れており、Flash Cyberは効果的な脆弱性検出のために設計されています。これにより、AIの性能とセキュリティ対策において重要な進展が示されています。",
-    "summary_en": "Google launched two new versions of its 3.8 Flash AI models, enhancing software development tasks and cybersecurity capabilities. The standard Flash model excels in agentic tasks and coding, while Flash Cyber is designed for effective vulnerability detection, indicating significant advancements in AI performance and security measures.",
-    "link": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
+    "title": "「AGI時代へようこそ」：OpenAIがGPT-6 Astraを発表",
+    "title_en": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
+    "summary": "OpenAIは、人工汎用知能（AGI）への重要な一歩と見なされるGPT-6 Astraを発表しました。この新しいモデルにより、ユーザーは標準的な入力手段なしにさまざまなアプリケーションで複雑なタスクを委任できるようになります。この開発は企業にとって重要であり、業務フローを再定義し、重要な自動化機能を提供し、AIがビジネスプロセスに統合される方法の移行を促進します。",
+    "summary_en": "OpenAI launched GPT-6 Astra, which is seen as a pivotal step toward artificial generalized intelligence (AGI), allowing users to delegate complex tasks across various applications without standard input methods. This development matters for enterprises as it redefines operational workflows, offering significant automation capabilities and facilitating a transition in how AI is integrated into business processes.",
+    "link": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra",
     "category": "AI",
-    "publishedAt": "2026-09-03 16:18"
+    "publishedAt": "2026-09-04 16:47"
   },
   {
     "source": "VentureBeat",
-    "title": "MetaがMuse Voice Transcribeを1時間あたり0.18ドルで提供、20人以上の話者のリアルタイムダイアライズ機能を搭載：企業にとってお得か？",
-    "title_en": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-    "summary": "Metaは、20人以上の話者に対応可能な新しいリアルタイム音声認識モデル「Muse Voice Transcribe」を1時間あたり0.18ドルという競争力のある価格で発表しました。この進展は、企業の開発者にとって会議の分析やリアルタイムの文字起こしサービスを向上させる大きな利益をもたらす可能性があり、競合他社に対して話者の特定能力や精度の向上を促すことになりそうです。",
-    "summary_en": "Meta has launched Muse Voice Transcribe, a new real-time speech-to-text model capable of processing audio for over 20 speakers at a competitive cost of $0.18 per hour. This advancement could significantly benefit enterprise developers by enhancing meeting analytics and live transcription services while challenging competitors to improve their speaker attribution and accuracy capabilities.",
-    "link": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
+    "title": "中国関連のハッカーがUSBを通じて幹部のノートパソコンにバックドアを仕掛け、企業が持っていたが使用していない修正を悪用",
+    "title_en": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
+    "summary": "中国政府に関連するハッカーグループ「OVERCAST PANDA」が、海南で開催された農業会議の際、ホテルの部屋に物理的にアクセスし、USBメモリからマルウェアを起動することで幹部のノートパソコンに侵入しました。この作戦は、物理的なセキュリティ対策の脆弱性と、国家情報機関が伝統的なサイバーセキュリティの防御を回避するために使用する革新的な戦術を浮き彫りにする重要なものであります。",
+    "summary_en": "A Chinese state-linked hacking group, OVERCAST PANDA, infiltrated executive laptops at an agricultural conference in Hainan by physically accessing hotel rooms and booting malware from USB sticks. This operation is significant as it highlights the vulnerability of physical security measures and the innovative tactics used by state intelligence agencies to bypass traditional cybersecurity defenses.",
+    "link": "https://venturebeat.com/security/china-linked-hackers-backdoored-executives-laptops-via-usb-exploiting-a-fix-companies-had-but-werent-using",
     "category": "AI",
-    "publishedAt": "2026-09-03 16:18"
+    "publishedAt": "2026-09-04 16:47"
   },
   {
     "source": "NHK",
-    "title": "円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中",
+    "title": "米オープンAI 最新モデルの提供開始 “安全対策を強化”と強調",
     "title_en": "",
-    "summary": "2日のニューヨーク外国為替市場では、日銀の利上げペースが速まるとの見方から円買いが急速に進み、円相場は一時1ドル＝158円台前半まで上昇しました。FRB高官の発言もドル売りを後押しし、市場では政府・日銀の介入への警戒感も高まっています。",
+    "summary": "オープンAIは、サイバーセキュリティーなどの分野での能力が向上した最新モデルの提供を開始しました。新しいモデルは、ユーザーがより安全にAIを活用できるよう設計されています。この進展は、企業や組織においてサイバーリスクに対抗するためのツールとして期待されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260903de47883",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260904de48178",
     "category": "経済",
-    "publishedAt": "2026-09-03 16:18"
+    "publishedAt": "2026-09-04 16:47"
   },
   {
     "source": "BBC",
-    "title": "国連、各国が影響に備える中で「超大型」エルニーニョに警告",
-    "title_en": "UN warns of 'supersized' El Niño as countries prepare for impact",
-    "summary": "世界気象機関（WMO）は、世界経済に影響を及ぼす可能性のある自然現象について警告を発しました。この警告は、気象パターンの変化から生じる重大な経済的影響の可能性を強調しています。",
-    "summary_en": "The World Meteorological Organization (WMO) has issued a warning about a natural weather phenomenon that could disrupt global economies. This alert highlights the potential for significant economic impacts stemming from changes in weather patterns.",
-    "link": "https://www.bbc.co.uk/news/articles/c17jqp0xzpzo?at_medium=RSS&at_campaign=rss",
+    "title": "ネパール、豪雨による大規模な洪水後の再建に数十億ドルの資金が必要と表明",
+    "title_en": "Nepal says it will need billions in funding to rebuild after flash floods",
+    "summary": "ネパールの当局は、最近の出来事によって引き起こされた大きな被害を受けた地域の再建に乗り出しています。この再建は、安定を取り戻し、影響を受けたコミュニティを支援するために重要です。",
+    "summary_en": "Authorities in Nepal are initiating rebuilding efforts following significant destruction caused by recent events. This reconstruction is crucial for restoring stability and supporting affected communities in the region.",
+    "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-03 16:18"
+    "publishedAt": "2026-09-04 16:47"
   },
   {
     "source": "NHK",
-    "title": "木原官房長官 上皇さまの将来の葬儀 宮内庁で必要な検討",
+    "title": "消費税減税の大綱原案が判明“臨時的な引き下げ”明記",
     "title_en": "",
-    "summary": "宮内庁は、上皇さまの意向を受けて将来の葬儀を皇居・宮殿で行う方針で、規模を大幅に縮小する調整を進めています。木原官房長官は、現在必要な検討が行われていることを説明しました。これにより、葬儀の形態が従来と異なる可能性が示唆されています。",
+    "summary": "食料品の消費税減税に関する政府・与党の原案が明らかになり、物価高に対する臨時的な引き下げであることが示されています。財源については、赤字国債に依存せずに歳出・歳入の見直しを行う方針です。これにより、市場の信認を得ることを目指しています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260903de47970",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260904de48176",
     "category": "その他",
-    "publishedAt": "2026-09-03 16:18"
+    "publishedAt": "2026-09-04 16:47"
   }
 ]
