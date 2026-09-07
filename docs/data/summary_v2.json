@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "「AGI時代へようこそ」：OpenAIがGPT-6 Astraを発表",
-    "title_en": "'Welcome to the AGI era': OpenAI launches GPT-6 Astra",
-    "summary": "OpenAIは、人工汎用知能（AGI）への重要な一歩と見なされるGPT-6 Astraを発表しました。この新しいモデルにより、ユーザーは標準的な入力手段なしにさまざまなアプリケーションで複雑なタスクを委任できるようになります。この開発は企業にとって重要であり、業務フローを再定義し、重要な自動化機能を提供し、AIがビジネスプロセスに統合される方法の移行を促進します。",
-    "summary_en": "OpenAI launched GPT-6 Astra, which is seen as a pivotal step toward artificial generalized intelligence (AGI), allowing users to delegate complex tasks across various applications without standard input methods. This development matters for enterprises as it redefines operational workflows, offering significant automation capabilities and facilitating a transition in how AI is integrated into business processes.",
-    "link": "https://venturebeat.com/technology/welcome-to-the-agi-era-openai-launches-gpt-6-astra",
+    "title": "ほとんどのパイプラインモニタリングはジョブが実行されたかを確認しますが、これは数値の正確性を確認していませんでした。",
+    "title_en": "Most pipeline monitoring checks if the job ran. This one didn't check if the numbers were right.",
+    "summary": "InMarketのデータパイプラインが11日間エラーなく実行されましたが、上流の広告ネットワークでのフィールド名の変更が見過ごされたため、クライアントに提供されたオーディエンス数は40%不正確でした。この incident は、構造的な完全性だけでなく、意味的な正確性に焦点を当てた改善されたモニタリングの必要性を浮き彫りにしています。データ品質の問題を沈黙のうちに防ぐためです。",
+    "summary_en": "A data pipeline at InMarket ran without errors for 11 days, misleading clients with audience counts that were 40% inaccurate due to an unnoticed field rename in an upstream ad network. This incident highlights the critical need for improved monitoring focused on semantic correctness rather than just structural integrity to prevent silent data quality failures.",
+    "link": "https://venturebeat.com/orchestration/most-pipeline-monitoring-checks-if-the-job-ran-this-one-didnt-check-if-the-numbers-were-right",
     "category": "AI",
-    "publishedAt": "2026-09-04 16:47"
+    "publishedAt": "2026-09-07 14:51"
   },
   {
     "source": "VentureBeat",
-    "title": "中国関連のハッカーがUSBを通じて幹部のノートパソコンにバックドアを仕掛け、企業が持っていたが使用していない修正を悪用",
-    "title_en": "China-linked hackers backdoored executives' laptops via USB, exploiting a fix companies had but weren't using",
-    "summary": "中国政府に関連するハッカーグループ「OVERCAST PANDA」が、海南で開催された農業会議の際、ホテルの部屋に物理的にアクセスし、USBメモリからマルウェアを起動することで幹部のノートパソコンに侵入しました。この作戦は、物理的なセキュリティ対策の脆弱性と、国家情報機関が伝統的なサイバーセキュリティの防御を回避するために使用する革新的な戦術を浮き彫りにする重要なものであります。",
-    "summary_en": "A Chinese state-linked hacking group, OVERCAST PANDA, infiltrated executive laptops at an agricultural conference in Hainan by physically accessing hotel rooms and booting malware from USB sticks. This operation is significant as it highlights the vulnerability of physical security measures and the innovative tactics used by state intelligence agencies to bypass traditional cybersecurity defenses.",
-    "link": "https://venturebeat.com/security/china-linked-hackers-backdoored-executives-laptops-via-usb-exploiting-a-fix-companies-had-but-werent-using",
+    "title": "MCPの新仕様が植え込まれたプロンプトを盗まれた資格情報に変える",
+    "title_en": "MCP's new spec turns a planted prompt into a stolen credential",
+    "summary": "モデルコンテキストプロトコル（MCP）は、7月28日に大幅な改訂が行われ、すべてのTier 1 SDKが新しいバージョンに迅速に適応できるようになりました。この改訂により、ステートレスな運用が可能になり、セキュリティの執行がエンドポイントに移行します。この変更は、無許可のアクセスリスクが増加している中で、企業が新たな攻撃面を効果的に管理するためにセキュリティ戦略を再評価する必要性を強調しています。",
+    "summary_en": "The Model Context Protocol (MCP) underwent a significant revision on July 28, enabling all four Tier 1 SDKs to adapt to the new version rapidly, which allows for stateless operation and shifts security enforcement to endpoints. This change underscores the need for companies to reassess their security strategies to manage new attack surfaces effectively as unauthorized access risks have increased.",
+    "link": "https://venturebeat.com/security/mcps-new-spec-turns-a-planted-prompt-into-a-stolen-credential",
     "category": "AI",
-    "publishedAt": "2026-09-04 16:47"
+    "publishedAt": "2026-09-07 14:52"
   },
   {
     "source": "NHK",
-    "title": "米オープンAI 最新モデルの提供開始 “安全対策を強化”と強調",
+    "title": "【きょうのおはBiz 9月7日（月）】災害時の備え 企業が支援",
     "title_en": "",
-    "summary": "オープンAIは、サイバーセキュリティーなどの分野での能力が向上した最新モデルの提供を開始しました。新しいモデルは、ユーザーがより安全にAIを活用できるよう設計されています。この進展は、企業や組織においてサイバーリスクに対抗するためのツールとして期待されています。",
+    "summary": "「おはBiz」では、最近のビジネストレンドや働き方の変化について紹介され、特に新たなスタートアップ企業の取り組みが注目されています。これにより、人々の働き方が多様化し、柔軟な働き方を提供するサービスが増加しています。また、最新のマネー管理サービスも取り上げられ、金融分野の革新が進んでいることが報告されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260904de48178",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260907de48715",
     "category": "経済",
-    "publishedAt": "2026-09-04 16:47"
+    "publishedAt": "2026-09-07 14:52"
   },
   {
     "source": "BBC",
-    "title": "ネパール、豪雨による大規模な洪水後の再建に数十億ドルの資金が必要と表明",
-    "title_en": "Nepal says it will need billions in funding to rebuild after flash floods",
-    "summary": "ネパールの当局は、最近の出来事によって引き起こされた大きな被害を受けた地域の再建に乗り出しています。この再建は、安定を取り戻し、影響を受けたコミュニティを支援するために重要です。",
-    "summary_en": "Authorities in Nepal are initiating rebuilding efforts following significant destruction caused by recent events. This reconstruction is crucial for restoring stability and supporting affected communities in the region.",
-    "link": "https://www.bbc.co.uk/news/videos/ce8x2401zdeo?at_medium=RSS&at_campaign=rss",
+    "title": "ドイツの極右政党AfDが東部で大勝、しかし過半数には届かず",
+    "title_en": "Germany's far-right AfD hails big victory in east, but falls short of majority",
+    "summary": "ドイツの「ドイツのための選択肢」党は、予備結果で投票率がほぼ44%に達する「歴史的な」成功を収めました。この勝利は、政治の風景における同党の影響力の増大を示すものとして重要です。",
+    "summary_en": "The Alternative for Germany party achieved a \"historic\" success with preliminary results indicating nearly 44% of the vote. This victory is significant as it highlights the party's growing influence in the political landscape.",
+    "link": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-04 16:47"
+    "publishedAt": "2026-09-07 14:52"
   },
   {
     "source": "NHK",
-    "title": "消費税減税の大綱原案が判明“臨時的な引き下げ”明記",
+    "title": "高市首相動静 2026年9月4日から6日",
     "title_en": "",
-    "summary": "食料品の消費税減税に関する政府・与党の原案が明らかになり、物価高に対する臨時的な引き下げであることが示されています。財源については、赤字国債に依存せずに歳出・歳入の見直しを行う方針です。これにより、市場の信認を得ることを目指しています。",
+    "summary": "高市首相は、最近の外遊中に重要な国際会議に出席し、各国首脳と経済や安全保障に関する意見交換を行った。また、首相は地域の発展に向けた協力の重要性を強調し、対話を通じた問題解決の姿勢を示した。さらに、今後の国際関係に対する積極的な取り組みが期待されている。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260904de48176",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260907de48780",
     "category": "その他",
-    "publishedAt": "2026-09-04 16:47"
+    "publishedAt": "2026-09-07 14:52"
   }
 ]
