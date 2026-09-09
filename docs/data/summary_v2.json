@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "MCPの新しい仕様が植え付けられたプロンプトを盗まれた認証情報に変える",
-    "title_en": "MCP's new spec turns a planted prompt into a stolen credential",
-    "summary": "モデルコンテキストプロトコル（MCP）は、7月28日に重要な改訂が行われ、アーキテクチャが強化されるとともに、セキュリティの実施がエンドポイントと開発者に移行しました。この変更は、新たな攻撃面を導入するため、実稼働環境において脆弱性を防ぐために進化したセキュリティアプローチが必要となります。",
-    "summary_en": "The Model Context Protocol (MCP) underwent a significant revision on July 28, enhancing its architecture while shifting security enforcement to endpoints and developers. This change is crucial as it introduces new attack surfaces, demanding an evolved security approach to prevent vulnerabilities in live production environments.",
-    "link": "https://venturebeat.com/security/mcps-new-spec-turns-a-planted-prompt-into-a-stolen-credential",
+    "title": "大多数のパイプライン監視はジョブの実行を確認しますが、今回は数値の正確性を確認しませんでした。",
+    "title_en": "Most pipeline monitoring checks if the job ran. This one didn't check if the numbers were right.",
+    "summary": "上流の広告ネットワークのイベントペイロードにおけるフィールド名の誤りが、11日間でオーディエンスデータに40％のエラーを引き起こし、データパイプラインの監視システムの欠陥を明らかにしました。この事例は、データの正確性を確保するための意味論的検証の重要性を強調しており、これはクライアントの意思決定と関係に直接的な影響を与えます。",
+    "summary_en": "A misnamed field in an upstream ad network's event payload caused a 40% error in audience data over 11 days, revealing flaws in the data pipeline's monitoring system. The incident emphasizes the critical need for semantic validation to ensure data accuracy, which directly impacts client decisions and relationships.",
+    "link": "https://venturebeat.com/orchestration/most-pipeline-monitoring-checks-if-the-job-ran-this-one-didnt-check-if-the-numbers-were-right",
     "category": "AI",
-    "publishedAt": "2026-09-08 17:41"
+    "publishedAt": "2026-09-09 16:51"
   },
   {
     "source": "VentureBeat",
-    "title": "企業はAIの使用方法を再構築するために数百万ドルを費やしていますが、その効果を証明できる企業はほとんどありません。",
-    "title_en": "Companies are spending millions rewiring how AI gets used. Almost none can prove it's working.",
-    "summary": "2025年12月、ウーバーのトークン消費が予算危機を引き起こし、2026年の予算が4ヶ月で使い果たされたため、AI支出に上限が設けられました。この事件は「トークンマキシング」という広範な問題を浮き彫りにし、高トークン使用が生産性の向上と相関しないことが見られ、企業におけるAI技術への投資回収の懸念が高まりました。",
-    "summary_en": "In December 2025, Uber's token consumption led to a budget crisis, prompting caps on AI spending after its 2026 budget was exhausted within four months. The incident highlighted the broader issue of \"tokenmaxxing,\" where high token usage fails to correlate with improved productivity, raising concerns among enterprises about the return on investment in AI technologies.",
-    "link": "https://venturebeat.com/orchestration/companies-are-spending-millions-rewiring-how-ai-gets-used-almost-none-can-prove-its-working",
+    "title": "OpenAI、10,000人のエージェントによる群れで長年の数学問題を解決 — ただし研究者のプライベートなCodexデータからの恩恵を否定できず",
+    "title_en": "OpenAI solves longstanding math problem with 10,000-agent swarm — but can't rule out benefitting from a researcher's private Codex data",
+    "summary": "OpenAIの内部AIシステムが、約10,000の同時エージェントを使用して長年のナビエ–ストークスの存在と滑らかさの問題を解決したと主張し、AIの高度な数学研究における役割に重大な影響を与えることが明らかになりました。しかし、この発表は、外部研究者とのデータの不正利用やクレジットの争いについての論争を引き起こし、AIデータの実践においてより大きな透明性と管理が必要であることを浮き彫りにしました。",
+    "summary_en": "OpenAI's internal AI system claimed to have solved the long-standing Navier–Stokes existence and smoothness problem using approximately 10,000 concurrent agents, raising significant implications for AI's role in advanced mathematical research. However, this announcement sparked controversy over potential data misuse and credit disputes with external researchers, highlighting the need for greater transparency and control in AI data practices.",
+    "link": "https://venturebeat.com/technology/openai-solves-longstanding-math-problem-with-10-000-agent-swarm-but-cant-rule-out-benefitting-from-a-researchers-private-codex-data",
     "category": "AI",
-    "publishedAt": "2026-09-08 17:41"
+    "publishedAt": "2026-09-09 16:51"
   },
   {
     "source": "NHK",
-    "title": "コンビニで衣料品の販売強化 小型スーパーなどとの競争激化で",
+    "title": "エアコン新製品値上がり見通し 27年省エネ基準引き上げ対応で",
     "title_en": "",
-    "summary": "コンビニ大手が衣料品販売を強化する動きが広がっており、セブン‐イレブン・ジャパンはアパレル大手のグループ企業と連携して新たな商品展開に乗り出しました。この取り組みは、小型スーパーやドラッグストアの出店拡大による競争の激化を受けたものです。今後の展開が、小売業界にどのような影響を与えるか注目されます。",
+    "summary": "来年4月からエアコンの省エネ基準が引き上げられることに伴い、メーカーは新基準に対応するために省エネ性能を向上させる方針を示しています。しかし、新しい製品は値上がりすると見込まれています。これにより、消費者の負担が増える可能性があります。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260908de49030",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260909de49313",
     "category": "経済",
-    "publishedAt": "2026-09-08 17:41"
+    "publishedAt": "2026-09-09 16:51"
   },
   {
     "source": "BBC",
-    "title": "カナダ、対米報復関税の発効で長期的な貿易戦争に備える",
-    "title_en": "Canada braces for prolonged trade war as counter-tariffs on US take effect",
-    "summary": "200億ドル相当のアメリカ製品に新たな関税が導入され、米中貿易関係に影響を与えました。この escalatory により、経済の安定性が脅かされ、世界的な貿易ダイナミクスに広範な影響を与える可能性があります。",
-    "summary_en": "New tariffs on $20 billion of American products were implemented, impacting the U.S.-China trade relationship. This escalation threatens economic stability and could have widespread consequences for global trade dynamics.",
-    "link": "https://www.bbc.co.uk/news/articles/c8jdev0422jo?at_medium=RSS&at_campaign=rss",
+    "title": "アメリカ、イランの石油タンカーに攻撃を行い、テヘランはヨルダンのアメリカ基地を標的に",
+    "title_en": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
+    "summary": "アメリカとイラン間の報復的な攻撃の激化により、原油価格は1バレル100ドルに迫っています。この対立は地政学的安定性と世界の石油供給への影響への懸念を高めています。",
+    "summary_en": "Oil prices approached $100 a barrel due to escalating tit-for-tat strikes between the US and Iran. This conflict raises concerns about geopolitical stability and its impact on global oil supply.",
+    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-08 17:41"
+    "publishedAt": "2026-09-09 16:51"
   },
   {
     "source": "NHK",
-    "title": "土石流被害のネパールに300万ドルの緊急無償資金協力 茂木外相",
+    "title": "柏崎刈羽原発 東電に安全性向上の取り組み求める 政府",
     "title_en": "",
-    "summary": "ネパールと中国の国境付近での土石流に対し、日本が300万ドルの緊急無償資金協力を行うことが決定されました。茂木外務大臣がこの支援を発表し、被災地への迅速な支援を強調しました。今後、日本はネパールの復興活動を支える姿勢を示しています。",
+    "summary": "柏崎刈羽原子力発電所で運転員が他人のIDカードを使用して中央制御室から退室する問題が発生しました。これを受けて、政府は東京電力に対し、安全性向上に対してより高い意識を持って取り組むよう求めました。安全管理の強化が求められる中で、今回の事例が問題視されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260908de49052",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260909de49323",
     "category": "その他",
-    "publishedAt": "2026-09-08 17:41"
+    "publishedAt": "2026-09-09 16:51"
   }
 ]
