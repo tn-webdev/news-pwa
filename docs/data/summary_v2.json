@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "大多数のパイプライン監視はジョブの実行を確認しますが、今回は数値の正確性を確認しませんでした。",
-    "title_en": "Most pipeline monitoring checks if the job ran. This one didn't check if the numbers were right.",
-    "summary": "上流の広告ネットワークのイベントペイロードにおけるフィールド名の誤りが、11日間でオーディエンスデータに40％のエラーを引き起こし、データパイプラインの監視システムの欠陥を明らかにしました。この事例は、データの正確性を確保するための意味論的検証の重要性を強調しており、これはクライアントの意思決定と関係に直接的な影響を与えます。",
-    "summary_en": "A misnamed field in an upstream ad network's event payload caused a 40% error in audience data over 11 days, revealing flaws in the data pipeline's monitoring system. The incident emphasizes the critical need for semantic validation to ensure data accuracy, which directly impacts client decisions and relationships.",
-    "link": "https://venturebeat.com/orchestration/most-pipeline-monitoring-checks-if-the-job-ran-this-one-didnt-check-if-the-numbers-were-right",
+    "title": "CohereのモデルボルトはAI推論を暗号化し、Cohereでさえも企業顧客のデータを確認できないようにしました",
+    "title_en": "Cohere's Model Vault now encrypts AI inference so even Cohere cannot see enterprise customers' data",
+    "summary": "OpenAIとAnthropicは最近、生成AIシステムのデータプライバシーと保持慣行について公に対立しました。これは、企業のデータセキュリティに対する懸念が高まることで、ユーザーの信頼や業界全体に影響を与える可能性があるため、重要です。",
+    "summary_en": "OpenAI and Anthropic recently engaged in public disputes regarding data privacy and retention practices of their generative AI systems. This matters as heightened concerns surrounding enterprise data security could impact user trust and the industry as a whole.",
+    "link": "https://venturebeat.com/data/coheres-model-vault-now-encrypts-ai-inference-so-even-cohere-cannot-see-enterprise-customers-data",
     "category": "AI",
-    "publishedAt": "2026-09-09 16:51"
+    "publishedAt": "2026-09-17 16:44"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAI、10,000人のエージェントによる群れで長年の数学問題を解決 — ただし研究者のプライベートなCodexデータからの恩恵を否定できず",
-    "title_en": "OpenAI solves longstanding math problem with 10,000-agent swarm — but can't rule out benefitting from a researcher's private Codex data",
-    "summary": "OpenAIの内部AIシステムが、約10,000の同時エージェントを使用して長年のナビエ–ストークスの存在と滑らかさの問題を解決したと主張し、AIの高度な数学研究における役割に重大な影響を与えることが明らかになりました。しかし、この発表は、外部研究者とのデータの不正利用やクレジットの争いについての論争を引き起こし、AIデータの実践においてより大きな透明性と管理が必要であることを浮き彫りにしました。",
-    "summary_en": "OpenAI's internal AI system claimed to have solved the long-standing Navier–Stokes existence and smoothness problem using approximately 10,000 concurrent agents, raising significant implications for AI's role in advanced mathematical research. However, this announcement sparked controversy over potential data misuse and credit disputes with external researchers, highlighting the need for greater transparency and control in AI data practices.",
-    "link": "https://venturebeat.com/technology/openai-solves-longstanding-math-problem-with-10-000-agent-swarm-but-cant-rule-out-benefitting-from-a-researchers-private-codex-data",
+    "title": "AIエージェントが395の組織に侵入、IAMポリシーが依然として人間扱いしている資格情報を使用",
+    "title_en": "AI agents breached 395 organizations using credentials your IAM policy still treats as human",
+    "summary": "盗まれたAIの資格情報がテレグラムのマーケットプレイスで販売されており、Poison Claudeなどの業者がさまざまなAIモデルへのアクセスを提供しています。この問題はサイバーセキュリティとAI開発の整合性に関する懸念を引き起こし、Oktaが最近のデータ侵害を分析した結果、これらのリストを特定したことが強調されています。",
+    "summary_en": "Stolen AI credentials are being sold on Telegram marketplaces with vendors like Poison Claude offering various AI model accesses. This issue is significant as it raises concerns about cybersecurity and the integrity of AI development, highlighted by Okta's identification of these listings after analyzing a recent data breach.",
+    "link": "https://venturebeat.com/security/ai-agents-breached-395-organizations-using-credentials-your-iam-policy-still-treats-as-human",
     "category": "AI",
-    "publishedAt": "2026-09-09 16:51"
+    "publishedAt": "2026-09-17 16:44"
   },
   {
     "source": "NHK",
-    "title": "エアコン新製品値上がり見通し 27年省エネ基準引き上げ対応で",
+    "title": "サンマルクHD つるとんたん事業を譲り受け",
     "title_en": "",
-    "summary": "来年4月からエアコンの省エネ基準が引き上げられることに伴い、メーカーは新基準に対応するために省エネ性能を向上させる方針を示しています。しかし、新しい製品は値上がりすると見込まれています。これにより、消費者の負担が増える可能性があります。",
+    "summary": "外食大手のサンマルクホールディングスが、うどんチェーンのつるとんたんを運営する会社から約120億円で事業を譲り受けることを発表しました。この取引により、サンマルクホールディングスはさらに多様な外食メニューの提供が可能になります。これに伴い、同社の店舗展開や成長戦略に新たな展開が期待されます。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260909de49313",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260917de50837",
     "category": "経済",
-    "publishedAt": "2026-09-09 16:51"
+    "publishedAt": "2026-09-17 16:44"
   },
   {
     "source": "BBC",
-    "title": "アメリカ、イランの石油タンカーに攻撃を行い、テヘランはヨルダンのアメリカ基地を標的に",
-    "title_en": "US strikes Iranian oil tankers as Tehran targets American base in Jordan",
-    "summary": "アメリカとイラン間の報復的な攻撃の激化により、原油価格は1バレル100ドルに迫っています。この対立は地政学的安定性と世界の石油供給への影響への懸念を高めています。",
-    "summary_en": "Oil prices approached $100 a barrel due to escalating tit-for-tat strikes between the US and Iran. This conflict raises concerns about geopolitical stability and its impact on global oil supply.",
-    "link": "https://www.bbc.co.uk/news/articles/cyvznqypz0yo?at_medium=RSS&at_campaign=rss",
+    "title": "アサド政権、米国人ジャーナリスト誘拐を数週間計画していたとBBCが報道",
+    "title_en": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
+    "summary": "関係者によれば、オースティン・タイスの誘拐はシリアの元指導者バシャール・アル＝アサドによって承認されたとのことです。この発表は、紛争地域におけるジャーナリスト誘拐問題に対する高官の関与の可能性を浮き彫りにしています。",
+    "summary_en": "A source claims that the abduction of Austin Tice was sanctioned by Syria's former leader Bashar al-Assad. This revelation highlights the potential complicity of high-level political figures in the ongoing issue of journalist kidnappings in conflict zones.",
+    "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-09 16:51"
+    "publishedAt": "2026-09-17 16:44"
   },
   {
     "source": "NHK",
-    "title": "柏崎刈羽原発 東電に安全性向上の取り組み求める 政府",
+    "title": "【随時更新】内閣改造 閣僚たちの抱負は",
     "title_en": "",
-    "summary": "柏崎刈羽原子力発電所で運転員が他人のIDカードを使用して中央制御室から退室する問題が発生しました。これを受けて、政府は東京電力に対し、安全性向上に対してより高い意識を持って取り組むよう求めました。安全管理の強化が求められる中で、今回の事例が問題視されています。",
+    "summary": "第2次高市改造内閣の閣僚たちは、政府の施策を強調しながら経済の活性化や新たな成長戦略の重要性を訴えました。また、教育や社会保障の充実にも力を入れる意向を示し、国民生活の向上を目指す姿勢を強調しました。閣僚たちは、一丸となって政策を推進し、政権の安定を図る考えを明らかにしました。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260909de49323",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260917de50835",
     "category": "その他",
-    "publishedAt": "2026-09-09 16:51"
+    "publishedAt": "2026-09-17 16:44"
   }
 ]
