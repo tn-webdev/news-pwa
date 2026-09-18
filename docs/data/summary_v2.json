@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "CohereのモデルボルトはAI推論を暗号化し、Cohereでさえも企業顧客のデータを確認できないようにしました",
-    "title_en": "Cohere's Model Vault now encrypts AI inference so even Cohere cannot see enterprise customers' data",
-    "summary": "OpenAIとAnthropicは最近、生成AIシステムのデータプライバシーと保持慣行について公に対立しました。これは、企業のデータセキュリティに対する懸念が高まることで、ユーザーの信頼や業界全体に影響を与える可能性があるため、重要です。",
-    "summary_en": "OpenAI and Anthropic recently engaged in public disputes regarding data privacy and retention practices of their generative AI systems. This matters as heightened concerns surrounding enterprise data security could impact user trust and the industry as a whole.",
-    "link": "https://venturebeat.com/data/coheres-model-vault-now-encrypts-ai-inference-so-even-cohere-cannot-see-enterprise-customers-data",
+    "title": "オープンAI、AnthropicのClaude Opus 5を使用した小規模のホワイトハットセキュリティ研究者にハッキングされる",
+    "title_en": "OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5",
+    "summary": "セキュリティ研究者は、AnthropicのClaude Opus 5を使用して画像処理の脆弱性を悪用し、オープンAIの従業員のChatGPTアカウントを侵害し、同社の内部GitHubにアクセスしました。この事件は、高度な脆弱性の利用におけるAIコードエージェントの経済的影響の進化を浮き彫りにしています。",
+    "summary_en": "Security researchers exploited an image-processing vulnerability using Anthropic’s Claude Opus 5, compromising an OpenAI employee's ChatGPT account and accessing the company's internal GitHub. This incident highlights the evolving impact of AI coding agents on the economics of advanced vulnerability exploitation.",
+    "link": "https://venturebeat.com/security/openai-hacked-by-small-team-of-white-hat-security-researchers-using-anthropics-claude-opus-5",
     "category": "AI",
-    "publishedAt": "2026-09-17 16:44"
+    "publishedAt": "2026-09-18 17:29"
   },
   {
     "source": "VentureBeat",
-    "title": "AIエージェントが395の組織に侵入、IAMポリシーが依然として人間扱いしている資格情報を使用",
-    "title_en": "AI agents breached 395 organizations using credentials your IAM policy still treats as human",
-    "summary": "盗まれたAIの資格情報がテレグラムのマーケットプレイスで販売されており、Poison Claudeなどの業者がさまざまなAIモデルへのアクセスを提供しています。この問題はサイバーセキュリティとAI開発の整合性に関する懸念を引き起こし、Oktaが最近のデータ侵害を分析した結果、これらのリストを特定したことが強調されています。",
-    "summary_en": "Stolen AI credentials are being sold on Telegram marketplaces with vendors like Poison Claude offering various AI model accesses. This issue is significant as it raises concerns about cybersecurity and the integrity of AI development, highlighted by Okta's identification of these listings after analyzing a recent data breach.",
-    "link": "https://venturebeat.com/security/ai-agents-breached-395-organizations-using-credentials-your-iam-policy-still-treats-as-human",
+    "title": "GoogleのDream-RSIが過去の検索を再生することでディスカバリーエージェントのコールを最大162倍削減",
+    "title_en": "Google's Dream-RSI cuts discovery-agent calls up to 162x by replaying searches it already ran",
+    "summary": "Googleの研究者は、過去の試行から学ぶことができるシステム、Dream-RSIを発表しました。これにより、ディスカバリーエージェントのコールの必要性が最大162倍削減され、AI開発における探索効率の向上にとって重要な進展となります。",
+    "summary_en": "Google researchers introduced Dream-RSI, a system that allows agents to learn from past attempts, significantly reducing the need for discovery-agent calls by up to 162 times. This advancement is crucial for improving exploration efficiency in AI development.",
+    "link": "https://venturebeat.com/orchestration/googles-dream-rsi-cuts-discovery-agent-calls-up-to-162x-by-replaying-searches-it-already-ran",
     "category": "AI",
-    "publishedAt": "2026-09-17 16:44"
+    "publishedAt": "2026-09-18 17:30"
   },
   {
     "source": "NHK",
-    "title": "サンマルクHD つるとんたん事業を譲り受け",
+    "title": "ジャガイモ輸入解禁手続きで説明会 生産者「やっていけない」",
     "title_en": "",
-    "summary": "外食大手のサンマルクホールディングスが、うどんチェーンのつるとんたんを運営する会社から約120億円で事業を譲り受けることを発表しました。この取引により、サンマルクホールディングスはさらに多様な外食メニューの提供が可能になります。これに伴い、同社の店舗展開や成長戦略に新たな展開が期待されます。",
+    "summary": "農林水産省は、生のジャガイモの全面輸入解禁に関する手続き説明会を開催し、出席した生産者が懸念を表明しました。担当者は、国際ルールに基づいて対応が必要であると説明しました。輸入解禁が進むことで、日本の生産者に対する影響が懸念されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260917de50837",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260918de51050",
     "category": "経済",
-    "publishedAt": "2026-09-17 16:44"
+    "publishedAt": "2026-09-18 17:30"
   },
   {
     "source": "BBC",
-    "title": "アサド政権、米国人ジャーナリスト誘拐を数週間計画していたとBBCが報道",
-    "title_en": "Assad regime planned US journalist's kidnap for weeks, BBC finds",
-    "summary": "関係者によれば、オースティン・タイスの誘拐はシリアの元指導者バシャール・アル＝アサドによって承認されたとのことです。この発表は、紛争地域におけるジャーナリスト誘拐問題に対する高官の関与の可能性を浮き彫りにしています。",
-    "summary_en": "A source claims that the abduction of Austin Tice was sanctioned by Syria's former leader Bashar al-Assad. This revelation highlights the potential complicity of high-level political figures in the ongoing issue of journalist kidnappings in conflict zones.",
-    "link": "https://www.bbc.co.uk/news/articles/cv0lrxw6ygl2o?at_medium=RSS&at_campaign=rss",
+    "title": "カナダ、EUの「準会員」提案を歓迎",
+    "title_en": "Canada welcomes EU proposal to become 'associate member'",
+    "summary": "カナダのマーク・カーニー首相は、カナダとEUの連携を提案し、他の民主主義国にインスピレーションを与える可能性を強調しました。この協力は、民主的価値観の強化と国際的な協力を目指すため、重要な意義を持っています。",
+    "summary_en": "Canadian Prime Minister Mark Carney proposed a Canada-EU alliance, emphasizing its potential to inspire other democracies. This collaboration is significant as it aims to strengthen democratic values and cooperation on the global stage.",
+    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-17 16:44"
+    "publishedAt": "2026-09-18 17:30"
   },
   {
     "source": "NHK",
-    "title": "【随時更新】内閣改造 閣僚たちの抱負は",
+    "title": "高市首相動静 9月16日",
     "title_en": "",
-    "summary": "第2次高市改造内閣の閣僚たちは、政府の施策を強調しながら経済の活性化や新たな成長戦略の重要性を訴えました。また、教育や社会保障の充実にも力を入れる意向を示し、国民生活の向上を目指す姿勢を強調しました。閣僚たちは、一丸となって政策を推進し、政権の安定を図る考えを明らかにしました。",
+    "summary": "高市首相は自民党本部で党の新役員を呼び込み、臨時総務会を開催した。会議は短時間で終了したが、重要な決定がなされることが期待されている。さらに、党役員との記念撮影も行われ、内部の結束が強調された。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260917de50835",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260918de51022",
     "category": "その他",
-    "publishedAt": "2026-09-17 16:44"
+    "publishedAt": "2026-09-18 17:30"
   }
 ]
