@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "オープンAI、AnthropicのClaude Opus 5を使用した小規模のホワイトハットセキュリティ研究者にハッキングされる",
-    "title_en": "OpenAI hacked by small team of white hat security researchers using Anthropic's Claude Opus 5",
-    "summary": "セキュリティ研究者は、AnthropicのClaude Opus 5を使用して画像処理の脆弱性を悪用し、オープンAIの従業員のChatGPTアカウントを侵害し、同社の内部GitHubにアクセスしました。この事件は、高度な脆弱性の利用におけるAIコードエージェントの経済的影響の進化を浮き彫りにしています。",
-    "summary_en": "Security researchers exploited an image-processing vulnerability using Anthropic’s Claude Opus 5, compromising an OpenAI employee's ChatGPT account and accessing the company's internal GitHub. This incident highlights the evolving impact of AI coding agents on the economics of advanced vulnerability exploitation.",
-    "link": "https://venturebeat.com/security/openai-hacked-by-small-team-of-white-hat-security-researchers-using-anthropics-claude-opus-5",
+    "title": "モノレポはコーディングエージェントの有用性を高めますが、妥協されたアカウントの管理は困難です",
+    "title_en": "Monorepos make coding agents more useful — but compromised accounts are harder to contain",
+    "summary": "Hacktronの研究者たちは、OpenAIのコミュニティフォーラムに存在するバグを利用し、72時間以内にOpenAIの内部GitHubモノレポにアクセスしました。この事件は、モノレポとAIコーディングエージェントがもたらすセキュリティリスクを浮き彫りにしており、これにより敏感なコードへの広範なアクセスが可能になることを示しています。",
+    "summary_en": "Researchers at Hacktron exploited a bug in OpenAI's community forum to gain access to OpenAI's internal GitHub monorepo in under 72 hours. This incident highlights the security risks posed by monorepos and AI coding agents, which can facilitate broader access to sensitive code.",
+    "link": "https://venturebeat.com/security/monorepos-make-coding-agents-more-useful-but-compromised-accounts-are-harder-to-contain",
     "category": "AI",
-    "publishedAt": "2026-09-18 17:29"
+    "publishedAt": "2026-09-25 16:33"
   },
   {
     "source": "VentureBeat",
-    "title": "GoogleのDream-RSIが過去の検索を再生することでディスカバリーエージェントのコールを最大162倍削減",
-    "title_en": "Google's Dream-RSI cuts discovery-agent calls up to 162x by replaying searches it already ran",
-    "summary": "Googleの研究者は、過去の試行から学ぶことができるシステム、Dream-RSIを発表しました。これにより、ディスカバリーエージェントのコールの必要性が最大162倍削減され、AI開発における探索効率の向上にとって重要な進展となります。",
-    "summary_en": "Google researchers introduced Dream-RSI, a system that allows agents to learn from past attempts, significantly reducing the need for discovery-agent calls by up to 162 times. This advancement is crucial for improving exploration efficiency in AI development.",
-    "link": "https://venturebeat.com/orchestration/googles-dream-rsi-cuts-discovery-agent-calls-up-to-162x-by-replaying-searches-it-already-ran",
+    "title": "企業はカスタムAIハーネスを構築すべきか？InkittがAI動画用に作成した5つの重要なポイント",
+    "title_en": "Should your enterprise build a custom AI harness? Inkitt did for AI video — 5 key takeaways",
+    "summary": "最近の企業向けAIの動向は、モデルやエージェントからAIハーネスの作成に焦点を移しています。AIハーネスは統合性や機能性を向上させるもので、InkittのカスタムAIハーネスによって強調されています。この進化は、AI技術を効果的に活用するための組織の能力を向上させるため、重要です。",
+    "summary_en": "Recent developments in enterprise AI are shifting focus from models and agents to the creation of AI harnesses, which improve integration and functionality. This evolution, highlighted by Inkitt's custom AI harness, is significant as it enhances organizational capabilities in leveraging AI technologies effectively.",
+    "link": "https://venturebeat.com/technology/should-your-enterprise-build-a-custom-ai-harness-inkitt-did-for-ai-video-5-key-takeaways",
     "category": "AI",
-    "publishedAt": "2026-09-18 17:30"
+    "publishedAt": "2026-09-25 16:33"
   },
   {
     "source": "NHK",
-    "title": "ジャガイモ輸入解禁手続きで説明会 生産者「やっていけない」",
+    "title": "アメリカで住宅ローン金利が7％超え　住宅購入の負担増",
     "title_en": "",
-    "summary": "農林水産省は、生のジャガイモの全面輸入解禁に関する手続き説明会を開催し、出席した生産者が懸念を表明しました。担当者は、国際ルールに基づいて対応が必要であると説明しました。輸入解禁が進むことで、日本の生産者に対する影響が懸念されています。",
+    "summary": "アメリカの住宅ローン金利が上昇し、30年固定型の金利が昨年1月以来の7％台に達しました。これにより、住宅価格も高止まりし、家購入者の負担が増加しています。今後の影響として、11月の中間選挙に向けての動向が注目されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260918de51050",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260925de52397",
     "category": "経済",
-    "publishedAt": "2026-09-18 17:30"
+    "publishedAt": "2026-09-25 16:33"
   },
   {
     "source": "BBC",
-    "title": "カナダ、EUの「準会員」提案を歓迎",
-    "title_en": "Canada welcomes EU proposal to become 'associate member'",
-    "summary": "カナダのマーク・カーニー首相は、カナダとEUの連携を提案し、他の民主主義国にインスピレーションを与える可能性を強調しました。この協力は、民主的価値観の強化と国際的な協力を目指すため、重要な意義を持っています。",
-    "summary_en": "Canadian Prime Minister Mark Carney proposed a Canada-EU alliance, emphasizing its potential to inspire other democracies. This collaboration is significant as it aims to strengthen democratic values and cooperation on the global stage.",
-    "link": "https://www.bbc.co.uk/news/articles/cwly7vkke4jxo?at_medium=RSS&at_campaign=rss",
+    "title": "習近平氏、米中は共に責任ある大国として行動すべきだと発言、トランプ氏は国賓晩餐会で友好を祝う",
+    "title_en": "US and China must act as responsible powers together, Xi says as Trump toasts friendship at state dinner",
+    "summary": "トランプ氏は華やかなホワイトハウスのイベントで、中国の習近平国家主席との関係が改善していることを表明しました。このことは、両国の関係や国際問題への協力に影響を及ぼす可能性があるため、重要です。",
+    "summary_en": "Trump expressed improved relations with Chinese president Xi Jinping during a lavish White House event. This matters as their rapport could influence bilateral ties and collaboration on global issues.",
+    "link": "https://www.bbc.co.uk/news/articles/cxq63dqp93n1o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-18 17:30"
+    "publishedAt": "2026-09-25 16:33"
   },
   {
     "source": "NHK",
-    "title": "中国と北朝鮮を結ぶ国境の橋 10月にも開通か",
+    "title": "自民と「中道」 国対委員長会談“臨時国会来月5日召集”伝える",
     "title_en": "",
-    "summary": "中国と北朝鮮を結ぶ「新鴨緑江大橋」が、早ければ10月にも開通する可能性があります。北朝鮮側の道路や税関施設の整備が進み、9月には試験的な通関も行われました。中朝貿易は高水準にあり、経済交流拡大への期待が高まる一方、国連制裁の範囲内にとどまるとの見方もあります。",
+    "summary": "自民党は臨時国会を来月5日に召集する方針を確認し、衆議院の野党第1会派「中道」も了承しました。また、食料品の消費税減税に関する法案の審議に対する協力が求められています。これにより、国会での重要な議題に関する議論が進む見通しです。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260918de51087",
+    "link": "https://news.web.nhk/newsweb/na/nd-20260925de52358",
     "category": "その他",
-    "publishedAt": "2026-09-18 17:30"
+    "publishedAt": "2026-09-25 16:33"
   }
 ]
