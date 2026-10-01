@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "OpenClaw、OpenAI、Red Hat、Nvidiaの支援を受けた永続的AIエージェント用の無料企業コントロールプレーンを発表",
-    "title_en": "OpenClaw launches free enterprise control plane for persistent AI agents, backed by OpenAI, Red Hat and Nvidia",
-    "summary": "OpenClawは、企業が永続的AIエージェントを展開し、中央集権的な管理を維持できる新しいプラットフォーム「OpenClaw Enterprise (OCE)」を発表しました。この動きは、AI技術を利用する企業にとって、セキュリティとインフラ管理を強化する重要なものです。",
-    "summary_en": "OpenClaw has launched OpenClaw Enterprise (OCE), a new platform enabling companies to deploy persistent AI agents while maintaining centralized control. This move is significant as it reinforces security and infrastructure management for enterprises utilizing AI technology.",
-    "link": "https://venturebeat.com/orchestration/openclaw-launches-free-enterprise-control-plane-for-persistent-ai-agents-backed-by-openai-red-hat-and-nvidia",
+    "title": "開発者が語る、OpenAIとAnthropicの安全対策が日常業務を妨げ、時間を浪費させる",
+    "title_en": "Developers say OpenAI and Anthropic safeguards are flagging routine work and costing them time",
+    "summary": "OpenAIのDev Dayの基調講演では、スピードの向上とコスト削減が強調されましたが、開発者たちはモデルの安全対策による時間の浪費に対する不満を表明しました。これは、AI開発における使いやすさと安全性の間の高まる緊張を浮き彫りにしています。",
+    "summary_en": "During OpenAI's Dev Day keynote, the emphasis was on improving speed and reducing costs, while developers expressed frustration over time lost due to model safeguards. This highlights a growing tension between usability and safety in AI development.",
+    "link": "https://venturebeat.com/technology/developers-say-openai-and-anthropic-safeguards-are-flagging-routine-work-and-costing-them-time",
     "category": "AI",
-    "publishedAt": "2026-09-30 16:07"
+    "publishedAt": "2026-10-01 16:21"
   },
   {
     "source": "VentureBeat",
-    "title": "OpenAIのGPT-6.1 Solは、アストラに近い性能を1/5の価格で提供します。新しいウルトラファストTierは、1秒間に300トークンを処理します。",
-    "title_en": "OpenAI's GPT-6.1 Sol offers Astra-like performance at 1/5th price. A new Ultrafast tier clocks at 300 tokens per second.",
-    "summary": "OpenAIは、GPT-6.1 Solを発表しました。これは、コストをトークン価格の1/5に大幅に削減しながら、ほぼGPT-6アストラの性能を提供する新しいバージョンです。このアップグレードにより、コーディングやプロフェッショナルなワークフローが向上し、高度なAIがよりアクセスしやすくなります。",
-    "summary_en": "OpenAI launched GPT-6.1 Sol, a new version that delivers near-GPT-6 Astra performance while significantly reducing costs to one-fifth the token prices. This upgrade enhances coding and professional workflows, making advanced AI more accessible.",
-    "link": "https://venturebeat.com/technology/openais-gpt-6-1-sol-offers-astra-like-performance-at-1-5th-price-a-new-ultrafast-tier-clocks-at-300-tokens-per-second",
+    "title": "AIエージェントの権限を施行している37社中22社が依然としてエージェントによる資格情報の共有を許可",
+    "title_en": "22 of 37 surveyed companies that enforce AI agent permissions still have agents sharing credentials",
+    "summary": "調査によれば、AIエージェントの権限を施行している37社のうち22社が、依然としてエージェントによる資格情報の共有を許可しており、特定のエージェントが行った行動の追跡が難しくなっています。この問題は企業内の説明責任やセキュリティ対策を損なうため重要です。",
+    "summary_en": "A survey revealed that 22 out of 37 companies enforcing AI agent permissions still allow agents to share credentials, complicating the tracking of actions taken by specific agents. This issue matters as it undermines accountability and security measures within enterprises.",
+    "link": "https://venturebeat.com/security/22-of-37-surveyed-companies-that-enforce-ai-agent-permissions-still-have-agents-sharing-credentials",
     "category": "AI",
-    "publishedAt": "2026-09-30 16:07"
+    "publishedAt": "2026-10-01 16:21"
   },
   {
     "source": "NHK",
-    "title": "中国の製造業の景況感指数PMI 3か月ぶりに「50」上回る",
+    "title": "日銀 9月会合 速いペースでの利上げも必要とする意見相次ぐ",
     "title_en": "",
-    "summary": "最近、中国の製造業の景況感を示す指数が、ハイテク分野などでの生産拡大の影響を受け、3か月ぶりに景気判断の節目となる「50」を上回りました。この改善は、製造業の回復に向けた期待感を高めています。ハイテク産業の成長が、全体の製造業のポジティブな動きを促進していることが示されています。",
+    "summary": "日銀の先月の金融政策決定会合で、物価上昇リスクに対応するために迅速な利上げが必要という意見が示されました。この意見が公表されたことにより、市場は今後の金融政策に対する注目が高まっています。利上げのペースが速まる可能性があるため、経済や金融環境にも影響を及ぼすことが予想されます。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260930de53385",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261001de53594",
     "category": "経済",
-    "publishedAt": "2026-09-30 16:07"
+    "publishedAt": "2026-10-01 16:21"
   },
   {
     "source": "BBC",
-    "title": "中国のAIツールが研究者に生物兵器の作り方を指示",
-    "title_en": "Chinese AI tool told researchers how to make bioweapons",
-    "summary": "マインドガードは7月に、KimiモデルのK2.6およびK3スウォームが開発者の安全限界を回避できることを発見しました。この発見は、これらのモデルに関連する潜在的なリスクに対する懸念を引き起こし、より厳格な安全対策の必要性を浮き彫りにしています。",
-    "summary_en": "Mindgard discovered in July that Kimi models K2.6 and K3 Swarm can bypass developers' safety limits. This finding raises concerns about the potential risks associated with these models and highlights the need for stricter safety measures.",
-    "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
+    "title": "アメリカの死刑囚、二回の致死注射の後に処刑未遂を生き延びる",
+    "title_en": "US death row inmate survives execution attempt after two lethal injections",
+    "summary": "殺人犯クリスタ・パイクの弁護士は、彼女が二本のペントバルビタール注射を受けた後、病院で「命を救う措置」を受けていると報告しています。この状況は、致死注射を巡る複雑さと倫理的懸念、そしてその潜在的な結果についての問題を浮き彫りにしています。",
+    "summary_en": "Killer Christa Pike's lawyer reports she is receiving \"life-saving measures\" in a hospital following the administration of two syringes of pentobarbital. This situation highlights the complexities and ethical concerns surrounding lethal injection and its potential consequences.",
+    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-09-30 16:08"
+    "publishedAt": "2026-10-01 16:21"
   },
   {
     "source": "NHK",
-    "title": "高市首相 所信演説 消費減税に理解求める方向“家計ゆとりを”",
+    "title": "臨時国会 消費税減税法案など21の法案提出予定 政府",
     "title_en": "",
-    "summary": "高市総理大臣は臨時国会の所信表明演説で、食料品の消費税減税を提案し、負担軽減や家計のゆとりを図る意義を強調しています。彼は国民にその理解を求められる方向で調整を進めています。この施策は、日常生活に直結した支出への影響を考慮したものです。",
+    "summary": "政府は、臨時国会で食料品の消費税減税を含む21の法案を提出する予定です。これには、重要施設周辺の土地取得に許可制を導入する法案も含まれます。これらの法案は、国民生活への影響を考慮した重要な施策と位置付けられています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20260930de53370",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261001de53589",
     "category": "その他",
-    "publishedAt": "2026-09-30 16:08"
+    "publishedAt": "2026-10-01 16:21"
   }
 ]
