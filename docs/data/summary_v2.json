@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "開発者が語る、OpenAIとAnthropicの安全対策が日常業務を妨げ、時間を浪費させる",
-    "title_en": "Developers say OpenAI and Anthropic safeguards are flagging routine work and costing them time",
-    "summary": "OpenAIのDev Dayの基調講演では、スピードの向上とコスト削減が強調されましたが、開発者たちはモデルの安全対策による時間の浪費に対する不満を表明しました。これは、AI開発における使いやすさと安全性の間の高まる緊張を浮き彫りにしています。",
-    "summary_en": "During OpenAI's Dev Day keynote, the emphasis was on improving speed and reducing costs, while developers expressed frustration over time lost due to model safeguards. This highlights a growing tension between usability and safety in AI development.",
-    "link": "https://venturebeat.com/technology/developers-say-openai-and-anthropic-safeguards-are-flagging-routine-work-and-costing-them-time",
+    "title": "アマゾン、迅速かつ無料のオープンソースのジェブキラーを発表：ストランド・デシダー2Bは瞬時に意思決定を行います",
+    "title_en": "Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second",
+    "summary": "TypeSafe AIの新しいモデルであるジェブは、テキストを生成するのではなく、事前定義されたオプションから選択するもので、これにより競合する意思決定モデルの急速な開発がわずか2週間で促進されました。この動向は、AI技術における効率性とコスト効果を求める業界の推進力を強調しています。",
+    "summary_en": "TypeSafe AI's new model, Jev, which selects from predefined options rather than generating text, has spurred rapid development of competing decision models in just two weeks. This trend emphasizes the industry's drive for efficiency and cost-effectiveness in AI technology.",
+    "link": "https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second",
     "category": "AI",
-    "publishedAt": "2026-10-01 16:21"
+    "publishedAt": "2026-10-02 16:38"
   },
   {
     "source": "VentureBeat",
-    "title": "AIエージェントの権限を施行している37社中22社が依然としてエージェントによる資格情報の共有を許可",
-    "title_en": "22 of 37 surveyed companies that enforce AI agent permissions still have agents sharing credentials",
-    "summary": "調査によれば、AIエージェントの権限を施行している37社のうち22社が、依然としてエージェントによる資格情報の共有を許可しており、特定のエージェントが行った行動の追跡が難しくなっています。この問題は企業内の説明責任やセキュリティ対策を損なうため重要です。",
-    "summary_en": "A survey revealed that 22 out of 37 companies enforcing AI agent permissions still allow agents to share credentials, complicating the tracking of actions taken by specific agents. This issue matters as it undermines accountability and security measures within enterprises.",
-    "link": "https://venturebeat.com/security/22-of-37-surveyed-companies-that-enforce-ai-agent-permissions-still-have-agents-sharing-credentials",
+    "title": "GoogleのWikiSkillがAIエージェントに失敗を記憶させる — プロンプトに含めることなく",
+    "title_en": "Google’s WikiSkill gives AI agents a memory of what went wrong — without putting it in the prompt",
+    "summary": "AIエージェントは過去のタスクの試行から学んだスキルを再利用することでパフォーマンスを向上させることができますが、時間が経つにつれてこの知識を失うリスクがあります。GoogleのWikiSkillは、AIが明示的なプロンプトなしに過去の失敗を記憶できるようにすることで、この問題に対処しています。",
+    "summary_en": "AI agents can enhance their performance by reusing learned skills from past task attempts, but they risk losing this knowledge over time. Google's WikiSkill addresses this issue by allowing AI to remember past failures without needing explicit prompts.",
+    "link": "https://venturebeat.com/orchestration/googles-wikiskill-gives-ai-agents-a-memory-of-what-went-wrong-without-putting-it-in-the-prompt",
     "category": "AI",
-    "publishedAt": "2026-10-01 16:21"
+    "publishedAt": "2026-10-02 16:38"
   },
   {
     "source": "NHK",
-    "title": "日銀 9月会合 速いペースでの利上げも必要とする意見相次ぐ",
+    "title": "青森みちのく銀 岩手銀 秋田銀 経営統合 検討進める",
     "title_en": "",
-    "summary": "日銀の先月の金融政策決定会合で、物価上昇リスクに対応するために迅速な利上げが必要という意見が示されました。この意見が公表されたことにより、市場は今後の金融政策に対する注目が高まっています。利上げのペースが速まる可能性があるため、経済や金融環境にも影響を及ぼすことが予想されます。",
+    "summary": "青森みちのく銀行、岩手銀行、秋田銀行の3行が、経営統合に向けた検討を進める意向を発表しました。会見は盛岡市で行われ、地域銀行の統合に関する具体的な取り組みが示されました。この動きは、地方銀行の競争力強化を目指すものとされています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261001de53594",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261002de53829",
     "category": "経済",
-    "publishedAt": "2026-10-01 16:21"
+    "publishedAt": "2026-10-02 16:38"
   },
   {
     "source": "BBC",
-    "title": "アメリカの死刑囚、二回の致死注射の後に処刑未遂を生き延びる",
-    "title_en": "US death row inmate survives execution attempt after two lethal injections",
-    "summary": "殺人犯クリスタ・パイクの弁護士は、彼女が二本のペントバルビタール注射を受けた後、病院で「命を救う措置」を受けていると報告しています。この状況は、致死注射を巡る複雑さと倫理的懸念、そしてその潜在的な結果についての問題を浮き彫りにしています。",
-    "summary_en": "Killer Christa Pike's lawyer reports she is receiving \"life-saving measures\" in a hospital following the administration of two syringes of pentobarbital. This situation highlights the complexities and ethical concerns surrounding lethal injection and its potential consequences.",
-    "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ大統領が輸出禁止を脅迫する中、米国が欧州にディーゼル備蓄の放出を圧力",
+    "title_en": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+    "summary": "ドナルド・トランプ大統領は、11月の選挙を控え、燃料価格を抑えるためにディーゼルの輸出禁止を脅迫し、コスト上昇を懸念する有権者の支持を強化しようとしています。",
+    "summary_en": "President Donald Trump has threatened to ban diesel exports to reduce fuel prices in the U.S. as the November elections approach, aiming to bolster his support among voters concerned about rising costs.",
+    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-01 16:21"
+    "publishedAt": "2026-10-02 16:38"
   },
   {
     "source": "NHK",
-    "title": "臨時国会 消費税減税法案など21の法案提出予定 政府",
+    "title": "中司行革相 秋のレビュー“消費減税の財源捻出も念頭に”",
     "title_en": "",
-    "summary": "政府は、臨時国会で食料品の消費税減税を含む21の法案を提出する予定です。これには、重要施設周辺の土地取得に許可制を導入する法案も含まれます。これらの法案は、国民生活への影響を考慮した重要な施策と位置付けられています。",
+    "summary": "中司行政改革担当大臣は、国の事業を公開で検証する「秋のレビュー」を実施する意向を表明しました。このレビューでは、食料品の消費税減税に向けた財源の捻出に関する議論も行う予定です。これにより、減税を実現するための具体的な方策が模索されることになります。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261001de53589",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261002de53894",
     "category": "その他",
-    "publishedAt": "2026-10-01 16:21"
+    "publishedAt": "2026-10-02 16:38"
   }
 ]
