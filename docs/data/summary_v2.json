@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "アマゾン、迅速かつ無料のオープンソースのジェブキラーを発表：ストランド・デシダー2Bは瞬時に意思決定を行います",
-    "title_en": "Amazon unveils a free, fast, open source Jev killer: Strands Decider 2B makes decisions in fractions of a second",
-    "summary": "TypeSafe AIの新しいモデルであるジェブは、テキストを生成するのではなく、事前定義されたオプションから選択するもので、これにより競合する意思決定モデルの急速な開発がわずか2週間で促進されました。この動向は、AI技術における効率性とコスト効果を求める業界の推進力を強調しています。",
-    "summary_en": "TypeSafe AI's new model, Jev, which selects from predefined options rather than generating text, has spurred rapid development of competing decision models in just two weeks. This trend emphasizes the industry's drive for efficiency and cost-effectiveness in AI technology.",
-    "link": "https://venturebeat.com/technology/amazon-unveils-a-free-fast-open-source-jev-killer-strands-decider-2b-makes-decisions-in-fractions-of-a-second",
+    "title": "マイクロソフトの記録的なパッチ火曜日が、重大度が優先順位を決められない理由を示しています",
+    "title_en": "Microsoft's record Patch Tuesday shows why severity can't decide what gets patched first",
+    "summary": "マイクロソフトは9月8日のパッチ火曜日に、攻撃者が権限を低からSYSTEMに引き上げることを可能にする2つの重要なローカル特権昇格脆弱性に対処しました。これは、脆弱性の重要度に関係なく、迅速な対応の重要性を強調しています。",
+    "summary_en": "Microsoft's September 8 Patch Tuesday addressed two Important local elevation-of-privilege vulnerabilities being actively exploited, allowing attackers to escalate privileges from low to SYSTEM. This highlights the importance of quick responses to vulnerabilities, regardless of their severity rating.",
+    "link": "https://venturebeat.com/security/microsofts-record-patch-tuesday-shows-why-severity-cant-decide-what-gets-patched-first",
     "category": "AI",
-    "publishedAt": "2026-10-02 16:38"
+    "publishedAt": "2026-10-06 16:10"
   },
   {
     "source": "VentureBeat",
-    "title": "GoogleのWikiSkillがAIエージェントに失敗を記憶させる — プロンプトに含めることなく",
-    "title_en": "Google’s WikiSkill gives AI agents a memory of what went wrong — without putting it in the prompt",
-    "summary": "AIエージェントは過去のタスクの試行から学んだスキルを再利用することでパフォーマンスを向上させることができますが、時間が経つにつれてこの知識を失うリスクがあります。GoogleのWikiSkillは、AIが明示的なプロンプトなしに過去の失敗を記憶できるようにすることで、この問題に対処しています。",
-    "summary_en": "AI agents can enhance their performance by reusing learned skills from past task attempts, but they risk losing this knowledge over time. Google's WikiSkill addresses this issue by allowing AI to remember past failures without needing explicit prompts.",
-    "link": "https://venturebeat.com/orchestration/googles-wikiskill-gives-ai-agents-a-memory-of-what-went-wrong-without-putting-it-in-the-prompt",
+    "title": "エージェントの安全性：企業はAIエージェントの保護に最もOpenAIに依存し、依存する企業は攻撃者が優位であると答える可能性が3倍近くなる",
+    "title_en": "Agentic security: Enterprises rely on OpenAI most to secure AI agents, and those that do are nearly three times as likely to say attackers are ahead",
+    "summary": "VentureBeat Intelligenceの調査によれば、OpenAIのガードレールが企業のAIエージェントにとって主要なセキュリティ層であり、多くの組織が攻撃者が自らの防御を上回っていると考えています。驚くべきことに、AIエージェントを利用している59%の組織が、セキュリティインシデントやヒヤリハットを経験したと報告しています。",
+    "summary_en": "A VentureBeat Intelligence survey revealed that OpenAI's guardrails are the leading security layer for enterprise AI agents, with many organizations believing attackers outpace their defenses. Alarmingly, 59% of organizations using AI agents reported experiencing a security incident or near-miss.",
+    "link": "https://venturebeat.com/resources/agentic-security-enterprises-rely-on-openai-most-to-secure-ai-agents-and-those-that-do-are-nearly-three-times-as-likely-to-say-attackers-are-ahead",
     "category": "AI",
-    "publishedAt": "2026-10-02 16:38"
+    "publishedAt": "2026-10-06 16:11"
   },
   {
     "source": "NHK",
-    "title": "青森みちのく銀 岩手銀 秋田銀 経営統合 検討進める",
+    "title": "クビアカツヤカミキリ対策に予備費32億円支出決定",
     "title_en": "",
-    "summary": "青森みちのく銀行、岩手銀行、秋田銀行の3行が、経営統合に向けた検討を進める意向を発表しました。会見は盛岡市で行われ、地域銀行の統合に関する具体的な取り組みが示されました。この動きは、地方銀行の競争力強化を目指すものとされています。",
+    "summary": "政府は、特定外来生物であるクビアカツヤカミキリによるサクラやモモの木への被害を防ぐため、自治体の防除対策を強化することを決定しました。具体的には、今年度予算の予備費から32億円を支出することが発表されました。この対応により、地域の農業や環境保護が一層促進される見込みです。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261002de53829",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261006de55198",
     "category": "経済",
-    "publishedAt": "2026-10-02 16:38"
+    "publishedAt": "2026-10-06 16:11"
   },
   {
     "source": "BBC",
-    "title": "トランプ大統領が輸出禁止を脅迫する中、米国が欧州にディーゼル備蓄の放出を圧力",
-    "title_en": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-    "summary": "ドナルド・トランプ大統領は、11月の選挙を控え、燃料価格を抑えるためにディーゼルの輸出禁止を脅迫し、コスト上昇を懸念する有権者の支持を強化しようとしています。",
-    "summary_en": "President Donald Trump has threatened to ban diesel exports to reduce fuel prices in the U.S. as the November elections approach, aiming to bolster his support among voters concerned about rising costs.",
-    "link": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+    "title": "トランプ氏、アメリカのボンバーをRAFフェアファードから撤回した理由は「脅威」と述べる",
+    "title_en": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+    "summary": "アメリカ国防総省は、イギリスの基地からB1爆撃機をアメリカの本拠地へ移転しました。この決定は、軍事的な即応能力やヨーロッパにおけるアメリカ軍の存在に影響を与えます。",
+    "summary_en": "The Pentagon has relocated B1 bombers from a base in England back to their home stations in the U.S. This decision impacts military readiness and the presence of U.S. forces in Europe.",
+    "link": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-02 16:38"
+    "publishedAt": "2026-10-06 16:11"
   },
   {
     "source": "NHK",
-    "title": "中司行革相 秋のレビュー“消費減税の財源捻出も念頭に”",
+    "title": "福島 双葉町「特定帰還居住」の一部避難指示解除へ連携 復興相",
     "title_en": "",
-    "summary": "中司行政改革担当大臣は、国の事業を公開で検証する「秋のレビュー」を実施する意向を表明しました。このレビューでは、食料品の消費税減税に向けた財源の捻出に関する議論も行う予定です。これにより、減税を実現するための具体的な方策が模索されることになります。",
+    "summary": "細野復興大臣は、福島県双葉町での避難指示解除に向けた調整を進めていることを確認し、政府の最終的な決定に向けて関係省庁と連携して取り組む意向を示した。特定帰還居住区域についての進展は、地域の復興に向けた重要なステップとされている。今後の動きが、福島の復興状況に大きな影響を与えると期待されている。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261002de53894",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261006de55203",
     "category": "その他",
-    "publishedAt": "2026-10-02 16:38"
+    "publishedAt": "2026-10-06 16:11"
   }
 ]
