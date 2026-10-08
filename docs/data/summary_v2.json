@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Google ドキュメント、スプレッドシート、およびスライドで Claude を直接開けるようになりました（逆に、Claude でファイルを開いて編集することも可能です）",
-    "title_en": "You can now open Claude directly in Google Docs, Sheets and Slides (and vice versa, open and edit the files in Claude)",
-    "summary": "Anthropic は自社の AI、Claude を Google の人気生産性アプリであるドキュメント、スプレッドシート、スライドに統合し、ユーザーが Claude インターフェース内でファイルをシームレスに編集できるようにしました。このコラボレーションにより、ユーザーは慣れ親しんだアプリケーション内で直接 AI ツールにアクセスでき、体験と生産性が向上します。",
-    "summary_en": "Anthropic has integrated its AI, Claude, into Google's popular productivity apps—Docs, Sheets, and Slides—allowing users to seamlessly edit files within the Claude interface. This collaboration enhances user experience and productivity by providing direct access to AI tools in familiar applications.",
-    "link": "https://venturebeat.com/technology/you-can-now-open-claude-directly-in-google-docs-sheets-and-slides-and-vice-versa-open-and-edit-the-files-in-claude",
+    "title": "Anthropic、Claude Haiku 5.5を発表し、API価格を90％削減、GPT-6 Lunaに対応",
+    "title_en": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
+    "summary": "AnthropicはClaude Haiku 5.5を発表し、企業向けAIにおける高コストな繰り返し作業に対応するため、低ボリュームのリクエスト向けにトークン価格を90％削減しました。この変更は、企業の文書要約、情報分類、データベースクエリの効率を向上させることを目的としています。",
+    "summary_en": "Anthropic launched Claude Haiku 5.5, reducing token prices by 90% for low-volume requests to address costly repetitive tasks in enterprise AI. This move aims to enhance efficiency in document summarization, information classification, and database querying for businesses.",
+    "link": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
     "category": "AI",
-    "publishedAt": "2026-10-07 16:25"
+    "publishedAt": "2026-10-08 17:21"
   },
   {
     "source": "VentureBeat",
-    "title": "TwelveLabs、ロボティクスのトレーニングデータを改善するPegasus 1.6を発表",
-    "title_en": "TwelveLabs debuts Pegasus 1.6 to improve robotics training data from first-person video",
-    "summary": "TwelveLabsは、人間の作業者による組立作業の一人称動画を利用して、ロボティクスのトレーニングを強化するPegasus-1.6を開発しています。この技術は、企業がロボットを教えるために使用するデータの質を向上させ、自動化をより効率的にすることを目指しています。",
-    "summary_en": "TwelveLabs is developing Pegasus-1.6 to enhance robotics training using first-person video from human workers' assembly tasks. This technology aims to improve the data quality companies use to teach robots, making automation more efficient.",
-    "link": "https://venturebeat.com/technology/twelvelabs-debuts-pegasus-1-6-to-improve-robotics-training-data-from-first-person-video",
+    "title": "Google ドキュメント、スプレッドシート、スライドで Claude を直接開けるようになりました（逆に、Claude でファイルを開いて編集することも可能です）",
+    "title_en": "You can now open Claude directly in Google Docs, Sheets and Slides (and vice versa, open and edit the files in Claude)",
+    "summary": "Anthropic は、AI アシスタント Claude を Google の企業向け生産性アプリケーションであるドキュメント、スプレッドシート、スライドに統合し、ユーザーが Claude のインターフェース内でファイルを編集できるようにしました。この提携は、生産性ツールの強化における AI の重要性の高まりを示しています。",
+    "summary_en": "Anthropic is integrating its AI assistant, Claude, into Google's enterprise productivity applications—Docs, Sheets, and Slides—allowing users to edit files within Claude's interface. This partnership highlights the growing importance of AI in enhancing productivity tools.",
+    "link": "https://venturebeat.com/technology/you-can-now-open-claude-directly-in-google-docs-sheets-and-slides-and-vice-versa-open-and-edit-the-files-in-claude",
     "category": "AI",
-    "publishedAt": "2026-10-07 16:25"
+    "publishedAt": "2026-10-08 17:21"
   },
   {
     "source": "NHK",
-    "title": "【きょうのおはBiz 10月7日(水)】広がるキッチンカービジネス",
+    "title": "経団連と道経連 多様な人材確保・定着の環境整備で連携",
     "title_en": "",
-    "summary": "最近の経済ニュースコーナー「おはBiz」では、最新のビジネストレンドや働き方に焦点を当て、特にスタートアップ企業の新しいサービスや取り組みが紹介されている。これにより、視聴者は労働環境の変化や新たなビジネス機会についての理解を深めることができる。番組は、情報をコンパクトに提供し、ビジネス界の動向を迅速に把握する手助けをしている。",
+    "summary": "経団連と北海道の経済界の代表が懇談し、半導体産業などの成長分野において多様な人材が働きやすい環境を整備するための協力を確認しました。両者は、この取り組みに向けた具体的な施策について意見を交わしました。今後の協力により、地域経済の活性化が期待されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261007de55653",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261008de56596",
     "category": "経済",
-    "publishedAt": "2026-10-07 16:25"
+    "publishedAt": "2026-10-08 17:21"
   },
   {
     "source": "BBC",
-    "title": "米国の死刑囚クリスタ・パイク、執行失敗後に意識を取り戻し話すと弁護士が報告",
-    "title_en": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
-    "summary": "専門家は、致死注射の唯一の生存者と信じられている個人の前例のない回復を強調しています。この事例は、死刑制度の方法に関する倫理と効果に対して重要な疑問を投げかけています。",
-    "summary_en": "Experts have highlighted an unprecedented recovery of an individual believed to be the sole survivor of a lethal injection. This case raises significant questions about the ethics and effectiveness of capital punishment methods.",
-    "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+    "title": "アメリカとレバノンが求められているシリアの将軍を保護しているとBBCが報告",
+    "title_en": "US and Lebanon protecting wanted Syrian general, BBC finds",
+    "summary": "オースティン・タイズ記者の誘拐に関与しているバッサム・アル＝ハッサン氏が、この事件に関する情報提供の対価として保護を受けています。この動きは、タイズ氏の失踪に関する進行中の捜査において画期的な進展をもたらす可能性があるため、重要です。",
+    "summary_en": "Bassam al-Hassan, connected to the kidnapping of journalist Austin Tice, is receiving protection in exchange for insights about the case. This development is significant as it may lead to breakthroughs in the ongoing investigation into Tice's disappearance.",
+    "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-07 16:26"
+    "publishedAt": "2026-10-08 17:21"
   },
   {
     "source": "NHK",
-    "title": "簗農相「法令に従い適切に処理」シャトルバス報道受け",
+    "title": "参院予算委 自民 高市首相出席で16・19日に質疑提案",
     "title_en": "",
-    "summary": "簗農林水産大臣は、選挙活動中に支持者を無料送迎するために手配したシャトルバスが法令違反に該当する可能性があるとの報道に対し、法令に従って適正に行動していると述べた。大臣は記者団に対して、法令遵守の姿勢を強調した。今後の調査結果については明言を避け、詳細を待つ姿勢を示した。",
+    "summary": "参議院自民党が予算委員会を今月16日と19日に開催し、高市総理大臣の出席を求める意向を示しました。これに対し、立憲民主党は19日と20日の開催を提案し、対立が生じています。両党の国会対策委員長は会談を行い、今後の協議を進める方針です。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261007de55847",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261008de56583",
     "category": "その他",
-    "publishedAt": "2026-10-07 16:26"
+    "publishedAt": "2026-10-08 17:21"
   }
 ]
