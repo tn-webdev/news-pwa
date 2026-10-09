@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Anthropic、Claude Haiku 5.5を発表し、API価格を90％削減、GPT-6 Lunaに対応",
-    "title_en": "Anthropic launches Claude Haiku 5.5 with 90% API price reduction, matching GPT-6 Luna",
-    "summary": "AnthropicはClaude Haiku 5.5を発表し、企業向けAIにおける高コストな繰り返し作業に対応するため、低ボリュームのリクエスト向けにトークン価格を90％削減しました。この変更は、企業の文書要約、情報分類、データベースクエリの効率を向上させることを目的としています。",
-    "summary_en": "Anthropic launched Claude Haiku 5.5, reducing token prices by 90% for low-volume requests to address costly repetitive tasks in enterprise AI. This move aims to enhance efficiency in document summarization, information classification, and database querying for businesses.",
-    "link": "https://venturebeat.com/technology/anthropic-launches-claude-haiku-5-5-with-90-api-price-reduction-matching-gpt-6-luna",
+    "title": "Magnific Oneが、'AIらしい外観'を避け、ブランドキットを自動的に維持する画像生成ツールを発表",
+    "title_en": "Magnific One launches to give teams an image generator that avoids the 'AI look' and automatically upholds their brand kit",
+    "summary": "Magnific Oneは、生成された画像に典型的な「AIらしい外観」を避けつつ、ブランドの一貫性を確保する画像生成ツールを発表しました。この革新は、ブランディングやマーケティングにおける人工的なビジュアルに対するユーザーの不快感に対処する重要な取り組みです。",
+    "summary_en": "Magnific One has launched an image generator that avoids the \"AI look\" typically associated with generative images while ensuring brand consistency. This innovation is significant as it addresses user discomfort with artificial visuals in branding and marketing.",
+    "link": "https://venturebeat.com/orchestration/magnific-one-launches-to-give-teams-an-image-generator-that-avoids-the-ai-look-and-automatically-upholds-their-brand-kit",
     "category": "AI",
-    "publishedAt": "2026-10-08 17:21"
+    "publishedAt": "2026-10-09 17:16"
   },
   {
     "source": "VentureBeat",
-    "title": "Google ドキュメント、スプレッドシート、スライドで Claude を直接開けるようになりました（逆に、Claude でファイルを開いて編集することも可能です）",
-    "title_en": "You can now open Claude directly in Google Docs, Sheets and Slides (and vice versa, open and edit the files in Claude)",
-    "summary": "Anthropic は、AI アシスタント Claude を Google の企業向け生産性アプリケーションであるドキュメント、スプレッドシート、スライドに統合し、ユーザーが Claude のインターフェース内でファイルを編集できるようにしました。この提携は、生産性ツールの強化における AI の重要性の高まりを示しています。",
-    "summary_en": "Anthropic is integrating its AI assistant, Claude, into Google's enterprise productivity applications—Docs, Sheets, and Slides—allowing users to edit files within Claude's interface. This partnership highlights the growing importance of AI in enhancing productivity tools.",
-    "link": "https://venturebeat.com/technology/you-can-now-open-claude-directly-in-google-docs-sheets-and-slides-and-vice-versa-open-and-edit-the-files-in-claude",
+    "title": "VBインテリジェンスの調査によると、AIエージェントに自律的な生産変更を任せる企業の割合が75％から56％に減少しました",
+    "title_en": "The share of enterprises trusting AI agents to make production changes on their own has fallen from 75% to 56%, VB Intelligence finds",
+    "summary": "企業がAIエージェントに自律的な生産変更を任せることへの信頼が75％から56％に減少し、これにより人間の承認を求める傾向が強まっています。この変化は、評価ツールへの投資が続く中でもAIの信頼性に対する懸念が高まっていることを示しています。",
+    "summary_en": "Trust among enterprises in AI agents making autonomous production changes has dropped from 75% to 56%, prompting increased caution and reliance on human approval. This shift highlights growing concerns over AI reliability, despite continued investment in evaluation tools.",
+    "link": "https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds",
     "category": "AI",
-    "publishedAt": "2026-10-08 17:21"
+    "publishedAt": "2026-10-09 17:16"
   },
   {
     "source": "NHK",
-    "title": "経団連と道経連 多様な人材確保・定着の環境整備で連携",
+    "title": "1400万件超の情報が流出か 大規模な情報漏えい相次ぐ",
     "title_en": "",
-    "summary": "経団連と北海道の経済界の代表が懇談し、半導体産業などの成長分野において多様な人材が働きやすい環境を整備するための協力を確認しました。両者は、この取り組みに向けた具体的な施策について意見を交わしました。今後の協力により、地域経済の活性化が期待されています。",
+    "summary": "旅行サイトのスカイチケットを運営するアドベンチャーが外部からの不正アクセスを受け、利用客の情報が1400万件以上流出した可能性があると発表した。流出した情報には、氏名やメールアドレス、パスワードなどが含まれている可能性がある。企業は現在、被害の詳細確認や対策を進めている。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261008de56596",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261009de57123",
     "category": "経済",
-    "publishedAt": "2026-10-08 17:21"
+    "publishedAt": "2026-10-09 17:16"
   },
   {
     "source": "BBC",
-    "title": "アメリカとレバノンが求められているシリアの将軍を保護しているとBBCが報告",
-    "title_en": "US and Lebanon protecting wanted Syrian general, BBC finds",
-    "summary": "オースティン・タイズ記者の誘拐に関与しているバッサム・アル＝ハッサン氏が、この事件に関する情報提供の対価として保護を受けています。この動きは、タイズ氏の失踪に関する進行中の捜査において画期的な進展をもたらす可能性があるため、重要です。",
-    "summary_en": "Bassam al-Hassan, connected to the kidnapping of journalist Austin Tice, is receiving protection in exchange for insights about the case. This development is significant as it may lead to breakthroughs in the ongoing investigation into Tice's disappearance.",
-    "link": "https://www.bbc.co.uk/news/articles/c81dldewl5gwo?at_medium=RSS&at_campaign=rss",
+    "title": "死刑執行がライブ配信されるとペンタゴンが発表",
+    "title_en": "Firing squad execution to be livestreamed, Pentagon says",
+    "summary": "ピート・ヘグセス氏が執行が公開されると発表し、法律の専門家からは「前例のない」動きと評されています。この決定は、死刑制度の透明性に関する重要な法的な疑問や影響を引き起こしています。",
+    "summary_en": "Pete Hegseth announced that an execution will be public, a move described as \"unprecedented\" by a legal expert. This decision raises significant legal questions and implications regarding the transparency of capital punishment.",
+    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-08 17:21"
+    "publishedAt": "2026-10-09 17:16"
   },
   {
     "source": "NHK",
-    "title": "参院予算委 自民 高市首相出席で16・19日に質疑提案",
+    "title": "斉藤斗志二元防衛庁長官が死去",
     "title_en": "",
-    "summary": "参議院自民党が予算委員会を今月16日と19日に開催し、高市総理大臣の出席を求める意向を示しました。これに対し、立憲民主党は19日と20日の開催を提案し、対立が生じています。両党の国会対策委員長は会談を行い、今後の協議を進める方針です。",
+    "summary": "自民党の元衆議院議員で防衛庁長官を務めた斉藤斗志二氏が、東京都内の病院で亡くなりました。享年は81歳です。彼の死去は、日本の政治界において重要な影響を与えるとされています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261008de56583",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261009de57256",
     "category": "その他",
-    "publishedAt": "2026-10-08 17:21"
+    "publishedAt": "2026-10-09 17:16"
   }
 ]
