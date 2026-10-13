@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Magnific Oneが、'AIらしい外観'を避け、ブランドキットを自動的に維持する画像生成ツールを発表",
-    "title_en": "Magnific One launches to give teams an image generator that avoids the 'AI look' and automatically upholds their brand kit",
-    "summary": "Magnific Oneは、生成された画像に典型的な「AIらしい外観」を避けつつ、ブランドの一貫性を確保する画像生成ツールを発表しました。この革新は、ブランディングやマーケティングにおける人工的なビジュアルに対するユーザーの不快感に対処する重要な取り組みです。",
-    "summary_en": "Magnific One has launched an image generator that avoids the \"AI look\" typically associated with generative images while ensuring brand consistency. This innovation is significant as it addresses user discomfort with artificial visuals in branding and marketing.",
-    "link": "https://venturebeat.com/orchestration/magnific-one-launches-to-give-teams-an-image-generator-that-avoids-the-ai-look-and-automatically-upholds-their-brand-kit",
+    "title": "AIエージェントはすべてのツール呼び出しを正確に実行できるが、すべての企業ルールを破る可能性がある",
+    "title_en": "Your AI agents can execute every tool call correctly and still break every enterprise rule",
+    "summary": "CIOは、企業の取締役会から効果的なAI戦略を実施し、自律システムの導入に関する明確なタイムラインを提供するようにますます圧力を受けています。これには、CIOが投資に対するリターンを最大化するために、測定可能なビジネスへの影響を示すことが求められています。",
+    "summary_en": "CIOs are facing increasing pressure from enterprise boards to implement effective AI strategies and provide clear timelines for deploying autonomous systems. This demands that CIOs demonstrate measurable business impact to maximize return on investment.",
+    "link": "https://venturebeat.com/orchestration/your-ai-agents-can-execute-every-tool-call-correctly-and-still-break-every-enterprise-rule",
     "category": "AI",
-    "publishedAt": "2026-10-09 17:16"
+    "publishedAt": "2026-10-13 17:38"
   },
   {
     "source": "VentureBeat",
-    "title": "VBインテリジェンスの調査によると、AIエージェントに自律的な生産変更を任せる企業の割合が75％から56％に減少しました",
-    "title_en": "The share of enterprises trusting AI agents to make production changes on their own has fallen from 75% to 56%, VB Intelligence finds",
-    "summary": "企業がAIエージェントに自律的な生産変更を任せることへの信頼が75％から56％に減少し、これにより人間の承認を求める傾向が強まっています。この変化は、評価ツールへの投資が続く中でもAIの信頼性に対する懸念が高まっていることを示しています。",
-    "summary_en": "Trust among enterprises in AI agents making autonomous production changes has dropped from 75% to 56%, prompting increased caution and reliance on human approval. This shift highlights growing concerns over AI reliability, despite continued investment in evaluation tools.",
-    "link": "https://venturebeat.com/orchestration/the-share-of-enterprises-trusting-ai-agents-to-make-production-changes-on-their-own-has-fallen-from-75-to-56-vb-intelligence-finds",
+    "title": "メタの新しいMuse WonderおよびMuse Wonder Fullモデルが最前線の性能を達成、しかしAPI経由では性能の低い方のみ利用可能",
+    "title_en": "Meta's new Muse Wonder and Muse Wonder Full models achieve frontier performance, but only the weaker one is available via API",
+    "summary": "メタは、複雑なタスクにおいてOpenAIやAnthropicを上回ると報告されている2つの新しいAIモデルを発表しました。この開発は、AI分野におけるメタの競争力を再び確立する重要なものであります。",
+    "summary_en": "Meta has launched two new AI models that reportedly surpass those from OpenAI and Anthropic in various complex tasks. This development is significant as it re-establishes Meta's competitive position in the AI landscape.",
+    "link": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
     "category": "AI",
-    "publishedAt": "2026-10-09 17:16"
+    "publishedAt": "2026-10-13 17:38"
   },
   {
     "source": "NHK",
-    "title": "1400万件超の情報が流出か 大規模な情報漏えい相次ぐ",
+    "title": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
     "title_en": "",
-    "summary": "旅行サイトのスカイチケットを運営するアドベンチャーが外部からの不正アクセスを受け、利用客の情報が1400万件以上流出した可能性があると発表した。流出した情報には、氏名やメールアドレス、パスワードなどが含まれている可能性がある。企業は現在、被害の詳細確認や対策を進めている。",
+    "summary": "宅配すしチェーン「銀のさら」を運営する企業が、公式サイトとアプリの登録者情報が最大約650万件漏えいした可能性があると発表しました。情報漏えいの詳細については調査中で、対策を講じる方針を示しています。顧客への影響についても考慮し、安心して利用できる環境を整える必要があります。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261009de57123",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261013de58643",
     "category": "経済",
-    "publishedAt": "2026-10-09 17:16"
+    "publishedAt": "2026-10-13 17:38"
   },
   {
     "source": "BBC",
-    "title": "死刑執行がライブ配信されるとペンタゴンが発表",
-    "title_en": "Firing squad execution to be livestreamed, Pentagon says",
-    "summary": "ピート・ヘグセス氏が執行が公開されると発表し、法律の専門家からは「前例のない」動きと評されています。この決定は、死刑制度の透明性に関する重要な法的な疑問や影響を引き起こしています。",
-    "summary_en": "Pete Hegseth announced that an execution will be public, a move described as \"unprecedented\" by a legal expert. This decision raises significant legal questions and implications regarding the transparency of capital punishment.",
-    "link": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+    "title": "ロシアの攻撃能力は破綻している、キーウの元最高司令官がBBCに語る",
+    "title_en": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
+    "summary": "シルスキー将軍は、解任以来初めてのインタビューで、ウクライナの軍事戦略と進行中の紛争における展望について語りました。彼の洞察は、戦争の進展するダイナミクスや効果的な指導の必要性を反映しているため、極めて重要です。",
+    "summary_en": "Gen Syrskyi, in his first interview since his removal, discusses Ukraine's military strategy and prospects in the ongoing conflict. His insights are crucial as they reflect the evolving dynamics of the war and the need for effective leadership.",
+    "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-09 17:16"
+    "publishedAt": "2026-10-13 17:38"
   },
   {
     "source": "NHK",
-    "title": "斉藤斗志二元防衛庁長官が死去",
+    "title": "福岡県議会 金銭授受問題や海外視察めぐり百条委議案を提出",
     "title_en": "",
-    "summary": "自民党の元衆議院議員で防衛庁長官を務めた斉藤斗志二氏が、東京都内の病院で亡くなりました。享年は81歳です。彼の死去は、日本の政治界において重要な影響を与えるとされています。",
+    "summary": "福岡県議会で、正副議長ポストを巡る金銭授受の指摘や高額な海外視察に関する問題が浮上している。少数会派の議員らは、地方自治法に基づく強い調査権を持つ「百条委員会」の設置を求める議案を提出した。これにより、議会内での透明性向上や問題の解明が期待されている。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261009de57256",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261013de58517",
     "category": "その他",
-    "publishedAt": "2026-10-09 17:16"
+    "publishedAt": "2026-10-13 17:38"
   }
 ]
