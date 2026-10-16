@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "AIエージェントはすべてのツール呼び出しを正確に実行できるが、すべての企業ルールを破る可能性がある",
-    "title_en": "Your AI agents can execute every tool call correctly and still break every enterprise rule",
-    "summary": "CIOは、企業の取締役会から効果的なAI戦略を実施し、自律システムの導入に関する明確なタイムラインを提供するようにますます圧力を受けています。これには、CIOが投資に対するリターンを最大化するために、測定可能なビジネスへの影響を示すことが求められています。",
-    "summary_en": "CIOs are facing increasing pressure from enterprise boards to implement effective AI strategies and provide clear timelines for deploying autonomous systems. This demands that CIOs demonstrate measurable business impact to maximize return on investment.",
-    "link": "https://venturebeat.com/orchestration/your-ai-agents-can-execute-every-tool-call-correctly-and-still-break-every-enterprise-rule",
+    "title": "Meta、米国の新しいオープンウェイトモデル「Muse Spark Open」を発表 — 2台のMacデスクトップで動作します",
+    "title_en": "Meta unveils Muse Spark Open, the new top U.S. open weights model — and it runs on two paired Mac desktops",
+    "summary": "中国の研究所は、AlibabaのQwen、DeepSeek、Moonshot AIのKimiなど、カスタマイズ可能なAIモデルの開発をリードしています。このオープンウェイトシステムへの移行は、開発者に独自モデルの代替手段を提供し、AI市場における競争を促進しています。",
+    "summary_en": "Chinese labs are leading the development of customizable AI models such as Alibaba's Qwen, DeepSeek, and Moonshot AI's Kimi. This shift towards open-weight systems provides developers with viable alternatives to proprietary models, enhancing competition in the AI market.",
+    "link": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops",
     "category": "AI",
-    "publishedAt": "2026-10-13 17:38"
+    "publishedAt": "2026-10-16 18:18"
   },
   {
     "source": "VentureBeat",
-    "title": "メタの新しいMuse WonderおよびMuse Wonder Fullモデルが最前線の性能を達成、しかしAPI経由では性能の低い方のみ利用可能",
-    "title_en": "Meta's new Muse Wonder and Muse Wonder Full models achieve frontier performance, but only the weaker one is available via API",
-    "summary": "メタは、複雑なタスクにおいてOpenAIやAnthropicを上回ると報告されている2つの新しいAIモデルを発表しました。この開発は、AI分野におけるメタの競争力を再び確立する重要なものであります。",
-    "summary_en": "Meta has launched two new AI models that reportedly surpass those from OpenAI and Anthropic in various complex tasks. This development is significant as it re-establishes Meta's competitive position in the AI landscape.",
-    "link": "https://venturebeat.com/technology/metas-new-muse-wonder-and-muse-wonder-full-models-achieve-frontier-performance-but-only-the-weaker-one-is-available-via-api",
+    "title": "Arcade.devによると、新しいツール推奨システムは企業の入力トークンコストを37%削減します",
+    "title_en": "New Tool Recommendation system cuts your firm's input token costs by 37%, according to Arcade.dev",
+    "summary": "Arcade.devは、AIエージェントがビジネスソフトウェア内で適切なアクションを効率的に特定できる「ツール推奨」機能を発表しました。この革新は、企業の入力トークンコストを37%削減し、業務の効率を向上させることを目指しています。",
+    "summary_en": "Arcade.dev has launched Tool Recommendation, a feature enabling AI agents to efficiently identify appropriate actions within business software. This innovation aims to reduce firms' input token costs by 37%, enhancing operational efficiency.",
+    "link": "https://venturebeat.com/orchestration/new-tool-recommendation-system-cuts-your-firms-input-token-costs-by-37-according-to-arcade-dev",
     "category": "AI",
-    "publishedAt": "2026-10-13 17:38"
+    "publishedAt": "2026-10-16 18:18"
   },
   {
     "source": "NHK",
-    "title": "「銀のさら」運営会社 最大約650万件の登録者情報漏えい可能性",
+    "title": "日経新聞 不正アクセスで個人情報約183万件漏えい",
     "title_en": "",
-    "summary": "宅配すしチェーン「銀のさら」を運営する企業が、公式サイトとアプリの登録者情報が最大約650万件漏えいした可能性があると発表しました。情報漏えいの詳細については調査中で、対策を講じる方針を示しています。顧客への影響についても考慮し、安心して利用できる環境を整える必要があります。",
+    "summary": "日本経済新聞社は、クラウドサービスが不正アクセスを受け、約183万件の個人情報が漏えいしたと発表しました。漏えいした情報には、氏名や住所、電話番号などが含まれています。現在、同社は影響を受けた個人に対し、必要な対応を進めているとしています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261013de58643",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261016de60531",
     "category": "経済",
-    "publishedAt": "2026-10-13 17:38"
+    "publishedAt": "2026-10-16 18:18"
   },
   {
     "source": "BBC",
-    "title": "ロシアの攻撃能力は破綻している、キーウの元最高司令官がBBCに語る",
-    "title_en": "Russia's offensive ability is broken, Kyiv's former top general tells BBC",
-    "summary": "シルスキー将軍は、解任以来初めてのインタビューで、ウクライナの軍事戦略と進行中の紛争における展望について語りました。彼の洞察は、戦争の進展するダイナミクスや効果的な指導の必要性を反映しているため、極めて重要です。",
-    "summary_en": "Gen Syrskyi, in his first interview since his removal, discusses Ukraine's military strategy and prospects in the ongoing conflict. His insights are crucial as they reflect the evolving dynamics of the war and the need for effective leadership.",
-    "link": "https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss",
+    "title": "アメリカの学校銃撃事件で5歳、8歳、11歳の子供たちが死亡、通行人により容疑者も射殺される",
+    "title_en": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
+    "summary": "オレゴン州ベントのシルバー・レール小学校で発生した銃撃事件により、教師を含む複数の人が死亡しました。この事件は、学校の安全性に関する重大な懸念を呼び起こし、将来の悲劇を防ぐための効果的な対策の必要性が強調されています。",
+    "summary_en": "A shooting at Silver Rail Elementary School in Bend resulted in the deaths of a teacher and others. This incident raises significant concerns about school safety and the need for effective measures to prevent future tragedies.",
+    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-13 17:38"
+    "publishedAt": "2026-10-16 18:18"
   },
   {
     "source": "NHK",
-    "title": "福岡県議会 金銭授受問題や海外視察めぐり百条委議案を提出",
+    "title": "木原長官 G7オンライン会議首相欠席“直前決定で準備整わず”",
     "title_en": "",
-    "summary": "福岡県議会で、正副議長ポストを巡る金銭授受の指摘や高額な海外視察に関する問題が浮上している。少数会派の議員らは、地方自治法に基づく強い調査権を持つ「百条委員会」の設置を求める議案を提出した。これにより、議会内での透明性向上や問題の解明が期待されている。",
+    "summary": "高市総理大臣がG7のオンライン首脳会議を欠席し、外務審議官が代理で出席した。官房長官によると、会議の開催が直前に決定されたため、十分な準備ができなかったという。会議のテーマなども考慮された結果の欠席だと説明された。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261013de58517",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261016de60602",
     "category": "その他",
-    "publishedAt": "2026-10-13 17:38"
+    "publishedAt": "2026-10-16 18:18"
   }
 ]
