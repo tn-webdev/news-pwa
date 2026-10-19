@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "Meta、米国の新しいオープンウェイトモデル「Muse Spark Open」を発表 — 2台のMacデスクトップで動作します",
-    "title_en": "Meta unveils Muse Spark Open, the new top U.S. open weights model — and it runs on two paired Mac desktops",
-    "summary": "中国の研究所は、AlibabaのQwen、DeepSeek、Moonshot AIのKimiなど、カスタマイズ可能なAIモデルの開発をリードしています。このオープンウェイトシステムへの移行は、開発者に独自モデルの代替手段を提供し、AI市場における競争を促進しています。",
-    "summary_en": "Chinese labs are leading the development of customizable AI models such as Alibaba's Qwen, DeepSeek, and Moonshot AI's Kimi. This shift towards open-weight systems provides developers with viable alternatives to proprietary models, enhancing competition in the AI market.",
-    "link": "https://venturebeat.com/technology/meta-unveils-muse-spark-open-the-new-top-u-s-open-weights-model-and-it-runs-on-two-paired-mac-desktops",
+    "title": "ガートナーは、トークン価格が下がる中でエージェントコストが2028年までに5倍になると述べています。コストを抑える方法とは",
+    "title_en": "Gartner says agent costs will rise fivefold by 2028 even as tokens get cheaper. Here is how to keep them in check",
+    "summary": "トークン価格が下落しているにもかかわらず、ガートナーはAIエージェントのコストが2028年までに5倍になると予測しており、トークン価格の低下がAI費用を削減するという前提に対する挑戦となっています。このトレンドは、AI予算と戦略を計画している企業にとって重要です。",
+    "summary_en": "Despite declining token prices, Gartner predicts that AI agent costs will rise fivefold by 2028, challenging the assumption that lower token prices will reduce AI expenses. This trend is significant for enterprises planning their AI budgets and strategies.",
+    "link": "https://venturebeat.com/orchestration/gartner-says-agent-costs-will-rise-fivefold-by-2028-even-as-tokens-get-cheaper-here-is-how-to-keep-them-in-check",
     "category": "AI",
-    "publishedAt": "2026-10-16 18:18"
+    "publishedAt": "2026-10-19 16:37"
   },
   {
     "source": "VentureBeat",
-    "title": "Arcade.devによると、新しいツール推奨システムは企業の入力トークンコストを37%削減します",
-    "title_en": "New Tool Recommendation system cuts your firm's input token costs by 37%, according to Arcade.dev",
-    "summary": "Arcade.devは、AIエージェントがビジネスソフトウェア内で適切なアクションを効率的に特定できる「ツール推奨」機能を発表しました。この革新は、企業の入力トークンコストを37%削減し、業務の効率を向上させることを目指しています。",
-    "summary_en": "Arcade.dev has launched Tool Recommendation, a feature enabling AI agents to efficiently identify appropriate actions within business software. This innovation aims to reduce firms' input token costs by 37%, enhancing operational efficiency.",
-    "link": "https://venturebeat.com/orchestration/new-tool-recommendation-system-cuts-your-firms-input-token-costs-by-37-according-to-arcade-dev",
+    "title": "新しいフレームワークがAIモデルに相互の推論を監査し修正させ、精度を向上させることを可能にします",
+    "title_en": "A new framework teaches AI models to audit and repair each other’s reasoning, improving accuracy",
+    "summary": "新しいフレームワークが開発され、AIモデルが互いの推論を監査し修正することを可能にし、企業のマルチエージェントワークフローにおける精度を向上させます。この革新は、複雑な問題を扱う際の従来の硬直したパイプラインや投票メカニズムの限界に対処しています。",
+    "summary_en": "A new framework has been developed to enable AI models to audit and repair each other's reasoning, improving accuracy in enterprise multi-agent workflows. This innovation addresses the limitations of traditional rigid pipelines and voting mechanisms in handling complex problems.",
+    "link": "https://venturebeat.com/orchestration/a-new-framework-teaches-ai-models-to-audit-and-repair-each-others-reasoning-improving-accuracy",
     "category": "AI",
-    "publishedAt": "2026-10-16 18:18"
+    "publishedAt": "2026-10-19 16:37"
   },
   {
     "source": "NHK",
-    "title": "日経新聞 不正アクセスで個人情報約183万件漏えい",
+    "title": "三菱電機 自動車部品子会社にホンハイの出資受け入れで会見",
     "title_en": "",
-    "summary": "日本経済新聞社は、クラウドサービスが不正アクセスを受け、約183万件の個人情報が漏えいしたと発表しました。漏えいした情報には、氏名や住所、電話番号などが含まれています。現在、同社は影響を受けた個人に対し、必要な対応を進めているとしています。",
+    "summary": "三菱電機は、自動車部品を扱う子会社に台湾のホンハイ精密工業からの1150億円の出資を受け入れ、折半出資の合弁会社を設立することで合意した。これにより、両社はEV関連事業などの競争力を強化する意向を示している。加賀邦彦副社長は、この合弁が将来的なビジネス拡大につながると期待している。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261016de60531",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261019de61602",
     "category": "経済",
-    "publishedAt": "2026-10-16 18:18"
+    "publishedAt": "2026-10-19 16:37"
   },
   {
     "source": "BBC",
-    "title": "アメリカの学校銃撃事件で5歳、8歳、11歳の子供たちが死亡、通行人により容疑者も射殺される",
-    "title_en": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-    "summary": "オレゴン州ベントのシルバー・レール小学校で発生した銃撃事件により、教師を含む複数の人が死亡しました。この事件は、学校の安全性に関する重大な懸念を呼び起こし、将来の悲劇を防ぐための効果的な対策の必要性が強調されています。",
-    "summary_en": "A shooting at Silver Rail Elementary School in Bend resulted in the deaths of a teacher and others. This incident raises significant concerns about school safety and the need for effective measures to prevent future tragedies.",
-    "link": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+    "title": "フランス政府、週末の広範な暴力事件を受け圧力を受ける",
+    "title_en": "France's government under pressure after weekend of widespread violence",
+    "summary": "フランスでは、生活費の高騰や公共サービスの悪化に対する抗議活動の最中に暴動が発生しました。この騒乱は、政府の政策に対する市民の間の大きな政治的緊張と不満を浮き彫りにしています。",
+    "summary_en": "Rioting erupted in France amid protests focused on the rising cost of living and deteriorating public services. This unrest highlights significant political tension and dissatisfaction among the populace towards government policies.",
+    "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-16 18:18"
+    "publishedAt": "2026-10-19 16:37"
   },
   {
     "source": "NHK",
-    "title": "木原長官 G7オンライン会議首相欠席“直前決定で準備整わず”",
+    "title": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
     "title_en": "",
-    "summary": "高市総理大臣がG7のオンライン首脳会議を欠席し、外務審議官が代理で出席した。官房長官によると、会議の開催が直前に決定されたため、十分な準備ができなかったという。会議のテーマなども考慮された結果の欠席だと説明された。",
+    "summary": "自民党と維新の会の幹事長が会談し、食料品の消費税減税関連法案について今の国会での成立を目指す方針を確認しました。両党は、野党の意見を丁寧に聴き、協力を求める姿勢を示しました。法案は衆議院での審議に入ることとなります。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261016de60602",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261019de61585",
     "category": "その他",
-    "publishedAt": "2026-10-16 18:18"
+    "publishedAt": "2026-10-19 16:37"
   }
 ]
