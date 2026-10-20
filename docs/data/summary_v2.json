@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "ガートナーは、トークン価格が下がる中でエージェントコストが2028年までに5倍になると述べています。コストを抑える方法とは",
-    "title_en": "Gartner says agent costs will rise fivefold by 2028 even as tokens get cheaper. Here is how to keep them in check",
-    "summary": "トークン価格が下落しているにもかかわらず、ガートナーはAIエージェントのコストが2028年までに5倍になると予測しており、トークン価格の低下がAI費用を削減するという前提に対する挑戦となっています。このトレンドは、AI予算と戦略を計画している企業にとって重要です。",
-    "summary_en": "Despite declining token prices, Gartner predicts that AI agent costs will rise fivefold by 2028, challenging the assumption that lower token prices will reduce AI expenses. This trend is significant for enterprises planning their AI budgets and strategies.",
-    "link": "https://venturebeat.com/orchestration/gartner-says-agent-costs-will-rise-fivefold-by-2028-even-as-tokens-get-cheaper-here-is-how-to-keep-them-in-check",
+    "title": "DeepSeek-V4.1-Flash-1017が性能向上のベンチマークを携えて登場、米政府は機関からの使用を禁止 — 企業が取るべき対策",
+    "title_en": "DeepSeek-V4.1-Flash-1017 arrives with improved benchmarks just as the U.S. government bans it from agencies — what enterprises should do",
+    "summary": "コストパフォーマンスと性能で高く評価されているDeepSeekのオープンソースAIモデルが、米国の政府機関から使用禁止の措置を受けています。この重大な制限は、革新的なAIソリューションを導入しようとする企業にとって懸念材料となっています。",
+    "summary_en": "DeepSeek's open source AI models, praised for their cost-effectiveness and performance, are facing a ban from U.S. government agencies. This significant restriction raises concerns for businesses looking to adopt innovative AI solutions.",
+    "link": "https://venturebeat.com/security/deepseek-v4-1-flash-1017-arrives-with-improved-benchmarks-just-as-the-u-s-government-bans-it-from-agencies-what-enterprises-should-do",
     "category": "AI",
-    "publishedAt": "2026-10-19 16:37"
+    "publishedAt": "2026-10-20 17:10"
   },
   {
     "source": "VentureBeat",
-    "title": "新しいフレームワークがAIモデルに相互の推論を監査し修正させ、精度を向上させることを可能にします",
-    "title_en": "A new framework teaches AI models to audit and repair each other’s reasoning, improving accuracy",
-    "summary": "新しいフレームワークが開発され、AIモデルが互いの推論を監査し修正することを可能にし、企業のマルチエージェントワークフローにおける精度を向上させます。この革新は、複雑な問題を扱う際の従来の硬直したパイプラインや投票メカニズムの限界に対処しています。",
-    "summary_en": "A new framework has been developed to enable AI models to audit and repair each other's reasoning, improving accuracy in enterprise multi-agent workflows. This innovation addresses the limitations of traditional rigid pipelines and voting mechanisms in handling complex problems.",
-    "link": "https://venturebeat.com/orchestration/a-new-framework-teaches-ai-models-to-audit-and-repair-each-others-reasoning-improving-accuracy",
+    "title": "Fal.ai、FLUX 3 Maxを発表—Seedance 2.5よりも22倍高速なAI動画生成を主張",
+    "title_en": "fal launches FLUX 3 Max, claiming 22× faster AI video generation than Seedance 2.5",
+    "summary": "Fal.aiは、ブラックフォレストラボと共同でFLUX 3 Maxを発表しました。これは、高品質なAI映像の迅速な生成と修正を可能にする新しい動画モデルです。この技術は、マルチメディア制作の効率を大幅に向上させ、専門家にとってさらに実用的になる可能性があります。",
+    "summary_en": "Fal.ai launched FLUX 3 Max in collaboration with Black Forest Labs, a new video model aimed at enabling rapid generation and revision of high-quality AI footage. This technology could significantly enhance multimedia creation efficiency, making it more practical for professionals.",
+    "link": "https://venturebeat.com/technology/fal-launches-flux-3-max-claiming-22-faster-ai-video-generation-than-seedance-2-5",
     "category": "AI",
-    "publishedAt": "2026-10-19 16:37"
+    "publishedAt": "2026-10-20 17:10"
   },
   {
     "source": "NHK",
-    "title": "三菱電機 自動車部品子会社にホンハイの出資受け入れで会見",
+    "title": "首都圏新築マンション平均価格 上半期として初の1億円超え",
     "title_en": "",
-    "summary": "三菱電機は、自動車部品を扱う子会社に台湾のホンハイ精密工業からの1150億円の出資を受け入れ、折半出資の合弁会社を設立することで合意した。これにより、両社はEV関連事業などの競争力を強化する意向を示している。加賀邦彦副社長は、この合弁が将来的なビジネス拡大につながると期待している。",
+    "summary": "今年度上半期に首都圏の1都3県で販売された新築マンションの平均価格が1億1400万円を超え、初めて1億円台に達しました。この価格上昇は、需要の高まりと供給の制約によるものと考えられています。今後の市場動向については、さらなる価格上昇の可能性が示唆されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261019de61602",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261020de62252",
     "category": "経済",
-    "publishedAt": "2026-10-19 16:37"
+    "publishedAt": "2026-10-20 17:10"
   },
   {
     "source": "BBC",
-    "title": "フランス政府、週末の広範な暴力事件を受け圧力を受ける",
-    "title_en": "France's government under pressure after weekend of widespread violence",
-    "summary": "フランスでは、生活費の高騰や公共サービスの悪化に対する抗議活動の最中に暴動が発生しました。この騒乱は、政府の政策に対する市民の間の大きな政治的緊張と不満を浮き彫りにしています。",
-    "summary_en": "Rioting erupted in France amid protests focused on the rising cost of living and deteriorating public services. This unrest highlights significant political tension and dissatisfaction among the populace towards government policies.",
-    "link": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+    "title": "フランスの都市、暴力を抑えるために課された夜間外出禁止令の後、静けさを取り戻すと首相が発表",
+    "title_en": "French cities calm overnight after curfews imposed to quell violence, PM says",
+    "summary": "セバスティアン・ルコルヌ首相は、必要に応じて火曜日の夜に新たな外出禁止令が実施されることを発表しました。この決定は、公共の安全に関する懸念への対応を反映しています。",
+    "summary_en": "Sébastien Lecornu announced that new curfews would be implemented on Tuesday night as deemed necessary. This decision reflects ongoing efforts to address public safety concerns.",
+    "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-19 16:37"
+    "publishedAt": "2026-10-20 17:10"
   },
   {
     "source": "NHK",
-    "title": "自民 維新幹部 消費税減税法案 今国会成立へ 野党の協力求める",
+    "title": "高市首相 国連難民高等弁務官と会談 緊密連携で難民支援",
     "title_en": "",
-    "summary": "自民党と維新の会の幹事長が会談し、食料品の消費税減税関連法案について今の国会での成立を目指す方針を確認しました。両党は、野党の意見を丁寧に聴き、協力を求める姿勢を示しました。法案は衆議院での審議に入ることとなります。",
+    "summary": "高市総理大臣は、訪日中の国連難民高等弁務官と会談し、難民支援の強化に向けた協力を確認しました。両者は緊密な連携を通じて、難民に対する支援体制の強化を目指す意向を表明しました。この取り組みは、日本が国際的な難民問題により積極的に関与する姿勢を示すものであるといえます。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261019de61585",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261020de62261",
     "category": "その他",
-    "publishedAt": "2026-10-19 16:37"
+    "publishedAt": "2026-10-20 17:10"
   }
 ]
