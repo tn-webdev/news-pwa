@@ -1,52 +1,52 @@
 [
   {
     "source": "VentureBeat",
-    "title": "DeepSeek-V4.1-Flash-1017が性能向上のベンチマークを携えて登場、米政府は機関からの使用を禁止 — 企業が取るべき対策",
-    "title_en": "DeepSeek-V4.1-Flash-1017 arrives with improved benchmarks just as the U.S. government bans it from agencies — what enterprises should do",
-    "summary": "コストパフォーマンスと性能で高く評価されているDeepSeekのオープンソースAIモデルが、米国の政府機関から使用禁止の措置を受けています。この重大な制限は、革新的なAIソリューションを導入しようとする企業にとって懸念材料となっています。",
-    "summary_en": "DeepSeek's open source AI models, praised for their cost-effectiveness and performance, are facing a ban from U.S. government agencies. This significant restriction raises concerns for businesses looking to adopt innovative AI solutions.",
-    "link": "https://venturebeat.com/security/deepseek-v4-1-flash-1017-arrives-with-improved-benchmarks-just-as-the-u-s-government-bans-it-from-agencies-what-enterprises-should-do",
+    "title": "AIエージェントが最小特権の原則を試す時が来た",
+    "title_en": "AI agents are about to put least privilege to the test",
+    "summary": "AIエージェントがサイバーセキュリティにおける最小特権の原則に挑戦しようとしており、データへのアクセスおよび整合性に関する懸念が高まっています。この進展は技術者やセキュリティ専門家を巻き込み、AIの能力が進化する中で堅牢なセキュリティ対策の必要性を強調しています。",
+    "summary_en": "AI agents are poised to challenge the principle of least privilege in cybersecurity, raising concerns about data access and integrity. This development involves technologists and security professionals, emphasizing the need for robust security measures as AI capabilities evolve.",
+    "link": "https://venturebeat.com/security/ai-agents-are-about-to-put-least-privilege-to-the-test",
     "category": "AI",
-    "publishedAt": "2026-10-20 17:10"
+    "publishedAt": "2026-10-21 16:16"
   },
   {
     "source": "VentureBeat",
-    "title": "Fal.ai、FLUX 3 Maxを発表—Seedance 2.5よりも22倍高速なAI動画生成を主張",
-    "title_en": "fal launches FLUX 3 Max, claiming 22× faster AI video generation than Seedance 2.5",
-    "summary": "Fal.aiは、ブラックフォレストラボと共同でFLUX 3 Maxを発表しました。これは、高品質なAI映像の迅速な生成と修正を可能にする新しい動画モデルです。この技術は、マルチメディア制作の効率を大幅に向上させ、専門家にとってさらに実用的になる可能性があります。",
-    "summary_en": "Fal.ai launched FLUX 3 Max in collaboration with Black Forest Labs, a new video model aimed at enabling rapid generation and revision of high-quality AI footage. This technology could significantly enhance multimedia creation efficiency, making it more practical for professionals.",
-    "link": "https://venturebeat.com/technology/fal-launches-flux-3-max-claiming-22-faster-ai-video-generation-than-seedance-2-5",
+    "title": "AIエージェントの拡張には三つの要素が必要です：インベントリ、契約、維持されたコンテキスト",
+    "title_en": "Scaling AI agents requires three things: Inventory, contracts and maintained context",
+    "summary": "CollibraのCEO、フェリックス・ヴァン・デ・マーレは、VentureBeat AI Weekで、企業が適切な監視なしにより多くのAIエージェントを導入する際に、重大なリスクとコストに直面していると指摘しました。彼は、エージェントの数が増加するにあたり、ビジネスコンテキストに関連する失敗を防ぐために、エージェントの行動に対する決定的なコントロールが必要であると強調しました。",
+    "summary_en": "Felix Van de Maele, CEO of Collibra, highlights at VentureBeat AI Week that enterprises face significant risks and costs as they deploy more AI agents without proper oversight. He emphasizes the need for deterministic controls on agent behavior to prevent failures linked to business context as agent counts increase.",
+    "link": "https://venturebeat.com/orchestration/scaling-ai-agents-requires-three-things-inventory-contracts-and-maintained-context",
     "category": "AI",
-    "publishedAt": "2026-10-20 17:10"
+    "publishedAt": "2026-10-21 16:16"
   },
   {
     "source": "NHK",
-    "title": "首都圏新築マンション平均価格 上半期として初の1億円超え",
+    "title": "【きょうのおはBiz 10月21日(水)】SNS活用で販路拡大 韓国農家",
     "title_en": "",
-    "summary": "今年度上半期に首都圏の1都3県で販売された新築マンションの平均価格が1億1400万円を超え、初めて1億円台に達しました。この価格上昇は、需要の高まりと供給の制約によるものと考えられています。今後の市場動向については、さらなる価格上昇の可能性が示唆されています。",
+    "summary": "「おはBiz」で最近のビジネストレンドが報じられ、特にスタートアップ企業の活躍が注目されています。新たなお役立ちサービスが登場し、働き方の多様化が進行中であることが強調されています。これにより、企業は柔軟な働き方を取り入れつつ、競争力を維持している状況が示されています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261020de62252",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261021de62612",
     "category": "経済",
-    "publishedAt": "2026-10-20 17:10"
+    "publishedAt": "2026-10-21 16:16"
   },
   {
     "source": "BBC",
-    "title": "フランスの都市、暴力を抑えるために課された夜間外出禁止令の後、静けさを取り戻すと首相が発表",
-    "title_en": "French cities calm overnight after curfews imposed to quell violence, PM says",
-    "summary": "セバスティアン・ルコルヌ首相は、必要に応じて火曜日の夜に新たな外出禁止令が実施されることを発表しました。この決定は、公共の安全に関する懸念への対応を反映しています。",
-    "summary_en": "Sébastien Lecornu announced that new curfews would be implemented on Tuesday night as deemed necessary. This decision reflects ongoing efforts to address public safety concerns.",
-    "link": "https://www.bbc.co.uk/news/articles/cw5yn5e8mezvo?at_medium=RSS&at_campaign=rss",
+    "title": "米国の特使、プーチンとの会談前にロシアに到着 ゼレンスキーは情報共有が「機能している」と発言",
+    "title_en": "US envoy arrives in Russia ahead of meeting with Putin as Zelensky says intelligence sharing 'works now'",
+    "summary": "スティーブ・ウィトコフ氏は、ロシアとウクライナとの長期化した紛争を終わらせるための提案について議論するため、サンクトペテルブルクに到着しました。彼の関与は、戦争を解決しその地域的影響に対処するための継続的な外交努力を示しています。",
+    "summary_en": "Steve Witkoff is in St. Petersburg to discuss proposals aimed at ending the prolonged conflict between Russia and Ukraine. His involvement highlights ongoing diplomatic efforts to resolve the war and address its regional implications.",
+    "link": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
     "category": "その他",
-    "publishedAt": "2026-10-20 17:10"
+    "publishedAt": "2026-10-21 16:16"
   },
   {
     "source": "NHK",
-    "title": "高市首相 国連難民高等弁務官と会談 緊密連携で難民支援",
+    "title": "財務相 税率引き下げの財源\"社会保障に影響与えないよう確保\"",
     "title_en": "",
-    "summary": "高市総理大臣は、訪日中の国連難民高等弁務官と会談し、難民支援の強化に向けた協力を確認しました。両者は緊密な連携を通じて、難民に対する支援体制の強化を目指す意向を表明しました。この取り組みは、日本が国際的な難民問題により積極的に関与する姿勢を示すものであるといえます。",
+    "summary": "食料品の消費税減税関連法案が衆議院の財務金融委員会で審議を開始しました。質疑では、片山財務大臣が税率引き下げの財源について、社会保障に影響を与えないようにすることを強調しました。政府は、減税の実施に向けて具体的な財源の確保に取り組む姿勢を示しています。",
     "summary_en": "",
-    "link": "https://news.web.nhk/newsweb/na/nd-20261020de62261",
+    "link": "https://news.web.nhk/newsweb/na/nd-20261021de62724",
     "category": "その他",
-    "publishedAt": "2026-10-20 17:10"
+    "publishedAt": "2026-10-21 16:16"
   }
 ]
